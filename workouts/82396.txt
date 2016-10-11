@@ -1,0 +1,227 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Prater TC,90,40. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+2	60
+2	95
+3	95
+3	105
+3.5	105
+3.5	40
+6	40
+6	95
+7	95
+7	105
+7.5	105
+7.5	99
+8.5	99
+8.5	110
+9	110
+9	95
+10	95
+10	110
+10.5	110
+10.5	40
+11.5	40
+11.5	95
+12.5	95
+12.5	105
+13	105
+13	99
+14	99
+14	110
+14.5	110
+14.5	95
+15.5	95
+15.5	110
+16	110
+16	40
+19	40
+19	95
+20	95
+20	105
+20.5	105
+20.5	99
+21.5	99
+21.5	110
+22	110
+22	95
+23	95
+23	110
+23.5	110
+23.5	40
+24.5	40
+24.5	95
+25.5	95
+25.5	105
+26	105
+26	99
+27	99
+27	110
+27.5	110
+27.5	95
+28.5	95
+28.5	110
+29	110
+29	40
+30	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Prater, another twist on the tried & true over-under interval	8	0	0	72	16777215	10
+0	Using efforts that veer between slightly below & slightly above your FTP...	8	0	0	72	16777215	20
+0	we will build your ability to not only keep up during high-power surges...	8	0	0	72	16777215	30
+0	but help you become able to take pulls, attack & counter attacks	8	0	0	72	16777215	40
+0	When pushing hard, changes in pace can be tough	8	0	0	72	16777215	50
+0	Such surges can flood your muscles & make you want to quit...	8	0	0	72	16777215	60
+0	but "over-unders" familiarize you with this sort of pain...	8	0	0	72	16777215	70
+0	and ask you to maintain high levels of power in the process	8	0	0	72	16777215	80
+0	The meat of your warmup is just around the corner...	8	0	0	72	16777215	90
+0	and it's similar to the over-under efforts just ahead	8	0	0	72	16777215	100
+0	Bring your spin above 85rpm and keep it there as best you can	8	0	0	72	16777215	110
+120	Pick it up! Shoot for a spin above 85rpm the enitre time	8	0	0	72	16777215	0
+120	Try to also focus on smooth technique & belly-breathing	8	0	0	72	16777215	10
+120	Here comes the surge, bring your spin closer to 95rpm	8	0	0	72	16777215	50
+180	30 seconds with a quick but relaxed spin	5	0	0	72	16777215	0
+210	Alright, let those legs spin easy while you breathe deeply	8	0	0	72	16777215	0
+210	We have 2 reasonably challenging sets of intervals ahead	8	0	0	72	16777215	10
+210	You'll face a series of three 1-minute intervals at 95-99% of your FTP...	8	0	0	72	16777215	20
+210	and each of these "valleys" is immediately followed by a 30-second push as 105-110% FTP	8	0	0	72	16777215	30
+210	These surges can be tough when followed by no rest...	8	0	0	72	16777215	40
+210	but easy doesn't make fast, does it? ;-)	5	0	0	72	16777215	50
+210	Make sure you keep a high & consistent cadence during the intervals	8	0	0	72	16777215	120
+210	It's tempting to ease off the pedals after a surge but don't	8	0	0	72	16777215	130
+210	First interval coming up, get your cadence up	8	0	0	72	16777215	140
+360	Ramp it up!	5	0	0	72	16777215	0
+360	Good, now find your rhythm and hold this for a minute	8	0	0	72	16777215	10
+360	How's your cadence? Fast & light?	5	0	0	72	16777215	30
+360	How's your breathing? Strong & from the diaphragm?	5	0	0	72	16777215	40
+360	Here comes the first surge, just like taking a 30 second pull	8	0	0	72	16777215	50
+420	30 seconds with the same cadence	5	0	0	72	16777215	0
+450	Great job, now keep those legs spinning quickly	8	0	0	72	16777215	0
+450	Next surge is just a bit stronger...	5	0	0	72	16777215	40
+450	but if you focus on your form when things get tough...	8	0	0	72	16777215	47
+510	you'll sail right through this	5	0	0	72	16777215	0
+540	Here's the hardest part...	5	0	0	72	16777215	0
+540	NOT backing off when your muscles are screaming at you	8	0	0	72	16777215	7
+540	Third surge is coming up, breathe deeply & clear any residual burn	8	0	0	72	16777215	40
+540	Keep that cadence up	5	0	0	72	16777215	50
+600	More work but don't show it	5	0	0	72	16777215	0
+630	Awesome job! Time to recover but keep spinning	8	0	0	72	16777215	0
+630	Focus on your breathing & backpedal for 20-30 seconds if need be	8	0	0	72	16777215	10
+630	As you fatigue, make sure you're controlling your breathing...	8	0	0	72	16777215	20
+630	and that it's not the other way around	5	0	0	72	16777215	30
+630	Just because you're riding hard doesn't mean you need to breath hard	8	0	0	72	16777215	40
+630	So keep your breathing full & deep as often as possible	8	0	0	72	16777215	50
+690	Start off relaxed, do your best to stay that way	8	0	0	72	16777215	0
+690	Just like before, find your rhythm	5	0	0	72	16777215	10
+690	Think back to the last interval...	5	0	0	72	16777215	17
+690	anything you could have done better?	5	0	0	72	16777215	24
+690	Time to take a pull, make it pretty	5	0	0	72	16777215	53
+750	Just a little more effort, just as relaxed though	8	0	0	72	16777215	0
+780	Good! Keep your legs spinning & re-anchor your sit bones	8	0	0	72	16777215	0
+780	Sometimes after a surge it doesn't feel like it gets any easier...	8	0	0	72	16777215	10
+780	but don't talk yourself out of anything, you can do this	8	0	0	72	16777215	20
+780	Surge #2 coming right up, try to keep your spin steady	8	0	0	72	16777215	50
+840	Same spin, just a little more effort	5	0	0	72	16777215	0
+870	Nicely done, ease up but not very far	5	0	0	72	16777215	0
+870	Use this "valley" as an evaluation period	5	0	0	72	16777215	10
+870	Where are you positioned on your saddle?	5	0	0	72	16777215	17
+870	If you're hurting you may find yourself scooted too far forward	8	0	0	72	16777215	24
+870	If so, scoot back & relax, feel your sit bones contact the saddle	8	0	0	72	16777215	40
+870	Out of the valley & into the next surge, make it smooth	8	0	0	72	16777215	50
+930	If it helps, bring your spin up by 5-10rpm	5	0	0	72	16777215	0
+960	Well done! Time for a little extra recovery	8	0	0	72	16777215	0
+960	While keeping your legs spinning, let's dig into what this does to your body	8	0	0	72	16777215	10
+960	When riding close to your threshold, your body is on a verge	8	0	0	72	16777215	20
+960	Your FTP marks that point where...	8	0	0	72	16777215	30
+960	your muscles start to produce more byproduct than they can process	8	0	0	72	16777215	40
+960	Lactate is one byproduct but it's actually powerful fuel	8	0	0	72	16777215	50
+960	But too much of anything is a bad thing, so...	8	0	0	72	16777215	60
+960	these over-unders temporarily push your muscles over that limit...	8	0	0	72	16777215	70
+960	and then force you to struggle through the slow process of recovery	8	0	0	72	16777215	80
+960	When this happens, your body is learning to process more byproduct...	8	0	0	72	16777215	90
+960	while still maintaining a high level of intensity	5	0	0	72	16777215	100
+960	The result? A stronger, faster & more resilient you	5	0	0	72	16777215	110
+960	You'll be able to put in hard efforts over & over again without tiring so severely	8	0	0	72	16777215	120
+960	So when these get tough & then tougher, just know that you're getting tougher too	8	0	0	72	16777215	130
+960	Almost time for the next set of intervals, start picking up your spin	8	0	0	72	16777215	160
+1140	Here we go! Try to start off relaxed every time	8	0	0	72	16777215	0
+1140	Find that rhythm and let those legs spin with relaxed, low shoulders	8	0	0	72	16777215	10
+1140	Alright, first surge coming right up, try to hide the work	8	0	0	72	16777215	50
+1200	Kick & pull just a little harder	5	0	0	72	16777215	0
+1230	Nicely done! Now stay on top of your spin	5	0	0	72	16777215	0
+1230	And intermittently focus on what you can do better this time	8	0	0	72	16777215	7
+1230	Another surge on the horizon, get ready	8	0	0	72	16777215	50
+1290	Just a little more effort, same smooth pedalstroke	5	0	0	72	16777215	0
+1320	Hang in there, don't back off too far	5	0	0	72	16777215	0
+1320	Remember to spin quickly, lightly, and relax your arms	5	0	0	72	16777215	7
+1320	Each time you exhale, do it with power from your diaphragm	8	0	0	72	16777215	14
+1320	Surge in 10 seconds, spin a little quicker if that helps	8	0	0	72	16777215	50
+1380	If you can, get a little closer to your bike	5	0	0	72	16777215	0
+1410	Great job, make the most of your minute	5	0	0	72	16777215	0
+1410	Backpedal briefly if you need to but keep moving	5	0	0	72	16777215	7
+1410	Train your body to not just recover, but to recover quickly	8	0	0	72	16777215	12
+1410	Time for the last interval, make it the best looking one yet	8	0	0	72	16777215	50
+1470	Here we go, fourth & final round	5	0	0	72	16777215	0
+1470	Settle into your groove and ditch any unnecessary tension	8	0	0	72	16777215	7
+1470	Here comes the surge, stay just as relaxed	8	0	0	72	16777215	50
+1530	Pick up your spin a little as long as you don't bounce	8	0	0	72	16777215	0
+1560	Settle back in just below your FTP & ride off the burn	8	0	0	72	16777215	0
+1560	And keep that leg speed up	5	0	0	72	16777215	10
+1560	Think smooth, fast, powerful...smooth, fast, powerful	8	0	0	72	16777215	17
+1560	Time to take a pull, make it smooth & relaxed	8	0	0	72	16777215	50
+1620	Anchor your sit bones & pedal right through this	8	0	0	72	16777215	0
+1650	Only a couple left, be tough!	5	0	0	72	16777215	0
+1650	Take some time to evaluate your body positioning	8	0	0	72	16777215	10
+1650	Where are your hands? Always in the same place?	8	0	0	72	16777215	20
+1650	Probably on the tops, right? If so, try mixing it up...	8	0	0	72	16777215	30
+1650	Go to your hoods or your drops, positions you'll use outdoors	8	0	0	72	16777215	40
+1650	Time to push for 30 tough seconds...	5	0	0	72	16777215	50
+1710	but nothing you can't handle	5	0	0	72	16777215	0
+1740	Nicely done! Spin out the junk	5	0	0	72	16777215	0
+1740	You've just made yourself stronger, given proper recovery of course	8	0	0	72	16777215	10
+1740	So start kicking around your recovery plan now...	8	0	0	72	16777215	20
+1740	and that includes food, fluid & rest to name just a few components	8	0	0	72	16777215	30
+1740	We'll see ya next time!	5	0	0	72	16777215	40
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	1800	Workout
+120	180	Sweet Spot 1
+180	210	Threshold 1
+360	420	Sweet Spot 2
+420	450	Threshold 2
+450	510	Threshold 3
+510	540	VO2 Max 1
+540	600	Sweet Spot 3
+600	630	VO2 Max 2
+690	750	Sweet Spot 4
+750	780	Threshold 4
+780	840	Threshold 5
+840	870	VO2 Max 3
+870	930	Sweet Spot 5
+930	960	VO2 Max 4
+1140	1200	Sweet Spot 6
+1200	1230	Threshold 6
+1230	1290	Threshold 7
+1290	1320	VO2 Max 5
+1320	1380	Sweet Spot 7
+1380	1410	VO2 Max 6
+1470	1530	Sweet Spot 8
+1530	1560	Threshold 8
+1560	1620	Threshold 9
+1620	1650	VO2 Max 7
+1650	1710	Sweet Spot 9
+1710	1740	VO2 Max 8
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

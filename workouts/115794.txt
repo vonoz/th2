@@ -1,0 +1,296 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Goode 45,94,66. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	65
+3	81
+3.75	81
+3.75	91
+4.5	91
+4.5	100
+5.25	100
+5.25	44
+8.25	44
+8.25	105
+9.75	105
+9.75	50
+10	50
+10	110
+11	110
+11	50
+11.25	50
+11.25	120
+12.25	120
+12.25	40
+13.25	40
+13.25	120
+14.25	120
+14.25	50
+14.5	50
+14.5	110
+15.5	110
+15.5	50
+15.75	50
+15.75	105
+17.25	105
+17.25	40
+19.75	40
+19.75	110
+20.5	110
+20.5	40
+20.75	40
+20.75	110
+21.5	110
+21.5	40
+21.75	40
+21.75	120
+22.5	120
+22.5	40
+22.75	40
+22.75	120
+23.5	120
+23.5	40
+23.75	40
+23.75	130
+24.5	130
+24.5	40
+24.75	40
+24.75	130
+25.5	130
+25.5	40
+26.5	40
+26.5	130
+27.25	130
+27.25	40
+27.5	40
+27.5	130
+28.25	130
+28.25	40
+28.5	40
+28.5	120
+29.25	120
+29.25	40
+29.5	40
+29.5	120
+30.25	120
+30.25	40
+30.5	40
+30.5	110
+31.25	110
+31.25	40
+31.5	40
+31.5	110
+32.25	110
+32.25	40
+34.75	40
+34.75	105
+36.25	105
+36.25	50
+36.5	50
+36.5	110
+37.5	110
+37.5	50
+37.75	50
+37.75	120
+38.75	120
+38.75	40
+39.75	40
+39.75	120
+40.75	120
+40.75	50
+41	50
+41	110
+42	110
+42	50
+42.25	50
+42.25	105
+43.75	105
+43.75	40
+45	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Recovery is what today's workout is all about	8	0	0	72	16777215	1
+0	That may seem odd while looking at your screen...	8	0	0	72	16777215	10
+0	and seeing all of those big efforts ahead of you...	8	0	0	72	16777215	20
+0	but it's the space in between those efforts that counts	8	0	0	72	16777215	30
+0	Recovering in between hard VO2max efforts like this...	8	0	0	72	16777215	40
+0	takes focus, practice and time...and a strong aerobic system	8	0	0	72	16777215	50
+0	And after today's workout...	8	0	0	72	16777215	60
+0	you'll learn to not only ride hard...	8	0	0	72	16777215	70
+0	but to "recover hard" by making the most of limited rest	8	0	0	72	16777215	80
+0	We'll touch back in after your warmup	8	0	0	72	16777215	100
+180	85rpm or higher	5	0	0	72	16777215	0
+225	90rpm or higher	5	0	0	72	16777215	0
+270	95rpm or higher	5	0	0	72	16777215	0
+315	Let's talk about these varied VO2max efforts	8	0	0	72	16777215	10
+315	These high intensity intervals will push you to & beyond current "limits"	8	0	0	72	16777215	20
+315	This will exhaust your Anaerobic capacity/ability to operate on just sugar	8	0	0	72	16777215	30
+315	After your Anaerobic work capacity is exhausted by high intensities...	8	0	0	72	16777215	40
+315	your body will further & further fall back on its aerobic capabilities...	8	0	0	72	16777215	50
+315	or in other words, its ability to operate mostly on oxygen	8	0	0	72	16777215	60
+315	Anaerobic efforts can only carry you so far before they're depleted...	8	0	0	72	16777215	70
+315	but aerobic fitness can literally carry you for days	8	0	0	72	16777215	80
+315	The trick is to find the best balance between the two...	8	0	0	72	16777215	90
+315	based on the types of events in which you take part	8	0	0	72	16777215	100
+315	So how do VO2max efforts help build your fitness?	8	0	0	72	16777215	110
+315	By prolonging your body's ability to do more work aerobically	8	0	0	72	16777215	120
+315	How about the lack of sufficient recovery time?	8	0	0	72	16777215	130
+315	It will require a broad aerobic base, one that can process all the excess lactate	8	0	0	72	16777215	140
+315	Be warned, only the most aerobically fit riders...	8	0	0	72	16777215	150
+315	will survive this workout without reducing intensity or using occasional backpedals	8	0	0	72	16777215	160
+315	Stay as calm & relaxed as possible through and be tough!	8	0	0	72	16777215	170
+495	Here we go!	5	0	0	72	16777215	0
+495	Here's your longest stretch of the day, stay smooth	8	0	0	72	16777215	10
+495	Fast cadence & relaxed upper body	5	0	0	72	16777215	60
+495	Almost there, keep it up!	5	0	0	72	16777215	75
+585	Good! Now relax, relax, relax...	5	0	0	72	16777215	2
+585	but don't stop spinning!	5	0	0	72	16777215	9
+600	Back at it! Spin upwards of 85rpm	8	0	0	72	16777215	0
+600	30 more seconds of breathing fully & staying relaxed	8	0	0	72	16777215	30
+660	Exhale powerfully from your diaphragm and clear the junk	8	0	0	72	16777215	2
+675	One minute of work and then a more sufficient break	8	0	0	72	16777215	0
+735	Great job! Feel free to backpedal for 30-40 seconds if necessary	8	0	0	72	16777215	0
+735	In any case, keep your legs turning over	5	0	0	72	16777215	10
+735	From your head to your toes, relax your body	8	0	0	72	16777215	20
+735	Keep your legs spinning quickly & lightly...	8	0	0	72	16777215	30
+735	And breathe deeply from your abdomen	5	0	0	72	16777215	40
+735	10 more seconds and we'll work back out of this set	8	0	0	72	16777215	50
+795	In reverse order this time, lots of leg speed!	8	0	0	72	16777215	0
+855	Good! Now breathe deeply & drop your shoulders	8	0	0	72	16777215	2
+870	60 easier seconds this time, whip it back up!	8	0	0	72	16777215	0
+930	Good! Only one more effort slightly above your FTP	8	0	0	72	16777215	2
+945	Longest interval you'll face today, try to stay steady	8	0	0	72	16777215	0
+1035	Nicely done! Spin out the heaviness, slow your breathing	8	0	0	72	16777215	0
+1035	Next up we have something different	5	0	0	72	16777215	10
+1035	While the efforts may not be as long...	8	0	0	72	16777215	20
+1035	it's the combination of high intensity and limited recovery...	8	0	0	72	16777215	30
+1035	that spur the big training adaptations	8	0	0	72	16777215	40
+1035	So these efforts aren't as much about building peak power...	8	0	0	72	16777215	50
+1035	as they are about improving your ability to recover	8	0	0	72	16777215	60
+1035	Perhaps the most important thing to remember here?	8	0	0	72	16777215	70
+1035	Try to spin over 100rpm if possible...	8	0	0	72	16777215	80
+1035	as long as you don't bounce around in the saddle	8	0	0	72	16777215	90
+1035	If you find your cadence dropping, shift down & spin more quickly	8	0	0	72	16777215	100
+1035	In this case, it's better to keep cadence up with lower power...	8	0	0	72	16777215	110
+1035	than to maintain bigger power with a low cadence	8	0	0	72	16777215	120
+1035	Work through this first set with quick legs...	8	0	0	72	16777215	130
+1035	and do your best to keep it quick throughout the entire set	8	0	0	72	16777215	140
+1185	90-100rpm, right away	5	0	0	72	16777215	0
+1230	Keep turning those legs, no backpedaling	8	0	0	72	16777215	0
+1245	Again, 90rpm or higher	5	0	0	72	16777215	0
+1290	Still quick, strong exhales & a loose grip	8	0	0	72	16777215	0
+1305	Little more work but not much - no problem!	8	0	0	72	16777215	0
+1350	Spin through it	5	0	0	72	16777215	0
+1365	Hit it again, at least 90rpm	5	0	0	72	16777215	0
+1410	Don't stop spinning	5	0	0	72	16777215	0
+1425	Another bump up, keep it quick!	5	0	0	72	16777215	0
+1470	Pedal through it, almost time to rest	5	0	0	72	16777215	0
+1485	Last time, pretty as the first one	5	0	0	72	16777215	0
+1530	Well done! Make the most of this longer recovery	6	0	0	72	16777215	2
+1530	Try to relax while you spin, forward or backward	8	0	0	72	16777215	10
+1530	This time each effort will get less intense...	8	0	0	72	16777215	20
+1530	but it may not feel like it	5	0	0	72	16777215	30
+1530	So just remind yourself you've done this before...	8	0	0	72	16777215	40
+1530	and you can definitely do it again	5	0	0	72	16777215	50
+1590	Pick it up! At least 90rpm, no bouncing	8	0	0	72	16777215	0
+1635	Spin through it	5	0	0	72	16777215	0
+1650	Once more, keep it quick	5	0	0	72	16777215	0
+1695	Quick, light spin... and breeeeeathe	5	0	0	72	16777215	0
+1710	Where's your cadence at? Keep it above 90rpm	5	0	0	72	16777215	0
+1755	Hang in there, spin off the fatigue	5	0	0	72	16777215	0
+1770	Just one more of these, +90rpm	5	0	0	72	16777215	0
+1815	Keep your legs spinning	5	0	0	72	16777215	0
+1830	Remember, use the down arrow if your cadence is dropping...	8	0	0	72	16777215	0
+1830	or take a single, 10-second backspin	8	0	0	72	16777215	10
+1875	Keeeeeep spinning	5	0	0	72	16777215	0
+1890	Last time, just 45 seconds!	5	0	0	72	16777215	0
+1935	Nice job! Those are seriously tough efforts	6	0	0	72	16777215	2
+1935	Do everything you can to keep the workout intensity at 100%...	8	0	0	72	16777215	10
+1935	but if your form or cadence is suffering...	8	0	0	72	16777215	20
+1935	dial down the Workout Intensity by 5%	8	0	0	72	16777215	30
+1935	Never sacrifice form, no matter how fatigued or cross-eyed	8	0	0	72	16777215	40
+1935	Next up, we have the same set we started with	8	0	0	72	16777215	75
+1935	You've done this before, so you have course knowledge ;-)	8	0	0	72	16777215	85
+1935	You've also been through something arguably tougher since...	8	0	0	72	16777215	95
+1935	so believe in your ability, you've got this!	8	0	0	72	16777215	105
+2085	Pick it up & settle in	5	0	0	72	16777215	0
+2085	60 more seconds broken into 20-second segments if that helps	8	0	0	72	16777215	30
+2085	Another 20, limit your focus	5	0	0	72	16777215	50
+2085	Final 20 seconds, don't fade	5	0	0	72	16777215	70
+2175	"Recover hard", backspin for 10-15 seconds is encouraged	8	0	0	72	16777215	2
+2190	Harder this time, but shorter	5	0	0	72	16777215	0
+2190	Keep your quads light by kicking & pulling	8	0	0	72	16777215	10
+2190	Kick your toes over the top, pull your heels across the bottom	8	0	0	72	16777215	20
+2250	Take it easy but keep spinning	5	0	0	72	16777215	2
+2265	One hard minute & then you rest!	5	0	0	72	16777215	0
+2325	Great! Now rest as much as possible while still pedaling	6	0	0	72	16777215	2
+2325	Backpedal for as long as 30 seconds if need be	8	0	0	72	16777215	30
+2325	Make sure you finish up strong & keep your cadence up	8	0	0	72	16777215	40
+2325	If you need to drop the power, just tap that down arrow 3-5 times	8	0	0	72	16777215	80
+2385	Back at it again, +90rpm	5	0	0	72	16777215	0
+2445	Spin it out, the worst is behind you	5	0	0	72	16777215	2
+2460	60 seconds worth of work, 20 seconds at a time	8	0	0	72	16777215	0
+2460	Excellent, another 30, pretty seconds	5	0	0	72	16777215	20
+2460	Ride fluidly, no rocking or bouncing	5	0	0	72	16777215	27
+2460	Just 20 more seconds of focus & control	5	0	0	72	16777215	40
+2520	Nice! Almost there - spin lightly	5	0	0	72	16777215	2
+2535	90 seconds between you and sweet, sweet freedom	8	0	0	72	16777215	0
+2535	Keep whittling it down, 60 seconds left!	5	0	0	72	16777215	30
+2535	Make this final 40 seconds as smooth & controlled as the first	5	0	0	72	16777215	50
+2535	20 seconds of keeping it together, you got this!	5	0	0	72	16777215	70
+2625	Awesome work! That's a rough way to spend 45 minutes	6	0	0	72	16777215	2
+2625	Now go get some R&R and take it easy as much as possible	8	0	0	72	16777215	10
+2625	We'll see you next time	8	0	0	72	16777215	20
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	2700	Workout
+0	180	Endurance 1
+180	225	Tempo 1
+225	270	Sweet Spot 1
+270	315	Threshold 1
+315	495	Active Recovery 1
+495	585	Threshold 2
+585	600	Active Recovery 2
+600	660	VO2 Max 1
+660	675	Active Recovery 3
+675	735	VO2 Max 2
+795	855	VO2 Max 3
+855	870	Active Recovery 4
+870	930	VO2 Max 4
+930	945	Active Recovery 5
+945	1035	Threshold 3
+1185	1230	VO2 Max 5
+1245	1290	VO2 Max 6
+1305	1350	VO2 Max 7
+1365	1410	VO2 Max 8
+1425	1470	Anaerobic Capacity 1
+1485	1530	Anaerobic Capacity 2
+1590	1635	Anaerobic Capacity 3
+1650	1695	Anaerobic Capacity 4
+1710	1755	VO2 Max 9
+1770	1815	VO2 Max 10
+1830	1875	VO2 Max 11
+1890	1935	VO2 Max 12
+2085	2175	Threshold 4
+2175	2190	Active Recovery 6
+2190	2250	VO2 Max 13
+2250	2265	Active Recovery 7
+2265	2325	VO2 Max 14
+2385	2445	VO2 Max 15
+2445	2460	Active Recovery 8
+2460	2520	VO2 Max 16
+2520	2535	Active Recovery 9
+2535	2625	Threshold 5
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

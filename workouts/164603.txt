@@ -1,0 +1,232 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Stevens -2,88,90. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	76
+10	76
+10	96
+13	96
+13	10
+14	10
+14	50
+18.83	50
+18.83	70
+19	105
+19	105
+25	105
+25	40
+28.83	40
+28.83	70
+29	105
+29	105
+35	105
+35	40
+38.83	40
+38.83	70
+39	105
+39	105
+45	105
+45	40
+48.83	40
+48.83	70
+49	105
+49	105
+55	105
+55	40
+58.83	40
+58.83	70
+59	105
+59	105
+65	105
+65	50
+70	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Let's kick things off with about 20 minutes of warmup...	8	0	0	72	16777215	10
+0	using a quick, light spin over these first 5 minutes	8	0	0	72	16777215	20
+300	Ramp things up slightly & start to open your lungs a bit	8	0	0	72	16777215	0
+300	We recommend keeping your spin above 85rpm...	8	0	0	72	16777215	10
+300	quicker if you like, but probably no higher than 100rpm	8	0	0	72	16777215	20
+600	Final 3 minutes, right next to FTP	8	0	0	72	16777215	0
+600	Increase your spin to 90rpm or higher...	8	0	0	72	16777215	10
+600	if you're not already spinning that quickly	8	0	0	72	16777215	20
+600	Draw long, full belly-breaths...	8	0	0	72	16777215	30
+600	then completely & actively empty your lungs	8	0	0	72	16777215	40
+600	Make it an obvious & forceful push - clear them completely	8	0	0	72	16777215	50
+780	Good, feel free to backpedal for a minute...	8	0	0	72	16777215	0
+780	or come to a stop & sit up if you're using the LSCT warmup	8	0	0	72	16777215	10
+780	Or simply pedal really easy for a minute while you recover	8	0	0	72	16777215	20
+840	Stevens is the final workout in this 105% FTP trifecta...	8	0	0	72	16777215	0
+840	which have all aimed to increase your sustainable power	8	0	0	72	16777215	10
+840	You've been riding 5% above FTP for 6 minutes at a time...	8	0	0	72	16777215	20
+840	in order to achieve overload in the form of supra-Threshold power	8	0	0	72	16777215	30
+840	By riding above your current sustainable power output...	8	0	0	72	16777215	40
+840	both your body & your mind are learning to withstand this increase	8	0	0	72	16777215	50
+840	As your mind accepts this discomfort, your body adapts as well	8	0	0	72	16777215	60
+840	Your muscles are adapting to holding higher power...	8	0	0	72	16777215	70
+840	and this week they'll get to tack on another 6-minute effort	8	0	0	72	16777215	80
+840	Keep spinning quickly and breathing fully...	8	0	0	72	16777215	90
+840	and clear any heaviness inflicted by the warmup	8	0	0	72	16777215	100
+1130	Time to ramp into the first of today's 5 Threshold repeats	8	0	0	72	16777215	0
+1140	Again recall that these fall in the Threshold power zone...	8	0	0	72	16777215	0
+1140	but that they'll push you toward your VO2max power	8	0	0	72	16777215	10
+1140	So you're gonna use a LOT of air	8	0	0	72	16777215	20
+1140	So begin drawing full breaths with your belly...	8	0	0	72	16777215	30
+1140	and fully clearing those breaths with your diaphragm/navel	8	0	0	72	16777215	40
+1140	The better you breathe, the more effectively you'll avoid the burn	8	0	0	72	16777215	50
+1140	And while you know you'll face the burn at some point in each interval...	8	0	0	72	16777215	60
+1140	the better you breathe, the longer you can postpone its arrival	8	0	0	72	16777215	70
+1140	And when it creeps in, your breathing can keep that burn manageable	8	0	0	72	16777215	80
+1140	If you've yet to settle into your aero position...	8	0	0	72	16777215	180
+1140	get down there now & hold your power steady	8	0	0	72	16777215	190
+1140	Each week, keep growing your "aero time"...	8	0	0	72	16777215	200
+1140	because it's up to you to make sure you're increasing your time down low	8	0	0	72	16777215	210
+1140	We'll offer reminders, but getting low should be increasingly second nature	8	0	0	72	16777215	220
+1140	Each time you sink down there, keep your spin & power STEADY	8	0	0	72	16777215	230
+1140	Only 2 minutes to go! Relax, spin smoothly	8	0	0	72	16777215	240
+1140	Final minute, focus on keeping your form	8	0	0	72	16777215	300
+1140	Don't rock side to side - stay smooth & controlled...	8	0	0	72	16777215	310
+1140	and try to make the final minute as "pretty" as the first	8	0	0	72	16777215	320
+1500	Well done, sit up & catch your breath	8	0	0	72	16777215	0
+1500	And you're welcome to backpedal if necessary	8	0	0	72	16777215	10
+1500	Whatever you decide, make the most of your recovery time	8	0	0	72	16777215	20
+1730	Time to ramp into round 2!	8	0	0	72	16777215	0
+1740	As you adjust to the workload, try to settle on a cadence...	8	0	0	72	16777215	0
+1740	preferably one above 85rpm, but that's your call	8	0	0	72	16777215	10
+1740	but if you're set on keeping a slower, sub-85rpm..	8	0	0	72	16777215	20
+1740	recognize the muscular toll exacted by that slow, grinding spin	8	0	0	72	16777215	30
+1740	Unnecessarily stressing your muscles leaves the hearts/lungs undertasked	8	0	0	72	16777215	40
+1740	So if you spin slowly, we encourage you to shift some of the workload...	8	0	0	72	16777215	50
+1740	off of your legs and onto your heart & lungs	8	0	0	72	16777215	60
+1740	And this is as simple as gradually pushing your spin upward...	8	0	0	72	16777215	70
+1740	into the 85-95rpm range, maybe a bit higher	8	0	0	72	16777215	80
+1740	If you're starting well below 85rpm...	8	0	0	72	16777215	90
+1740	then it might take a while before you adapt to this quicker spin	8	0	0	72	16777215	100
+1740	But as you adjust, you'll notice how much fresher your legs remain...	8	0	0	72	16777215	110
+1740	which, again, is of particular concern for multisport athletes	8	0	0	72	16777215	120
+1740	Most riders who have to run right off the bike...	8	0	0	72	16777215	130
+1740	can attest to how costly a slow, grinding spin can be	8	0	0	72	16777215	140
+1740	Halfway there!	8	0	0	72	16777215	180
+1740	Ideally, you started this interval in your aero position...	8	0	0	72	16777215	190
+1740	and you're making sure to frequently fold in time down low	8	0	0	72	16777215	200
+1740	Shoot for at least 45 seconds at a time...	8	0	0	72	16777215	210
+1740	and include some aero time in each of today's intervals	8	0	0	72	16777215	220
+1740	2 minutes to go!	8	0	0	72	16777215	240
+1740	Still moving in & out of aero?	8	0	0	72	16777215	250
+1740	You don't have to stay there for the whole interval...	8	0	0	72	16777215	260
+1740	but every week should move you toward that goal	8	0	0	72	16777215	270
+1740	Practice, practice, PRACTICE riding in your aero tuck...	8	0	0	72	16777215	280
+1740	with the goal of holding power while aero for entire intervals	8	0	0	72	16777215	290
+1740	Final minute, pretty as the first	8	0	0	72	16777215	300
+2100	Well done, take a quick break	8	0	0	72	16777215	0
+2100	These are generous rests, soon to be shorter...	8	0	0	72	16777215	10
+2100	but only as your fitness improves over time	8	0	0	72	16777215	20
+2100	The objective is still  to increase your sustainable power...	8	0	0	72	16777215	30
+2100	and also to increase the length of time you can hold that power	8	0	0	72	16777215	40
+2100	So as you get fitter & faster, your intervals will get longer...	8	0	0	72	16777215	50
+2100	and your recoveries will get shorter	8	0	0	72	16777215	60
+2100	But again, you'll be ready for it when it happens	8	0	0	72	16777215	70
+2330	Time to ramp into your third interval of the day	8	0	0	72	16777215	0
+2340	Establish your cadence & try to hold it steady for the entire interval	8	0	0	72	16777215	0
+2340	Scrunch down into your aero position...	8	0	0	72	16777215	10
+2340	and see if you can hold THAT for the entire interval as well	8	0	0	72	16777215	20
+2340	Learning to hold your cadence while aero increases efficiency	8	0	0	72	16777215	30
+2340	Changing your spin often because you're not used to holding it while low...	8	0	0	72	16777215	40
+2340	is wasteful so find a "comfortably quick" cadence & try to stick to it...	8	0	0	72	16777215	50
+2340	even as the fatigue starts to work its way into your muscles	8	0	0	72	16777215	60
+2340	When race day rolls around, your spin will be ideal & automatic	8	0	0	72	16777215	70
+2340	You won't even have to think about it	8	0	0	72	16777215	80
+2340	And will be due to your diligent & frequent practice	8	0	0	72	16777215	90
+2340	Halfway there! Still keeping your cadence up?	8	0	0	72	16777215	180
+2340	How about aero time?	8	0	0	72	16777215	190
+2340	Keep holding that low position as long as you can	8	0	0	72	16777215	200
+2340	And don't neglect your breathing, especially as you fatigue	8	0	0	72	16777215	210
+2340	In fact, anytime you feel your legs start to fade...	8	0	0	72	16777215	220
+2340	check your breathing	8	0	0	72	16777215	230
+2340	Often enough, just focusing on the quality of your breathing...	8	0	0	72	16777215	240
+2340	can give your legs that little extra bit of strength they need	8	0	0	72	16777215	250
+2340	Not to mention, it's a positive distraction	8	0	0	72	16777215	260
+2340	Final minute, keep it together	8	0	0	72	16777215	300
+2340	30 seconds! Keep it pretty	8	0	0	72	16777215	330
+2340	Never use fatigue as an excuse to mentally check out	8	0	0	72	16777215	340
+2340	Just the opposite: more fatigued = more focused	8	0	0	72	16777215	350
+2700	Excellent, 3 in the bag	8	0	0	72	16777215	0
+2700	Spin off the heaviness, rekindle your spin if it slowed...	8	0	0	72	16777215	10
+2700	and bring your breathing & HR back down	8	0	0	72	16777215	20
+2930	Round #4, set your spin	8	0	0	72	16777215	0
+2940	And ease down into your aero position right away	8	0	0	72	16777215	0
+2940	How long you stay there is up to you...	8	0	0	72	16777215	10
+2940	but this should be an increasingly longer endeavor each time	8	0	0	72	16777215	20
+2940	If last week you stayed aero for 45 seconds each time...	8	0	0	72	16777215	30
+2940	this week shoot for 50-55, maybe 60 seconds each time	8	0	0	72	16777215	40
+2940	And make sure you can draw full, deep belly-breaths	8	0	0	72	16777215	50
+2940	If not, your position might be too severe too soon...	8	0	0	72	16777215	60
+2940	or you might simply be forgetting to breathe well	8	0	0	72	16777215	70
+2940	It's up to you to determine, but by focusing on your breathing...	8	0	0	72	16777215	80
+2940	you might be able to rule out one possibility	8	0	0	72	16777215	90
+2940	So breathe well, especially when you're trying to be "slippery"	8	0	0	72	16777215	100
+2940	If you can get enough air then it's just a matter of spending more time in aero	8	0	0	72	16777215	110
+2940	If you can't breathe well though, no matter how well you focus...	8	0	0	72	16777215	120
+2940	then keep making subtle changes to your bike fit	8	0	0	72	16777215	130
+2940	Halfway, get aero for 60 seconds	8	0	0	72	16777215	180
+2940	Sit up for 30 seconds if necessary	8	0	0	72	16777215	210
+2940	Switch position - if you were up, get down; if down, sit up for a few seconds	8	0	0	72	16777215	240
+2940	Ride upright if you need a break from aero	8	0	0	72	16777215	270
+2940	Final minute, come up only if you need a quick break	8	0	0	72	16777215	300
+2940	Final 30 seconds, stay low if you can keep your power	8	0	0	72	16777215	330
+3300	Well done, 24 minutes above FTP behind ya	8	0	0	72	16777215	0
+3300	Spin lightly, backpedal, stretch... whatever suits you	8	0	0	72	16777215	10
+3530	Time to ramp into your final interval	8	0	0	72	16777215	0
+3540	Set your cadence & get low right away	8	0	0	72	16777215	0
+3540	Let's add some quadrant drills to help pass the time	8	0	0	72	16777215	30
+3540	For 30 seconds at a time, give a little extra focus...	8	0	0	72	16777215	40
+3540	to only one segment of your pedalstroke, both legs	8	0	0	72	16777215	50
+3540	Pull your feet lightly backward each time they hit bottom	8	0	0	72	16777215	60
+3540	Feel your calves & hamstrings engage lightly	8	0	0	72	16777215	70
+3540	Switch your focus to lifting your knees upward	8	0	0	72	16777215	90
+3540	Use the "upstroke" to unweight your quads briefly	8	0	0	72	16777215	100
+3540	Now lightly kick your toes over the top of the pedalstroke	8	0	0	72	16777215	120
+3540	And now just drive your feet straight down...	8	0	0	72	16777215	150
+3540	but thinking of doing it with your knees	8	0	0	72	16777215	160
+3540	Good, take a full minute to pedal without thinking	8	0	0	72	16777215	180
+3540	Just stay smooth, relaxed & aero	8	0	0	72	16777215	190
+3540	2 minutes to go, 30 seconds of right-leg focus	8	0	0	72	16777215	240
+3540	Just feel your right leg all the way around the pedalstroke	8	0	0	72	16777215	250
+3540	Switch your focus to your left leg	8	0	0	72	16777215	270
+3540	Final minute! Make sure you're aero	8	0	0	72	16777215	300
+3540	30 seconds to breathe really well...	8	0	0	72	16777215	330
+3540	forcefully clearing your lungs each time you breathe out	8	0	0	72	16777215	340
+3900	Yet another great job, spin out the fatigue	8	0	0	72	16777215	0
+3900	By now you've felt how very depleting these efforts can be...	8	0	0	72	16777215	60
+3900	so start to plan your recovery nutrition...	8	0	0	72	16777215	70
+3900	or even start taking some on-board if it's handy...	8	0	0	72	16777215	80
+3900	and we'll see you next time	8	0	0	72	16777215	90
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	4200	Workout
+300	600	Tempo 1
+600	780	Threshold 1
+1130	1140	Sweet Spot 1
+1140	1500	Threshold 2
+1730	1740	Sweet Spot 2
+1740	2100	Threshold 3
+2330	2340	Sweet Spot 3
+2340	2700	Threshold 4
+2930	2940	Sweet Spot 4
+2940	3300	Threshold 5
+3530	3540	Sweet Spot 5
+3540	3900	Threshold 6
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

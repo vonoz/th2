@@ -1,0 +1,222 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Tinemaha,93,87. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	65
+5	110
+6	110
+6	50
+7	50
+7	120
+8	120
+8	50
+9	50
+9	130
+10	130
+10	60
+15	60
+15	130
+17	130
+17	50
+19	50
+19	140
+21	140
+21	50
+23	50
+23	130
+25	130
+25	50
+27	50
+27	140
+29	140
+29	60
+37	60
+37	99
+39	99
+39	110
+40	110
+40	50
+43	50
+43	99
+45	99
+45	110
+46	110
+46	50
+49	50
+49	99
+51	99
+51	110
+52	110
+52	50
+55	50
+55	99
+57	99
+57	110
+58	110
+58	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Tinemaha, one of only a couple Century plan combination workouts...	8	0	0	72	16777215	10
+0	mixing VO2max repeats with over-under intervals into a well-rounded maintenance workout	8	0	0	72	16777215	20
+0	With just enough work to help you retain your fitness...	8	0	0	72	16777215	30
+0	but not so much to prevent recovery or slow your training adaptation...	8	0	0	72	16777215	40
+0	you'll "practice" enough aerobic power & muscle endurance to keep you sharp	8	0	0	72	16777215	50
+0	At least that's the idea, but as your event draws nearer you may find...	8	0	0	72	16777215	60
+0	the need to further trim this workout down via our custom Workout Creator...	8	0	0	72	16777215	70
+0	by reducing the Workout Intensity or simply by backpedaling at key points in the intervals	8	0	0	72	16777215	80
+0	More on this later, for now continue to warm with a quick & light spin	8	0	0	72	16777215	90
+300	Wind it up without bouncing in the saddle & breathe with your belly	8	0	0	72	16777215	0
+300	Also, make sure both of your sit bones are firmly grounded on your saddle	8	0	0	72	16777215	10
+360	Back down the power but keep your legs pretty quick, lots of control	8	0	0	72	16777215	0
+360	And each time you back off, do your best not to lose control of your spin	8	0	0	72	16777215	10
+360	Anticipate the change in power output by modifying your cadence quickly...	8	0	0	72	16777215	20
+360	along with well-timed gearing changes...	8	0	0	72	16777215	30
+360	or changes in rpm if you're on an electronic trainer in Erg mode	8	0	0	72	16777215	40
+360	Pick things up again trying to find a fast but sustainable spin	8	0	0	72	16777215	50
+420	Quick legs, calm upper body	5	0	0	72	16777215	0
+480	Ditch the power but keep your legs moving comfortably quickly	8	0	0	72	16777215	0
+480	One more time, wind it up and draw full belly-breaths	8	0	0	72	16777215	50
+540	Shoot for a spin above 100rpm while staying smooth & relaxed	8	0	0	72	16777215	0
+540	Find a spin that's quick but repeatable & controllable over multi-minute durations	8	0	0	72	16777215	10
+540	In other words, no bouncing & no fading	5	0	0	72	16777215	20
+600	Take it easy and flush any burn by breathing deeply & strongly	8	0	0	72	16777215	0
+600	Use forceful exhales to bring your breathing back down & clear the waste	8	0	0	72	16777215	10
+600	Keep things light & steady for 5 more minutes...	8	0	0	72	16777215	180
+600	and see to it that your sit bones remain anchored the entire time	8	0	0	72	16777215	190
+600	Even if you drop into an aero position, sit bones stay glued to the saddle	8	0	0	72	16777215	200
+600	First of four intervals is just around the corner, make sure you're spinning...	8	0	0	72	16777215	240
+600	above 85rpm and working toward a much quicker spin near 100rpm	8	0	0	72	16777215	250
+600	As you know very well by now, VO2max repeats are combinations of speed & air	8	0	0	72	16777215	260
+600	In particular, leg speed & ample oxygen delivered to the working muscles	8	0	0	72	16777215	270
+600	So not only should you favor a quicker, lighter spin, but your breathing...	8	0	0	72	16777215	280
+600	is a crucial factor in the successful completion of these short, demanding efforts	8	0	0	72	16777215	290
+900	Start quick & relaxed, stay that way	5	0	0	72	16777215	0
+900	Next 30 seconds of focus & form	5	0	0	72	16777215	30
+900	Next 30, check your sit bones & drop your shoulders	8	0	0	72	16777215	60
+900	Final 30 seconds, take them 10 at a time	5	0	0	72	16777215	90
+900	Hold your leg speed for another 10 seconds	5	0	0	72	16777215	100
+900	Final 10 seconds, don't let your form slip	5	0	0	72	16777215	110
+1020	Excellent! Ease up & make the most of this quick minute	8	0	0	72	16777215	0
+1020	If you're scaling the workout down today, now's the time to make intensity changes	8	0	0	72	16777215	10
+1020	Get ready to do it again, ramp up that cadence	8	0	0	72	16777215	40
+1020	Drop your shoulders, loosen your grip, anchor your hips	8	0	0	72	16777215	50
+1140	Relax and keep your legs quick & fluid	5	0	0	72	16777215	0
+1140	Good, keep it smooth & relaxed for another 30	5	0	0	72	16777215	30
+1140	Another minute, just focus on this 30 seconds though	5	0	0	72	16777215	60
+1140	Hang in there, 10 seconds at a time	5	0	0	72	16777215	90
+1140	Drop your shoulders, quiet your hips, 10 seconds	5	0	0	72	16777215	100
+1140	Final 10, make each second count!	5	0	0	72	16777215	110
+1260	Well done, time for a minute of easy spinning	8	0	0	72	16777215	0
+1260	Try to take long, steady breaths & drop your HR more quickly	8	0	0	72	16777215	10
+1260	Just about time to do it again, start picking it up	8	0	0	72	16777215	30
+1260	With such short recoveries, you'll really exploit your aerobic capabilities...	8	0	0	72	16777215	40
+1260	because it takes a very fit rider to go again & again with such little recovery	5	0	0	72	16777215	50
+1380	As you settle in, make your breaths full & powerful	5	0	0	72	16777215	0
+1380	Keep those big belly-breaths comin' & stay quick	5	0	0	72	16777215	30
+1380	Final minute of the interval, stay tough!	5	0	0	72	16777215	60
+1380	10 seconds at a time, keep your leg speed!	5	0	0	72	16777215	90
+1380	Keep that cadence & stay as relaxed as you can	5	0	0	72	16777215	100
+1380	Strong breaths, strong legs, strong finish!	5	0	0	72	16777215	110
+1500	Ease up but keep your legs ticking along, no time to backpedal today	8	0	0	72	16777215	0
+1500	Final round in 30 seconds, make sure your spin is light & quick	8	0	0	72	16777215	30
+1500	You have a relatively long recovery stretch ahead, so don't hold back	8	0	0	72	16777215	40
+1500	So be quick, relaxed & FOCUSED one last time	8	0	0	72	16777215	50
+1620	Controlled speed & steady power, 30 seconds	5	0	0	72	16777215	0
+1620	First 30 behind you, stay on top of your breathing	5	0	0	72	16777215	30
+1620	First minute done & dusted, get in another smoooooth 30 seconds	8	0	0	72	16777215	60
+1620	Final thirty, 10 seconds of focus at a time	5	0	0	72	16777215	90
+1620	Good, another 10 seconds of being tough!	5	0	0	72	16777215	100
+1620	Final 10 seconds, not a second less!	5	0	0	72	16777215	110
+1740	Excellent, back way off but keep your legs turning forward for a couple minutes	8	0	0	72	16777215	0
+1740	Often the desire to backpedal fades...	8	0	0	72	16777215	10
+1740	if you make yourself ride for a couple easy minutes	8	0	0	72	16777215	20
+1740	As you do, keep your spin reasonably quick, at least 85rpm	8	0	0	72	16777215	30
+1740	Halfway through this recovery valley, if your legs haven't cleared yet...	8	0	0	72	16777215	240
+1740	feel free to backpedal a bit, but also consider why...	8	0	0	72	16777215	250
+1740	you're carrying so much fatigue, especially if you're very close to your event	8	0	0	72	16777215	260
+1740	It's tempting to cram as much training into the final weeks leading up to your event...	8	0	0	72	16777215	270
+1740	but there's little you can do now that will manifest inside of a couple weeks	8	0	0	72	16777215	280
+1740	Except for recovering & sharpening, that is	8	0	0	72	16777215	290
+1740	So in your final weeks, keep your workouts short, intense & with ample recovery...	8	0	0	72	16777215	300
+1740	such that each week leaves you feeling a little fresher than the one before	8	0	0	72	16777215	310
+1740	The idea is to arrive rested & ready and you won't do that...	8	0	0	72	16777215	320
+1740	if you're still burying yourself in the last couple weeks prior to your event	8	0	0	72	16777215	330
+1740	Time for some of the "friendliest" over-unders you've ever faced	8	0	0	72	16777215	450
+1740	No only are they short in duration, but the recovery valleys between them...	8	0	0	72	16777215	460
+1740	are equally as long as the work intervals	5	0	0	72	16777215	470
+2220	Keep your legs pretty quick & adjust to the workload	8	0	0	72	16777215	0
+2220	Another minute barely below your FTP, steady & relaxed	8	0	0	72	16777215	60
+2340	Time to push a bit harder, little more emphasis on your kick & pull	8	0	0	72	16777215	0
+2400	Nicely done, keep your legs turning & clear the heaviness	8	0	0	72	16777215	0
+2400	Just 30 seconds out, now's the time to make intensity changes...	8	0	0	72	16777215	150
+2400	if you feel a little fatigued or aren't recovering as well as you'd hoped	8	0	0	72	16777215	160
+2400	In any case, push your spin up above 85rpm if you aren't there already	8	0	0	72	16777215	170
+2580	Settle in with full belly-breaths right from the start	8	0	0	72	16777215	0
+2580	Don't let the work outrun your oxygen intake...	8	0	0	72	16777215	10
+2580	breathe fully & deliberately	5	0	0	72	16777215	20
+2580	Another minute of riding just below the point where you flood	8	0	0	72	16777215	60
+2580	Keep that accumulation at bay by pedaling quickly & breathing deeply	8	0	0	72	16777215	70
+2700	Time to get after that burn, work harder & flood your legs a little	8	0	0	72	16777215	0
+2700	Breathe through the burn & don't slow your spin even a little	8	0	0	72	16777215	30
+2760	Nicely done, halfway through this muscle endurance segment	8	0	0	72	16777215	0
+2760	Keep spinning for a minute, decide if you need to backpedal afterward	8	0	0	72	16777215	10
+2760	Round 3 up ahead, get your spin into that helpfully quick range	8	0	0	72	16777215	150
+2760	As you drum up your cadence, get progressively more relaxed...	8	0	0	72	16777215	160
+2760	spinning more quickly as the tension leaves your body	8	0	0	72	16777215	170
+2940	Two minutes of breathing fully enough to keep your legs from welling up	8	0	0	72	16777215	0
+2940	Another minute, staying properly relaxed?	5	0	0	72	16777215	60
+2940	Keep your shoulders low & loose, don't strain the back of your neck...	5	0	0	72	16777215	70
+2940	and just hang your body on the bars, let your hips & legs carry your weight	5	0	0	72	16777215	77
+3060	As you ramp up your power, try to hide the change in effort	8	0	0	72	16777215	0
+3060	Don't give anything away, don't SHOW that you're working any harder	8	0	0	72	16777215	10
+3060	30 more seconds of riding so smoothly you look bored ;-)	8	0	0	72	16777215	30
+3120	Excellent, ease off the gas but keep your legs turning forward	8	0	0	72	16777215	0
+3120	Need some fuller recovery to get ready for the final round?	8	0	0	72	16777215	60
+3120	If so, backpedal for 20-30 seconds while you breathe deeply	8	0	0	72	16777215	70
+3120	Last go-round just ahead, spin quickly & lightly	8	0	0	72	16777215	150
+3120	Try to ditch any unnecessary tension before the work sets in...	8	0	0	72	16777215	160
+3120	then keep that relaxed state as the workload kicks up	8	0	0	72	16777215	170
+3300	Ever so smoothly, find your Target Power right away	8	0	0	72	16777215	0
+3300	Keep your sit bones anchored, no rocking side to side	8	0	0	72	16777215	10
+3300	Another minute just below your FTP, loosen your grip & soften your elbows	8	0	0	72	16777215	60
+3420	Again, hide the effort and make this look as smooth as possible	8	0	0	72	16777215	0
+3420	30 more seconds of hiding the effort, staying relaxed	8	0	0	72	16777215	30
+3480	Really well done, spin out the fatigue as you gradually cool down	8	0	0	72	16777215	0
+3480	As you clear the heaviness & slow your breathing...	8	0	0	72	16777215	10
+3480	start thinking about your recovery nutrition & even your next workout	8	0	0	72	16777215	20
+3480	Fuel appropriately, rest as much as your day will allow...	8	0	0	72	16777215	30
+3480	and we'll see you next time	8	0	0	72	16777215	40
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+300	360	VO2 Max 1
+420	480	VO2 Max 2
+540	600	Anaerobic Capacity 1
+600	900	Endurance 1
+900	1020	Anaerobic Capacity 2
+1140	1260	Anaerobic Capacity 3
+1380	1500	Anaerobic Capacity 4
+1620	1740	Anaerobic Capacity 5
+1740	2220	Endurance 2
+2220	2340	Threshold 1
+2340	2400	VO2 Max 3
+2580	2700	Threshold 2
+2700	2760	VO2 Max 4
+2940	3060	Threshold 3
+3060	3120	VO2 Max 5
+3300	3420	Threshold 4
+3420	3480	VO2 Max 6
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

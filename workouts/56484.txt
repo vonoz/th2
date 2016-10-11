@@ -1,0 +1,458 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = 2014 8DC - Stage 7,97,110. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	54
+4.2	64
+4.2	65
+4.36	105
+4.36	105
+5.36	106
+5.36	72
+5.85	72
+5.85	76
+6.01	110
+6.01	110
+7.01	112
+7.01	25
+7.43	72
+7.43	72
+11.06	91
+11.06	91
+13.65	87
+13.65	87
+17.06	94
+17.06	94
+19.06	89
+19.06	89
+19.48	130
+19.48	140
+19.65	140
+19.65	20
+20.06	82
+20.06	82
+21.73	94
+21.73	94
+25.4	92
+25.4	92
+29.06	97
+29.06	97
+29.56	145
+29.56	145
+30.06	145
+30.06	40
+30.48	55
+30.48	55
+32.9	62
+32.9	62
+33.81	90
+33.81	90
+38.31	94
+38.31	94
+41.98	88
+41.98	88
+42.48	130
+42.48	145
+42.98	145
+42.98	40
+43.4	70
+43.4	70
+46.23	80
+46.23	80
+46.4	110
+46.4	130
+47.31	110
+47.31	65
+47.65	85
+47.65	85
+50.7	88
+50.7	88
+51.11	130
+51.11	150
+51.25	150
+51.25	74
+51.66	89
+51.66	143
+51.75	143
+51.75	85
+51.96	85
+51.96	148
+52.05	148
+52.05	95
+52.36	95
+52.36	138
+52.45	138
+52.45	85
+52.7	85
+52.7	143
+52.78	143
+52.78	80
+52.96	80
+52.96	153
+53.05	153
+53.05	88
+53.46	88
+53.46	143
+53.55	143
+53.55	78
+53.93	78
+53.93	137
+54.01	137
+54.01	85
+54.23	85
+54.23	142
+54.31	142
+54.31	95
+54.63	95
+54.63	132
+54.71	132
+54.71	85
+54.96	85
+54.96	137
+55.05	137
+55.05	80
+55.23	80
+55.23	147
+55.31	147
+55.31	88
+55.73	88
+55.73	137
+55.81	137
+55.81	84
+56.23	84
+56.23	150
+56.31	150
+56.31	91
+56.53	91
+56.53	155
+56.61	155
+56.61	101
+56.93	101
+56.93	145
+57.01	145
+57.01	91
+57.26	91
+57.26	150
+57.35	150
+57.35	86
+57.53	86
+57.53	148
+57.61	148
+57.61	94
+58.03	94
+58.03	150
+58.11	150
+58.11	84
+58.5	84
+58.5	144
+58.58	144
+58.58	91
+58.8	91
+58.8	149
+58.88	149
+58.88	101
+59.2	101
+59.2	139
+59.28	139
+59.28	91
+59.53	91
+59.53	144
+59.61	144
+59.61	86
+59.8	86
+59.8	154
+59.88	154
+59.88	94
+60.3	94
+60.3	144
+60.38	144
+60.38	90
+60.8	90
+60.8	157
+60.88	157
+60.88	98
+61.1	98
+61.1	162
+61.18	162
+61.18	101
+61.5	101
+61.5	152
+61.58	152
+61.58	98
+61.83	98
+61.83	157
+61.91	157
+61.91	93
+62.1	93
+62.1	167
+62.18	167
+62.18	96
+62.6	96
+62.6	157
+62.68	157
+62.68	93
+63.06	93
+63.06	151
+63.15	151
+63.15	98
+63.36	98
+63.36	156
+63.45	156
+63.45	103
+63.76	103
+63.76	146
+63.85	146
+63.85	98
+64.1	98
+64.1	151
+64.18	151
+64.18	93
+64.36	93
+64.36	161
+64.45	161
+64.45	101
+64.86	101
+64.86	151
+64.95	151
+64.95	105
+65.36	125
+65.36	180
+65.5	180
+65.5	50
+70	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome back to 8DC on this our 7th & penultimate stage	8	0	0	72	16777215	10
+0	As a result of yesterday's heroics...	8	0	0	72	16777215	20
+0	we now find ourselves with a rider in the top-10	8	0	0	72	16777215	30
+0	Having a rider placed this highly in the General Classification...	8	0	0	72	16777215	40
+0	will affect our tactics but not our overall strategy	8	0	0	72	16777215	50
+0	Though a lofty objective, a high GC placing was our goal all along	8	0	0	72	16777215	60
+0	Having actually achieved it, we'll now devote ALL our resources...	8	0	0	72	16777215	70
+0	to preserving or even advancing your GC placing	8	0	0	72	16777215	80
+0	Today's stage features 2 climbs each with their own KOM's...	8	0	0	72	16777215	120
+0	and 2 sprints - 1 early in the stage prior to the climbs...	8	0	0	72	16777215	130
+0	and the other will kick off the finishing circuits...	8	0	0	72	16777215	140
+0	as today also includes a few laps downtown to close out the stage	8	0	0	72	16777215	150
+0	Roll easily for another minute, then we'll use these early rollers...	8	0	0	72	16777215	180
+0	to wake up the legs, get the blood really flowing & open the lungs	8	0	0	72	16777215	190
+252	Time to wind it up for a short, minute-long effort	8	0	0	72	16777215	0
+322	Quick downhill then we'll do that again	8	0	0	72	16777215	0
+351	Let's hit this one just a little harder, really blow out the cobwebs	8	0	0	72	16777215	0
+421	Good, take it easy and slip into the field toward the front...	8	0	0	72	16777215	0
+421	GC superstar ;)	5	0	0	72	16777215	10
+446	It's logical to assume that there won't be a GC shake-up today	8	0	0	72	16777215	0
+446	And while we can never safely assume anything in a bike race...	8	0	0	72	16777215	10
+446	we can at least predict likely outcomes	8	0	0	72	16777215	20
+446	With a long downhill into town after 2 comparatively modest climbs...	8	0	0	72	16777215	30
+446	the field is likely to be together prior to the downtown circuits	8	0	0	72	16777215	40
+446	And if we're not all together by then...	8	0	0	72	16777215	50
+446	you can bet the sprinters' teams will bury themselves to reel in any surviving breaks	8	0	0	72	16777215	60
+446	Speaking of breaks, it looks like that last one may have stuck	8	0	0	72	16777215	94
+446	No danger riders present & the peloton seems disinterested	8	0	0	72	16777215	104
+446	Safe to say we'll see them before the finish line though...	8	0	0	72	16777215	114
+446	but regardless, the break isn't a direct concern of ours	8	0	0	72	16777215	124
+446	The riders we need to mark are likely to ride today's climbs....	8	0	0	72	16777215	134
+446	as conservatively as we plan to ride them	8	0	0	72	16777215	144
+446	And let's not forget tomorrow's circuit race...	8	0	0	72	16777215	154
+446	consisting of 4 brutal laps of a classics-like course	8	0	0	72	16777215	164
+664	A couple of the bigger teams not represented in today's break...	8	0	0	72	16777215	0
+664	are driving the pace pretty hard	8	0	0	72	16777215	10
+664	But if you stay tucked in, you shouldn't have to hurt too much...	8	0	0	72	16777215	20
+664	to stay toward the front of the peloton	8	0	0	72	16777215	30
+819	Stay relaxed, stay focused	8	0	0	72	16777215	0
+1024	About 2 minutes from today's first sprint	8	0	0	72	16777215	0
+1024	Obviously not an objective of ours, but still in our interest...	8	0	0	72	16777215	10
+1024	to work hard enough to stay up front & out of trouble	8	0	0	72	16777215	20
+1024	Riders are starting to jockey for sprint position...	8	0	0	72	16777215	60
+1024	so keep your eyes open & work hard enough to stay up front	8	0	0	72	16777215	70
+1144	Follow the sprint trains, surprisingly less turmoil there	8	0	0	72	16777215	0
+1169	Hit the gas, just 10 seconds	8	0	0	72	16777215	0
+1204	Drift back a bit...	5	0	0	72	16777215	0
+1204	find somewhere sheltered but not far from the front	8	0	0	72	16777215	7
+1304	Nothing too demanding on this first climb...	8	0	0	72	16777215	0
+1304	I think everyone is thinking along the same lines as we are	8	0	0	72	16777215	10
+1524	Pick up your pace gradually	8	0	0	72	16777215	0
+1524	We want to work just hard enough...	8	0	0	72	16777215	10
+1524	to keep the field strung out on these 2 climbs	8	0	0	72	16777215	20
+1524	KOM/QOM is just up the road	8	0	0	72	16777215	190
+1524	Let the pure climbers have their own points race...	8	0	0	72	16777215	200
+1524	while you keep them within striking distance	8	0	0	72	16777215	210
+1744	Pick it up, keep them on a short leash	8	0	0	72	16777215	0
+1744	A few of those riders are almost dangerous...	8	0	0	72	16777215	10
+1744	in terms of time gaps in the GC	8	0	0	72	16777215	20
+1774	Stay with them...	8	0	0	72	16777215	0
+1774	only about 20 more seconds	8	0	0	72	16777215	10
+1804	Backpedal on this quick downhill if you need to	8	0	0	72	16777215	0
+1829	Settle back in to a light, quick spin	8	0	0	72	16777215	0
+1974	Second & final climb of the day ahead	8	0	0	72	16777215	0
+2029	Same deal, just hard enough to string things out...	8	0	0	72	16777215	0
+2029	just hard enough to discourage fruitless attacks	8	0	0	72	16777215	10
+2299	Ease off the gas gradually...	5	0	0	72	16777215	0
+2299	and rest up a bit so you can follow this last KOM attack	5	0	0	72	16777215	7
+2519	Stay with the climbers	8	0	0	72	16777215	0
+2549	Good, just hold that wheel in front of you...	8	0	0	72	16777215	0
+2549	about 20 more seconds	5	0	0	72	16777215	10
+2604	The breakaway is still too far for comfort...	8	0	0	72	16777215	0
+2604	and things are bound to ramp up in order to catch them	8	0	0	72	16777215	10
+2604	Again, tuck in & conserve	8	0	0	72	16777215	20
+2774	Watch those riders on the right, some GC threats in there!	8	0	0	72	16777215	0
+2784	Go wit that that, GO!	8	0	0	72	16777215	0
+2784	Not sure of the tactics here...	8	0	0	72	16777215	10
+2784	but you can't let these guys go without you	8	0	0	72	16777215	20
+2859	Your group has a gap on the field!	8	0	0	72	16777215	0
+2859	I'm thinking some of these GC riders want safer downtown laps	8	0	0	72	16777215	10
+2859	The breakaway is within sight	8	0	0	72	16777215	40
+2859	If you guys can bridge to them, you'll have a good-sized group	8	0	0	72	16777215	50
+2859	Contact! You've caught the break	8	0	0	72	16777215	130
+2859	About 20 of you are going to have your own private criterium...	8	0	0	72	16777215	140
+2859	if you can hold off the peloton for a few more minutes	8	0	0	72	16777215	150
+3042	Pick it up, the circuits kick off with a sprint!	8	0	0	72	16777215	0
+3042	You don't need the points, you just need to stay in contact	8	0	0	72	16777215	10
+3042	Get ready...	3	0	0	72	16777215	20
+3067	Go!	8	0	0	72	16777215	0
+3075	Catch your breath, get ready to work!	8	0	0	72	16777215	0
+3075	Lots of corners, lots of full-gas jumps out of them	8	0	0	72	16777215	10
+3178	Your group is holding the field to 35 seconds!	8	0	0	72	16777215	0
+3213	These hurt, no lie...	5	0	0	72	16777215	0
+3213	but you're staying up & away from all the chaos back in the field	8	0	0	72	16777215	7
+3213	So keep it up!	5	0	0	72	16777215	17
+3259	These accelerations can be done seated if you have the power...	8	0	0	72	16777215	0
+3259	but they usually require a strong, out-of-the-saddle jump each time	8	0	0	72	16777215	10
+3278	Easier to build high power quickly	5	0	0	72	16777215	0
+3349	One lap down! 2 to go	8	0	0	72	16777215	0
+3379	Field is 30 seconds back	8	0	0	72	16777215	0
+3441	Hang in there, you're holding your gap over the field	8	0	0	72	16777215	0
+3487	Gap over the field is hanging right around 30 seconds	8	0	0	72	16777215	0
+3557	Field's at 25 seconds back!	8	0	0	72	16777215	0
+3623	2 laps down! Final lap ahead	8	0	0	72	16777215	0
+3623	Gap to the field is down to 20 seconds!	8	0	0	72	16777215	10
+3671	Gap's coming down, they're catching glimpses of you guys!	8	0	0	72	16777215	0
+3761	Gap's at 17 seconds, keep working...HARD	8	0	0	72	16777215	0
+3831	Field has you in sight, 12 seconds back!	8	0	0	72	16777215	0
+3867	You guys have this! Don't let up!	8	0	0	72	16777215	0
+3897	Wind it up for the sprint...	8	0	0	72	16777215	0
+3897	hang on to it...	5	0	0	72	16777215	10
+3897	Get ready!	3	0	0	72	16777215	20
+3922	GO!	3	0	0	72	16777215	0
+3922	3...	1	0	0	72	16777215	5
+3922	2...	1	0	0	72	16777215	6
+3922	1...	1	0	0	72	16777215	9
+3930	Finished ahead of the field! Top-20 on the day!	8	0	0	72	16777215	0
+3930	Way to deny the sprinters on their own playground!	8	0	0	72	16777215	10
+3930	You may have even put a little time on some top-10 threats!	8	0	0	72	16777215	20
+3930	Time for some well-earned post-workout nutrition	8	0	0	72	16777215	30
+3930	Rest up & we'll see you tomorrow!	8	0	0	72	16777215	40
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	4200	Workout
+262	322	Threshold 1
+322	351	Endurance 1
+351	361	Sweet Spot 1
+361	421	VO2 Max 1
+446	664	Tempo 1
+664	819	Sweet Spot 2
+819	1024	Sweet Spot 3
+1024	1144	Sweet Spot 4
+1144	1169	VO2 Max 2
+1169	1179	Sprint 1
+1204	1304	Sweet Spot 5
+1304	1524	Sweet Spot 6
+1524	1744	Sweet Spot 7
+1744	1774	Sprint 2
+1774	1804	Sprint 3
+2029	2299	Sweet Spot 8
+2299	2519	Sweet Spot 9
+2519	2549	VO2 Max 3
+2549	2579	Sprint 4
+2774	2784	Sweet Spot 10
+2784	2839	VO2 Max 4
+2859	3042	Sweet Spot 11
+3042	3067	VO2 Max 5
+3067	3075	Sprint 5
+3075	3100	Tempo 2
+3100	3105	Sprint 6
+3105	3118	Sweet Spot 12
+3118	3123	Sprint 7
+3123	3142	Sweet Spot 13
+3142	3147	Sprint 8
+3147	3162	Sweet Spot 14
+3162	3167	Sprint 9
+3167	3178	Tempo 3
+3178	3183	Sprint 10
+3183	3208	Sweet Spot 15
+3208	3213	Sprint 11
+3213	3236	Tempo 4
+3236	3241	Sprint 12
+3241	3254	Sweet Spot 16
+3254	3259	Sprint 13
+3259	3278	Sweet Spot 17
+3278	3283	Sprint 14
+3283	3298	Sweet Spot 18
+3298	3303	Sprint 15
+3303	3314	Tempo 5
+3314	3319	Sprint 16
+3319	3344	Sweet Spot 19
+3344	3349	Sprint 17
+3349	3374	Tempo 6
+3374	3379	Sprint 18
+3379	3392	Sweet Spot 20
+3392	3397	Sprint 19
+3397	3416	Threshold 2
+3416	3421	Sprint 20
+3421	3436	Sweet Spot 21
+3436	3441	Sprint 21
+3441	3452	Sweet Spot 22
+3452	3457	Sprint 22
+3457	3482	Sweet Spot 23
+3482	3487	Sprint 23
+3487	3510	Tempo 7
+3510	3515	Sprint 24
+3515	3528	Sweet Spot 24
+3528	3533	Sprint 25
+3533	3552	Threshold 3
+3552	3557	Sprint 26
+3557	3572	Sweet Spot 25
+3572	3577	Sprint 27
+3577	3588	Sweet Spot 26
+3588	3593	Sprint 28
+3593	3618	Sweet Spot 27
+3618	3623	Sprint 29
+3623	3648	Sweet Spot 28
+3648	3653	Sprint 30
+3653	3666	Threshold 4
+3666	3671	Sprint 31
+3671	3690	Threshold 5
+3690	3695	Sprint 32
+3695	3710	Threshold 6
+3710	3715	Sprint 33
+3715	3726	Sweet Spot 29
+3726	3731	Sprint 34
+3731	3756	Threshold 7
+3756	3761	Sprint 35
+3761	3784	Sweet Spot 30
+3784	3789	Sprint 36
+3789	3802	Threshold 8
+3802	3807	Sprint 37
+3807	3826	Threshold 9
+3826	3831	Sprint 38
+3831	3846	Threshold 10
+3846	3851	Sprint 39
+3851	3862	Sweet Spot 31
+3862	3867	Sprint 40
+3867	3892	Threshold 11
+3892	3897	Sprint 41
+3897	3922	VO2 Max 6
+3922	3930	Sprint 42
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

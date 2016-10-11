@@ -1,0 +1,549 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Avalanche Spire,85,89. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+7	65
+7	95
+10	105
+10	40
+14	40
+14	37
+14.5	92
+14.5	95
+15.5	95
+15.5	95
+16.5	105
+16.5	105
+17.5	95
+17.5	95
+18.5	95
+18.5	95
+19.5	105
+19.5	105
+20.5	95
+20.5	40
+24.5	40
+24.5	40
+25	95
+25	95
+26	95
+26	95
+27	105
+27	105
+28	95
+28	95
+29	95
+29	95
+30	105
+30	105
+31	95
+31	40
+35	40
+35	40
+35.5	95
+35.5	95
+36.5	95
+36.5	95
+37.5	105
+37.5	105
+38.5	95
+38.5	95
+39.5	95
+39.5	95
+40.5	105
+40.5	105
+41.5	95
+41.5	40
+45.5	40
+45.5	40
+46	95
+46	95
+47	95
+47	95
+48	105
+48	106
+49	96
+49	95
+50	95
+50	95
+51	105
+51	105
+52	95
+52	40
+56	40
+56	40
+56.5	95
+56.5	95
+57.5	95
+57.5	95
+58.5	105
+58.5	105
+59.5	95
+59.5	95
+60.5	95
+60.5	95
+61.5	105
+61.5	105
+62.5	95
+62.5	40
+66.5	40
+66.5	40
+67	95
+67	95
+68	95
+68	95
+69	105
+69	105
+70	95
+70	95
+71	95
+71	95
+72	105
+72	105
+73	95
+73	41
+75	31
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Avalanche Spire...	5	0	0	72	16777215	10
+0	one of many over-under workouts...	4	0	0	72	16777215	16
+0	aimed at improving your muscular endurance	4	0	0	72	16777215	21
+0	Settle in to a spin above 85rpm...	4	0	0	72	16777215	27
+0	and we'll talk about the workout just ahead	4	0	0	72	16777215	32
+0	Typically, when intervals are spent close to your Threshold/FTP...	5	0	0	72	16777215	40
+0	the primary emphasis is on muscular endurance...	4	0	0	72	16777215	46
+0	also known as strength endurance or even aerobic strength	4	0	0	72	16777215	51
+0	Whatever you choose to call it, Threshold work is about increasing...	4	0	0	72	16777215	57
+0	your ability to sustain relatively high power output	4	0	0	72	16777215	62
+0	Relative to what? To your own FTP	4	0	0	72	16777215	68
+0	So the simple goal is to increase your ability...	4	0	0	72	16777215	74
+0	to ride near your Functional Threshold for long durations	8	0	0	72	16777215	79
+0	This is done in a number of ways...	4	0	0	72	16777215	89
+0	and one of those ways is by increasing your ability to process lactate	5	0	0	72	16777215	94
+0	By conditioning your muscles to metabolically process the accumulation...	5	0	0	72	16777215	101
+0	experienced when working at power close to your FTP...	5	0	0	72	16777215	107
+0	you can grow both your physiological as well as psychological capabilities	5	0	0	72	16777215	113
+0	So you not only become fitter...	3	0	0	72	16777215	120
+0	but you become tougher in the process	4	0	0	72	16777215	124
+0	All in an effort to move your "hour-power"...	4	0	0	72	16777215	130
+0	closer to power you can actually sustain for an hour	5	0	0	72	16777215	135
+0	With over-under intervals in particular...	4	0	0	72	16777215	142
+0	you'll ride close to your FTP, whether above or below	5	0	0	72	16777215	147
+0	Theoretically, when you ride above FTP...	4	0	0	72	16777215	154
+0	your muscles well up with acidic accumulation...	4	0	0	72	16777215	159
+0	then when you ride below it, even if only slightly...	4	0	0	72	16777215	164
+0	your muscles "clear" this buildup	3	0	0	72	16777215	169
+0	As you bounce back & forth across your Threshold power...	5	0	0	72	16777215	174
+0	your muscles well up then clear...	4	0	0	72	16777215	180
+0	well up, then clear	3	0	0	72	16777215	185
+0	And how quickly you clear depends a couple things...	5	0	0	72	16777215	190
+0	1 - How far/long you ride above your FTP...	4	0	0	72	16777215	196
+0	2 - How aerobically fit you are	4	0	0	72	16777215	201
+0	The upcoming efforts only range slightly above/below your FTP...	5	0	0	72	16777215	207
+0	and only for a minute or two at a time	4	0	0	72	16777215	213
+0	So nothing too daunting there	3	0	0	72	16777215	219
+0	So today will be more about how aerobically fit you are because...	5	0	0	72	16777215	224
+0	each time you flood your muscles and then back things off...	5	0	0	72	16777215	230
+0	that clearing process is entirely aerobic	4	0	0	72	16777215	236
+0	So what does this mean?	3	0	0	72	16777215	242
+0	Basically, the excess lactate is processed via your lower-intensity system	5	0	0	72	16777215	247
+0	Also known as your aerobic system	4	0	0	72	16777215	254
+420	Maintain that 85+rpm spin...	4	0	0	72	16777215	0
+420	and find your rhythm right away...	4	0	0	72	16777215	5
+420	both in terms of pedaling & breathing	4	0	0	72	16777215	10
+420	And do your best to stay relaxed over this short effort	5	0	0	72	16777215	16
+600	Excellent, back things off but keep your spin fairly quick	5	0	0	72	16777215	2
+600	So the gist of over-unders is pretty obvious...	5	0	0	72	16777215	60
+600	in that you'll either be a bit above or below your FTP the entire interval	5	0	0	72	16777215	66
+600	In the case of these intervals...	3	0	0	72	16777215	73
+600	you'll range from 5% above to 5% below	4	0	0	72	16777215	77
+600	Also specific to this type of over-under...	4	0	0	72	16777215	83
+600	is the way you'll "ramp" into each over-segment...	4	0	0	72	16777215	88
+600	rather than jump right into those higher-intensity stretches	4	0	0	72	16777215	93
+600	This allows for a more gradual acidic accumulation...	4	0	0	72	16777215	99
+600	and is arguably more challenging than jumping right up to 105% FTP...	5	0	0	72	16777215	104
+600	mostly due to the fact that once you reach that Target Power peak...	5	0	0	72	16777215	110
+600	you'll then GRADUALLY work your way back down...	5	0	0	72	16777215	116
+600	to a power output only slightly below your FTP	4	0	0	72	16777215	122
+600	This format promises a continuous challenge...	4	0	0	72	16777215	128
+600	and can actually make those minute-long "valleys"...	4	0	0	72	16777215	133
+600	seem almost easy - at least by comparison	4	0	0	72	16777215	138
+600	It's also a format that forges a tougher rider...	4	0	0	72	16777215	144
+600	one that learns how to push to a pretty painful point...	4	0	0	72	16777215	149
+600	and then return to a work level that's JUST low enough...	4	0	0	72	16777215	154
+600	to recover while still putting out reasonably high power	5	0	0	72	16777215	159
+600	This ability to go hard, then harder, then hard again...	5	0	0	72	16777215	166
+600	produces truly formidable riders, legitimately tough ones	4	0	0	72	16777215	172
+600	So whether you're looking to punish competitors...	4	0	0	72	16777215	178
+600	to PR a long climb or time trial...	4	0	0	72	16777215	183
+600	or simply to grow your ability to push the pedals harder for longer...	5	0	0	72	16777215	188
+600	the intervals just ahead can make you more capable of all of that	5	0	0	72	16777215	194
+600	Almost time to do some work...	4	0	0	72	16777215	210
+600	so settle into a cadence in the 85-95rpm range...	4	0	0	72	16777215	215
+600	and do your best to keep it there...	3	0	0	72	16777215	220
+600	over the entire duration of this first interval	4	0	0	72	16777215	224
+840	Use this short ramp to establish your cadence...	4	0	0	72	16777215	0
+840	and to let go of any unnecessary tension in your shoulders & arms	5	0	0	72	16777215	5
+870	Keep your spin light & quick...	4	0	0	72	16777215	0
+870	and start drawing full breaths using your belly	4	0	0	72	16777215	5
+930	As you work your way up this short ramp...	4	0	0	72	16777215	0
+930	see to it that your cadence doesn't fall	4	0	0	72	16777215	5
+930	If often helps...	3	0	0	72	16777215	11
+930	if you emphasize your "kick"...	3	0	0	72	16777215	15
+930	or the top quadrant of your pedalstroke	4	0	0	72	16777215	19
+930	This is as simple as lightly kicking your toes forward...	4	0	0	72	16777215	25
+930	as you approach the highest point of each pedalstroke	4	0	0	72	16777215	30
+930	Just a light kick from about 10 o'clock to about 2'oclock...	5	0	0	72	16777215	36
+930	can help keep your muscles a bit more active...	4	0	0	72	16777215	42
+930	and your pedalstroke a bit smoother	4	0	0	72	16777215	47
+990	Time to patiently work your way through the burn...	4	0	0	72	16777215	0
+990	that too often prompts most riders to quit working altogether	5	0	0	72	16777215	5
+990	But not you, nooooooo way	4	0	0	72	16777215	12
+990	YOU are going to practice patiently tolerating the discomfort...	5	0	0	72	16777215	18
+990	that comes with efforts a little above FTP	5	0	0	72	16777215	24
+1050	So far so good...	3	0	0	72	16777215	0
+1050	and time to get a handle on your breathing...	3	0	0	72	16777215	4
+1050	by actively clearing the used air with stronger-than-usual exhales	5	0	0	72	16777215	8
+1050	Use your abdomen to clear your lungs each time you breathe out...	5	0	0	72	16777215	15
+1050	as you breathe off that heavy-leg sensation	5	0	0	72	16777215	21
+1110	Here's hoping your legs have cleared the burn...	4	0	0	72	16777215	0
+1110	enough for another suprathreshold ascent	3	0	0	72	16777215	5
+1110	Keep your spin steady, your shoulders low...	4	0	0	72	16777215	10
+1110	your elbows softened and your grip loose	4	0	0	72	16777215	15
+1170	Hang in there...	3	0	0	72	16777215	0
+1170	since there's nothing left to do but survive	4	0	0	72	16777215	4
+1170	But survive with excellent pedaling form...	3	0	0	72	16777215	10
+1170	a relaxed upper body...	3	0	0	72	16777215	14
+1170	and full, belly-driven breaths	3	0	0	72	16777215	18
+1230	Nicely done	3	0	0	72	16777215	2
+1230	Keep your legs turning while you shed some fatigue	5	0	0	72	16777215	7
+1230	With round 2 on the horizon...	4	0	0	72	16777215	180
+1230	make sure your spin is back in that 85-95rpm range	4	0	0	72	16777215	185
+1230	During this second go-round...	3	0	0	72	16777215	191
+1230	decide if that first effort was appropriately challenging...	4	0	0	72	16777215	195
+1230	or if the challenge needs to grow a bit	4	0	0	72	16777215	200
+1470	If the trips up to 105% didn't cause some obvious discomfort...	5	0	0	72	16777215	0
+1470	and didn't make your legs burn a little...	3	0	0	72	16777215	6
+1470	consider adding 2-3% to the Workout Intensity	5	0	0	72	16777215	10
+1470	Nothing excessive, just enough of an increase...	4	0	0	72	16777215	17
+1470	to notice a small difference	3	0	0	72	16777215	22
+1500	Because the goal of over-unders is to actually achieve...	5	0	0	72	16777215	0
+1500	some minor muscle burn each time you're "over" your FTP	5	0	0	72	16777215	6
+1500	It doesn't have to be intense, just noticeable	4	0	0	72	16777215	13
+1500	FTP by its very nature is the tipping point...	4	0	0	72	16777215	19
+1500	between muscles that flood & muscles that clear...	4	0	0	72	16777215	24
+1500	and when you're at the high end of things, 105% in this case...	5	0	0	72	16777215	29
+1500	that burn should be readily apparent	4	0	0	72	16777215	35
+1500	THIS is the very nature of over-unders...	4	0	0	72	16777215	41
+1500	so don't deny yourself the benefit that comes...	4	0	0	72	16777215	46
+1500	with the proper level of muscle discomfort	4	0	0	72	16777215	51
+1560	Time to chase the burn!	4	0	0	72	16777215	0
+1560	Keep your spin steady...	3	0	0	72	16777215	6
+1560	and don't let that mounting accumulation slow it down	4	0	0	72	16777215	10
+1620	Probably the toughest part of these intervals...	4	0	0	72	16777215	0
+1620	is slowly & patiently working down the other side of each peak	5	0	0	72	16777215	5
+1620	But it's probably the most productive part too	4	0	0	72	16777215	12
+1620	This is where you're experiencing the overload...	4	0	0	72	16777215	18
+1620	and making yourself tolerate it instead of bailing out	5	0	0	72	16777215	23
+1680	Not exactly comfortable, but these short valleys...	4	0	0	72	16777215	0
+1680	are as close to comfort as you're going to get during each interval	5	0	0	72	16777215	5
+1680	So just accept them for what they are:	4	0	0	72	16777215	12
+1680	uncomfortably slow recovery	3	0	0	72	16777215	17
+1680	But this is exactly what we're after!	4	0	0	72	16777215	22
+1680	Make your recovery take time rather than arrive quickly	5	0	0	72	16777215	28
+1740	Ideally, you're recovered to the point...	3	0	0	72	16777215	0
+1740	where you're ready to load your legs up again	4	0	0	72	16777215	4
+1740	But even if you aren't, hang in there...	4	0	0	72	16777215	10
+1740	and give due focus to your breathing...	4	0	0	72	16777215	15
+1740	since it can make the difference between lightly burning legs...	5	0	0	72	16777215	20
+1740	and ones that flood to the point of failure	5	0	0	72	16777215	26
+1740	So breeeeeeathe	3	0	0	72	16777215	33
+1800	Home stretch!	3	0	0	72	16777215	0
+1800	Just gut it out & endure that burn for less than a minute!	5	0	0	72	16777215	5
+1800	Final 30 seconds of keeping your spin...	4	0	0	72	16777215	30
+1800	in that 85-95rpm range, quicker if it suits you	4	0	0	72	16777215	35
+1860	Nicely done, two in the bag	5	0	0	72	16777215	2
+1860	Keep a light, quick spin & try to relax	5	0	0	72	16777215	9
+1860	Almost time to work on bridging that gap...	5	0	0	72	16777215	210
+1860	between riding at FTP for a few minutes...	4	0	0	72	16777215	216
+1860	and riding at FTP for durations closer to an hour	5	0	0	72	16777215	221
+1860	And even though you may never actually need to hold FTP for a whole hour...	6	0	0	72	16777215	228
+1860	cultivating the ability to sustain FTP for longer durations...	4	0	0	72	16777215	235
+2100	will make everything below FTP that much more tolerable	5	0	0	72	16777215	0
+2100	So by lifting your "hour-power"...	3	0	0	72	16777215	7
+2100	everything below it either gets a little faster...	4	0	0	72	16777215	11
+2100	or a little more comfortable & sustainable	4	0	0	72	16777215	16
+2130	Settle in to your 85-95rpm spin...	4	0	0	72	16777215	0
+2130	and try to relax	3	0	0	72	16777215	5
+2130	Starting tougher intervals in a relaxed state...	4	0	0	72	16777215	10
+2130	"relaxed" being a relative term, of course...	4	0	0	72	16777215	15
+2130	can have an obvious impact over the entire interval	4	0	0	72	16777215	20
+2130	So starting out relaxed...	3	0	0	72	16777215	26
+2130	offers a much better chance of staying relaxed...	4	0	0	72	16777215	30
+2130	even when the hammer comes down	3	0	0	72	16777215	35
+2190	Steady cadence, no perceptible change in riding style	5	0	0	72	16777215	0
+2190	Try to avoid showing how hard you're working	4	0	0	72	16777215	7
+2190	Why telegraph your suffering to opponents or even riding buddies?	5	0	0	72	16777215	13
+2190	More importantly, why send that message to your brain?	5	0	0	72	16777215	20
+2190	Your body is much better at enduring discomfort...	4	0	0	72	16777215	27
+2190	when you can "convince" your brain that the pain isn't threatening	5	0	0	72	16777215	32
+2190	Pain's in the brain, right?	3	0	0	72	16777215	39
+2190	So use your body to tell your brain...	4	0	0	72	16777215	44
+2190	the messages you want it to receive	4	0	0	72	16777215	49
+2190	"See how relaxed I am, Brain?"	4	0	0	72	16777215	55
+2250	"This is no threat to our safety, Brain"	5	0	0	72	16777215	0
+2250	Sounds corny, no doubt about it...	4	0	0	72	16777215	7
+2250	but you might be surprised by just how much suffering...	4	0	0	72	16777215	12
+2250	the toughest riders endure simply because they've conditioned their brains...	5	0	0	72	16777215	17
+2250	to accommodate or abide relatively intense pain	5	0	0	72	16777215	23
+2250	The brain is all about self-preservation...	4	0	0	72	16777215	29
+2250	and if you start sounding alarm bells with your posture...	5	0	0	72	16777215	34
+2250	a grimace on your face, hunched shoulders & a death grip on your bars...	5	0	0	72	16777215	40
+2250	it's very likely your brain will put the brakes on your muscles...	5	0	0	72	16777215	46
+2250	all in the interest of keeping you safe...	4	0	0	72	16777215	52
+2250	keeping you from practicing self-harm	4	0	0	72	16777215	57
+2310	And there you go, up & over that first peak	5	0	0	72	16777215	0
+2310	Any chance that first minor sufferfest just glided by...	5	0	0	72	16777215	7
+2310	because you were engrossed in the oh-so fascinating screen text?	5	0	0	72	16777215	13
+2310	If so, that just furthers the point!	4	0	0	72	16777215	20
+2310	You stayed relaxed...	3	0	0	72	16777215	26
+2310	your brain didn't get any fearful signals from your body...	5	0	0	72	16777215	30
+2310	and it "allowed" you to work hard...	4	0	0	72	16777215	36
+2310	without an undue level of discomfort brought on...	4	0	0	72	16777215	41
+2310	by a brain that's trying to slow you down, protect you	5	0	0	72	16777215	46
+2310	So learn to relax, to refrain from negative self-talk...	6	0	0	72	16777215	53
+2370	and to approach even the toughest of efforts...	4	0	0	72	16777215	0
+2370	in a relaxed manner that demonstrates both confidence in your abilility...	5	0	0	72	16777215	5
+2370	as well as an openness to the possibility of pain	5	0	0	72	16777215	11
+2370	And we're not talking about intense, uncontrollable pain here	4	0	0	72	16777215	18
+2370	This is more a matter of "discomfort"...	3	0	0	72	16777215	24
+2370	and discomfort that's fully discretional too!	4	0	0	72	16777215	28
+2370	You can always CHOOSE not to endure the discomfort...	4	0	0	72	16777215	34
+2370	but then what's the point of interval training...	5	0	0	72	16777215	39
+2370	that's bent upon cultivating stronger & tougher riders?	5	0	0	72	16777215	45
+2370	Sometimes, pain is necessary	3	0	0	72	16777215	52
+2370	Simple as that	2	0	0	72	16777215	57
+2430	But since you get to decide whether or not to bear the pain...	5	0	0	72	16777215	0
+2430	why not also decide to own it as well?	4	0	0	72	16777215	6
+2430	Own the pain...	3	0	0	72	16777215	12
+2430	own the discomfort to the point that it's YOUR decision	5	0	0	72	16777215	16
+2430	And by making it your own, it's less intimidating...	4	0	0	72	16777215	23
+2430	and less likely to inspire the fear that can limit your performance	5	0	0	72	16777215	28
+2430	Under 30 seconds, hang in there!	4	0	0	72	16777215	35
+2490	Well done yet again!	5	0	0	72	16777215	2
+2490	Try to keep your legs moving...	4	0	0	72	16777215	9
+2490	and slow your breathing with some strong exhales	5	0	0	72	16777215	14
+2490	Ready to do it again?	5	0	0	72	16777215	210
+2490	Being halfway through the workout, it's time to assess...	5	0	0	72	16777215	217
+2490	how well things are going and if any changes are in order	5	0	0	72	16777215	223
+2490	If your legs haven't yet loaded up with a mild burn...	4	0	0	72	16777215	230
+2490	or if you've had to bail out here & there...	4	0	0	72	16777215	235
+2730	consider a small change in Workout Intensity	5	0	0	72	16777215	0
+2730	It probably won't take much, maybe 2-3%...	4	0	0	72	16777215	7
+2730	to get you on track with 2 objectives of over-under intervals:	5	0	0	72	16777215	13
+2730	First, lightly load up your muscles twice per interval	4	0	0	72	16777215	20
+2730	Second, complete each interval without bailing out	4	0	0	72	16777215	25
+2760	Both are important, so try to find that proper intensity...	5	0	0	72	16777215	0
+2760	that allows you to do both	4	0	0	72	16777215	6
+2760	Because while we handle much of the work of structuring your training...	5	0	0	72	16777215	12
+2760	each rider is a little different from all others...	4	0	0	72	16777215	18
+2760	and for some, 95-105% works perfectly for over-unders...	5	0	0	72	16777215	23
+2760	but plenty of riders fall outside of that range for a number of reasons	6	0	0	72	16777215	29
+2760	Perhaps your fitness has changed - ideally it's improved...	6	0	0	72	16777215	37
+2760	or maybe you're a bit fatigued today	4	0	0	72	16777215	44
+2760	Maybe you underperformed a bit on your assessment...	4	0	0	72	16777215	50
+2760	or maybe you're just really good at over-unders	4	0	0	72	16777215	55
+2820	All of these things can necessitate a workout modification...	5	0	0	72	16777215	0
+2820	maybe just today or perhaps more frequently	4	0	0	72	16777215	6
+2820	The point is simply this:	3	0	0	72	16777215	12
+2820	Don't be afraid to modify your workouts	5	0	0	72	16777215	16
+2820	A slight change here & there can make the difference...	5	0	0	72	16777215	23
+2820	between a workout that's highly challenging & productive...	5	0	0	72	16777215	29
+2820	and one that's exhausting and a bit demoralizing	5	0	0	72	16777215	35
+2820	There's also the matter of workouts that aren't quite challenging ENOUGH	6	0	0	72	16777215	42
+2820	So if you're on a good day, further the challenge a bit	5	0	0	72	16777215	50
+2880	Again, the increase is likely to be subtle, maybe 2-3%...	5	0	0	72	16777215	0
+2880	because we're not looking to change the nature of the workout...	5	0	0	72	16777215	6
+2880	but rather to correlate the challenge with your current fitness	6	0	0	72	16777215	12
+2880	So if today seems a little TOO manageable, not THAT challenging...	5	0	0	72	16777215	20
+2880	and you feel like you might be able to do just a little more...	5	0	0	72	16777215	26
+2880	nudge things up a bit	3	0	0	72	16777215	32
+2940	As things level off again, check your cadence...	5	0	0	72	16777215	0
+2940	and put it back above 85rpm if you fell below it	5	0	0	72	16777215	6
+3000	As you ramp things up again...	4	0	0	72	16777215	0
+3000	do your best to keep your cadence steady...	4	0	0	72	16777215	5
+3000	and hide your effort as the Target Power climbs	5	0	0	72	16777215	10
+3000	This becomes a taller & taller order...	4	0	0	72	16777215	17
+3000	as the workout moves foward and the intervals start piling up...	5	0	0	72	16777215	22
+3000	but don't let the fatigue detract from your form	5	0	0	72	16777215	28
+3000	By their nature, endurance sports are about fatigue management...	6	0	0	72	16777215	35
+3000	and cycling is no exception	3	0	0	72	16777215	42
+3000	So maintaining form, power, cadence...	4	0	0	72	16777215	47
+3000	all in the face of mounting fatigue is requisite	5	0	0	72	16777215	52
+3060	No rider is immune to fatigue...	4	0	0	72	16777215	0
+3060	but the best riders, those who excel...	4	0	0	72	16777215	5
+3060	are amongst the best at managing their fatigue...	5	0	0	72	16777215	10
+3060	while sometimes far from being the strongest rider	6	0	0	72	16777215	16
+3060	So manage your fatigue by keeping your form...	5	0	0	72	16777215	24
+3060	holding your cadence & power...	3	0	0	72	16777215	30
+3060	for less than 30 more seconds	3	0	0	72	16777215	34
+3120	Well done, yet another behind you	5	0	0	72	16777215	2
+3120	Keep your legs turning...	3	0	0	72	16777215	9
+3120	even if that means backspinning for a minute or two	5	0	0	72	16777215	13
+3120	30 seconds out...	3	0	0	72	16777215	210
+3120	from yet another short but challeging over-under	4	0	0	72	16777215	214
+3120	Find that 85+rpm spin...	3	0	0	72	16777215	220
+3120	and ditch any unncessary fatigue	4	0	0	72	16777215	224
+3360	Hold your spin steady...	3	0	0	72	16777215	0
+3360	and start breathing from your belly	4	0	0	72	16777215	4
+3390	Having several efforts already in your legs...	5	0	0	72	16777215	0
+3390	will likely lead to higher levels of residual fatigue	5	0	0	72	16777215	6
+3390	So the more intervals you do...	3	0	0	72	16777215	13
+3390	the harder each subsequent interval becomes	5	0	0	72	16777215	17
+3390	But yet  again, this is both the nature of endurance sports...	5	0	0	72	16777215	24
+3390	as well as the nature of training for them	5	0	0	72	16777215	30
+3390	It's not enough to simply perform a manageble amount of work	5	0	0	72	16777215	37
+3390	Nope, you have to exceed, in some manner...	5	0	0	72	16777215	44
+3390	your current comfort zones	3	0	0	72	16777215	50
+3390	Whether you do this via greater power output...	4	0	0	72	16777215	55
+3450	total volume of work (number of intervals)...	4	0	0	72	16777215	0
+3450	the overall duration of the workout...	4	0	0	72	16777215	5
+3450	or in less obvious manners like more time climbing out of the saddle...	5	0	0	72	16777215	10
+3450	or sustaining a higher-than-usual cadence	4	0	0	72	16777215	16
+3450	But SOME aspect of your training has to rise above what you're used to	6	0	0	72	16777215	22
+3450	Pretty straightforward with over-unders...	3	0	0	72	16777215	30
+3450	in the way you're expected to ride above FTP then only slightly below it	5	0	0	72	16777215	34
+3450	Less straightforward but no less obvious...	5	0	0	72	16777215	41
+3450	is the way in which you're expected to repeat these efforts...	5	0	0	72	16777215	47
+3450	over & over & over again	3	0	0	72	16777215	53
+3510	In doing so, you accumulate levels of stress...	4	0	0	72	16777215	0
+3510	that ideally are greater than the ones you accumulated last week	5	0	0	72	16777215	5
+3510	This principle of overload is the very thing...	4	0	0	72	16777215	12
+3510	that eventually makes you a stronger, tougher rider	4	0	0	72	16777215	17
+3510	So when you get to those final intervals...	4	0	0	72	16777215	23
+3510	and all you can think about is how tired you are...	5	0	0	72	16777215	28
+3510	remind yourself that it's these latter efforts...	4	0	0	72	16777215	34
+3510	that will, given proper recovery, push you to greater heights	5	0	0	72	16777215	39
+3510	So keep it together and try to find inspiration ...	4	0	0	72	16777215	46
+3510	in the fact that you're hurting right now	4	0	0	72	16777215	51
+3570	And while there are other ways to build your fitness...	5	0	0	72	16777215	0
+3570	ones that are a bit less uncomfortable...	4	0	0	72	16777215	6
+3570	they won't build fitness as quickly...	4	0	0	72	16777215	11
+3570	and they can't build certain types of fitness...	4	0	0	72	16777215	16
+3570	particularly, the muscle endurance we're striving for today	5	0	0	72	16777215	21
+3630	Again, again! ;-)	3	0	0	72	16777215	0
+3630	Hold that cadence steady & hide the effort	5	0	0	72	16777215	5
+3690	Last time to gradually work through the burn...	4	0	0	72	16777215	0
+3690	and teach yourself how to manage your suffering...	4	0	0	72	16777215	5
+3690	while managing your fatigue at the same time	5	0	0	72	16777215	10
+3750	Great job, and only one interval left	5	0	0	72	16777215	2
+3750	As usual, keep those legs turning...	4	0	0	72	16777215	9
+3750	forward or backward, your call	4	0	0	72	16777215	14
+3750	One to go and very likely the toughest effort yet...	5	0	0	72	16777215	210
+3750	at least physically...	3	0	0	72	16777215	216
+3750	but maybe not mentally though	4	0	0	72	16777215	220
+3750	Many riders see a remarkable shift in ability...	4	0	0	72	16777215	226
+3750	when they glimpse that light at the end of the tunnel	5	0	0	72	16777215	231
+3990	Interesting, right?	3	0	0	72	16777215	0
+3990	Another display of how your thoughts, your MIND...	5	0	0	72	16777215	5
+3990	can limit your performance, physiology aside!	5	0	0	72	16777215	11
+3990	By simply knowing that you're almost done for the day...	5	0	0	72	16777215	18
+3990	that the "race" is almost over...	4	0	0	72	16777215	24
+4020	athletes often see a remarkable, last-minute transformation...	5	0	0	72	16777215	0
+4020	that allows them to outperform earlier intervals & efforts	5	0	0	72	16777215	6
+4020	So anytime you doubt the difficult-to-verify concept...	5	0	0	72	16777215	13
+4020	of positive thinking...	3	0	0	72	16777215	19
+4020	remember those times where just the thought of the finish line...	5	0	0	72	16777215	23
+4020	the final interval, cold drink , post-workout meal or massage...	6	0	0	72	16777215	29
+4020	suddenly filled you with new fire	4	0	0	72	16777215	36
+4020	Remind yourself that often enough...	3	0	0	72	16777215	42
+4020	it's as much about your mind, maybe even more so...	5	0	0	72	16777215	46
+4020	than it is about your body	4	0	0	72	16777215	52
+4080	Even more useful...	3	0	0	72	16777215	0
+4080	learn to capture this feeling that allows you to loosen the leash a bit...	5	0	0	72	16777215	4
+4080	when you're 3 intervals into a 10-interval workout...	4	0	0	72	16777215	10
+4080	30 miles into an 80-mile road race...	4	0	0	72	16777215	15
+4080	or 50 miles into a 112-mile bike leg	5	0	0	72	16777215	20
+4080	That's not to say, push harder & just hope for the best...	5	0	0	72	16777215	27
+4080	but rather, don't talk yourself out of anything	5	0	0	72	16777215	33
+4080	Believing in yourself & the capabilities you've worked so hard to expand...	6	0	0	72	16777215	40
+4080	can be liberating!	3	0	0	72	16777215	47
+4080	Both physically & mentally	4	0	0	72	16777215	51
+4140	So go ahead and channel those good vibes right now...	5	0	0	72	16777215	0
+4140	as you descend these last two peaks with heavy legs...	5	0	0	72	16777215	6
+4140	and start building those stronger mental habits during training...	6	0	0	72	16777215	12
+4140	such that they become almost automatic when you're out there...	5	0	0	72	16777215	19
+4140	putting to use the more obvious physical capabilities	4	0	0	72	16777215	25
+4200	As things level off again...	3	0	0	72	16777215	0
+4200	try to breathe off that accumulation with full, belly-driven breaths	5	0	0	72	16777215	4
+4260	Final trip to that lactic land of discomfort...	4	0	0	72	16777215	0
+4260	and it's probably not going to take much to get you there	5	0	0	72	16777215	5
+4260	But that's okay considering how close to finished you are	5	0	0	72	16777215	12
+4260	Just gut it out & ride through the growing fatigue...	5	0	0	72	16777215	19
+4260	knowing that every pedalstroke will pay tiny dividends...	5	0	0	72	16777215	25
+4260	the next time you saddle up for a ride	4	0	0	72	16777215	31
+4320	Final trip down...	3	0	0	72	16777215	0
+4320	and last time to keep those legs steadily turning out the watts...	5	0	0	72	16777215	4
+4320	with a spin above 85rpm	3	0	0	72	16777215	10
+4320	30 seconds between you and sweet, sweet freedom...	5	0	0	72	16777215	30
+4320	but make 'em pretty	3	0	0	72	16777215	36
+4380	Excellent! Way to hang in there!	5	0	0	72	16777215	2
+4380	As you ride easily for a couple minutes...	3	0	0	72	16777215	9
+4380	start thinking about your post-workout nutrition...	3	0	0	72	16777215	13
+4380	or maybe even start taking some on	4	0	0	72	16777215	17
+4380	You asked a lot of your body, now give something back	5	0	0	72	16777215	23
+4380	Definitely feel free to spin longer than couple minutes allotted...	5	0	0	72	16777215	30
+4380	and we'll see you next time	5	0	0	72	16777215	36
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	4500	Workout
+420	600	Threshold 1
+870	930	Sweet Spot 1
+930	990	Threshold 2
+990	1050	Threshold 3
+1050	1110	Sweet Spot 2
+1110	1170	Threshold 4
+1170	1230	Threshold 5
+1500	1560	Sweet Spot 3
+1560	1620	Threshold 6
+1620	1680	Threshold 7
+1680	1740	Sweet Spot 4
+1740	1800	Threshold 8
+1800	1860	Threshold 9
+2130	2190	Sweet Spot 5
+2190	2250	Threshold 10
+2250	2310	Threshold 11
+2310	2370	Sweet Spot 6
+2370	2430	Threshold 12
+2430	2490	Threshold 13
+2760	2820	Sweet Spot 7
+2820	2880	Threshold 14
+2880	2940	Threshold 15
+2940	3000	Sweet Spot 8
+3000	3060	Threshold 16
+3060	3120	Threshold 17
+3390	3450	Sweet Spot 9
+3450	3510	Threshold 18
+3510	3570	Threshold 19
+3570	3630	Sweet Spot 10
+3630	3690	Threshold 20
+3690	3750	Threshold 21
+4020	4080	Sweet Spot 11
+4080	4140	Threshold 22
+4140	4200	Threshold 23
+4200	4260	Sweet Spot 12
+4260	4320	Threshold 24
+4320	4380	Threshold 25
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

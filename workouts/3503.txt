@@ -1,0 +1,40 @@
+[COURSE HEADER]
+VERSION = 2
+UNITS = ENGLISH
+DESCRIPTION = 100, 200, Open workout with 100% target. It is set at 100% to allow you to adjust the intensity to a percent of your FTP. 2 hours at threshold isn't possible. 
+FILE NAME = free ride120.txt
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	0
+120	0
+[END COURSE DATA]
+
+[INTERVAL DATA]
+0	7200	Workout
+0	300	Interval 1
+300	600	Interval 2
+600	900	Interval 3
+900	1200	Interval 4
+1200	1500	Interval 5
+1500	1800	Interval 6
+1800	2100	Interval 7
+2100	2400	Interval 8
+2400	2700	Interval 9
+2700	3000	Interval 10
+3000	3300	Interval 11
+3300	3600	Interval 12
+3600	3900	Interval 13
+3900	4200	Interval 14
+4200	4500	Interval 15
+4500	4800	Interval 16
+4800	5100	Interval 17
+5100	5400	Interval 18
+5400	5700	Interval 19
+5700	6000	Interval 20
+6000	6300	Interval 21
+6300	6600	Interval 22
+6600	6900	Interval 23
+6900	7200	Interval 24
+[END INTERVAL DATA]

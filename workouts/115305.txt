@@ -1,0 +1,190 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Sill 45,88,59. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	65
+4	95
+6	105
+6	40
+9	40
+9	95
+11	95
+11	105
+12	105
+12	95
+14	95
+14	105
+15	105
+15	95
+17	95
+17	105
+18	105
+18	40
+22	40
+22	95
+24	95
+24	105
+25	105
+25	95
+27	95
+27	105
+28	105
+28	95
+30	95
+30	105
+31	105
+31	40
+35	40
+35	95
+37	95
+37	105
+38	105
+38	95
+40	95
+40	105
+41	105
+41	95
+43	95
+43	105
+44	105
+44	40
+45	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Today's workout is another version of Over-Under intervals	8	0	0	72	16777215	10
+0	As the name states, you'll work slightly over & slightly under FTP	8	0	0	72	16777215	20
+0	Over-Unders put you in an uncomfortable place...	8	0	0	72	16777215	30
+0	thus increasing your both your ability to work near & above Threshold...	8	0	0	72	16777215	40
+0	and if done well, increasing your FTP itself	8	0	0	72	16777215	50
+0	You're facing three 9-minute intervals on the docket today	8	0	0	72	16777215	60
+0	Each interval will put you at 95% FTP for two minutes...	8	0	0	72	16777215	70
+0	and then at 105% FTP for one minute	5	0	0	72	16777215	70
+0	The ultimate goal of any Over-Under workout...	8	0	0	72	16777215	80
+0	is to help you handle changes in pace while already working at a high effort level	8	0	0	72	16777215	90
+0	We'll start things off with a short clearing effort...	8	0	0	72	16777215	210
+0	followed by enough recovery to get you ready to go again	8	0	0	72	16777215	220
+240	Try to hold an 85-95rpm spin	5	0	0	72	16777215	0
+360	Well done! Both feet back in	5	0	0	72	16777215	2
+360	Continue to spin lightly for the next few minutes	8	0	0	72	16777215	10
+360	Next up is a round of 3 Over-Under intervals	5	0	0	72	16777215	120
+360	You'll hover right around your FT power for several minutes at a time...	8	0	0	72	16777215	130
+360	whether slightly below or slightly above FTP	8	0	0	72	16777215	140
+360	Gradually work your cadence up to 85rpm or higher	8	0	0	72	16777215	150
+540	Here we go! 95% of FTP for these first 2 minutes	8	0	0	72	16777215	0
+540	You'll work just above your FTP in about 30 seconds	8	0	0	72	16777215	90
+660	Work a little harder for a minute, 105% FTP	8	0	0	72	16777215	0
+660	It's only a minute and it's only 5% above your FTP...	8	0	0	72	16777215	10
+660	but it's reasonable to feel your muscles start to load up	8	0	0	72	16777215	20
+720	And back down to 95% FTP for a couple minute...	8	0	0	72	16777215	0
+720	while you try to ride off the burn that started to creep in	8	0	0	72	16777215	10
+840	Pick things up again & try to hold your 85-95rpm cadence	8	0	0	72	16777215	0
+900	Ease off the gas but only a little bit	8	0	0	72	16777215	60
+900	Yeah, it hurts, but the eventual training adaptation...	8	0	0	72	16777215	70
+900	and the psychological benefits  make the work well worth it!	8	0	0	72	16777215	80
+1020	Last time, raise your effort just enough to inspire a bit of a burn	8	0	0	72	16777215	0
+1080	Well done! Keep the legs turning forward for at least 30 seconds	8	0	0	72	16777215	0
+1080	You have a full 5 minutes of recovery between intervals today...	8	0	0	72	16777215	10
+1080	so don't worry about burying yourself during the intervals	8	0	0	72	16777215	20
+1080	These are not meant to be easy but are meant to be effective	8	0	0	72	16777215	30
+1080	And "effective" is often synonymous with "painful"	8	0	0	72	16777215	40
+1080	Effective intervals will put you in an uncomfortable place...	8	0	0	72	16777215	50
+1080	making this workout just as much about mental conditioning...	8	0	0	72	16777215	60
+1080	as it is about physical training	5	0	0	72	16777215	70
+1080	You can simultaneously train mental toughness & physical fitness	8	0	0	72	16777215	80
+1080	In fact, the two go hand-in-hand	5	0	0	72	16777215	90
+1080	Workouts that put you in an uncomfortable place...	8	0	0	72	16777215	100
+1080	are great opportunities to train your brain to embrace discomfort	8	0	0	72	16777215	110
+1080	Continue spinning easy for a few more minutes	8	0	0	72	16777215	130
+1080	10 seconds, get ready for interval #2	5	0	0	72	16777215	230
+1320	Here we go! Start out as relaxed as possible	8	0	0	72	16777215	0
+1320	Settle into your pedaling & breathing rhythms within the first 45 seconds	8	0	0	72	16777215	10
+1320	Shoot for a cadence between 85-95rpm	8	0	0	72	16777215	20
+1320	OK, 30 seconds until your first minute at 105% FTP	8	0	0	72	16777215	90
+1320	If you can, do this next minute in your drops or aero bars	8	0	0	72	16777215	100
+1320	Move slightly forward on the saddle if it helps give you a bit more power	8	0	0	72	16777215	110
+1440	OK, slip down into those drops or aero bars for the next minute	8	0	0	72	16777215	0
+1440	Practice riding so smoothly that this looks easy	8	0	0	72	16777215	10
+1440	10 seconds left, don't ease up early	8	0	0	72	16777215	50
+1500	And back to your normal position on the bars	8	0	0	72	16777215	0
+1500	Settle back in to 95% FTP for the next couple of minutes	8	0	0	72	16777215	10
+1500	10 seconds, get ready to get back into an aero position	8	0	0	72	16777215	110
+1620	If you can, get back into your drops or aero position	8	0	0	72	16777215	0
+1620	Hold that position for the rest of this minute...	8	0	0	72	16777215	10
+1620	and don't let it affect your cadence or your power	8	0	0	72	16777215	20
+1680	Good job, back out of the aero position for the next 2 minutes	8	0	0	72	16777215	0
+1680	Last minute in the aero position, get ready	8	0	0	72	16777215	110
+1800	Final minute, get aero if you can stay on Target	8	0	0	72	16777215	0
+1860	That's 2 down! Nice work	5	0	0	72	16777215	0
+1860	Take the next 5 minutes nice & easy	5	0	0	72	16777215	10
+1860	Last Over-Under interval in about a minute	8	0	0	72	16777215	180
+1860	If you've made it through the last 2 intervals without bailing out...	8	0	0	72	16777215	190
+1860	you'll be able to make it through this one right on Target	8	0	0	72	16777215	200
+1860	Get ready...	3	0	0	72	16777215	235
+2100	Here we go, final round!	5	0	0	72	16777215	0
+2100	Find a cadence between 85-95rpm & settle in	8	0	0	72	16777215	10
+2100	1 minute at 105%FTP in about 30 seconds	8	0	0	72	16777215	90
+2100	Increase your cadence 5-10rpm for this next minute	8	0	0	72	16777215	100
+2100	Shoot for a cadence slightly out of your comfort zone	8	0	0	72	16777215	110
+2220	Bring your cadence smoothly up 5-10rpm	8	0	0	72	16777215	0
+2220	Even though you're pushing a slightly higher cadence...	8	0	0	72	16777215	10
+2220	don't let your form slip	5	0	0	72	16777215	20
+2220	Avoid bouncing in the saddle by staying relaxed	8	0	0	72	16777215	30
+2220	And avoid a sloppy pedalstroke by trying to feel the pedals ALL the way around	8	0	0	72	16777215	40
+2220	We want to reinforce proper technique, especially when working hard	8	0	0	72	16777215	50
+2280	Nicely done, now ease that cadence back to a comfortable zone	8	0	0	72	16777215	0
+2280	Work through the discomfort, the burn WILL clear soon	8	0	0	72	16777215	10
+2280	This is where you hone your mental toughness	8	0	0	72	16777215	20
+2280	It's uncomfortable, but your legs will eventually clear	8	0	0	72	16777215	30
+2280	Next "Over" in about 20 seconds, get ready to spin more quickly	8	0	0	72	16777215	100
+2280	Start to bring your cadence up 5-10rpm again	8	0	0	72	16777215	110
+2400	Here we go. bring your cadence up slightly	8	0	0	72	16777215	0
+2400	As you do, learn to embrace the discomfort...	8	0	0	72	16777215	10
+2400	and make the slightly higher cadence look comfortable, easy	8	0	0	72	16777215	20
+2400	30 more seconds, stay relaxed	5	0	0	72	16777215	30
+2460	Great job! Find a comfortable cadence	8	0	0	72	16777215	0
+2460	You're in the final minutes, just keep your focus & hold onto your form	8	0	0	72	16777215	10
+2460	OK, last 1-minute push! Bring that cadence up	8	0	0	72	16777215	110
+2580	During this the last minute of the workout...	8	0	0	72	16777215	0
+2580	do your best to hold your cadence & power	8	0	0	72	16777215	10
+2580	As the fatigue ramps up, so too should your focus	8	0	0	72	16777215	20
+2580	30 more seconds, home stretch!	5	0	0	72	16777215	30
+2640	Nicely done, keep spinning & clear the junk	8	0	0	72	16777215	0
+2640	Feel free to cool down longer than the 1 minute allotted...	8	0	0	72	16777215	10
+2640	and start thinking about your recovery nutrition	8	0	0	72	16777215	20
+2640	We'll see you next time	5	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	2700	Workout
+0	240	Endurance 1
+240	360	Threshold 1
+540	660	Sweet Spot 1
+660	720	Threshold 2
+720	840	Sweet Spot 2
+840	900	Threshold 3
+900	1020	Sweet Spot 3
+1020	1080	Threshold 4
+1320	1440	Sweet Spot 4
+1440	1500	Threshold 5
+1500	1620	Sweet Spot 5
+1620	1680	Threshold 6
+1680	1800	Sweet Spot 6
+1800	1860	Threshold 7
+2100	2220	Sweet Spot 7
+2220	2280	Threshold 8
+2280	2400	Sweet Spot 8
+2400	2460	Threshold 9
+2460	2580	Sweet Spot 9
+2580	2640	Threshold 10
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

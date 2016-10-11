@@ -1,0 +1,333 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Corcoran +1,87,152. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+10	60
+10	90
+13	100
+13	41
+17	41
+17	110
+18.5	110
+18.5	40
+19.5	40
+19.5	105
+22.5	105
+22.5	40
+24.5	40
+24.5	103
+29.5	103
+29.5	40
+32.5	40
+32.5	109
+34	109
+34	40
+35	40
+35	105
+38	105
+38	40
+40	40
+40	103
+45	103
+45	60
+66	60
+66	90
+68	90
+68	130
+69	130
+69	40
+70	40
+70	95
+71.5	95
+71.5	120
+73	120
+73	40
+74	40
+74	100
+75.5	100
+75.5	150
+75.75	150
+75.75	110
+76.75	110
+76.75	180
+77	180
+77	90
+78	90
+78	40
+82	40
+82	90
+84	90
+84	130
+85	130
+85	40
+86	40
+86	95
+87.5	95
+87.5	120
+89	120
+89	40
+90	40
+90	100
+91.5	100
+91.5	150
+91.75	150
+91.75	110
+92.75	110
+92.75	180
+93	180
+93	90
+94	90
+94	40
+98	40
+98	90
+100	90
+100	130
+101	130
+101	40
+102	40
+102	95
+103.5	95
+103.5	120
+105	120
+105	40
+106	40
+106	100
+107.5	100
+107.5	150
+107.75	150
+107.75	110
+108.75	110
+108.75	180
+109	180
+109	90
+110	90
+110	40
+120	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	We've got a supersized combo for today's workout	5	0	0	72	16777215	10
+0	No fries included, sorry ;-)	3	0	0	72	16777215	17
+0	Instead we'll have 2 sets of efforts slightly above FTP...	5	0	0	72	16777215	22
+0	and then 3 sets of Attack & Recover (A&R) intervals	5	0	0	72	16777215	29
+0	So get to warming up, you'll need it!	5	0	0	72	16777215	36
+600	Ramp it up! 85-95rpm	5	0	0	72	16777215	0
+780	Ease off the gas but keep spinning lightly	5	0	0	72	16777215	0
+780	You might be asking yourself, "Why such a short warmup?"	5	0	0	72	16777215	7
+780	Good question! Here's why:	3	0	0	72	16777215	14
+780	Warmup length & workout length are inversely related	5	0	0	72	16777215	19
+780	Long workout, short warmup...	3	0	0	72	16777215	26
+780	short workout, long warmup	3	0	0	72	16777215	31
+780	Kinda like cooking, longer cooking is usually at lower intensity...	5	0	0	72	16777215	36
+780	and consequently it takes less time to preheat the oven	5	0	0	72	16777215	43
+780	Whereas shorter cooking generally is at high intensity...	5	0	0	72	16777215	50
+780	and therefore takes more time to preheat the oven	5	0	0	72	16777215	57
+780	So if you don't feel fully warmed up...	5	0	0	72	16777215	64
+780	don't worry, you'll get there soon enough...	5	0	0	72	16777215	71
+780	it's a long one today	3	0	0	72	16777215	78
+780	The first two sets of intervals will build your muscular endurance...	5	0	0	72	16777215	120
+780	and the short recoveries will build aerobic Endurance	5	0	0	72	16777215	127
+780	The key throughout these first intervals...	3	0	0	72	16777215	134
+780	is to keep your cadence as quick & light as possible	5	0	0	72	16777215	139
+780	So focus on this in order to save your legs a bit for later	5	0	0	72	16777215	146
+780	Time for our first interval, pick it up	5	0	0	72	16777215	232
+1020	Spin it up...	3	0	0	72	16777215	0
+1020	at least 85rpm but closer to 100rpm is better	5	0	0	72	16777215	5
+1110	Good job! Spin easy	5	0	0	72	16777215	0
+1170	A little longer this time, lower intensity though	5	0	0	72	16777215	0
+1170	Keep your cadence high, 90rpm at least	5	0	0	72	16777215	7
+1350	Great! A little longer to recover this time	5	0	0	72	16777215	0
+1350	Breathe deeply from your diaphragm...	5	0	0	72	16777215	7
+1350	clear your lungs well	3	0	0	72	16777215	20
+1350	Nearly at FTP this time, get ready	5	0	0	72	16777215	112
+1470	Get to it!	3	0	0	72	16777215	0
+1470	Halfway through, stay focused!	5	0	0	72	16777215	150
+1770	Great job!	5	0	0	72	16777215	0
+1770	Now catch your breath...	3	0	0	72	16777215	7
+1770	and relax as much as possible while you spin	5	0	0	72	16777215	12
+1770	During this next set, let's focus on saving energy again	5	0	0	72	16777215	90
+1770	But this time, focus on a calm & stable upper body	5	0	0	72	16777215	97
+1770	Interestingly enough...	3	0	0	72	16777215	104
+1770	this doesn't start with your upper body	5	0	0	72	16777215	109
+1770	Instead, it starts with keeping a smooth & light cadence	5	0	0	72	16777215	116
+1770	After that...	3	0	0	72	16777215	123
+1770	just make sure your upper body is relaxed & stable	5	0	0	72	16777215	128
+1770	OK, time to work on your stability	5	0	0	72	16777215	172
+1950	Pick it up!	3	0	0	72	16777215	0
+1950	Now focus on a clean & constant pedalstroke...	5	0	0	72	16777215	10
+1950	with a quick cadence	3	0	0	72	16777215	17
+1950	Then just relaaaaaaaax	3	0	0	72	16777215	22
+2040	Great! Catch your breath for a minute	5	0	0	72	16777215	0
+2100	Back at it!	3	0	0	72	16777215	0
+2100	Smooth & relaxed...	3	0	0	72	16777215	5
+2100	fast & powerful	3	0	0	72	16777215	10
+2280	Great! Back your power down but keep spinning	5	0	0	72	16777215	0
+2280	During rest periods...	3	0	0	72	16777215	7
+2280	don't work harder than you need to	5	0	0	72	16777215	12
+2280	There's nothing to be gained by cheating your recovery	5	0	0	72	16777215	19
+2400	Last suprathreshold effort	3	0	0	72	16777215	0
+2400	Don't sacrifice your form here	3	0	0	72	16777215	5
+2400	Stay smooth & calm	3	0	0	72	16777215	10
+2400	Past halfway now...	3	0	0	72	16777215	150
+2400	stay strong, focused & relaxed	3	0	0	72	16777215	155
+2400	10 seconds!	3	0	0	72	16777215	290
+2700	Great job!	5	0	0	72	16777215	0
+2700	Time to log a bit of Endurance work...	5	0	0	72	16777215	7
+2700	so as soon as possible, just settle in	5	0	0	72	16777215	14
+2700	Find a spin in the 85-95rpm range...	5	0	0	72	16777215	21
+2700	and do your best to stay smooth & relaxed	5	0	0	72	16777215	28
+2700	About halfway through this stretch...	5	0	0	72	16777215	600
+2700	check to be sure you're staying relaxed	5	0	0	72	16777215	607
+2700	Loosen your jaw, face goes slack...	5	0	0	72	16777215	614
+2700	shoulders are loose & low..	3	0	0	72	16777215	621
+2700	elbows are softened, hands are loose	3	0	0	72	16777215	626
+2700	Almost time for 3 sets...	5	0	0	72	16777215	1200
+2700	of something completely different	3	0	0	72	16777215	1207
+2700	Attack & Recover's (A&R's)	5	0	0	72	16777215	1212
+2700	These are meant to simulate race efforts...	5	0	0	72	16777215	1219
+2700	so use these to focus on how you handle attacks	5	0	0	72	16777215	1226
+2700	During this first one, just do your best to get through it	5	0	0	72	16777215	1242
+2700	Keep your cadence quick and "recover hard" between efforts	5	0	0	72	16777215	1251
+3960	Let's get it started! Couple minutes below FTP	5	0	0	72	16777215	0
+4080	Attack! A full minute!	3	0	0	72	16777215	0
+4140	Recovery time, noodle gently	5	0	0	72	16777215	2
+4200	Ramp it up, closer to FTP this time	5	0	0	72	16777215	0
+4290	Go! Imagine dropping a naggy wheelsucker	5	0	0	72	16777215	0
+4380	Relax & spin lightly	5	0	0	72	16777215	0
+4440	Strong pace now, right up at FTP	5	0	0	72	16777215	0
+4530	Burst!	8	0	0	72	16777215	0
+4545	Settle but don't back off too far!	5	0	0	72	16777215	0
+4605	Stand & hammer!	3	0	0	72	16777215	0
+4620	Hold strong, just one minute	3	0	0	72	16777215	0
+4680	Nice work!	5	0	0	72	16777215	0
+4680	Take a couple of minutes to recover	5	0	0	72	16777215	7
+4680	Alright, so this time we'll focus on anticipation & cadence	5	0	0	72	16777215	150
+4680	When you see riders getting ready to launch...	5	0	0	72	16777215	157
+4680	you want to make sure you're in the right gear	5	0	0	72	16777215	164
+4680	You also want the  momentum to catch them right away	5	0	0	72	16777215	171
+4680	So before the attacks in this next set...	5	0	0	72	16777215	179
+4680	speed up your cadence & shift into the proper gear	5	0	0	72	16777215	186
+4680	unless you're on an electronic trainer in Ergo mode	5	0	0	72	16777215	193
+4680	In that case, no shifting necessary	3	0	0	72	16777215	200
+4680	This anticipation can help you...	3	0	0	72	16777215	206
+4680	to avoid flooding your muscles with a big effort	5	0	0	72	16777215	211
+4680	10 seconds out, spin & shift	3	0	0	72	16777215	230
+4920	Time to go...	3	0	0	72	16777215	0
+4920	but you should already be prepped	5	0	0	72	16777215	5
+4920	Now hold steady	3	0	0	72	16777215	12
+4920	First attack is almost here...	3	0	0	72	16777215	100
+4920	get ready to speed up, then shift	5	0	0	72	16777215	105
+5040	Hammer & hold!	3	0	0	72	16777215	0
+5100	Good! Take it easy for a minute	5	0	0	72	16777215	0
+5100	Time to get ahead of the curve...	5	0	0	72	16777215	48
+5100	speed up & shift up	3	0	0	72	16777215	55
+5160	And we're off!	3	0	0	72	16777215	0
+5160	Longer effort this time, but less intense...	5	0	0	72	16777215	77
+5160	prepare yourself	3	0	0	72	16777215	84
+5250	Good, now hold your Target watts	5	0	0	72	16777215	2
+5340	One more interval in this set...	5	0	0	72	16777215	2
+5340	rest up	3	0	0	72	16777215	9
+5340	Get ahead of the curve...	5	0	0	72	16777215	48
+5340	spin it up & shift	8	0	0	72	16777215	55
+5400	Good, now keep it up!	3	0	0	72	16777215	0
+5400	Don't get behind the 8-ball...	5	0	0	72	16777215	70
+5400	by letting your cadence slip	3	0	0	72	16777215	77
+5490	Spin through it!	3	0	0	72	16777215	0
+5505	Now keep that leg speed even though it hurts!	5	0	0	72	16777215	0
+5505	Bring it up & get ready	5	0	0	72	16777215	53
+5565	Keep it going!	3	0	0	72	16777215	0
+5580	Stay strong through this last push	5	0	0	72	16777215	2
+5640	Phew, great job!	5	0	0	72	16777215	0
+5640	Anticipating attacks like that pays big dividends...	5	0	0	72	16777215	7
+5640	thanks to less yo-yoing & more smooth speed	5	0	0	72	16777215	14
+5640	Keep in mind...	3	0	0	72	16777215	21
+5640	that each time you attack, you burn a match	5	0	0	72	16777215	26
+5640	Unfortunately...	3	0	0	72	16777215	33
+5640	the amount of matches we have are finite	5	0	0	72	16777215	38
+5640	So keeping your momentum up & anticipating attacks...	5	0	0	72	16777215	45
+5640	can save precious matches	3	0	0	72	16777215	52
+5640	During this last set...	3	0	0	72	16777215	180
+5640	keep anticipating those attacks...	3	0	0	72	16777215	185
+5640	but do so with a calm mind & confident body	5	0	0	72	16777215	190
+5640	This will save energy...	3	0	0	72	16777215	197
+5640	and display ability & confidence	5	0	0	72	16777215	202
+5640	10 seconds to go...	3	0	0	72	16777215	230
+5640	so spin things up & be ready	3	0	0	72	16777215	235
+5880	Here we go!	3	0	0	72	16777215	0
+5880	Stay calm & strong	3	0	0	72	16777215	5
+6000	Start spinning into this attack!	5	0	0	72	16777215	-10
+6000	Good! Now keep a quiet torso	5	0	0	72	16777215	0
+6060	Great! Recovery time	5	0	0	72	16777215	2
+6060	Ramp it up	3	0	0	72	16777215	55
+6120	Now keep it up while staying smooth	5	0	0	72	16777215	5
+6120	Spin into this next attack	5	0	0	72	16777215	83
+6210	90 seconds' worth of smooth power!	5	0	0	72	16777215	10
+6210	Smooth, fast & powerful	3	0	0	72	16777215	17
+6300	Awesome! Final recovery now	5	0	0	72	16777215	0
+6300	Use every last second of it...	3	0	0	72	16777215	7
+6300	and try to slow your breathing	3	0	0	72	16777215	12
+6300	Last interval coming up...	3	0	0	72	16777215	50
+6300	get ready ahead of time	3	0	0	72	16777215	55
+6360	Quick & powerful spin, full & deep breaths	5	0	0	72	16777215	0
+6360	Get ahead of this attack, spin & shift	5	0	0	72	16777215	82
+6450	Drill it!	2	0	0	72	16777215	0
+6465	Spin quickly during this "rest"	5	0	0	72	16777215	0
+6465	One last attack, be ready for it!	5	0	0	72	16777215	53
+6525	Everything you've got!	3	0	0	72	16777215	0
+6540	Finish it off right...	3	0	0	72	16777215	2
+6540	and spin through that brutal burn	5	0	0	72	16777215	7
+6600	Great job today!	5	0	0	72	16777215	0
+6600	That was a lot of TSS...	5	0	0	72	16777215	10
+6600	a lot of stress all around	5	0	0	72	16777215	17
+6600	So take care of yourself & recover well for next time	5	0	0	72	16777215	24
+6600	We'll see you then	5	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	7200	Workout
+600	780	Sweet Spot 1
+1020	1110	VO2 Max 1
+1170	1350	Threshold 1
+1470	1770	Threshold 2
+1950	2040	VO2 Max 2
+2100	2280	Threshold 3
+2400	2700	Threshold 4
+2700	3960	Endurance 1
+3960	4080	Sweet Spot 2
+4080	4140	Anaerobic Capacity 1
+4200	4290	Sweet Spot 3
+4290	4380	VO2 Max 3
+4440	4530	Threshold 5
+4530	4545	Sprint 1
+4545	4605	VO2 Max 4
+4605	4620	Sprint 2
+4620	4680	Sweet Spot 4
+4920	5040	Sweet Spot 5
+5040	5100	Anaerobic Capacity 2
+5160	5250	Sweet Spot 6
+5250	5340	VO2 Max 5
+5400	5490	Threshold 6
+5490	5505	Sprint 3
+5505	5565	VO2 Max 6
+5565	5580	Sprint 4
+5580	5640	Sweet Spot 7
+5880	6000	Sweet Spot 8
+6000	6060	Anaerobic Capacity 3
+6120	6210	Sweet Spot 9
+6210	6300	VO2 Max 7
+6360	6450	Threshold 7
+6450	6465	Sprint 5
+6465	6525	VO2 Max 8
+6525	6540	Sprint 6
+6540	6600	Sweet Spot 10
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

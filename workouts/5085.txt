@@ -1,0 +1,335 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Miter,92,127. Created by 42270.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+7	50
+7	97
+10	97
+10	112
+10.5	112
+10.5	40
+15	40
+15	97
+17	97
+17	108
+17.5	108
+17.5	99
+19.5	99
+19.5	112
+20	112
+20	97
+22	97
+22	112
+22.5	112
+22.5	99
+24.5	99
+24.5	108
+25	108
+25	40
+26	40
+26	97
+28	97
+28	108
+28.5	108
+28.5	99
+30.5	99
+30.5	112
+31	112
+31	97
+33	97
+33	112
+33.5	112
+33.5	99
+35.5	99
+35.5	108
+36	108
+36	40
+41	40
+41	97
+43	97
+43	108
+43.5	108
+43.5	99
+45.5	99
+45.5	112
+46	112
+46	97
+48	97
+48	112
+48.5	112
+48.5	99
+50.5	99
+50.5	108
+51	108
+51	40
+52	40
+52	97
+54	97
+54	108
+54.5	108
+54.5	99
+56.5	99
+56.5	112
+57	112
+57	97
+59	97
+59	112
+59.5	112
+59.5	99
+61.5	99
+61.5	108
+62	108
+62	40
+67	40
+67	97
+69	97
+69	108
+69.5	108
+69.5	99
+71.5	99
+71.5	112
+72	112
+72	97
+74	97
+74	112
+74.5	112
+74.5	99
+76.5	99
+76.5	108
+77	108
+77	40
+78	40
+78	97
+80	97
+80	108
+80.5	108
+80.5	99
+82.5	99
+82.5	112
+83	112
+83	97
+85	97
+85	112
+85.5	112
+85.5	99
+87.5	99
+87.5	108
+88	108
+88	40
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Today's workout will use over-unders to make you faster	8	0	0	72	16777215	10
+0	This type of interval training is extremely effective fi uncomfortable	8	0	0	72	16777215	20
+0	These can raise your FTP, increase your aerobic & anaerobic power...	8	0	0	72	16777215	30
+0	and increase your ability to mentally cope with pain	8	0	0	72	16777215	40
+0	In order to get the most value out of this workout...	8	0	0	72	16777215	120
+0	there are a few key points to focus on	5	0	0	72	16777215	130
+0	During each of the 3 sets we'll spend time on each	8	0	0	72	16777215	140
+0	But for now, spin lightly & quickly through the warmup	8	0	0	72	16777215	150
+420	Set your cadence in the 85-95rpm range, light & quick	8	0	0	72	16777215	0
+600	30 seconds at 95-105rpm, no bouncing	8	0	0	72	16777215	0
+630	Well done, take a few minutes to spin & relax	8	0	0	72	16777215	10
+630	During the first set, we will focus on anticipating the efforts	8	0	0	72	16777215	230
+630	The goal isn't to get a head start on them, that's impossible...	8	0	0	72	16777215	240
+630	but you can always be ready for them, physically & mentally prepared	8	0	0	72	16777215	250
+630	Breathing, gearing, cadence & mental approach all affect this	8	0	0	72	16777215	260
+900	Pick it up to 85-95rpm	5	0	0	72	16777215	0
+900	This is a tough but sustainable pace	8	0	0	72	16777215	60
+900	Remember that, *sustainable pace*	8	0	0	72	16777215	70
+900	Now that we have our first surge coming up...	8	0	0	72	16777215	80
+900	it's time to get prepared	5	0	0	72	16777215	90
+900	Be in a gear that allows you to respond to a quick surge in pace	8	0	0	72	16777215	100
+900	In other words, spin at the higher end of 85-95rpm	8	0	0	72	16777215	110
+1020	Little more work, 95-105rpm	5	0	0	72	16777215	0
+1050	Good, now settle back into that "sustainable pace"	8	0	0	72	16777215	0
+1050	If you feel out of breath, just keep going for 30 seconds at this pace	8	0	0	72	16777215	10
+1050	The pace will feel sustainable once more, soon	8	0	0	72	16777215	20
+1050	Now that you've been through this once already...	8	0	0	72	16777215	60
+1050	let's spend more time getting ready this time	8	0	0	72	16777215	70
+1050	If the pace increase felt overwhelming last time...	8	0	0	72	16777215	80
+1050	then shift down into an easier gear beforehand...	8	0	0	72	16777215	90
+1050	and spin closer to the 95rpm mark	5	0	0	72	16777215	100
+1050	10 seconds left, be focused	5	0	0	72	16777215	110
+1170	Get on top of it, 95-105rpm	5	0	0	72	16777215	0
+1200	Nice! Ease up only slightly	5	0	0	72	16777215	0
+1200	We'll focus on these "unders", or valleys, a little later on...	8	0	0	72	16777215	10
+1200	but for now, stay strong through them	5	0	0	72	16777215	20
+1200	During this next surge...	8	0	0	72	16777215	90
+1200	hit your cadence just right so you don't flood your muscles right away	8	0	0	72	16777215	100
+1200	Find the proper gear so you can spin appropriately quickly	8	0	0	72	16777215	110
+1320	Go! 30 seconds of controlled leg speed	8	0	0	72	16777215	0
+1350	Alright, only one more left, ride through the burn	8	0	0	72	16777215	10
+1350	Stay strong through this valley & focus on exhaling well	8	0	0	72	16777215	20
+1350	Last effort coming up, try to get in front of it	8	0	0	72	16777215	100
+1350	Get your gearing right & get ready to spin	8	0	0	72	16777215	110
+1470	Go time! 95rpm or higher	5	0	0	72	16777215	0
+1500	Great job! Now use every second of this rest to recuperate	8	0	0	72	16777215	0
+1500	During this next set, we'll leave you alone for the most part	8	0	0	72	16777215	10
+1500	Just focus on being proactive with gearing & cadence before each surge	8	0	0	72	16777215	20
+1560	Settle in above 85rpm & breathe fully	8	0	0	72	16777215	0
+1680	First surge, just a little more leg speed	8	0	0	72	16777215	0
+1710	Maintain this pace but drop your cadence a little	8	0	0	72	16777215	0
+1830	Pick it up! At least 95rpm	5	0	0	72	16777215	0
+1860	Back it down but not so far that the burn clears too quickly	8	0	0	72	16777215	0
+1980	Spin more quickly but stay just as smooth	8	0	0	72	16777215	0
+2010	Push through, the pain will start to clear soon	8	0	0	72	16777215	0
+2130	Last one, make it look effortless	5	0	0	72	16777215	0
+2160	Well done, take a few minutes to spin lightly	8	0	0	72	16777215	0
+2160	During this next set we'll focus on our breathing	8	0	0	72	16777215	180
+2160	Near-FTP efforts with high intensity surges...	8	0	0	72	16777215	190
+2160	put your body under a lot of stress and...	8	0	0	72	16777215	200
+2160	can put us in a situation where we become overwhelmed	8	0	0	72	16777215	210
+2160	A key to avoiding this is to control your breathing	8	0	0	72	16777215	220
+2160	Just like the previous set...	8	0	0	72	16777215	230
+2160	being proactive is key	5	0	0	72	16777215	240
+2160	If you wait until you're out of breath to work on breathing...	8	0	0	72	16777215	250
+2160	then you are already too late	5	0	0	72	16777215	260
+2160	You have 30 seconds until the next set	8	0	0	72	16777215	270
+2160	Start establishing a breathing rhythm now	8	0	0	72	16777215	280
+2160	Make it a comfortable rhythm, not too slow or too fast	8	0	0	72	16777215	290
+2460	Pick it up!	5	0	0	72	16777215	0
+2460	While you maintain 85-95rpm here...	8	0	0	72	16777215	10
+2460	while you breathe in through your nose & mouth...	8	0	0	72	16777215	20
+2460	at a comfortable and controlled rhythm	8	0	0	72	16777215	30
+2460	Keep it up & try to relax starting with your face & shoulders	5	0	0	72	16777215	60
+2460	You're breathing may be accelerating, but that's OK	8	0	0	72	16777215	70
+2460	Just don't let it get out of control	5	0	0	72	16777215	80
+2460	Your first surge is coming up, find your gearing if necessary	8	0	0	72	16777215	90
+2460	Maintain the same rhythm, in through the nose & mouth...	8	0	0	72	16777215	100
+2460	and out through your mouth using your belly actively	8	0	0	72	16777215	110
+2580	Different effort, same breathing pattern	5	0	0	72	16777215	0
+2610	Good, now stay focused on your breathing, not the pace change	8	0	0	72	16777215	0
+2610	By now, you're probably realizing...	8	0	0	72	16777215	10
+2610	that breathing is a lagging indicator of your effort	8	0	0	72	16777215	20
+2610	When you start out, you can breathe easily	5	0	0	72	16777215	30
+2610	But you are probably breathing hardest AFTER the surge in pace	8	0	0	72	16777215	40
+2610	So don't let this fluctuation affect your focus and control	8	0	0	72	16777215	50
+2610	Be the constant among the variables	5	0	0	72	16777215	60
+2610	Keep focusing on your breathing, no matter what	5	0	0	72	16777215	70
+2610	Next surge is 20 seconds out, plan your gearing/cadence change	8	0	0	72	16777215	100
+2610	Stay on top of your breathing	5	0	0	72	16777215	110
+2730	More effort with steady breathing	5	0	0	72	16777215	0
+2760	Great job, now's the hard part	5	0	0	72	16777215	0
+2760	Control your breathing & relief will come	8	0	0	72	16777215	10
+2760	30 seconds until the next surge, has the burn cleared yet?	8	0	0	72	16777215	90
+2760	Breathe more fully if it hasn't	5	0	0	72	16777215	100
+2880	Wind it up but don't show the effort	8	0	0	72	16777215	0
+2910	Stay steady & be patient, relief will come	8	0	0	72	16777215	0
+3030	Controlled breath, just 30 seconds	5	0	0	72	16777215	0
+3060	Awesome work! Recover, recover, recover	8	0	0	72	16777215	0
+3060	During this next effort let's focus on the mechanics of breathing	8	0	0	72	16777215	20
+3120	Time to go!	5	0	0	72	16777215	0
+3120	During the first half of this set...	8	0	0	72	16777215	10
+3120	focus on breathing from your diaphragm	8	0	0	72	16777215	20
+3120	Instead of expanding your mildly movable chest...	8	0	0	72	16777215	30
+3120	breathe from the bottom of your lungs/top of your abdomen	8	0	0	72	16777215	40
+3120	20 seconds to the first surge, prep your gearing	8	0	0	72	16777215	100
+3120	Breathe from your diaphragm & actively clear your lungs each breath	8	0	0	72	16777215	110
+3240	Breathe out slightly more powerfully	5	0	0	72	16777215	0
+3270	Good job, now maintain your steady rhythm	8	0	0	72	16777215	0
+3270	When breathing, devote some extra focus on exhaling	8	0	0	72	16777215	10
+3270	Your body will take care of inhaling	5	0	0	72	16777215	20
+3270	When you exhale, push out with force then the inhale will happen naturally	8	0	0	72	16777215	30
+3270	Keep it going into and throughout these next few surges	8	0	0	72	16777215	40
+3420	Strong exhaling, steady rhythm	5	0	0	72	16777215	0
+3540	Controlled breathing, relaxed upper body	5	0	0	72	16777215	0
+3570	Keep exhaling from your abdomen	5	0	0	72	16777215	0
+3690	Finally push, be downright graceful	5	0	0	72	16777215	0
+3720	Great job, backpedal for a few revolutions if you need to	8	0	0	72	16777215	0
+3720	Breathe easy and spin quickly & lightly	5	0	0	72	16777215	10
+3720	Only one more set left, let that nudge up your confidence	8	0	0	72	16777215	180
+3720	Use this next one to target mental toughness	8	0	0	72	16777215	190
+3720	Many times, the valleys can be the toughest part of over-under-type drills	8	0	0	72	16777215	200
+3720	Pushing through a short surge can be relatively easy...	8	0	0	72	16777215	210
+3720	when compared to the longer, near-FTP interval directly after	8	0	0	72	16777215	220
+3720	But if you adopt a different perspective...	8	0	0	72	16777215	230
+3720	it can all become more manageable	5	0	0	72	16777215	240
+3720	Remember the *sustainable pace* we talked about?	8	0	0	72	16777215	250
+3720	These "unders" or valleys are below your FTP	8	0	0	72	16777215	260
+3720	Therefore, they are theoretically sustainable in every way	8	0	0	72	16777215	270
+3720	So stay strong and treat those like a sustainable baseline	8	0	0	72	16777215	280
+3720	Bring your spin up if you're not already above 85rpm	8	0	0	72	16777215	290
+4020	Pick it up & settle in while staying relaxed	8	0	0	72	16777215	0
+4020	Strong, controlled breaths, well before you need them	8	0	0	72	16777215	60
+4140	Surge but stay relaxed	5	0	0	72	16777215	0
+4170	Back down to your baseline, calm your breathing a bit	8	0	0	72	16777215	0
+4290	A little more work but stay calm & relaxed	8	0	0	72	16777215	0
+4320	Back down again, spin through the heaviness	8	0	0	72	16777215	0
+4440	Back at it! Work harder but don't show it	8	0	0	72	16777215	0
+4470	Hold steady through this last effort, maybe even a little quicker with your spin	8	0	0	72	16777215	0
+4590	Be smooth, just 30 seconds	5	0	0	72	16777215	0
+4620	Good job! Keep your legs turning, backward or forward	8	0	0	72	16777215	0
+4620	We'll leave you alone during this last interval, you know the deal by now	8	0	0	72	16777215	20
+4620	Stay strong mentally and stick to what you've practiced	8	0	0	72	16777215	30
+4680	Pick it up but stay relaxed	5	0	0	72	16777215	0
+5280	Very well done! Recovery time is upon us	8	0	0	72	16777215	0
+5280	Spin out the fatigue & get some fluid in ya	8	0	0	72	16777215	10
+5280	Get some good recovery nutrition in you now or soon...	8	0	0	72	16777215	20
+5280	And we'll see you next time	8	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+420	600	Threshold 1
+600	630	VO2 Max 1
+900	1020	Threshold 2
+1020	1050	VO2 Max 2
+1050	1170	Threshold 3
+1170	1200	VO2 Max 3
+1200	1320	Threshold 4
+1320	1350	VO2 Max 4
+1350	1470	Threshold 5
+1470	1500	VO2 Max 5
+1560	1680	Threshold 6
+1680	1710	VO2 Max 6
+1710	1830	Threshold 7
+1830	1860	VO2 Max 7
+1860	1980	Threshold 8
+1980	2010	VO2 Max 8
+2010	2130	Threshold 9
+2130	2160	VO2 Max 9
+2460	2580	Threshold 10
+2580	2610	VO2 Max 10
+2610	2730	Threshold 11
+2730	2760	VO2 Max 11
+2760	2880	Threshold 12
+2880	2910	VO2 Max 12
+2910	3030	Threshold 13
+3030	3060	VO2 Max 13
+3120	3240	Threshold 14
+3240	3270	VO2 Max 14
+3270	3390	Threshold 15
+3390	3420	VO2 Max 15
+3420	3540	Threshold 16
+3540	3570	VO2 Max 16
+3570	3690	Threshold 17
+3690	3720	VO2 Max 17
+4020	4140	Threshold 18
+4140	4170	VO2 Max 18
+4170	4290	Threshold 19
+4290	4320	VO2 Max 19
+4320	4440	Threshold 20
+4440	4470	VO2 Max 20
+4470	4590	Threshold 21
+4590	4620	VO2 Max 21
+4680	4800	Threshold 22
+4800	4830	VO2 Max 22
+4830	4950	Threshold 23
+4950	4980	VO2 Max 23
+4980	5100	Threshold 24
+5100	5130	VO2 Max 24
+5130	5250	Threshold 25
+5250	5280	VO2 Max 25
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

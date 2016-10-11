@@ -1,0 +1,309 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Newcomb,81,66. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	51
+4	51
+4	90
+7	90
+7	40
+12	40
+12	90
+16	90
+16	40
+18	40
+18	95
+22	95
+22	40
+24	40
+24	90
+28	90
+28	40
+30	40
+30	95
+34	95
+34	40
+36	40
+36	90
+40	90
+40	40
+42	40
+42	95
+46	95
+46	40
+48	40
+48	90
+52	90
+52	40
+54	40
+54	95
+58	95
+58	40
+60	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Keep things easy for a few minutes...	8	0	0	72	16777215	10
+0	and get your legs moving quickly but comfortably	8	0	0	72	16777215	20
+0	And we'll blow the cobwebs out in a few minutes	8	0	0	72	16777215	30
+0	Newcomb can be an excellent climbing workout, so...	8	0	0	72	16777215	90
+0	if you want to immerse yourself in the fantasy, elevate your front wheel	8	0	0	72	16777215	100
+0	Wood blocks, phone books, fancy wheel holders...	8	0	0	72	16777215	110
+0	anything that's stable & elevates your front wheel a few inches will work	8	0	0	72	16777215	120
+0	While this might not further simulate climbing's stress on your body...	8	0	0	72	16777215	140
+0	gravity + movement do that...	8	0	0	72	16777215	150
+0	it could provide an extra bit of inspiration ;)	8	0	0	72	16777215	160
+0	3-minute clearing effort coming up so keep that spin quick	8	0	0	72	16777215	190
+0	Shoot for 90rpm to start...	8	0	0	72	16777215	200
+0	then we'll reduce your pedal speed over the 3 minutes	8	0	0	72	16777215	210
+0	This will give you an opportunity to see how slowly you can pedal...	8	0	0	72	16777215	220
+0	and still hold your watts and keep your knees happy	8	0	0	72	16777215	230
+240	Settle into a spin right around 90rpm	8	0	0	72	16777215	-1
+240	Slow your spin a little bit, 5-10rpm, but keep your watts on target	8	0	0	72	16777215	30
+240	This almost definitely means shifting into a bigger gear...	8	0	0	72	16777215	40
+240	even if you're on a CompuTrainer, KICKR or PowerBeam Pro	8	0	0	72	16777215	50
+240	If you can keep your watts at a slower spin...	8	0	0	72	16777215	60
+240	go ahead and reduce your pedal speed some more	8	0	0	72	16777215	70
+240	Knees OK? Watts steady and on target? In that case....	8	0	0	72	16777215	90
+240	see if you can turn the cranks even more slowly...	8	0	0	72	16777215	100
+240	without losing your Target Power...	8	0	0	72	16777215	110
+240	and definitely without aggravating your joints	8	0	0	72	16777215	120
+240	Still steady with pain-free joints? Go slower, keep your power	8	0	0	72	16777215	130
+240	One more chance to slow things down	8	0	0	72	16777215	150
+240	It doesn't count if your watts are way off target though	8	0	0	72	16777215	160
+240	Check your RPM, keep it in mind for later on	8	0	0	72	16777215	170
+420	Excellent, take it easy for a full 5 minutes	8	0	0	72	16777215	-1
+420	Everything today falls in the 90-95% FTP range so muscular endurance is clearly one goal	8	0	0	72	16777215	60
+420	The other goal is to focus on slow force production	8	0	0	72	16777215	70
+420	Doing both at once is a tall order but completely possible, BUT...	8	0	0	72	16777215	80
+420	decide right now which is more important	8	0	0	72	16777215	90
+420	Then you can shift focus to one goal rather than both at once	8	0	0	72	16777215	100
+420	Often, force work is done at lower effort levels but we want to keep these specific...	8	0	0	72	16777215	110
+420	specific to what you're likely to encounter out on the road...	8	0	0	72	16777215	120
+420	and slow cadences usually come with high power...like climbing	8	0	0	72	16777215	130
+420	So we'll target high-ish power with the intent of making these practical	8	0	0	72	16777215	150
+420	This assumes you can effectively split your focus between force & power...	8	0	0	72	16777215	160
+420	if not, skip the force work and simply maintain Target Power	8	0	0	72	16777215	170
+420	OK, 2 minutes to consider your cadence during the earlier warming effort	8	0	0	72	16777215	180
+420	Did you hit a cadence where you couldn't hold your watts steady?	8	0	0	72	16777215	190
+420	Perhaps your form felt sloppy? Maybe your knees ached a little?	8	0	0	72	16777215	200
+420	Those cases put you BELOW your breaking point - spin slightly quicker	8	0	0	72	16777215	210
+420	Lets make 50rpm the floor, no need to go any slower than that	8	0	0	72	16777215	220
+420	For now, keep your spin quick & light	8	0	0	72	16777215	230
+720	Here we go! Settle in to a spin that feels comfortable for now	8	0	0	72	16777215	-1
+720	OK, hold Target Power and slow your spin a little at a time	8	0	0	72	16777215	60
+720	Take your time and watch your power closely	8	0	0	72	16777215	70
+720	If it starts to fall or becomes erratic, bring your spin back up a bit...	8	0	0	72	16777215	80
+720	and get back to your Target Power	8	0	0	72	16777215	90
+720	Slow things down even more IF you can keep your Target Power	8	0	0	72	16777215	120
+720	It's increasingly important that your knees track well...	8	0	0	72	16777215	130
+720	so really control any side-to-side knee movement...	8	0	0	72	16777215	140
+720	especially at the top of each knee's pedalstroke	8	0	0	72	16777215	150
+720	If they waver or jerk, think about pistons in an engine...	8	0	0	72	16777215	160
+720	straight up, straight down	8	0	0	72	16777215	170
+720	Lateral movement is both wasteful and potentially dangerous...	8	0	0	72	16777215	180
+720	especially as the force increases	8	0	0	72	16777215	200
+720	30 seconds to go, keep your power smooooooooth	8	0	0	72	16777215	210
+960	Excellent, time for a quick break.	8	0	0	72	16777215	-1
+960	Pick up your spin and relax for a couple minutes	8	0	0	72	16777215	10
+960	Let's quickly cover a couple terms: speed & force	8	0	0	72	16777215	20
+960	Speed reflects how quickly you turn the pedals, force is how hard you press down	8	0	0	72	16777215	30
+960	Today, we're looking for low speed, high force	8	0	0	72	16777215	40
+960	Your cadence will be low, but your force will be high, BUT...	8	0	0	72	16777215	50
+960	we NEVER work through joint pain	8	0	0	72	16777215	60
+960	Knees, hips, low back, ankles...any joints hurt, something has to change right away	8	0	0	72	16777215	70
+960	Often, it's a matter hip issues which lead to of knee issues...	8	0	0	72	16777215	80
+960	which is why one of today's goals is to improve hip & knee control	8	0	0	72	16777215	90
+960	So use these low speed intervals to watch your knees, often	8	0	0	72	16777215	100
+960	OK, let's go again	8	0	0	72	16777215	110
+1080	Take 30 seconds to adjust to a slightly higher power output	8	0	0	72	16777215	-1
+1080	Start to slow your spin but keep your watts on target	8	0	0	72	16777215	30
+1080	Are your knees moving vertically with no side-to-side wobble?	8	0	0	72	16777215	60
+1080	Even so, frequently watch your knees to confirm their control	8	0	0	72	16777215	70
+1080	Lower your cadence a bit more IF you can maintain smooth Target Power	8	0	0	72	16777215	90
+1080	If you start to drift, check the top & bottom of your pedalstroke	8	0	0	72	16777215	100
+1080	Mashing your feet down makes for inconsistent power, so kick & pull too	8	0	0	72	16777215	110
+1080	Kick your toes over the top of the pedalstroke...	8	0	0	72	16777215	120
+1080	pull your heels across the bottom - kick & pull	8	0	0	72	16777215	130
+1080	Most of your power comes from the downstroke, but not all of it	8	0	0	72	16777215	150
+1080	Learn to eke a little more power from the rest of your spin...	8	0	0	72	16777215	160
+1080	and in the process, improve the smoothness of your power output	8	0	0	72	16777215	170
+1080	1 more minute! Relax	8	0	0	72	16777215	180
+1080	Drop your shoulders, soften your elbows, loosen your grip on the bars	8	0	0	72	16777215	190
+1080	30 seconds, make the work look effortless	8	0	0	72	16777215	210
+1320	2 down! Take it easy for a bit	8	0	0	72	16777215	-1
+1320	drop the Workout Intensity 5% and keep the slow-force work	8	0	0	72	16777215	0
+1320	Time to make an informed decision...	8	0	0	72	16777215	30
+1320	Continue to work on slow-force spinning or just target muscle endurance?	8	0	0	72	16777215	40
+1320	To focus on one over the other, decide which needs the attention	8	0	0	72	16777215	50
+1320	You can still continue to target both with a small reduction in Workout Intensity, start with 5%	8	0	0	72	16777215	60
+1320	If your muscle control or leg strength are limiters...	8	0	0	72	16777215	70
+1320	drop the Workout Intensity 5-10% and keep the slow-force work	8	0	0	72	16777215	80
+1320	If your knees wobble or you have a hard time turning big gears...	8	0	0	72	16777215	90
+1320	same thing, drop the Workout Intensity 5-10%, keep the slow RPM	8	0	0	72	16777215	100
+1320	Get ready!	8	0	0	72	16777215	110
+1440	Settle into your Target Power and cadence right away	8	0	0	72	16777215	-1
+1440	By now, you've probably noticed the lack of RPM suggestions...	8	0	0	72	16777215	30
+1440	force work & natural cadence differences are highly subjective	8	0	0	72	16777215	40
+1440	Same with high-cadence training since 'fast' for one rider may be slow for another	8	0	0	72	16777215	50
+1440	So rather than get too specific, make your changes small, consistent & specific to YOU	8	0	0	72	16777215	60
+1440	Maintaining Target Power? Good	8	0	0	72	16777215	70
+1440	Slow-force work is typically done at 50-60rpm...	8	0	0	72	16777215	80
+1440	but that's a GOAL cadence and can take time to achieve	8	0	0	72	16777215	90
+1440	It can also wreak havoc on joints and connective tissue if done improperly	8	0	0	72	16777215	100
+1440	So again, make changes that work for YOU, not the local hero	8	0	0	72	16777215	110
+1440	Let's spend the remaining 2 minutes steadying that upper body	8	0	0	72	16777215	120
+1440	These intervals are  just as much about upper body control as lower	8	0	0	72	16777215	130
+1440	The most talented, practiced riders can make any spin look smooth & controlled	8	0	0	72	16777215	140
+1440	There's nothing to be gained by wrestling with your bike	8	0	0	72	16777215	150
+1440	This ain't no rodeo, son	8	0	0	72	16777215	160
+1440	We're riding bikes and every movement costs energy	8	0	0	72	16777215	170
+1440	Don't spend yours flailing around on the saddle	8	0	0	72	16777215	180
+1440	Use that energy to rider longer, farther, faster	8	0	0	72	16777215	190
+1440	Do it by relaxing...	8	0	0	72	16777215	200
+1440	and making it look easy, no matter how high the effort	8	0	0	72	16777215	210
+1680	Great job, spin away the fatigue...	8	0	0	72	16777215	0
+1680	grab a drink, get good & relaxed	8	0	0	72	16777215	10
+1680	We'll spend the entirety of the next interval focused on form...	8	0	0	72	16777215	60
+1680	upper and lower body	8	0	0	72	16777215	70
+1680	Settle on your cadence now & reduce the Workout Intensity if necessary	8	0	0	72	16777215	80
+1680	Get ready!	8	0	0	72	16777215	110
+1800	Quickly find that cadence while holding your Target Power	8	0	0	72	16777215	-1
+1800	Before the fatigue ramps up, get relaxed & comfortable	8	0	0	72	16777215	20
+1800	Start with your hands...	8	0	0	72	16777215	30
+1800	a death grip on the bars means wasted energy & poor bike handling	8	0	0	72	16777215	40
+1800	No matter how hard you work, staying relaxed is crucial to riding well	8	0	0	72	16777215	50
+1800	Too often, nervous riders overgrip the handlebars setting off a chain of ill effects	8	0	0	72	16777215	60
+1800	A light grip on the bars sets the tone for the rest of your upper body, so lighten up	8	0	0	72	16777215	70
+1800	Let that light grip carry up through your elbows, shoulders, neck & jaw	8	0	0	72	16777215	80
+1800	Relax the rest of your face while you're at it...	8	0	0	72	16777215	90
+1800	a slack expression or a smile are your best bets	8	0	0	72	16777215	100
+1800	Let's revisit the knees briefly - tracking like pistons?	8	0	0	72	16777215	120
+1800	How about your hips? Are you wobbling from one side to the other?	8	0	0	72	16777215	130
+1800	A common tendency during slow-cadence efforts but one you want to correct	8	0	0	72	16777215	140
+1800	It takes a lot of concentration to pedal slowly and forcefully...	8	0	0	72	16777215	150
+1800	and a lot of concentration to keep that upper body steady & relaxed	8	0	0	72	16777215	160
+1800	Keep that power on target and stay smooth & relaxed, no matter how slowly your spinning	8	0	0	72	16777215	180
+1800	30 seconds of slow, pretty pedalstrokes	8	0	0	72	16777215	210
+2040	Great job!	8	0	0	72	16777215	-1
+2040	Take inventory over the next minute	8	0	0	72	16777215	60
+2040	If your knees are aching, the rest of your workout is 90rpm or higher	8	0	0	72	16777215	70
+2040	Any sharp knee pain, your workout ends here unless you've corrected the matter	8	0	0	72	16777215	80
+2040	High fatigue & degrading form? Drop the Workout Intensity another 5%...	8	0	0	72	16777215	90
+2040	or bring your cadence up a bit and see if that improves your stamina	8	0	0	72	16777215	100
+2040	OK, back at it!	8	0	0	72	16777215	110
+2160	Find your spin, keep your power and let's talk purpose	8	0	0	72	16777215	-1
+2160	Different coaches advocate slow-force efforts for different reasons	8	0	0	72	16777215	10
+2160	Some believe it's how you transition gym strength to bike strength	8	0	0	72	16777215	20
+2160	Some say it innervates fast-twitch fibers & increases neuromuscular communication	8	0	0	72	16777215	30
+2160	We'll use it to improve muscle control & strengthen connective tissue	8	0	0	72	16777215	40
+2160	Plenty of holes to poke in the many theories, but no arguing with...	8	0	0	72	16777215	50
+2160	improvements in control and stronger tendons & ligaments	8	0	0	72	16777215	60
+2160	It's much easier to learn a movement when it's done slowly...	8	0	0	72	16777215	70
+2160	you can really pick it apart	8	0	0	72	16777215	80
+2160	As your technique improves, you can further the challenge...	8	0	0	72	16777215	90
+2160	(and your capabilities) with increases in speed	8	0	0	72	16777215	100
+2160	So spend 30 seconds watching your left knee	8	0	0	72	16777215	110
+2160	Now spend 30 watching your right knee	8	0	0	72	16777215	120
+2160	Chances are, you saw a hitch in one or the other, probably at the top of your pedalstroke	8	0	0	72	16777215	130
+2160	Now you've recognized it and just knowing it's there is a step in the right direction	8	0	0	72	16777215	140
+2160	And you can start to retrain your movement patterns	8	0	0	72	16777215	150
+2160	This is a long process though, and the more herky-jerky your pedalstroke...	8	0	0	72	16777215	160
+2160	the longer this process promises to be	8	0	0	72	16777215	170
+2160	But as long as you aren't in pain, there's no big hurry	8	0	0	72	16777215	180
+2160	If there is pain though, use a quicker spin &/or drop the Workout Intensity	8	0	0	72	16777215	190
+2160	Connective tissues take much longer to strengthen than muscles	8	0	0	72	16777215	200
+2160	And they take even longer to heal should you damage them	8	0	0	72	16777215	210
+2160	But now you have a better chance of catching injuries in their early stages	8	0	0	72	16777215	220
+2160	One way to do this is by refusing to work through joint pain	8	0	0	72	16777215	230
+2400	Alright! Another one down	8	0	0	72	16777215	-1
+2400	Spin easy & quickly for a couple minutes...	8	0	0	72	16777215	10
+2400	stretch lightly if you're especially tight	8	0	0	72	16777215	20
+2400	Time to reassess again, determine how best to keep things productive	8	0	0	72	16777215	60
+2400	Chances are, you're doing just fine...	8	0	0	72	16777215	70
+2400	but if you're falling apart in any way then modify the workout	8	0	0	72	16777215	80
+2400	A 5% reduction in Workout Intensity...	8	0	0	72	16777215	90
+2400	can make a bigger difference than you might think...	8	0	0	72	16777215	100
+2400	and it doesn't change the workout's intended benefit much at all	8	0	0	72	16777215	110
+2520	Round 6!	8	0	0	72	16777215	-1
+2520	You know the drill, slow it down, hold the power	8	0	0	72	16777215	10
+2520	Let's spend this interval with added focus on your power output	8	0	0	72	16777215	30
+2520	Specifically, let's make it as smooth as possible	8	0	0	72	16777215	40
+2520	How much does your power fluctuate up & down? 10, 20...30 watts?	8	0	0	72	16777215	60
+2520	Try to cut that in half by "rounding out" your pedalstroke	8	0	0	72	16777215	70
+2520	Pedaling slowly makes it easy to break your pedalstroke into its 4 quadrants	8	0	0	72	16777215	80
+2520	For 30 seconds, think of how well you're kicking over the top - 10 o'clock to 2 o'clock	8	0	0	72	16777215	90
+2520	30 seconds, think of pulling across the bottom a little more actively - 4 o'clock to 8 o'clock	8	0	0	72	16777215	120
+2520	Now target your upstroke for 30 seconds - knees to the sky, heels to the butt	8	0	0	72	16777215	150
+2520	Now let's get the "full pull"...	8	0	0	72	16777215	180
+2520	pull each heel across the bottom then pull it toward your butt	8	0	0	72	16777215	190
+2520	Put it all together for 30 seconds and make it look effortless	8	0	0	72	16777215	210
+2760	Nice! Breaktime	8	0	0	72	16777215	-1
+2760	2 intervals left and it's all about damage control	8	0	0	72	16777215	60
+2760	Heavily fatigued riders have 2 options: reduce power or increase cadence	8	0	0	72	16777215	70
+2760	Decide which is more in line with your goals, limiters or weaknesses	8	0	0	72	16777215	80
+2760	Fresher riders simply maintain consistency, both in power & form	8	0	0	72	16777215	90
+2880	OK, get to where ya need to be	8	0	0	72	16777215	-1
+2880	A slower pedalstroke really targets the muscular system...	8	0	0	72	16777215	30
+2880	so heavy muscle fatigue is normal even at subthreshold power outputs	8	0	0	72	16777215	40
+2880	This is why high-cadence spinning lends better to endurance than low-rpm grinding	8	0	0	72	16777215	50
+2880	Just consider the difference in muscle contractions...	8	0	0	72	16777215	60
+2880	quick, short contractions vs slow, forceful contractions	8	0	0	72	16777215	70
+2880	In terms of preserving your muscles, shorter, lighter, more aerobic contractions are key	8	0	0	72	16777215	80
+2880	Just like lifting weights, really	8	0	0	72	16777215	90
+2880	Consider the muscle toll curling a weight you can barely move 3 times	8	0	0	72	16777215	100
+2880	Now compare that to the toll a far lighter, 25-30 repetition weight would exact	8	0	0	72	16777215	110
+2880	Apples and oranges, right?	8	0	0	72	16777215	120
+2880	So slow-force work isn't the best way to ride in competition...	8	0	0	72	16777215	130
+2880	and it's a downright risky endeavor when you're 40 miles from home	8	0	0	72	16777215	140
+2880	So when you work on force outdoors, keep this "toll concept" in mind...	8	0	0	72	16777215	150
+2880	very costly in terms of muscle stress	8	0	0	72	16777215	160
+2880	1 more minute in this one!	8	0	0	72	16777215	180
+2880	Try to smooth out your power over this final 45 seconds...	8	0	0	72	16777215	190
+2880	by kicking forward, pulling back, lifting up	8	0	0	72	16777215	200
+2880	Kick, pull, lift...pretty!	8	0	0	72	16777215	210
+3120	Nicely done, only 1 to go after a quick break	8	0	0	72	16777215	-1
+3120	If you've already dropped your Workout Intensity 10%...	8	0	0	72	16777215	60
+3120	utilize a quicker cadence instead of losing another 5%	8	0	0	72	16777215	70
+3120	And be honest about any dull aching in your knees or hips...	8	0	0	72	16777215	80
+3120	low back too!	8	0	0	72	16777215	90
+3120	Force work puts a different type of stress on the body...	8	0	0	72	16777215	100
+3120	so listen to those aches & pains	8	0	0	72	16777215	110
+3240	Last one! Settle in	8	0	0	72	16777215	-1
+3240	I've talked you to death, so just remember a few things...	8	0	0	72	16777215	10
+3240	Knees track like pistons...	8	0	0	72	16777215	20
+3240	upper body is still and relaxed...	8	0	0	72	16777215	30
+3240	and power is on target regardless of cadence	8	0	0	72	16777215	40
+3240	2 minutes in the workout!	8	0	0	72	16777215	120
+3240	Again, knees like pistons, calm upper body...	8	0	0	72	16777215	130
+3240	and steady & on-target power	8	0	0	72	16777215	140
+3240	Final minute!	8	0	0	72	16777215	180
+3240	Watch those knees & steady that power	8	0	0	72	16777215	190
+3240	30!	8	0	0	72	16777215	210
+3240	So pretty that it looks effortless!	8	0	0	72	16777215	220
+3480	Excellent job!	8	0	0	72	16777215	-1
+3480	Spin out the heaviness & we'll see you next time!	8	0	0	72	16777215	10
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+0	240	Active Recovery 1
+240	420	Sweet Spot 1
+720	960	Sweet Spot 2
+1080	1320	Sweet Spot 3
+1440	1680	Sweet Spot 4
+1800	2040	Sweet Spot 5
+2160	2400	Sweet Spot 6
+2520	2760	Sweet Spot 7
+2880	3120	Sweet Spot 8
+3240	3480	Sweet Spot 9
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

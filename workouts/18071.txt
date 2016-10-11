@@ -1,0 +1,304 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Dicks,94,102. Created by 54949.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	76
+12	76
+12	96
+15	96
+15	10
+16	10
+16	52
+20.83	52
+20.83	70
+21	105
+21	105
+29	105
+29	40
+29.83	40
+29.83	70
+30	105
+30	105
+38	105
+38	40
+38.83	40
+38.83	70
+39	105
+39	105
+47	105
+47	41
+47.83	41
+47.83	70
+48	105
+48	105
+56	105
+56	40
+56.83	40
+56.83	70
+57	105
+57	105
+65	105
+65	50
+70	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Let's start things off with 20 minutes of warmup once again	8	0	0	72	16777215	10
+0	Use a quick, light spin over these first 6 minutes	8	0	0	72	16777215	20
+360	Go ahead and ramp things up a little & open your lungs a bit	8	0	0	72	16777215	0
+360	Try to keep your spin above 85rpm...	8	0	0	72	16777215	10
+360	quicker if you like, but no need to go quicker than 100rpm	8	0	0	72	16777215	20
+720	Final 3 minutes, just short of FTP	8	0	0	72	16777215	0
+720	Quick spin, at least 90rpm, a little higher if you can control it...	8	0	0	72	16777215	10
+720	and stay fluid & relaxed	8	0	0	72	16777215	20
+720	Draw long, full belly-breaths...	8	0	0	72	16777215	30
+720	then completely & actively empty your lungs	8	0	0	72	16777215	40
+900	As always, feel free to backpedal for a minute...	8	0	0	72	16777215	0
+900	come to a stop & sit up if you're using the LSCT warmup...	8	0	0	72	16777215	10
+900	or just pedal really easy for a minute while you recover	8	0	0	72	16777215	20
+960	This next round of FTP-boosting muscle endurance work...	8	0	0	72	16777215	0
+960	concludes the set of workouts comprised of 8-minute efforts...	8	0	0	72	16777215	10
+960	spent at just the other side of FTP, 105% FTP to be specific	8	0	0	72	16777215	20
+960	This final week tacks on yet another interval to further stretch...	8	0	0	72	16777215	30
+960	both your ability to ride above your current sustainable power...	8	0	0	72	16777215	40
+960	and your ability to repeatedly endure the associated discomfort	8	0	0	72	16777215	50
+960	All part & parcel with a higher FTP though, a necessary evil ;-)	8	0	0	72	16777215	60
+960	By now you've grown more accustomed to your improved FTP...	8	0	0	72	16777215	70
+960	or at least a little more adept at holding this power output	8	0	0	72	16777215	80
+960	So whether you've increased the length of time you can hold FTP...	8	0	0	72	16777215	90
+960	the percentage of FTP you can sustain...	8	0	0	72	16777215	100
+960	or the ideal combination of the two, improvement is looming	8	0	0	72	16777215	110
+960	But it might not be evident for a couple weeks yet...	8	0	0	72	16777215	120
+960	following next week's recovery workout schedule	8	0	0	72	16777215	130
+960	With the first interval about a minute away...	8	0	0	72	16777215	230
+960	start to formulate your strategy in two regards	8	0	0	72	16777215	240
+960	First, how much of the interval do you plan to spend in your aero position?	8	0	0	72	16777215	250
+960	Second, what cadence are you going to try to hold?	8	0	0	72	16777215	260
+960	It's best to be clear on this before you begin the interval...	8	0	0	72	16777215	270
+960	so decide now and then try to follow through with your plan	8	0	0	72	16777215	280
+1250	10-second ramp into your first effort...	8	0	0	72	16777215	0
+1260	which is 8 minutes long at 5% above FTP	8	0	0	72	16777215	0
+1260	If you've noticed in previous workouts that the first interval...	8	0	0	72	16777215	10
+1260	is relatively harder than the next couple intervals...	8	0	0	72	16777215	20
+1260	Feel free to drop your Workout Intensity 5%...	8	0	0	72	16777215	30
+1260	for all or part of this first interval	8	0	0	72	16777215	40
+1260	Better to be safe than blown up before the work really begins	8	0	0	72	16777215	50
+1260	1 minute in, make sure your cadence is on target...	8	0	0	72	16777215	60
+1260	and see to it that you're breathing fully & effectively	8	0	0	72	16777215	70
+1260	Air in through the mouth & nose then strongly out through the mouth only	8	0	0	72	16777215	80
+1260	Two minutes in, see if you can get aero without losing power	8	0	0	72	16777215	120
+1260	With your increased FTP, you may temporarily need to revert to short periods of aero time	8	0	0	72	16777215	150
+1260	Shoot for 30 seconds and then grow it from there	8	0	0	72	16777215	160
+1260	Draw full, belly-breaths & fully empty your lungs during each exhale	8	0	0	72	16777215	160
+1260	Start kicking around your "aero time" goals for this workout	8	0	0	72	16777215	170
+1260	By now, you should be spending much of each interval in aero	8	0	0	72	16777215	180
+1260	Maybe even entire intervals, BUT...	8	0	0	72	16777215	190
+1260	Target Power is still priority #1	8	0	0	72	16777215	200
+1260	Halfway through this first effort	8	0	0	72	16777215	240
+1260	Just keep moving in & out of your aero tuck...	8	0	0	72	16777215	250
+1260	spending as much time as possible on Target & down low	8	0	0	72	16777215	260
+1260	Also, make certain your cadence doesn't falter often if at all	8	0	0	72	16777215	270
+1260	3 more minutes, just focus on surviving 1 minute at a time	8	0	0	72	16777215	300
+1260	And find some encouragement in the fact that...	8	0	0	72	16777215	310
+1260	the first interval is very often the hardest of the workout	8	0	0	72	16777215	320
+1260	The very reason a 5% intensity decrease was recommended...	8	0	0	72	16777215	330
+1260	Just a slight drop in your first interval's Workout Intensity...	8	0	0	72	16777215	340
+1260	can completely save a workout & keep each interval's quality high	8	0	0	72	16777215	350
+1260	2 minutes! Smooth & relaxed	8	0	0	72	16777215	360
+1260	Let the excess tension in your neck fade away	8	0	0	72	16777215	370
+1260	Loosen your grip to the point it's just firm enough to control your bike...	8	0	0	72	16777215	380
+1260	Even if you aren't actually moving ;-)	8	0	0	72	16777215	390
+1260	Final minute, ride with excellent form	8	0	0	72	16777215	420
+1260	Don't sway side to side, DO keep your pedalstrokes fluid & controlled	8	0	0	72	16777215	430
+1260	If it helps, lightly kick your toes forward & pull heels backward	8	0	0	72	16777215	440
+1260	Final 30 seconds!	8	0	0	72	16777215	450
+1740	Well done! Spin lightly or backpedal	8	0	0	72	16777215	2
+1740	These breaks are still very short, so make each second easy	8	0	0	72	16777215	12
+1790	OK, time to ramp into interval #2	8	0	0	72	16777215	0
+1800	Same as the first one unless you dropped your intensity	8	0	0	72	16777215	0
+1800	In which case, it's time to raise it back up	8	0	0	72	16777215	10
+1800	You can take a minute or two to get there, but no longer	8	0	0	72	16777215	20
+1800	Even at full intensity, this interval could well seem more manageable...	8	0	0	72	16777215	30
+1800	than that first interval, especially if you take a little longer to warm	8	0	0	72	16777215	40
+1800	One more minute to adjust to the workload...	8	0	0	72	16777215	60
+1800	and then you can elect to add the OTS transition drills	8	0	0	72	16777215	70
+1800	These Out-of-the-Saddle drills are good practice transitioning...	8	0	0	72	16777215	80
+1800	from seated to standing, standing to seated	8	0	0	72	16777215	90
+1800	But as importantly, they serve to break up the interval's monotony	8	0	0	72	16777215	100
+1800	A somewhat useful skill & very welcome distraction	8	0	0	72	16777215	110
+1800	Come up out of the saddle for a few seconds...	8	0	0	72	16777215	120
+1800	as few as 5 seconds as many as 20	8	0	0	72	16777215	130
+1800	Return to the saddle if you haven't already	8	0	0	72	16777215	140
+1800	And there you have it, saddle transitions on the minute	8	0	0	72	16777215	150
+1800	So at the top of every minute, stand for 5-20 seconds	8	0	0	72	16777215	160
+1800	When you return to the saddle, drop directly into aero	8	0	0	72	16777215	170
+1800	Come on up, 5-20 seconds	8	0	0	72	16777215	180
+1800	Make sure most of your weight is on your feet	8	0	0	72	16777215	190
+1800	Have a seat & return to your aero position as soon as possible	8	0	0	72	16777215	200
+1800	If you need to sit upright for 10-15 seconds to catch your breath...	8	0	0	72	16777215	210
+1800	consider standing at a slower cadence	8	0	0	72	16777215	220
+1800	Pedaling too quickly while standing can really rev up the heart rate	8	0	0	72	16777215	230
+1800	Come on up, 5-20 seconds	8	0	0	72	16777215	240
+1800	Try to stay soft on your hands, weight (power) on your feet	8	0	0	72	16777215	250
+1800	Back down, into aero ASAP	8	0	0	72	16777215	260
+1800	Get ready to rise IF these drills aren't dragging down your power	8	0	0	72	16777215	290
+1800	Up, 5 to 20	8	0	0	72	16777215	300
+1800	annnnnnd back down, get low as soon as you can	8	0	0	72	16777215	320
+1800	These drills are great for cutting into each minute...	8	0	0	72	16777215	330
+1800	and they can make the minutes tick by with "ease"	8	0	0	72	16777215	340
+1800	Final two minutes! Up if your power's good	8	0	0	72	16777215	360
+1800	Back down, find your seated cadence, return to aero	8	0	0	72	16777215	380
+1800	If your HR is still way up there, make sure you're breathing well	8	0	0	72	16777215	390
+1800	Last one! Up	8	0	0	72	16777215	420
+1800	And down, if you're not there already	8	0	0	72	16777215	440
+1800	Final 30 seconds, make it look easy	8	0	0	72	16777215	450
+2280	Great job, soak in the recovery	8	0	0	72	16777215	2
+2280	All 60 seconds of it ;-)	8	0	0	72	16777215	12
+2330	Start ramping things up for round 3	8	0	0	72	16777215	0
+2340	As soon as you set your cadence & adjust to the workload...	8	0	0	72	16777215	0
+2340	settle into your aero position without sacrificing any power	8	0	0	72	16777215	10
+2340	As you do so, pay particular attention to your sit bones	8	0	0	72	16777215	20
+2340	The wings of the saddle are meant to bear your body's weight...	8	0	0	72	16777215	30
+2340	but only if you properly position yourself to utilize them	8	0	0	72	16777215	40
+2340	When seated upright, it should be pretty easy to anchor your hips...	8	0	0	72	16777215	50
+2340	but as you settle into a lower, more aero position...	8	0	0	72	16777215	60
+2340	it's common for riders to tip forward onto their pubic bones	8	0	0	72	16777215	70
+2340	NOT desirable	8	0	0	72	16777215	80
+2340	But if you don't have the flexibility to get low while remaining anchored...	8	0	0	72	16777215	90
+2340	you might have to alter your bike fit temporarily...	8	0	0	72	16777215	100
+2340	and/or target your low back & hamstring flexibility	8	0	0	72	16777215	110
+2340	There's also a potential issue with deficient abdominal strength...	8	0	0	72	16777215	120
+2340	but we'll keep the emphasis on fit & flexibility for now	8	0	0	72	16777215	130
+2340	For now, each time you settle into your aero riding position...	8	0	0	72	16777215	140
+2340	see to it that your sit bones feel the saddle as you lower your body	8	0	0	72	16777215	150
+2340	As soon as they lose contact, get it back	8	0	0	72	16777215	160
+2340	This could mean reducing the severity of your position	8	0	0	72	16777215	170
+2340	Become slightly less aero for now in order to become more aero...	8	0	0	72	16777215	180
+2340	and increasingly powerful as your fitness & flexibility improve	8	0	0	72	16777215	190
+2340	Halfway through this round, still anchored to the saddle?	8	0	0	72	16777215	240
+2340	A dead giveaway that you aren't anchored is rocking hips	8	0	0	72	16777215	250
+2340	So if you're teetering on your pubic bone...	8	0	0	72	16777215	260
+2340	and rocking from side to side with each powerful pedalstroke...	8	0	0	72	16777215	270
+2340	chances are high that your weight is unfavorably distributed	8	0	0	72	16777215	280
+2340	This can cost you power & it can lead to skin irritation...	8	0	0	72	16777215	290
+2340	even the dreaded saddle sore, yikes	8	0	0	72	16777215	300
+2340	So anchor them sit bones! ;-)	8	0	0	72	16777215	310
+2340	Final two minutes, make sure you're staying relaxed	8	0	0	72	16777215	360
+2340	Start with your face, jaw & neck	8	0	0	72	16777215	370
+2340	Let your expression go slack, loosen your jaw & even your lips	8	0	0	72	16777215	380
+2340	Then allow this tension release to travel down your body...	8	0	0	72	16777215	390
+2340	all the way to your feet & out through your toes	8	0	0	72	16777215	400
+2340	Final minute! Stay fluid & relaxed...	8	0	0	72	16777215	420
+2340	and aero if at all possible	8	0	0	72	16777215	430
+2340	Final 30! Preeeeeeeetty	8	0	0	72	16777215	450
+2820	Good, try to spin out some fatigue	8	0	0	72	16777215	2
+2870	Round 4, ding ding	8	0	0	72	16777215	0
+2880	Take a minute, settle into your cadence & effort level	8	0	0	72	16777215	0
+2880	Also, start to establish a breathing rhythm...	8	0	0	72	16777215	10
+2880	that relies on those conscious, effective belly breaths	8	0	0	72	16777215	20
+2880	Let's try to pass these last several minutes with some drills	8	0	0	72	16777215	50
+2880	For 30 seconds, watch your left knee at the top of each pedalstroke	8	0	0	72	16777215	60
+2880	Try to make it track straight up, straight down	8	0	0	72	16777215	70
+2880	Think of your knee as a piston, no lateral movement, none	8	0	0	72	16777215	80
+2880	Go ahead & switch to your right knee at the top of each stroke	8	0	0	72	16777215	90
+2880	If it wavers, try to limit how much	8	0	0	72	16777215	100
+2880	If possible, completely eliminate any side-to-side	8	0	0	72	16777215	110
+2880	Drop down into aero & switch back to the left knee, 30 seconds	8	0	0	72	16777215	120
+2880	Still aero, switch to your right knee	8	0	0	72	16777215	150
+2880	If you need to sit up, take the next 30 seconds	8	0	0	72	16777215	180
+2880	Annnnd back into your aero position for 30 seconds	8	0	0	72	16777215	210
+2880	Stay aero if you can & lightly kick both feet forward	8	0	0	72	16777215	240
+2880	Kick over the top of each pedalstroke...	8	0	0	72	16777215	250
+2880	without negelecting the rest of the pedalstroke	8	0	0	72	16777215	260
+2880	Change your focus to pulling back across the bottom, both sides	8	0	0	72	16777215	270
+2880	Almost like you're scraping mud of the soles of your shoes	8	0	0	72	16777215	280
+2880	Again, without neglecting the rest of your spin	8	0	0	72	16777215	290
+2880	Back to the light kick over the top...	8	0	0	72	16777215	300
+2880	toes into the fronts of your shoes	8	0	0	72	16777215	310
+2880	Once more, bottome of the pedalstroke...	8	0	0	72	16777215	330
+2880	lightly pulling your heels into the backs of your shoes	8	0	0	72	16777215	340
+2880	Excellent, sit up for 30 seconds if you need a "break"	8	0	0	72	16777215	360
+2880	Less than 2 minutes to go!	8	0	0	72	16777215	370
+2880	Spend the upcoming 30 seconds lightly lifting each knee...	8	0	0	72	16777215	390
+2880	almost as though you're juggling a soccer ball	8	0	0	72	16777215	400
+2880	Final minute!	8	0	0	72	16777215	420
+2880	See if you can put the three together...	8	0	0	72	16777215	430
+2880	by pulling across the bottom, lifting your knees & kicking over the top	8	0	0	72	16777215	440
+2880	30 seconds...pull, lift, kick	8	0	0	72	16777215	450
+2880	The downstroke will handle itself	8	0	0	72	16777215	460
+2880	Final 10 seconds!	8	0	0	72	16777215	470
+3360	Really well done, sit up & spin easy	8	0	0	72	16777215	2
+3410	Back at it! Ramp into your last effort of the day	8	0	0	72	16777215	0
+3420	While the fatigue is at its highest point by now...	8	0	0	72	16777215	0
+3420	make sure to spend time in aero during this final round	8	0	0	72	16777215	10
+3420	See if you can still get low even though you're tired	8	0	0	72	16777215	20
+3420	And do it without sacrificing, 1) your power & 2) your cadence	8	0	0	72	16777215	30
+3420	Let's close the workout again with the saddle-position drills...	8	0	0	72	16777215	40
+3420	where you scoot forward on the saddle for 20 seconds at a time	8	0	0	72	16777215	50
+3420	Scoot forward slightly	8	0	0	72	16777215	60
+3420	Same spin, same power, 10 more seconds	8	0	0	72	16777215	70
+3420	Good, ease back & anchor your sit bones	8	0	0	72	16777215	80
+3420	Again, temporarily riding the nose of the saddle...	8	0	0	72	16777215	90
+3420	is a time trial equivalent to standing for more power	8	0	0	72	16777215	100
+3420	And far more aerodynamic than standing to gain a little power	8	0	0	72	16777215	110
+3420	Scoot foward a little bit	8	0	0	72	16777215	120
+3420	This might feel a little uncomfortable but more powerful	8	0	0	72	16777215	130
+3420	Ease back, glue your sit bones to the wings of your saddle	8	0	0	72	16777215	140
+3420	Regardless of how low you ride...	8	0	0	72	16777215	150
+3420	you should always be able to keep your sit bones anchored	8	0	0	72	16777215	160
+3420	Otherwise, you're hinging your weight on too-soft tissue	8	0	0	72	16777215	170
+3420	Ease forward, how far forward is up to you...	8	0	0	72	16777215	180
+3420	and a bit of trial & error is definitely part of the process	8	0	0	72	16777215	190
+3420	Scoot back, anchor your sit bones	8	0	0	72	16777215	200
+3420	Halfway there! Scoot forward	8	0	0	72	16777215	240
+3420	And feel free to skip the drills any time	8	0	0	72	16777215	250
+3420	You've walked that line between productive drills...	8	0	0	72	16777215	260
+3420	and annoying ones	8	0	0	72	16777215	270
+3420	Cut them off when they don't feel productive	8	0	0	72	16777215	280
+3420	Again, scoot forward & find some more power	8	0	0	72	16777215	300
+3420	Or more accurately, find the same power more easily	8	0	0	72	16777215	310
+3420	Ease back, same power, same spin	8	0	0	72	16777215	320
+3420	Final 2 minutes! Come forward	8	0	0	72	16777215	360
+3420	Or don't, your call	8	0	0	72	16777215	370
+3420	If/When you scoot forward on the saddle...	8	0	0	72	16777215	380
+3420	it should feel noticeably more powerful	8	0	0	72	16777215	390
+3420	And while you aren't trying to generate more power today...	8	0	0	72	16777215	400
+3420	you should feel that you could if you needed to	8	0	0	72	16777215	410
+3420	Last time! Ease forward	8	0	0	72	16777215	420
+3420	Unload the quads a little, use your gluts a bit more	8	0	0	72	16777215	430
+3420	Ease back, ride out this final interval...	8	0	0	72	16777215	440
+3420	with so little body movement that it looks like you're hardly working	8	0	0	72	16777215	450
+3420	Final 10 seconds!	8	0	0	72	16777215	470
+3900	Really well done, clear those legs	8	0	0	72	16777215	0
+3900	And get your post-workout nutrition rolling	8	0	0	72	16777215	10
+3900	and start resting up for the weekend's abuse ;-)	8	0	0	72	16777215	20
+3900	We'll see you next time	8	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	4200	Workout
+360	720	Tempo 1
+720	900	Threshold 1
+960	1250	Active Recovery 1
+1250	1260	Sweet Spot 1
+1260	1740	Threshold 2
+1790	1800	Sweet Spot 2
+1800	2280	Threshold 3
+2330	2340	Sweet Spot 3
+2340	2820	Threshold 4
+2870	2880	Sweet Spot 4
+2880	3360	Threshold 5
+3410	3420	Sweet Spot 5
+3420	3900	Threshold 6
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

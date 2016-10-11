@@ -1,0 +1,355 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Brewer,87,113. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	90
+7	90
+7	40
+10	40
+10	105
+10.5	105
+10.5	40
+11	40
+11	130
+11.5	130
+11.5	40
+12	40
+12	150
+12.5	150
+12.5	40
+17	50
+17	85
+18	85
+18	85
+19	95
+19	95
+20	95
+20	95
+20.5	105
+20.5	105
+21.5	105
+21.5	105
+22	130
+22	130
+22.5	130
+22.5	130
+23	150
+23	40
+30	50
+30	85
+31	85
+31	85
+32	95
+32	95
+33	95
+33	95
+33.5	105
+33.5	105
+34.5	105
+34.5	105
+35	130
+35	130
+35.5	130
+35.5	130
+36	150
+36	40
+43	50
+43	85
+44	85
+44	85
+45	95
+45	95
+46	95
+46	95
+46.5	105
+46.5	105
+47.5	105
+47.5	105
+48	130
+48	130
+48.5	130
+48.5	130
+49	150
+49	40
+56	50
+56	85
+57	85
+57	85
+58	95
+58	95
+59	95
+59	95
+59.5	105
+59.5	105
+60.5	105
+60.5	105
+61	130
+61	130
+61.5	130
+61.5	130
+62	150
+62	40
+69	50
+69	85
+70	85
+70	85
+71	95
+71	95
+72	95
+72	95
+72.5	105
+72.5	105
+73.5	105
+73.5	105
+74	130
+74	130
+74.5	130
+74.5	130
+75	150
+75	40
+82	50
+82	85
+83	85
+83	85
+84	95
+84	95
+85	95
+85	95
+85.5	105
+85.5	105
+86.5	105
+86.5	105
+87	130
+87	130
+87.5	130
+87.5	130
+88	150
+88	40
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Today's workout will be a refreshing change of pace	8	0	0	72	16777215	1
+0	Instead of doing all of your efforts from the saddle...	8	0	0	72	16777215	10
+0	we're going to work on our out-of-the-saddle efforts as well	8	0	0	72	16777215	20
+0	So we'll kick things off with a solid warmup	8	0	0	72	16777215	30
+240	Spin quickly, at least 85rpm but preferably more like 95rpm	8	0	0	72	16777215	0
+420	Now it's time for some more intense clearing efforts	8	0	0	72	16777215	170
+600	Spin quickly through these, +100rpm ideally	8	0	0	72	16777215	0
+630	Lose the power but keep the leg speed	8	0	0	72	16777215	0
+660	Strong controlled breaths	8	0	0	72	16777215	0
+720	Last time, lots of power & lots of leg speed	8	0	0	72	16777215	0
+750	Alright, while you catch your breath...	8	0	0	72	16777215	0
+750	you'll be ramping towards your first set	8	0	0	72	16777215	10
+750	Think of these intervals as hill repeats	8	0	0	72	16777215	20
+750	This hill is one with surges & false flats...	8	0	0	72	16777215	30
+750	and you'll be pushing hard any time the road kicks upward...	8	0	0	72	16777215	40
+750	because you're a winner ;-)	8	0	0	72	16777215	50
+750	Every time you hit an increasing interval...	8	0	0	72	16777215	210
+750	it's time to stand	5	0	0	72	16777215	220
+750	When you're sitting, maintain the normal 85-95rpm	8	0	0	72	16777215	230
+750	Then when standing, your cadence will naturally drop...	8	0	0	72	16777215	240
+750	but try to keep it as quick as is comfortable	8	0	0	72	16777215	250
+750	If it drops too low, you'll flood your legs & bog probably down	8	0	0	72	16777215	260
+1020	Here's the hill! Roll into this one gradually	8	0	0	72	16777215	0
+1080	Now get out of the saddle and push!	5	0	0	72	16777215	0
+1140	Here's a false flat, get back in the saddle	8	0	0	72	16777215	0
+1200	Another kick. Stand up!	5	0	0	72	16777215	0
+1230	It's easing off, take a seat	5	0	0	72	16777215	0
+1290	Almost to the top now, stand & grind!	5	0	0	72	16777215	0
+1320	Last rest before the final kick, have a seat & spin quickly	8	0	0	72	16777215	0
+1350	Last push, get up & go!	5	0	0	72	16777215	0
+1380	Well done!	5	0	0	72	16777215	10
+1380	Spin & relax	5	0	0	72	16777215	20
+1380	If you need to, backpedal a few times	8	0	0	72	16777215	30
+1380	Now that you know the general profile...	8	0	0	72	16777215	300
+1380	we'll let you work through this next one on your own	8	0	0	72	16777215	310
+1380	Keep a steady build coming into the climb	8	0	0	72	16777215	320
+1380	When it's time to stand, we'll remind you by saying "Up!"	8	0	0	72	16777215	330
+1380	When it's time to sit, we'll say "Down"	8	0	0	72	16777215	340
+1380	The rest is up to you :-)	8	0	0	72	16777215	350
+1800	Roll into it	5	0	0	72	16777215	0
+1860	Up!	8	0	0	72	16777215	0
+1920	Down	3	0	0	72	16777215	0
+1980	Up!	3	0	0	72	16777215	0
+2010	Down	3	0	0	72	16777215	0
+2070	Up!	3	0	0	72	16777215	0
+2100	Down	3	0	0	72	16777215	0
+2130	Up!	8	0	0	72	16777215	0
+2160	Nice work	5	0	0	72	16777215	10
+2160	Take some time to catch your breath	8	0	0	72	16777215	20
+2160	This time, we'll focus on shifting appropriately when climbing	8	0	0	72	16777215	240
+2160	Since you already know when to stand & when to sit...	8	0	0	72	16777215	250
+2160	we'll just remind you when and how to shift	8	0	0	72	16777215	260
+2160	When climbing, gear selection is crucial	8	0	0	72	16777215	280
+2160	To an extent, it's up to personal preference...	8	0	0	72	16777215	290
+2160	but in general, keeping a quicker cadence is preferred...	8	0	0	72	16777215	300
+2160	because if you flood your muscles early on...	8	0	0	72	16777215	310
+2160	it is nearly impossible to recover when on a steep grade	8	0	0	72	16777215	320
+2160	So be ready & shift before you hit the steep sections	8	0	0	72	16777215	330
+2160	Shifting while standing is tricky & can be dangerous...	8	0	0	72	16777215	340
+2160	so pick up your cadence higher than normal while sitting...	8	0	0	72	16777215	350
+2160	then shift up into a harder gear & rise	8	0	0	72	16777215	360
+2160	That way you won't be flooding your legs right when you stand	8	0	0	72	16777215	370
+2160	Last thing...	5	0	0	72	16777215	380
+2160	When preparing to stand, it's normal to shift up 1-2 times	8	0	0	72	16777215	390
+2160	And when going from standing to sitting...	8	0	0	72	16777215	400
+2160	it's normal to shift down 1-2 times	8	0	0	72	16777215	410
+2580	Time to go! Roll into this one	5	0	0	72	16777215	0
+2580	Speed your cadence up & shift up just before the next interval	8	0	0	72	16777215	50
+2640	Up!	3	0	0	72	16777215	0
+2700	Shift down 1-2 times & take a seat	8	0	0	72	16777215	0
+2700	Increase your cadence & shift up 1-2 times just prior to standing	8	0	0	72	16777215	50
+2760	Up-shift & stand!	5	0	0	72	16777215	0
+2790	Down-shift & sit	5	0	0	72	16777215	0
+2850	Up & shift!	5	0	0	72	16777215	0
+2880	Down & shift	5	0	0	72	16777215	0
+2910	Up & shift!	5	0	0	72	16777215	0
+2940	Nice job!	5	0	0	72	16777215	10
+2940	Now we'll work on your technique while sitting	8	0	0	72	16777215	300
+2940	Although it may seem no different than normal...	8	0	0	72	16777215	310
+2940	sitting while climbing is significantly different	8	0	0	72	16777215	320
+2940	Generally the cadence is slightly lower...	8	0	0	72	16777215	330
+2940	and the resistance is greater...	8	0	0	72	16777215	340
+2940	causing your body to recruit rarely used muscle fibers...	8	0	0	72	16777215	350
+2940	thereby making the work seem extra hard	8	0	0	72	16777215	360
+2940	Generally, your heart rate is elevated...	8	0	0	72	16777215	370
+2940	and if you are at high elevation, you're gasping for oxygen	8	0	0	72	16777215	380
+2940	But we'll make it manageable, don't worry ;-)	8	0	0	72	16777215	390
+2940	If you wish, raise your front wheel with a wheel block	8	0	0	72	16777215	400
+2940	That can make it feel a bit more realistic	8	0	0	72	16777215	410
+3360	Bring it up	5	0	0	72	16777215	0
+3360	Alright, now that you're in the swing of things...	8	0	0	72	16777215	10
+3360	first pay attention to where you are grabbing the bars	8	0	0	72	16777215	20
+3360	Don't climb in the drops, it's rarely justified	8	0	0	72	16777215	30
+3360	Instead, climb from the hoods, or better yet, the tops	8	0	0	72	16777215	40
+3360	This opens your hips & chest - easier breathing & more power	8	0	0	72	16777215	50
+3420	Up!	3	0	0	72	16777215	0
+3480	Down	3	0	0	72	16777215	0
+3480	When sitting, resist the urge to clutch or pull on the bars	8	0	0	72	16777215	10
+3480	This is wasted energy	5	0	0	72	16777215	20
+3480	Instead, relax your upper body...	8	0	0	72	16777215	30
+3480	roll your pelvis backwards...	8	0	0	72	16777215	40
+3480	and pedal quickly with a smooth & controlled stroke	8	0	0	72	16777215	50
+3540	Up!	3	0	0	72	16777215	0
+3570	Down	3	0	0	72	16777215	0
+3570	When sitting down...	8	0	0	72	16777215	10
+3570	make sure your gear selection doesn't flood your legs	8	0	0	72	16777215	20
+3570	Keep them spinning quickly to avoid premature exhaustion	8	0	0	72	16777215	30
+3630	Up!	3	0	0	72	16777215	0
+3660	Down	3	0	0	72	16777215	0
+3660	Quick & smooth lower body	5	0	0	72	16777215	10
+3660	Calm & relaxed upper body	5	0	0	72	16777215	20
+3690	Up!	3	0	0	72	16777215	0
+3690	Hard kick to the line!	5	0	0	72	16777215	5
+3720	Well done!	5	0	0	72	16777215	10
+3720	This time we'll work on standing	8	0	0	72	16777215	240
+3720	Since you are on a trainer...	8	0	0	72	16777215	250
+3720	you'll be forced to keep a more steady technique	8	0	0	72	16777215	260
+3720	But this is actually great training	5	0	0	72	16777215	270
+3720	All too often we waste too much energy & power...	8	0	0	72	16777215	280
+3720	by throwing the bike side to side at excessive angles	8	0	0	72	16777215	290
+3720	So remember that you are locked in when you stand	8	0	0	72	16777215	300
+3720	Secondly, when you stand, don't lift yourself with your hands	8	0	0	72	16777215	310
+3720	The majority of the lifting...	8	0	0	72	16777215	320
+3720	will result from increased pressure in your legs	8	0	0	72	16777215	330
+3720	Think of it like climbing a set of stairs	8	0	0	72	16777215	340
+3720	Push yourself upwards with your forward leg and stand	8	0	0	72	16777215	350
+3720	Once standing, more weight will be placed on your hands...	8	0	0	72	16777215	360
+3720	but don't put too much weight on them	5	0	0	72	16777215	370
+3720	Otherwise you will be unstable and have limited power output	8	0	0	72	16777215	380
+3720	As you're standing, keep thinking of climbing stairs...	8	0	0	72	16777215	390
+3720	and push with your legs	5	0	0	72	16777215	400
+4140	Spin it up	5	0	0	72	16777215	0
+4200	Shift and stand with your legs!	5	0	0	72	16777215	0
+4200	Remember to place more of your body weight on your legs	8	0	0	72	16777215	10
+4200	Keep a steady cadence & rhythm	5	0	0	72	16777215	20
+4260	Shift & sit back down	5	0	0	72	16777215	0
+4320	Shift & stand!	5	0	0	72	16777215	0
+4320	If you feel unstable, check if your back is straight	8	0	0	72	16777215	10
+4320	If anything, your back should be slightly rounded	8	0	0	72	16777215	20
+4350	Gently have a seat	5	0	0	72	16777215	0
+4410	Stand & shift!	5	0	0	72	16777215	0
+4410	Steady rhythm	5	0	0	72	16777215	10
+4410	Strong through the legs	5	0	0	72	16777215	20
+4440	Down	3	0	0	72	16777215	0
+4470	Shift & stand!	5	0	0	72	16777215	0
+4470	Keep a calm upper body	5	0	0	72	16777215	10
+4500	Nice job!	5	0	0	72	16777215	10
+4500	Now it's your turn to apply all that we've worked on	8	0	0	72	16777215	360
+4920	Go for it!	5	0	0	72	16777215	0
+4980	Shift & stand	5	0	0	72	16777215	0
+5040	Sit & return to the saddle	5	0	0	72	16777215	0
+5220	Stay strong, almost there!	5	0	0	72	16777215	0
+5250	Last kick, be tough for 30 seconds!	5	0	0	72	16777215	0
+5280	Good work! That was long & brutal	8	0	0	72	16777215	10
+5280	Cool down for as long as you need...	8	0	0	72	16777215	20
+5280	and we'll see you next time!	8	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+240	420	Sweet Spot 1
+600	630	Threshold 1
+660	690	Sprint 1
+720	750	Sprint 2
+1020	1080	Sweet Spot 2
+1080	1140	Sweet Spot 3
+1140	1200	Sweet Spot 4
+1200	1230	Threshold 2
+1230	1290	Threshold 3
+1290	1320	VO2 Max 1
+1320	1350	Sprint 3
+1350	1380	Sprint 4
+1800	1860	Sweet Spot 5
+1860	1920	Sweet Spot 6
+1920	1980	Sweet Spot 7
+1980	2010	Threshold 4
+2010	2070	Threshold 5
+2070	2100	VO2 Max 2
+2100	2130	Sprint 5
+2130	2160	Sprint 6
+2580	2640	Sweet Spot 8
+2640	2700	Sweet Spot 9
+2700	2760	Sweet Spot 10
+2760	2790	Threshold 6
+2790	2850	Threshold 7
+2850	2880	VO2 Max 3
+2880	2910	Sprint 7
+2910	2940	Sprint 8
+3360	3420	Sweet Spot 11
+3420	3480	Sweet Spot 12
+3480	3540	Sweet Spot 13
+3540	3570	Threshold 8
+3570	3630	Threshold 9
+3630	3660	VO2 Max 4
+3660	3690	Sprint 9
+3690	3720	Sprint 10
+4140	4200	Sweet Spot 14
+4200	4260	Sweet Spot 15
+4260	4320	Sweet Spot 16
+4320	4350	Threshold 10
+4350	4410	Threshold 11
+4410	4440	VO2 Max 5
+4440	4470	Sprint 11
+4470	4500	Sprint 12
+4920	4980	Sweet Spot 17
+4980	5040	Sweet Spot 18
+5040	5100	Sweet Spot 19
+5100	5130	Threshold 12
+5130	5190	Threshold 13
+5190	5220	VO2 Max 6
+5220	5250	Sprint 13
+5250	5280	Sprint 14
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

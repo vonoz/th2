@@ -1,0 +1,370 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Cartwright,90,82. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	65
+4	90
+6	95
+6	40
+9.8	40
+9.8	40
+10	96
+10	96
+15	96
+15	98
+16	98
+16	100
+17	100
+17	102
+18	102
+18	104
+19	104
+19	106
+20	106
+20	40
+22.8	40
+22.8	40
+23	94
+23	94
+28	94
+28	97
+29	97
+29	100
+30	100
+30	103
+31	103
+31	106
+32	106
+32	109
+33	109
+33	40
+35.8	40
+35.8	40
+36	92
+36	92
+41	92
+41	94
+41.5	94
+41.5	96
+42	96
+42	98
+42.5	98
+42.5	100
+43	100
+43	102
+43.5	102
+43.5	104
+44	104
+44	106
+44.5	106
+44.5	108
+45	108
+45	110
+45.5	110
+45.5	112
+46	112
+46	40
+48.8	40
+48.8	40
+49	96
+49	96
+54	96
+54	98
+55	98
+55	100
+56	100
+56	102
+57	102
+57	104
+58	104
+58	106
+59	106
+59	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Cartwright!	5	0	0	72	16777215	10
+0	Let's start warming with some light, quick spinning	5	0	0	72	16777215	17
+0	Keep your spin quick but comfortable...	4	0	0	72	16777215	24
+0	and somewhere above 85rpm	4	0	0	72	16777215	29
+0	Lift your cadence a little quicker than usual...	5	0	0	72	16777215	225
+0	during this short warming ramp	4	0	0	72	16777215	231
+240	As you settle into a slightly quick spin...	5	0	0	72	16777215	0
+240	try to keep your hips anchored to the wings of your saddle...	5	0	0	72	16777215	6
+240	and reduce or eliminate any bouncing or rocking...	5	0	0	72	16777215	12
+240	by staying relaxed & breathing fully	4	0	0	72	16777215	18
+360	Ease off the gas but keep your spin fairly quick	5	0	0	72	16777215	0
+360	Today is primarily about improving muscular endurance...	5	0	0	72	16777215	15
+360	or how long you can maintain a reasonably high effort level	6	0	0	72	16777215	16
+360	Strong muscles can push the pedals hard...	5	0	0	72	16777215	24
+360	but it takes fit muscles to keep doing so for extended durations	6	0	0	72	16777215	30
+360	and since cycling is an endurance sport...	4	0	0	72	16777215	38
+360	making it highly aerobic in nature...	4	0	0	72	16777215	43
+360	it's less a matter of the size of your leg muscles...	4	0	0	72	16777215	48
+360	so much as a matter of how metabolically fit they are	5	0	0	72	16777215	53
+360	Ever show up for a ride or race and get spanked...	5	0	0	72	16777215	60
+360	by the skinniest, seemingly least muscular rider there?	5	0	0	72	16777215	66
+360	Lack of bulging quads doesn't necessarily imply a lack of capabilities...	6	0	0	72	16777215	73
+360	because properly conditioned muscles can endure long, high physical demands...	6	0	0	72	16777215	81
+360	regardless of their size	4	0	0	72	16777215	88
+360	So for each initial 5 minutes, you'll hold a high percentage of FTP...	5	0	0	72	16777215	94
+360	before beginning a short but demanding ascent toward muscular failure	5	0	0	72	16777215	100
+360	As you push your muscles to higher & higher levels...	4	0	0	72	16777215	107
+360	of less & less sustainable power...	4	0	0	72	16777215	112
+360	you'll force your legs to not only recruit more of the muscle fibers you're packing around...	6	0	0	72	16777215	117
+360	but you'll impose the sort of hardship on all of this muscle mass...	5	0	0	72	16777215	124
+360	that stirs the sort of adaptations that will make them fitter fibers...	5	0	0	72	16777215	130
+360	as long as you allow yourself proper recovery afterward	5	0	0	72	16777215	136
+360	These stepwise power increases will not only challenge your muscle endurance...	5	0	0	72	16777215	143
+360	but also your lactate tolerance...	4	0	0	72	16777215	149
+360	which is as much a psychological battle as a physical one	5	0	0	72	16777215	155
+360	This gradual increase in acidic accumulation is mirrored by increasing levels of muscle fatigue...	6	0	0	72	16777215	162
+360	and mounting levels of outright discomfort	4	0	0	72	16777215	169
+360	But that which does not kill you...	4	0	0	72	16777215	175
+360	only makes you tougher ;-)	4	0	0	72	16777215	180
+360	Put another way, these are gonna hurt...	4	0	0	72	16777215	186
+360	and then they're gonna hurt some more...	4	0	0	72	16777215	191
+360	and some more and then some more...	4	0	0	72	16777215	196
+360	as they forge stronger, fitter muscles...	4	0	0	72	16777215	201
+360	and a tougher, fitter rider	4	0	0	72	16777215	206
+588	Hold your spin above 85rpm as you ramp into this first interval	5	0	0	72	16777215	0
+600	Use these first 5 minutes to further your warm-up...	5	0	0	72	16777215	0
+600	and even consider reducing the Workout Intensity by 5% if necessary	5	0	0	72	16777215	6
+600	You can bring your power back up to 100%...	5	0	0	72	16777215	12
+600	over the course of this opening stretch	4	0	0	72	16777215	18
+600	Halfway there...	3	0	0	72	16777215	150
+600	and time to lower your shoulders & bend your elbows...	5	0	0	72	16777215	154
+600	if any tension crept into those upper body joints	5	0	0	72	16777215	160
+600	Try to appear comfortable on the bike...	4	0	0	72	16777215	167
+600	by spinning smoothly with a relaxed upper body...	4	0	0	72	16777215	172
+600	and quiet, stable hips that are anchored firmly to your saddle	5	0	0	72	16777215	177
+600	First round of steps is just ahead...	5	0	0	72	16777215	285
+600	so it's time to confirm that your cadence is above 85rpm	5	0	0	72	16777215	291
+900	Each minute will ask for a 2% increase in power output...	5	0	0	72	16777215	0
+900	making your job as simple as working slightly harder...	5	0	0	72	16777215	6
+900	without sacrificing any of your cadence & nor any of your form...	6	0	0	72	16777215	12
+900	each time the power demand bumps up	5	0	0	72	16777215	19
+960	Next step, hold that cadence steady	5	0	0	72	16777215	0
+1020	Another, try to stay just as relaxed as when you began this interval	6	0	0	72	16777215	-1
+1080	Lift your power again but don't show the increase in effort	6	0	0	72	16777215	0
+1140	Last one and last time to hide that change in effort	6	0	0	72	16777215	-1
+1140	30 seconds - you've got this!	5	0	0	72	16777215	30
+1200	Well done!	3	0	0	72	16777215	2
+1200	Take it easy but try to keep your legs turning...	5	0	0	72	16777215	9
+1200	even if that means spinning backward for a minute	5	0	0	72	16777215	15
+1200	These recoveries are short...	4	0	0	72	16777215	22
+1200	but they should be long enough to clear most of the heaviness...	5	0	0	72	16777215	27
+1200	as long as you keep it easy and draw full, belly-driven breaths	5	0	0	72	16777215	33
+1200	And really emphasize that exhale...	4	0	0	72	16777215	40
+1200	as you expel that buildup with strong breaths out	5	0	0	72	16777215	45
+1200	Round 2 on the horizon...	5	0	0	72	16777215	165
+1200	so settle into your 85+rpm cadence	5	0	0	72	16777215	172
+1368	Keep your spin reasonably quick as you ramp into this next interval	5	0	0	72	16777215	0
+1380	During this opening stretch...	4	0	0	72	16777215	0
+1380	try to find your rhythm right away...	4	0	0	72	16777215	5
+1380	both in terms of your cadence as well as your breathing	5	0	0	72	16777215	10
+1380	Time for a quick form check	5	0	0	72	16777215	180
+1380	Start by scanning your upper body for unnecessary tension	5	0	0	72	16777215	187
+1380	Typically, this starts in the jaw or the shoulders...	4	0	0	72	16777215	194
+1380	so first things first...	3	0	0	72	16777215	199
+1380	make sure you aren't clenching your jaw, scowling or grimacing	5	0	0	72	16777215	203
+1380	Let your face go slack and the rest of your body stands a better chance...	5	0	0	72	16777215	210
+1380	of remaining loose & allowing you to conserve a bit of energy	5	0	0	72	16777215	216
+1380	Next, drop your shoulders	4	0	0	72	16777215	223
+1380	As many riders fatigue, those shoulders get higher & higher...	5	0	0	72	16777215	229
+1380	the upper back muscles start to bunch up...	4	0	0	72	16777215	235
+1380	and the head itself starts retracting inward almost like a turtle's	5	0	0	72	16777215	240
+1380	So let your shoulders fall, let your upper back spread out a bit...	5	0	0	72	16777215	247
+1380	and actually lift your head away from your body...	4	0	0	72	16777215	253
+1380	by creating length in your neck	4	0	0	72	16777215	258
+1380	Finally, make sure you're pedaling from a place of power	5	0	0	72	16777215	264
+1380	This is done by creating a firm platform from which you push the pedals	6	0	0	72	16777215	271
+1380	How? By keeping your sit-bones anchored to the wings of your saddle	6	0	0	72	16777215	279
+1380	The simple act of rolling your pelvis backward...	5	0	0	72	16777215	287
+1380	and feeling the bones in your rear end firmly contact your saddle...	5	0	0	72	16777215	293
+1680	keeps you from teetering on your nether region...	5	0	0	72	16777215	0
+1680	and instead pushing from a position of stability	5	0	0	72	16777215	6
+1740	With a fluid & steady cadence...	4	0	0	72	16777215	0
+1740	your anchored sit bones will feel even pressure...	4	0	0	72	16777215	5
+1740	as you push from leg to leg, leg to leg...	4	0	0	72	16777215	10
+1740	so smoothly that the increase in power is invisible	5	0	0	72	16777215	15
+1800	Another bump upward in power...	4	0	0	72	16777215	-1
+1800	but no indication of how hard you're working	4	0	0	72	16777215	5
+1800	Hands are loose on the bars, as though you're cradling them...	5	0	0	72	16777215	11
+1800	rather than trying to strangle them	4	0	0	72	16777215	17
+1800	Let that relaxed approach carry up through your arms & shoulders...	5	0	0	72	16777215	23
+1800	up through your neck & face...	4	0	0	72	16777215	29
+1800	then back down through your shoulder blades, lower back...	5	0	0	72	16777215	34
+1800	and quiet, stable hips	3	0	0	72	16777215	40
+1860	Another slight increase...	3	0	0	72	16777215	0
+1860	but nothing that derails your cadence or form	5	0	0	72	16777215	4
+1920	If you've made it this far...	4	0	0	72	16777215	0
+1920	you can definitely push through one more minute!	5	0	0	72	16777215	5
+1920	If you're in a tough spot...	3	0	0	72	16777215	30
+1920	remind yourself over & over...	3	0	0	72	16777215	34
+1920	"I can do this"	3	0	0	72	16777215	38
+1920	"I've got this"	3	0	0	72	16777215	43
+1920	Whatever works for you	3	0	0	72	16777215	48
+1980	Excellent! Take a few minutes to relax	5	0	0	72	16777215	2
+1980	If necessary, or even if it just seems like a good idea...	5	0	0	72	16777215	10
+1980	spin backward for 30-40 seconds...	4	0	0	72	16777215	16
+1980	and try to lower your heart rate & breathing	4	0	0	72	16777215	21
+1980	Whatever you do, keep moving instead of sitting there gasping...	5	0	0	72	16777215	26
+1980	and allowing your legs to well up	4	0	0	72	16777215	32
+1980	Gonna go at it again, so set your cadence and relax	5	0	0	72	16777215	105
+1980	This one starts just a bit lower for the first 5 minutes...	5	0	0	72	16777215	112
+1980	so let's use a few of these less intense minutes to work on form	5	0	0	72	16777215	118
+1980	In particular...	3	0	0	72	16777215	125
+1980	think about the top & bottom of your pedalstroke...	5	0	0	72	16777215	129
+1980	also referred to as the "kick & pull"	5	0	0	72	16777215	135
+1980	So for a minute at a time, you'll kick your toes forward...	5	0	0	72	16777215	142
+1980	over the top of the pedalstroke...	3	0	0	72	16777215	148
+1980	or you'll pull your heels backward...	4	0	0	72	16777215	152
+1980	across the bottom of each pedalstroke	4	0	0	72	16777215	157
+1980	We'll cue you when to start each drill...	4	0	0	72	16777215	163
+2148	as well as how long to keep it going	4	0	0	72	16777215	0
+2160	To start, be a little stronger from 10 o'clock to 2 o'clock	5	0	0	72	16777215	0
+2160	Do this by lightly kicking foward...	4	0	0	72	16777215	6
+2160	as you approach the top of each pedalstroke	4	0	0	72	16777215	11
+2160	This isn't about being forceful, or kicking hard...	5	0	0	72	16777215	17
+2160	but simply being active during segments of the pedalstroke...	5	0	0	72	16777215	23
+2160	where riders seldom apply any effort...	4	0	0	72	16777215	29
+2160	commonly resulting in deadspots at the top & bottom...	4	0	0	72	16777215	34
+2160	of a pedalstroke that COULD be very fluid	5	0	0	72	16777215	39
+2160	Keep that kick going for a few more seconds...	5	0	0	72	16777215	46
+2160	and then we'll switch your emphasis to the bottom quadrant	5	0	0	72	16777215	52
+2160	OK, now pull your heel a little harder from 4 o'clock to 8 o'clock	6	0	0	72	16777215	60
+2160	So as you start to move past each downstroke...	4	0	0	72	16777215	67
+2160	lightly drag each foot backward	4	0	0	72	16777215	73
+2160	Better yet, think of engaging your hamstrings & calf muscles...	5	0	0	72	16777215	79
+2160	and "wake up" the muscles in the backs of your legs	5	0	0	72	16777215	85
+2160	Keep that light pull for about another 30 seconds	5	0	0	72	16777215	92
+2160	Good, now back to your natural pedalstroke	5	0	0	72	16777215	120
+2160	Feel just a little bit smoother?	5	0	0	72	16777215	127
+2160	Let's do that again, start by kicking across the top	5	0	0	72	16777215	180
+2160	Toes into the fronts of your shoes	5	0	0	72	16777215	187
+2160	Keep that light kick going for another 30 seconds	5	0	0	72	16777215	210
+2160	Switch your focus, pull back at the bottom	5	0	0	72	16777215	240
+2160	Heels into the backs of your shoes	5	0	0	72	16777215	247
+2160	30 more seconds of that light pull across the bottom	5	0	0	72	16777215	270
+2460	This time the steps go back to 2% each time...	5	0	0	72	16777215	0
+2460	but there's twice as many of them	4	0	0	72	16777215	6
+2460	So let's use each step to address the kick & pull...	5	0	0	72	16777215	12
+2460	and distract you from the mounting discomfort	4	0	0	72	16777215	18
+2460	We'll start with this next step...	4	0	0	72	16777215	24
+2490	by lightly kicking your toes forward...	3	0	0	72	16777215	0
+2490	at the top of each pedalstroke	3	0	0	72	16777215	4
+2520	Switch your emphasis to pulling...	3	0	0	72	16777215	0
+2520	across the bottom of each pedalstroke	3	0	0	72	16777215	4
+2550	So far so good! Back to a light kick...	5	0	0	72	16777215	0
+2550	from about 10 o'clock to 2 o'clock	5	0	0	72	16777215	6
+2580	Excellent, now pull lightly...	3	0	0	72	16777215	0
+2580	from about 4 o'clock to 8 o'clock	4	0	0	72	16777215	4
+2610	Halfway there!	3	0	0	72	16777215	0
+2610	Any excess tension in your shoulders?	4	0	0	72	16777215	4
+2610	How 'bout your neck? Hands?	4	0	0	72	16777215	9
+2610	Get rid of anything that's not helping you turn the pedals	5	0	0	72	16777215	15
+2640	From this point forward...	3	0	0	72	16777215	0
+2640	focus on how well a single leg kicks & pulls...	4	0	0	72	16777215	4
+2640	without neglecting the opposite leg	4	0	0	72	16777215	9
+2640	Left leg for 15 more seconds	3	0	0	72	16777215	15
+2670	Right leg gets the focus, kick & pull	5	0	0	72	16777215	0
+2700	Last time on the left leg - kick & pull	5	0	0	72	16777215	0
+2730	Hang in there! Right leg kicks & pulls	5	0	0	72	16777215	0
+2760	Very nicely done, that one was a brute	5	0	0	72	16777215	2
+2760	Another short break...	3	0	0	72	16777215	10
+2760	to grab a drink, shake out your muscles, backspin...	4	0	0	72	16777215	14
+2760	or do whatever helps you feel ready to go again	5	0	0	72	16777215	19
+2760	Final round, get ready!	5	0	0	72	16777215	170
+2928	Steadily & smoothly ramp into this last effort	5	0	0	72	16777215	0
+2940	This is just a repeat of the first interval...	5	0	0	72	16777215	0
+2940	with one small difference	3	0	0	72	16777215	6
+2940	You're tired	3	0	0	72	16777215	10
+2940	But we have to show our bodies very specifically...	5	0	0	72	16777215	15
+2940	the ways we want them to get stronger, send them a clear message	6	0	0	72	16777215	21
+2940	So just hang in there a bit longer...	4	0	0	72	16777215	29
+2940	and we'll really drive this message home	4	0	0	72	16777215	34
+2940	The idea is quite simple, really...	4	0	0	72	16777215	40
+2940	We overload, we recover, we get stronger	5	0	0	72	16777215	45
+2940	To this end, we'll overload your muscles...	5	0	0	72	16777215	52
+2940	one last time starting with some work just below your FTP	5	0	0	72	16777215	58
+2940	Halfway through this final softener...	5	0	0	72	16777215	150
+2940	that takes a little of the fight out of your usual worker muscles...	5	0	0	72	16777215	156
+2940	so that when you hit the steps...	3	0	0	72	16777215	162
+2940	you're far more likley to recruit lesser-used...	4	0	0	72	16777215	166
+2940	but no less valuable alternate muscle fibers	4	0	0	72	16777215	171
+3240	Here we go, last ascent	3	0	0	72	16777215	0
+3240	Hold your cadence steady...	3	0	0	72	16777215	5
+3240	find something productive or positive to focus on	5	0	0	72	16777215	9
+3240	Ideally both	3	0	0	72	16777215	16
+3240	Anything from your breathing rhythm...	4	0	0	72	16777215	21
+3240	your cadence, your position on the saddle...	4	0	0	72	16777215	26
+3240	maybe even that "I've got this" mantra	5	0	0	72	16777215	31
+3300	Here's something on the positive side...	4	0	0	72	16777215	0
+3300	Every minute you hang on WILL make you tougher...	5	0	0	72	16777215	5
+3300	and given proper recovery...	3	0	0	72	16777215	11
+3300	each minute WILL make you stronger	4	0	0	72	16777215	15
+3360	Another minute of being tough...	3	0	0	72	16777215	0
+3360	and reminding yourself that plenty of riders are fit...	4	0	0	72	16777215	4
+3360	but it's the tough ones who win races, set PR's...	4	0	0	72	16777215	9
+3360	and keep pushing those so-called "limits" further & further	5	0	0	72	16777215	14
+3420	Another minute to work toward becoming THAT rider...	4	0	0	72	16777215	0
+3420	who takes the longer pulls, paces everyone else up the hills...	5	0	0	72	16777215	5
+3420	and puts worry into the heads of everyone behind 'em	4	0	0	72	16777215	11
+3480	Again! Be THAT rider...	3	0	0	72	16777215	0
+3480	who finishes intervals when everyone else quits...	4	0	0	72	16777215	4
+3480	who manages to make it look easy while dying inside...	4	0	0	72	16777215	9
+3480	and guts it out for just a few more seconds than anyone else	5	0	0	72	16777215	14
+3480	30 seconds, you've got this!	5	0	0	72	16777215	30
+3480	15 seconds, "I can do this"	5	0	0	72	16777215	45
+3540	Great job, seriously	5	0	0	72	16777215	2
+3540	Take it easy as the clock runs out...	4	0	0	72	16777215	9
+3540	and feel free to continue warming down when it does	4	0	0	72	16777215	14
+3540	Give a bit of thought to your recovery nutrition...	4	0	0	72	16777215	20
+3540	and we'll see you next time	5	0	0	72	16777215	25
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+240	360	Sweet Spot 1
+600	900	Threshold 1
+900	960	Threshold 2
+960	1020	Threshold 3
+1020	1080	Threshold 4
+1080	1140	Threshold 5
+1140	1200	VO2 Max 1
+1380	1680	Sweet Spot 2
+1680	1740	Threshold 6
+1740	1800	Threshold 7
+1800	1860	Threshold 8
+1860	1920	VO2 Max 2
+1920	1980	VO2 Max 3
+2160	2460	Sweet Spot 3
+2460	2490	Sweet Spot 4
+2490	2520	Threshold 9
+2520	2550	Threshold 10
+2550	2580	Threshold 11
+2580	2610	Threshold 12
+2610	2640	Threshold 13
+2640	2670	VO2 Max 4
+2670	2700	VO2 Max 5
+2700	2730	VO2 Max 6
+2730	2760	VO2 Max 7
+2940	3240	Threshold 14
+3240	3300	Threshold 15
+3300	3360	Threshold 16
+3360	3420	Threshold 17
+3420	3480	Threshold 18
+3480	3540	VO2 Max 8
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

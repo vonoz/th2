@@ -1,0 +1,171 @@
+[COURSE HEADER]
+VERSION = 2
+UNITS = ENGLISH
+DESCRIPTION = 90, 94, 2x20 minute test to assess FTP
+FILE NAME = NS70AS094_EnduranceNationTest_2x20m.mrc
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0.0	50
+5.0	50
+5.0	70
+6.0	70
+6.0	50
+7.0	50
+7.0	80
+9.0	80
+9.0	50
+11.0	50
+11.0	90
+15.0	95
+15.0	50
+20.0	50
+20.0	102
+40.0	102
+40.0	50
+42.0	50
+42.0	102
+62.0	102
+62.0	50
+70.0	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+30	Time to get a measure of your sustainable power	8	0	0	72	0xFFFFFF
+40	For now, just settle into a quick but comfortable spin & keep your effort low	8	0	0	72	0xFFFFFF
+90	As you feel warmer, work a little harder but this is still the warm-up...	8	0	0	72	0xFFFFFF
+100	So keep things easy and practice breathing with your belly	8	0	0	72	0xFFFFFF
+180	Keep your legs quick but don't ramp up your heart rate with leg speed...yet	8	0	0	72	0xFFFFFF
+240	In 1 minute, you'll do your first leg speed warm-up	8	0	0	72	0xFFFFFF
+250	This 1-minute stretch is about quick legs, NOT big watts	8	0	0	72	0xFFFFFF
+260	So you'll use an easy gear and spin quicker than you like	8	0	0	72	0xFFFFFF
+270	As long as there's no bouncing	8	0	0	72	0xFFFFFF
+290	Get ready to pick up your spin	8	0	0	72	0xFFFFFF
+300	Shift into a lighter gear, keep the watts low and spin quickly	8	0	0	72	0xFFFFFF
+330	Keep it quick, 30 seconds to go	8	0	0	72	0xFFFFFF
+350	10 seconds to go...	8	0	0	72	0xFFFFFF
+360	Good, now ease up and spin easy for a minute	8	0	0	72	0xFFFFFF
+390	In 30 seconds, you'll do the same thing but for twice as long	8	0	0	72	0xFFFFFF
+400	If you need to slow your spin a little, that's ok...	8	0	0	72	0xFFFFFF
+410	But you should still be spinning well above your natural cadence	8	0	0	72	0xFFFFFF
+420	Shift into an easy gear and pick it up	8	0	0	72	0xFFFFFF
+430	Settle into a quick spin that you think you can maintain	8	0	0	72	0xFFFFFF
+450	Relax...drop your shoulders, soften your elbows, loosen your grip	8	0	0	72	0xFFFFFF
+480	Minute to go. Spin a little quicker as long as you can sustain the speed	8	0	0	72	0xFFFFFF
+530	Keep your speed...	8	0	0	72	0xFFFFFF
+540	Good, now slow things down and spin easy for a couple minutes	8	0	0	72	0xFFFFFF
+550	Just lift your knees and let your feet fall	8	0	0	72	0xFFFFFF
+600	Get ready to blow out the cobwebs	8	0	0	72	0xFFFFFF
+610	Over the span of the upcoming 4 minutes, you'll get an idea of your starting pace	8	0	0	72	0xFFFFFF
+620	This effort will serve 2 purposes: warmup & insight	8	0	0	72	0xFFFFFF
+630	The effort is below your sustainable power, just like the early minutes of your 20min efforts	8	0	0	72	0xFFFFFF
+640	So find a hard, sustainable pace but one that leaves some room to grow	8	0	0	72	0xFFFFFF
+650	Get ready...	8	0	0	72	0xFFFFFF
+660	Pick up the effort and settle into a rhythm	8	0	0	72	0xFFFFFF
+720	This 4-minute effort is a short exercise in pacing...	8	0	0	72	0xFFFFFF
+730	So if this pace isn't realistic for 4 minutes, then it's certainly not going to work for 20 minutes...twice	8	0	0	72	0xFFFFFF
+740	So be realistic and pay attention to how you feel	8	0	0	72	0xFFFFFF
+780	If you feel like you can work a little harder without overdoing it, pick it up a little	8	0	0	72	0xFFFFFF
+790	This is still below your maximum sustainable power though	8	0	0	72	0xFFFFFF
+840	Again, if you feel you can sustain more effort, work a little harder	8	0	0	72	0xFFFFFF
+870	30 seconds to go,..push harder!	8	0	0	72	0xFFFFFF
+890	Hold it...	8	0	0	72	0xFFFFFF
+900	Excellent, now keep it really, really easy for these next 2 minutes	8	0	0	72	0xFFFFFF
+1020	OK, settle into all-day pace and keep things light	8	0	0	72	0xFFFFFF
+1030	The upcoming efforts will help you determine your endurance capability	8	0	0	72	0xFFFFFF
+1040	By riding hard, but not so hard that you have to back off, you'll learn just how much work you can sustain	8	0	0	72	0xFFFFFF
+1050	This estimate of your hour-power, maximal steady state power, threshold power...	8	0	0	72	0xFFFFFF
+1060	Or as we refer to it, your functional threshold power (FTP), will help tailor your workouts to your own capabilities	8	0	0	72	0xFFFFFF
+1070	It will also serve as a good measure of improvement over the course of your season	8	0	0	72	0xFFFFFF
+1080	By riding hard - but not too hard - for 20 minutes, resting only for 2 minutes, then riding for another 20 minutes...	8	0	0	72	0xFFFFFF
+1090	We will have a good idea of the sort of power you could sustain for about an hour	8	0	0	72	0xFFFFFF
+1100	That brief 2-minute break won't allow you to fully recover, but it will reduce your average power a bit...	8	0	0	72	0xFFFFFF
+1110	And this will account for the drop in power that happens when two 20min efforts become one 60min effort	8	0	0	72	0xFFFFFF
+1120	Thereby approximating - closely - your Functional Threshold Power, or FTP	8	0	0	72	0xFFFFFF
+1140	We'll get started in 1 minute, but before that let's address the most common mistake riders make when assessing	8	0	0	72	0xFFFFFF
+1150	Going out too hard	8	0	0	72	0xFFFFFF
+1160	There's nothing to be gained by hurting yourself early on into a long effort	8	0	0	72	0xFFFFFF
+1170	So err on the side of caution, especially during this first effort	8	0	0	72	0xFFFFFF
+1180	Don't take that to mean this will be easy...it won't	8	0	0	72	0xFFFFFF
+1190	OK, get ready!	8	0	0	72	0xFFFFFF
+1200	Start working, but nowhere near the point that your legs flood	8	0	0	72	0xFFFFFF
+1210	Take the first 2 minutes just to ramp up to a point that feels difficult but sustainable	8	0	0	72	0xFFFFFF
+1230	30 seconds in, still plenty of room to grow your power	8	0	0	72	0xFFFFFF
+1260	Another minute before you really settle in, still holding back	8	0	0	72	0xFFFFFF
+1290	Feeling pretty good? Good - pay attention to your breathing and keep your legs clear of heaviness	8	0	0	72	0xFFFFFF
+1320	Start to settle in but keep in mind there's plenty of work ahead	8	0	0	72	0xFFFFFF
+1380	Legs are still clear, right? Good - keep them clear by breathing really well	8	0	0	72	0xFFFFFF
+1390	Use your belly to breathe, not your chest	8	0	0	72	0xFFFFFF
+1440	One more minute and we'll take inventory	8	0	0	72	0xFFFFFF
+1500	Good! 5 minutes in with plenty of gas in the tank	8	0	0	72	0xFFFFFF
+1510	Now's the time to start to micromanage your effort	8	0	0	72	0xFFFFFF
+1520	You've probably found a pace pretty close to your max, sustainable pace...	8	0	0	72	0xFFFFFF
+1530	But it might need some tweaking	8	0	0	72	0xFFFFFF
+1540	So ask yourself if you can hang on if you work just a LITTLE harder	8	0	0	72	0xFFFFFF
+1550	Then work just a LITTLE harder, no big changes	8	0	0	72	0xFFFFFF
+1560	Also consider if the pace is just a little too high considering how much time is left in this interval	8	0	0	72	0xFFFFFF
+1570	And back off just a LITTLE, no big changes	8	0	0	72	0xFFFFFF
+1770	Coming up on your next set of adjustments...assuming you need them	8	0	0	72	0xFFFFFF
+1800	Halfway there, try to relax and breathe well	8	0	0	72	0xFFFFFF
+1810	Same questions: Is this as hard as I can work? Is this just a little too hard?	8	0	0	72	0xFFFFFF
+1820	Small changes if you make changes at all	8	0	0	72	0xFFFFFF
+2100	Only 5 minutes left till break-time, microadjust if you need to	8	0	0	72	0xFFFFFF
+2160	4 minutes of focus, 4 minutes of patience...keep it steady	8	0	0	72	0xFFFFFF
+2220	3 minutes to go but don't push any harder than you have been	8	0	0	72	0xFFFFFF
+2230	By now you've found a tough but sustainable pace, so just hold that pace	8	0	0	72	0xFFFFFF
+2280	2 minutes, stay relaxed and don't show your effort	8	0	0	72	0xFFFFFF
+2290	No sense in wasting energy on poor form or pained expressions	8	0	0	72	0xFFFFFF
+2340	Final minute, don't back off and don't ramp things up - STEADY	8	0	0	72	0xFFFFFF
+2400	Excellent! One down	8	0	0	72	0xFFFFFF
+2410	Keep things very easy over the next 2 minutes and try to calm your breathing and heart rate	8	0	0	72	0xFFFFFF
+2490	OK, get ready to do it again	8	0	0	72	0xFFFFFF
+2500	Same approach: Don't go out too hard, 2 minutes to ramp up	8	0	0	72	0xFFFFFF
+2510	3 big, deep breaths	8	0	0	72	0xFFFFFF
+2530	Steadily bring your effort back up, and don't worry about the numbers	8	0	0	72	0xFFFFFF
+2540	Pay attention to how you FEEL and gently nudge up your effort for these first couple minutes	8	0	0	72	0xFFFFFF
+2580	Another minute before you settle in, keep your legs burn-free	8	0	0	72	0xFFFFFF
+2640	OK, should be settling in or very close...relax and clear your mind	8	0	0	72	0xFFFFFF
+2650	Don't think of the work still ahead, rather focus on riding well	8	0	0	72	0xFFFFFF
+2660	Smooth and relaxed with positive thoughts or a clear mind	8	0	0	72	0xFFFFFF
+2810	Get ready to make some adjustments if necessary	8	0	0	72	0xFFFFFF
+2820	Same questions: Too easy? Too hard? SMALL changes	8	0	0	72	0xFFFFFF
+2830	There's always a temptation to target a goal wattage or pace...	8	0	0	72	0xFFFFFF
+2840	Don't do it, not today	8	0	0	72	0xFFFFFF
+2850	Today is about understanding your current capabilities	8	0	0	72	0xFFFFFF
+2860	Leave the boundary-broadening agony until later	8	0	0	72	0xFFFFFF
+2870	Make today about honesty and ditching your ego in pursuit of good data	8	0	0	72	0xFFFFFF
+3120	It's that time again, micro-adjust if you feel the need	8	0	0	72	0xFFFFFF
+3130	With just under 10 minutes left, your primary focus from here till the end is to remain steady	8	0	0	72	0xFFFFFF
+3140	Everyone WANTS to back off but focused riders won't allow themselves the option	8	0	0	72	0xFFFFFF
+3150	Hold your effort steady and be patient	8	0	0	72	0xFFFFFF
+3420	Only 5 to go!	8	0	0	72	0xFFFFFF
+3430	If you fell off pace a bit, lift your effort back up	8	0	0	72	0xFFFFFF
+3440	Be encouraged by the fact that you're almost done!	8	0	0	72	0xFFFFFF
+3480	4 minutes - STEADY	8	0	0	72	0xFFFFFF
+3540	3 minutes - how's your breathing? Use your belly	8	0	0	72	0xFFFFFF
+3600	Just 2 minutes to go, hang in there!	8	0	0	72	0xFFFFFF
+3660	Final minute - no need to ramp things up, just stay steady	8	0	0	72	0xFFFFFF
+3690	30 seconds! No sprinting, just hold that power	8	0	0	72	0xFFFFFF
+3720	Nicely done! Now spin easy, breathe deeply, and clear off the junk	8	0	0	72	0xFFFFFF
+3730	If you lost your form over the closing minutes...	8	0	0	72	0xFFFFFF
+3740	Reclaim it here and show tired muscles how to behave appropriately	8	0	0	72	0xFFFFFF
+3750	Fatigue is never an excuse for poor form, so warm down with excellent technique	8	0	0	72	0xFFFFFF
+3760	See you next time!	8	0	0	72	0xFFFFFF
+[END COURSE TEXT]
+[INTERVAL DATA]
+0	4200	Workout
+300	360	Warmup 1
+420	540	Warmup 2
+660	900	Warmup 3
+1200	2400	20 min test 1	True
+1200	3720	42 min
+2520	3720	20 min test 2	True
+[END INTERVAL DATA]
+
+[MODE DATA]
+1200	Slope	3
+2400	Erg	0
+2520	Slope	3
+3720	Erg	0
+[END MODE DATA]

@@ -1,0 +1,327 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Tyndall TC,85,36. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+2	60
+2	95
+3	95
+3	40
+4	40
+4	130
+4.16	130
+4.16	40
+4.33	40
+4.33	140
+4.5	140
+4.5	40
+4.66	40
+4.66	150
+4.83	150
+4.83	40
+6	40
+6	130
+6.25	130
+6.25	41
+6.5	41
+6.5	130
+6.75	130
+6.75	40
+7	40
+7	130
+7.25	130
+7.25	40
+7.5	40
+7.5	140
+7.75	140
+7.75	40
+8	40
+8	140
+8.25	140
+8.25	40
+8.5	40
+8.5	140
+8.75	140
+8.75	40
+9	40
+9	150
+9.25	150
+9.25	40
+9.5	40
+9.5	150
+9.75	150
+9.75	40
+10	40
+10	150
+10.25	150
+10.25	40
+12.25	40
+12.25	150
+12.5	150
+12.5	40
+12.75	40
+12.75	150
+13	150
+13	40
+13.25	40
+13.25	150
+13.5	150
+13.5	40
+13.75	40
+13.75	150
+14	150
+14	40
+14.25	40
+14.25	150
+14.5	150
+14.5	40
+14.75	40
+14.75	150
+15	150
+15	40
+15.25	40
+15.25	150
+15.5	150
+15.5	40
+15.75	40
+15.75	150
+16	150
+16	40
+16.25	40
+16.25	150
+16.5	150
+16.5	39
+18.5	39
+18.5	150
+18.75	150
+18.75	40
+19	40
+19	150
+19.25	150
+19.25	40
+19.5	40
+19.5	150
+19.75	150
+19.75	40
+20	40
+20	150
+20.25	150
+20.25	40
+20.5	40
+20.5	150
+20.75	150
+20.75	40
+21	40
+21	150
+21.25	150
+21.25	40
+21.5	40
+21.5	150
+21.75	150
+21.75	40
+22	40
+22	150
+22.25	150
+22.25	40
+22.5	40
+22.5	150
+22.75	150
+22.75	40
+24.75	40
+24.75	150
+25	150
+25	40
+25.25	40
+25.25	150
+25.5	150
+25.5	40
+25.75	40
+25.75	150
+26	150
+26	40
+26.25	40
+26.25	150
+26.5	150
+26.5	40
+26.75	40
+26.75	150
+27	150
+27	40
+27.25	40
+27.25	150
+27.5	150
+27.5	40
+27.75	40
+27.75	150
+28	150
+28	40
+28.25	40
+28.25	150
+28.5	150
+28.5	40
+28.75	40
+28.75	150
+29	150
+29	40
+30	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Tyndall, another in a series of highly demanding...	8	0	0	72	16777215	10
+0	and highly productive microburst workouts	5	0	0	72	16777215	20
+0	We'll be performing four sets of 9 microbursts today	8	0	0	72	16777215	30
+0	Each set consists of 15-second bursts at 150% FTP...	8	0	0	72	16777215	40
+0	followed immediately by 15 seconds of rest	5	0	0	72	16777215	50
+0	So you're either working really hard or barely at all	8	0	0	72	16777215	60
+0	More on that later, 1-minute clearing ramp coming up...	8	0	0	72	16777215	210
+0	and it's closely followed by 3 practice microbursts	5	0	0	72	16777215	220
+120	Try to hold your cadence between 85-95rpm, quicker if you like	8	0	0	72	16777215	0
+180	We'll continue warming with 3 clearing bursts in about a minute	8	0	0	72	16777215	0
+180	These are quick, 10-second efforts with short recoveries in between	8	0	0	72	16777215	10
+180	Use a high cadence & try to keep it high during the recoveries	8	0	0	72	16777215	20
+180	We recommend 100rpm or higher but it depends on your level of control	8	0	0	72	16777215	30
+180	No bouncing in the saddle & stay seated as much as possible	8	0	0	72	16777215	40
+180	Quick spin, 100+rpm	5	0	0	72	16777215	50
+240	Quick legs, calm upper body	5	0	0	72	16777215	0
+250	Ditch the power but keep the quick legs	5	0	0	72	16777215	0
+260	Again, lots of controlled speed	5	0	0	72	16777215	0
+270	Shut down the power, keep the cadence high	5	0	0	72	16777215	0
+280	Last time, go fast!	3	0	0	72	16777215	0
+290	As the warm-up bursts probably demonstrated...	8	0	0	72	16777215	0
+290	this workout is all about alternating brief periods of high intensity...	8	0	0	72	16777215	10
+290	with equally brief periods of rest	5	0	0	72	16777215	20
+290	This means that you'll be able to accumulate a lot of time at very high percentages of your FTP	8	0	0	72	16777215	27
+290	As the sets progress, your aerobic capacity (ability to utilize oxygen) will be taxed...	8	0	0	72	16777215	37
+290	your Anaerobic (sugar-fueled) power will be challenged again & again...	8	0	0	72	16777215	47
+290	even your neuromuscular efficiency (how well your brain talks to your muscles) will be targeted	8	0	0	72	16777215	57
+360	Here we go! Quick legs	5	0	0	72	16777215	0
+375	Turn off the power but keep the leg speed	5	0	0	72	16777215	0
+390	Again, lots of leg speed	5	0	0	72	16777215	0
+405	And again, keep most of that leg speed	5	0	0	72	16777215	0
+435	Good, up to 140% FTP, see if you can complete all 3 repeats well	8	0	0	72	16777215	0
+450	Try to spin at 100rpm or higher	5	0	0	72	16777215	0
+510	One more time at this effort level, be relaxed	8	0	0	72	16777215	0
+525	If you're hanging in there, let's try the full 150% FTP	8	0	0	72	16777215	0
+540	Same leg speed, maybe a little more if you're fading toward the end	8	0	0	72	16777215	0
+555	Keep most of your speed, it's too hard to rekindle it	8	0	0	72	16777215	0
+570	Go fast, stay loose	3	0	0	72	16777215	0
+585	Keep it quick, try to stay relaxed	5	0	0	72	16777215	0
+600	Keep your form, smooth as can be	5	0	0	72	16777215	0
+615	How do you feel after that first set?	5	0	0	72	16777215	0
+615	Do you feel like 150% FTP is realistic to hold for subsequent sets?	8	0	0	72	16777215	7
+615	If need be, drop the Workout Intensity 5-10% and see how the first set goes	8	0	0	72	16777215	17
+615	Being able to hold your power & cadence for the vast majority of each set...	8	0	0	72	16777215	27
+615	is preferable to completing partial sets at the full 150% FTP	8	0	0	72	16777215	37
+615	So be clear, the goal is to keep your leg speed & power...	8	0	0	72	16777215	47
+615	for as many microbursts as possible, backpedaling as seldom as possible	8	0	0	72	16777215	57
+615	Next set coming up in about 30 seconds	5	0	0	72	16777215	90
+615	Work your spin up to 100rpm or even a little higher...	8	0	0	72	16777215	100
+615	but probably no more than 120bpm	5	0	0	72	16777215	110
+735	Lots of leg speed for 9 total repeats!	5	0	0	72	16777215	0
+780	You know the deal, go hard then go easy...	8	0	0	72	16777215	0
+780	but legs stay quick regardless of the power output	8	0	0	72	16777215	10
+840	First 4 behind you, are you holding your leg speed high?	8	0	0	72	16777215	0
+885	Make sure both your sit bones feel the saddle	8	0	0	72	16777215	0
+885	Give yourself a firm platform for all that power!	8	0	0	72	16777215	10
+900	3 more repeats to go, you've go this - keep your cadence up	8	0	0	72	16777215	0
+930	Two to go, no backpedals allowed	5	0	0	72	16777215	0
+960	Only one left, make it the smoothest form yet	8	0	0	72	16777215	0
+990	First set - done!	3	0	0	72	16777215	0
+990	It's acceptable to backpedal for a couple of seconds between sets if necessary...	8	0	0	72	16777215	5
+990	but it's important that you get back on top of your cadence...	8	0	0	72	16777215	15
+990	well BEFORE the next interval starts	5	0	0	72	16777215	25
+990	Rests are only 15 seconds, so any backpedaling during this time...	8	0	0	72	16777215	32
+990	needs to be very brief, maybe 5 seconds	5	0	0	72	16777215	42
+990	If you have to backpedal through more than two 150% microbursts...	8	0	0	72	16777215	49
+990	consider knocking the intensity of the workout down 5-10% at a time	8	0	0	72	16777215	59
+990	Once again, it's more beneficial to do the bursts at a slightly lower intensity...	8	0	0	72	16777215	69
+990	and complete more or even ALL the intervals...	5	0	0	72	16777215	76
+990	than to only complete some of them at 150% FTP	5	0	0	72	16777215	83
+990	You'll still be accumulating a significant amount of time way above FTP...	8	0	0	72	16777215	90
+990	even if you do the bursts at 140 or even 130% FTP	8	0	0	72	16777215	100
+990	Next set! Quick legs & try to draw full, deep breaths the whole time	8	0	0	72	16777215	110
+1110	Wind it up, get your power as fast as possible	5	0	0	72	16777215	0
+1125	You know the drill, so you're on your own for a few	8	0	0	72	16777215	0
+1215	Good, first 4 behind you - breathe fully	5	0	0	72	16777215	0
+1215	As you work through each set, remind yourself to relax...often	5	0	0	72	16777215	7
+1230	Work hard but stay relaxed	5	0	0	72	16777215	0
+1275	Just 3 to go, but treat each one as though it were the ONLY one	8	0	0	72	16777215	0
+1290	Make it powerful, make it pretty	5	0	0	72	16777215	0
+1320	Pretty & powerful	3	0	0	72	16777215	0
+1335	Final burst! Keep it quick	5	0	0	72	16777215	7
+1365	Great job! You've earned a couple minutes of rest	8	0	0	72	16777215	0
+1365	If done correctly, microbursts will put you in a very uncomfortable place	8	0	0	72	16777215	15
+1365	But if you can learn to embrace the discomfort...	8	0	0	72	16777215	25
+1365	concentrate on something other than the clock, your pain or the number of repeats	8	0	0	72	16777215	35
+1365	and compartmentalize the pain, stuff it in the back of your mind...	8	0	0	72	16777215	45
+1365	you'll be surprised by how much abuse your body can handle	8	0	0	72	16777215	55
+1365	Anything that takes your mind off of how hard you're working...	8	0	0	72	16777215	65
+1365	that might increase your efficiency, is fair game as a useful distraction	8	0	0	72	16777215	75
+1365	Instead, think about your pedalstroke, breathing, body position or leg speed	8	0	0	72	16777215	85
+1365	Start getting ready for the next set - quick, controlled legs	8	0	0	72	16777215	95
+1365	The quicker you spin the less you'll cook your muscles	8	0	0	72	16777215	105
+1485	Final set underway!	5	0	0	72	16777215	0
+1500	You know what to do by now, we'll check back in later	8	0	0	72	16777215	0
+1560	A quarter of the work is already behind you!	5	0	0	72	16777215	0
+1650	FInal 3 repeats just ahead, see each one as the ONLY one	8	0	0	72	16777215	0
+1680	Good, focus on only the next ONE	5	0	0	72	16777215	0
+1710	This last one truly is the ONLY one, enjoy!	5	0	0	72	16777215	0
+1740	Excellent job! That was a throughly brutal workout	8	0	0	72	16777215	0
+1740	It was also a very muscularly taxing one, lots of tissue damage...	8	0	0	72	16777215	10
+1740	that needs to be remedied with proper recovery nutrition...	8	0	0	72	16777215	20
+1740	and very soon, so start planning it now	5	0	0	72	16777215	30
+1740	Once again, nicely done! We'll see you next time	8	0	0	72	16777215	37
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	1800	Workout
+120	180	Sweet Spot 1
+240	250	Sprint 1
+260	270	Sprint 2
+280	290	Sprint 3
+360	375	Sprint 4
+390	405	Sprint 5
+420	435	Sprint 6
+450	465	Sprint 7
+480	495	Sprint 8
+510	525	Sprint 9
+540	555	Sprint 10
+570	585	Sprint 11
+600	615	Sprint 12
+735	750	Sprint 13
+765	780	Sprint 14
+795	810	Sprint 15
+825	840	Sprint 16
+855	870	Sprint 17
+885	900	Sprint 18
+915	930	Sprint 19
+945	960	Sprint 20
+975	990	Sprint 21
+1110	1125	Sprint 22
+1140	1155	Sprint 23
+1170	1185	Sprint 24
+1200	1215	Sprint 25
+1230	1245	Sprint 26
+1260	1275	Sprint 27
+1290	1305	Sprint 28
+1320	1335	Sprint 29
+1350	1365	Sprint 30
+1485	1500	Sprint 31
+1515	1530	Sprint 32
+1545	1560	Sprint 33
+1575	1590	Sprint 34
+1605	1620	Sprint 35
+1635	1650	Sprint 36
+1665	1680	Sprint 37
+1695	1710	Sprint 38
+1725	1740	Sprint 39
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

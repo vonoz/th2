@@ -1,0 +1,252 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Elwell,89,93. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	72
+12	72
+12	96
+15	96
+15	10
+16	10
+16	50
+20.83	50
+20.83	70
+21	105
+21	105
+28	105
+28	40
+30.83	40
+30.83	70
+31	105
+31	105
+38	105
+38	40
+40.83	40
+40.83	70
+41	108
+41	108
+46	108
+46	40
+48.83	40
+48.83	70
+49	108
+49	108
+54	108
+54	40
+56.83	40
+56.83	70
+57	115
+57	115
+60	115
+60	40
+62.83	40
+62.83	70
+63	121
+63	121
+65	121
+65	50
+70	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	We'll kick things off with another 20 minutes of warmup	8	0	0	72	16777215	10
+0	Keep your spin quick & light for the first 6 minutes	8	0	0	72	16777215	20
+360	Ramp things up a little, further your warmup, open your lungs a bit	8	0	0	72	16777215	0
+360	Keep your spin above 85rpm, higher if reasonably comfortable	8	0	0	72	16777215	10
+720	Final 3 minutes, right next to FTP	8	0	0	72	16777215	0
+720	Increase your spin to 90rpm or higher...	8	0	0	72	16777215	10
+720	if you're not already spinning that quickly	8	0	0	72	16777215	20
+720	Draw long, full belly-breaths...	8	0	0	72	16777215	30
+720	then completely & actively empty your lungs	8	0	0	72	16777215	40
+720	Make it an obvious and forceful push - clear them completely	8	0	0	72	16777215	50
+900	Good, feel free to backpedal for a minute...	8	0	0	72	16777215	0
+900	and check your HRR if you're using the LSCT warmup	8	0	0	72	16777215	10
+900	Or simply pedal really easy for a minute while you recover	8	0	0	72	16777215	20
+960	Today's intervals are all about "overload"	8	0	0	72	16777215	0
+960	In particular, overload in the form of supra-Threshold intensity	8	0	0	72	16777215	10
+960	The idea is to familiarize your body & mind with higher power output...	8	0	0	72	16777215	20
+960	than you're currently accustomed to, both physically & mentally	8	0	0	72	16777215	30
+960	Not only will your legs burn more intensely & sooner each interval...	8	0	0	72	16777215	40
+960	but you'll be tempted to mentally check out more quickly	8	0	0	72	16777215	50
+960	But we'll try to keep this temptation at bay...	8	0	0	72	16777215	60
+960	by gradually easing up the intensity over the course of the workout	8	0	0	72	16777215	70
+960	At the same time, the intervals will get shorter...	8	0	0	72	16777215	80
+960	while the recoveries between intervals hold steady at 3 minutes	8	0	0	72	16777215	90
+960	We'll ramp into your first effort in a minute	8	0	0	72	16777215	230
+960	Establish a quick but sustainable spin before the interval begins...	8	0	0	72	16777215	240
+960	ideally above 90rpm, but tailor your spin to your needs	8	0	0	72	16777215	250
+960	Each interval begins with a 10-second ramp...	8	0	0	72	16777215	260
+960	before you settle into various effort levels above FTP	8	0	0	72	16777215	270
+960	The higher above FTP, the shorter the interval...	8	0	0	72	16777215	280
+960	again, with the intent of raising your sustainable power...	8	0	0	72	16777215	290
+960	higher than the power you're currently accustomed to --> overload	8	0	0	72	16777215	300
+1250	Quickly ramp into your first of two 7-minute intervals at 105% FTP	8	0	0	72	16777215	0
+1260	Take a minute to adjust to the workload...	8	0	0	72	16777215	0
+1260	then settle into your aero position when you feel ready	8	0	0	72	16777215	10
+1260	If your power starts to waver, more than 10 watts up or down...	8	0	0	72	16777215	60
+1260	take brief breaks from your aero position for 20-30 seconds	8	0	0	72	16777215	70
+1260	Sit upright long enough to stabilize your power & stay in sync with your Target Power	8	0	0	72	16777215	80
+1260	Holding your power on Target is priority #1 today...	8	0	0	72	16777215	90
+1260	spending time in your aero position is priority #2	8	0	0	72	16777215	100
+1260	3 minutes in, how are your legs handling the burn?	8	0	0	72	16777215	180
+1260	If you find your spin slowing to a crawl, try a couple things	8	0	0	72	16777215	190
+1260	First, focus on how well you're kicking & pulling	8	0	0	72	16777215	200
+1260	Toes kick over the top of each pedalstroke...	8	0	0	72	16777215	210
+1260	heels pull across the bottom of each pedalstroke	8	0	0	72	16777215	220
+1260	And they both do it lightly - most of your power is in the downstroke	8	0	0	72	16777215	230
+1260	The objective is more about lifting your spin rate...	8	0	0	72	16777215	240
+1260	and focusing on other segments of your pedalstroke often works well	8	0	0	72	16777215	250
+1260	Second option: backpedal for 5-10 seconds...	8	0	0	72	16777215	260
+1260	then wind your legs back up to your goal cadence	8	0	0	72	16777215	270
+1260	Final minute!	8	0	0	72	16777215	360
+1260	We'll make this the focus of the next interval...	8	0	0	72	16777215	370
+1260	but concentrate on your breathing without becoming too distracted	8	0	0	72	16777215	380
+1260	30 seconds of breathing as well as you think you can	8	0	0	72	16777215	390
+1680	Well done, take a few minutes to relax & clear your mind	8	0	0	72	16777215	0
+1850	Time to ramp into your second & final 7-minute jobber	8	0	0	72	16777215	0
+1860	Again, you'll hold 105% FTP for 7 minutes...	8	0	0	72	16777215	0
+1860	spending as much time in your aero position as possible	8	0	0	72	16777215	10
+1860	But if your power falls more than 10 watts off the mark...	8	0	0	72	16777215	20
+1860	sit up for as long as necessary to stabilize your watts	8	0	0	72	16777215	30
+1860	Aero or upright, start to pay extra attention to your breathing...	8	0	0	72	16777215	60
+1860	both how fast you're breathing as well as how deeply	8	0	0	72	16777215	70
+1860	Ideally, your breathing is deep & smooth...	8	0	0	72	16777215	90
+1860	but if your breaths are short, choppy or ragged, you can fix this	8	0	0	72	16777215	100
+1860	Even if your lung capacity isn't exceptional, i.e. average VO2max...	8	0	0	72	16777215	110
+1860	you can still ride like you have the lungs of a horse	8	0	0	72	16777215	120
+1860	Start by taking full breaths in through your nose & mouth	8	0	0	72	16777215	130
+1860	Let your mouth hang open, relaxed jaw, loose cheeks	8	0	0	72	16777215	140
+1860	At the same time, draw air in through your nose too	8	0	0	72	16777215	150
+1860	Most of your intake will come via your mouth...	8	0	0	72	16777215	160
+1860	but you can take in MORE air if you breathe through your nose too	8	0	0	72	16777215	170
+1860	And the more air you take in, the greater your potential for work	8	0	0	72	16777215	180
+1860	Just focus on that for now	8	0	0	72	16777215	190
+1860	Still targeting your inhales, allow your belly to distend each time	8	0	0	72	16777215	240
+1860	Think of creating space for air by moving your guts out of the way	8	0	0	72	16777215	250
+1860	Let that belly pooch out!	8	0	0	72	16777215	260
+1860	Breathing in through your mouth & nose, belly pooching out	8	0	0	72	16777215	270
+1860	Let's target your exhales now, through your mouth only	8	0	0	72	16777215	300
+1860	Actively force out the used air by breathing diaphragmatically	8	0	0	72	16777215	310
+1860	Big word, just means using your dedicated breathing muscle	8	0	0	72	16777215	320
+1860	By drawing your navel inward, you'll likely engage your diaphragm	8	0	0	72	16777215	330
+1860	This forces the expired air out & clears the waste...	8	0	0	72	16777215	340
+1860	and is commonly referred to as "Belly Breathing"	8	0	0	72	16777215	350
+1860	Final minute, breathe with your belly	8	0	0	72	16777215	360
+1860	30 seconds! Force the used air out through your mouth	8	0	0	72	16777215	390
+2280	Excellent, time for some rest	8	0	0	72	16777215	0
+2280	Keep your legs moving if you can, even backwards works	8	0	0	72	16777215	10
+2280	These are short breaks...	8	0	0	72	16777215	20
+2280	so do whatever you need to maximize your recovery	8	0	0	72	16777215	30
+2450	Time to ramp into this next set of intervals...	8	0	0	72	16777215	0
+2460	5 minutes each at 108% FTP	8	0	0	72	16777215	0
+2460	Not much harder than the last set of efforts...	8	0	0	72	16777215	10
+2460	and noticeably shorter	5	0	0	72	16777215	20
+2460	Whether or not you spend time in your aero position...	8	0	0	72	16777215	30
+2460	again depends how well you can keep your power on Target	8	0	0	72	16777215	40
+2460	Target Power is still your first priority throughout this workout	8	0	0	72	16777215	50
+2460	And getting low while riding this far above FTP...	8	0	0	72	16777215	60
+2460	can make a big impact on your breathing...	8	0	0	72	16777215	70
+2460	and consequently on your power output	8	0	0	72	16777215	80
+2460	Which makes this is an ideal time to see...	8	0	0	72	16777215	90
+2460	if you can carry your fancy new breathing techniques into aero	8	0	0	72	16777215	100
+2460	Sitting upright or down in your aero tuck...	8	0	0	72	16777215	120
+2460	focus for 20 seconds on breathing in through your nose & mouth	8	0	0	72	16777215	130
+2460	Shift your focus onto strongly clearing your lungs...	8	0	0	72	16777215	150
+2460	by using your belly to do it	8	0	0	72	16777215	160
+2460	Now try to do both - inhale well, exhale well	8	0	0	72	16777215	180
+2460	Nose & mouth gulp in the air, mouth & navel clears it out	8	0	0	72	16777215	190
+2460	And don't be afraid to make a little noise when you exhale	8	0	0	72	16777215	200
+2460	Forceful belly breathing can be the difference between fading...	8	0	0	72	16777215	210
+2460	and hanging onto an effort level that usually buries you	8	0	0	72	16777215	220
+2460	Final minute!	8	0	0	72	16777215	240
+2460	Keep your power on Target...	8	0	0	72	16777215	250
+2460	but give due attention to your breathing technique	8	0	0	72	16777215	260
+2460	30 seconds to go! Keep it smooth	8	0	0	72	16777215	270
+2760	Very well done	8	0	0	72	16777215	0
+2760	Ease off the gas for a few minutes...	8	0	0	72	16777215	10
+2760	and bring your breathing & heart rate back down	8	0	0	72	16777215	17
+2930	1 more of those bad boys, pick it up	8	0	0	72	16777215	0
+2940	From the very start, give your breathing some added focus	8	0	0	72	16777215	0
+2940	Get in the habit of breathing fully BEFORE you're in a bad spot	8	0	0	72	16777215	10
+2940	Power's on Target, breathing is top-notch...	8	0	0	72	16777215	60
+2940	nothing left to do but make sure you're staying relaxed	8	0	0	72	16777215	70
+2940	Start by dropping your shoulders...	8	0	0	72	16777215	80
+2940	if you're in aero, relax your shoulder blades a bit	8	0	0	72	16777215	90
+2940	Take some of the tension out of the back of your neck	8	0	0	72	16777215	100
+2940	Aero riders, just tip your head up enough to see the horizon	8	0	0	72	16777215	110
+2940	Upright riders, tip your head down a bit, eyes up a bit	8	0	0	72	16777215	120
+2940	In both cases, also try to lengthen your neck a little...	8	0	0	72	16777215	130
+2940	by slightly "reaching" your head away from your body	8	0	0	72	16777215	140
+2940	Now your grip - aero or upright, keep it soft	8	0	0	72	16777215	150
+2940	You only need to hold the bars firmly enough to control the bike...	8	0	0	72	16777215	160
+2940	and when you're heading down a straight road...	8	0	0	72	16777215	170
+2940	that's not very firm at all since most of your stability comes from your hips	8	0	0	72	16777215	180
+2940	Under 2 minutes!	8	0	0	72	16777215	190
+2940	The more your legs well up with that unfriendly burn...	8	0	0	72	16777215	200
+2940	the more important your breathing becomes...	8	0	0	72	16777215	210
+2940	especially your exhales - get rid of the waste!	8	0	0	72	16777215	220
+2940	Final minute, keep things smooth & relaxed	8	0	0	72	16777215	240
+2940	Give everyone - yourself included - the impression this is easy	8	0	0	72	16777215	250
+2940	Final 30 seconds, try to hold your cadence on target	8	0	0	72	16777215	270
+3240	Excellent! The "long" stuff is done	8	0	0	72	16777215	0
+3240	Spin out the heaviness & breathe deeply	8	0	0	72	16777215	10
+3410	Building a bit higher this time...	8	0	0	72	16777215	0
+3420	All the way up to 115% FTP but only for 3 minutes	8	0	0	72	16777215	0
+3420	Most riders won't stay aero for these final 2 efforts...	8	0	0	72	16777215	10
+3420	but if you feel it suits your particular needs...	8	0	0	72	16777215	20
+3420	(maybe there are some short climbs in your upcoming TT)	8	0	0	72	16777215	30
+3420	and you can keep your power on Target, get low ASAP	8	0	0	72	16777215	40
+3420	First minute behind you, stay ahead of the burn...	8	0	0	72	16777215	60
+3420	by breathing really well & keeping your spin quick	8	0	0	72	16777215	70
+3420	If possible, shoot for 100rpm or even a little higher	8	0	0	72	16777215	80
+3420	Halfway! Relax	8	0	0	72	16777215	90
+3420	Final minute, nothing you can't handle	8	0	0	72	16777215	120
+3420	If you have the legs to withstand 2 minutes...	8	0	0	72	16777215	130
+3420	then all you need is the proper mindset to handle the third minute	8	0	0	72	16777215	140
+3420	Breathe off the burn & KNOW you can handle 30 more seconds	8	0	0	72	16777215	150
+3420	Final 10, don't duck out early!	8	0	0	72	16777215	170
+3600	Great job, only 1 to go!	8	0	0	72	16777215	0
+3600	Spin lightly, backpedal if necessary, catch your breath	8	0	0	72	16777215	10
+3770	Ramp into your last effort with quick legs	8	0	0	72	16777215	0
+3780	This is a shorty and it's not much rougher than the last one...	8	0	0	72	16777215	0
+3780	2 minutes at 121% FTP	8	0	0	72	16777215	10
+3780	Make sure you're on top of your breathing right away	8	0	0	72	16777215	20
+3780	Aero or upright, keep your power on Target for another 90 seconds	8	0	0	72	16777215	30
+3780	1 minute's worth of work is all that's left!	8	0	0	72	16777215	60
+3780	30 more seconds of quick legs & big, belly-breaths	8	0	0	72	16777215	90
+3780	Final 10 seconds, don't quit!	8	0	0	72	16777215	110
+3900	Really well done, time to cool down	8	0	0	72	16777215	0
+3900	As you catch your breath & clear your legs...	8	0	0	72	16777215	30
+3900	either start your post-workout nutrition...	8	0	0	72	16777215	40
+3900	or at least start thinking about how you'll address it	8	0	0	72	16777215	50
+3900	See you next time	8	0	0	72	16777215	60
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	4200	Workout
+360	720	Endurance 1
+720	900	Threshold 1
+1250	1260	Sweet Spot 1
+1260	1680	Threshold 2
+1850	1860	Sweet Spot 2
+1860	2280	Threshold 3
+2450	2460	Sweet Spot 3
+2460	2760	VO2 Max 1
+2930	2940	Sweet Spot 4
+2940	3240	VO2 Max 2
+3410	3420	Sweet Spot 5
+3420	3600	VO2 Max 3
+3770	3780	Sweet Spot 6
+3780	3900	Anaerobic Capacity 1
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

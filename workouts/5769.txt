@@ -1,0 +1,80 @@
+[COURSE HEADER]
+VERSION = 2
+UNITS = ENGLISH
+DESCRIPTION = Electra, 74, 82 Warm-up well for 15 minutes. 2 X 1 minute 90% efforts, with 1:30 rest between these efforts. 3 X 10 minutes @ 80-85% FTP/Max HR . 6 min. spin between sets. Follow with 6 X 1 min. at 90% FTP/Max HR effort. Spin easily for 1:30 between these 1 min outputs
+FILE NAME = subt.txt
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	60
+7	60
+7	70
+9	70
+9	80
+11	80
+11	50
+15	50
+15	90
+16	90
+16	60
+17.5	60
+17.5	90
+18.5	90
+18.5	60
+20	60
+20	82
+30	82
+30	60
+36	60
+36	84
+46	84
+46	60
+52	60
+52	86
+62	86
+62	60
+68	60
+68	90
+69	90
+69	60
+70.5	60
+70.5	90
+71.5	90
+71.5	60
+73	60
+73	90
+74	90
+74	60
+75.5	60
+75.5	90
+76.5	90
+76.5	60
+78	60
+78	90
+79	90
+79	60
+80.5	60
+80.5	90
+81.5	90
+81.5	60
+90	60
+[END COURSE DATA]
+
+[INTERVAL DATA]
+0	5400	Workout
+300	660	Warmup 1
+900	960	Warmup 2
+1050	1110	Warmup 3
+1200	1800	Tempo 1
+2160	2760	Tempo 2
+3120	3720	Tempo 3
+4080	4140	Sweet Spot 1
+4230	4290	Sweet Spot 2
+4380	4440	Sweet Spot 3
+4530	4590	Sweet Spot 4
+4680	4740	Sweet Spot 5
+4830	4890	Sweet Spot 6
+[END INTERVAL DATA]

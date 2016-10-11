@@ -1,0 +1,233 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = 2014 8DC - Stage 2,87,74. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	50
+10	65
+10	75
+11	75
+11	40
+12	40
+12	80
+13	80
+13	40
+14	40
+14	85
+15	85
+15	40
+19.5	40
+19.5	40
+20	90
+20	90
+23.5	105
+23.5	105
+24	120
+24	120
+25	120
+25	40
+29.5	40
+29.5	0
+30	0
+30	130
+30.25	95
+30.25	95
+31.25	102
+31.25	102
+36.25	102
+36.25	102
+41.25	102
+41.25	30
+41.58	30
+41.58	130
+41.83	95
+41.83	95
+42.83	102
+42.83	102
+47.83	102
+47.83	102
+52.83	102
+52.83	40
+59	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Stage 2 is upon us...	8	0	0	72	16777215	10
+0	and based on yesterday's performance, I have to say I'm optimistic	8	0	0	72	16777215	20
+0	We ended up with a 2nd place & 9th place finish...	8	0	0	72	16777215	30
+0	which puts 2 of our riders in the top-10 with negligible time gaps elsewhere	8	0	0	72	16777215	40
+0	But enough team talk, today is all about us as individuals	8	0	0	72	16777215	50
+0	It's also a good opportunity to see what your body is capable of...	8	0	0	72	16777215	60
+0	in terms of sustainable power	8	0	0	72	16777215	70
+0	Following a thorough warm-up, today's event is a fairly short time trial	8	0	0	72	16777215	80
+0	It's an out & back course which means a turnaround is included...	8	0	0	72	16777215	90
+0	and it also means you'll be able to compare split times	8	0	0	72	16777215	100
+0	This can be a great measure of pacing ability, or lack thereof	8	0	0	72	16777215	110
+0	More on that later, for now, spin quickly & lightly...	8	0	0	72	16777215	120
+0	and get ready to walk through our structured time trial warm-up	8	0	0	72	16777215	130
+0	Typically, warm-up duration is inversely related to race duration or distance	8	0	0	72	16777215	180
+0	So the longer the time trial itself, the shorter the warm-up	8	0	0	72	16777215	190
+0	The shorter the time trial, like prologues...	8	0	0	72	16777215	200
+0	the longer & more intense the warm-up is likely to be	8	0	0	72	16777215	210
+0	In today's case, the team is looking at about a 20-minute effort	8	0	0	72	16777215	220
+0	Neither particularly long nor particularly short	8	0	0	72	16777215	230
+300	Let's start to raise the tempo gradually over this next 5 minutes	8	0	0	72	16777215	0
+300	Before we get to the meat of the warm-up, let's talk aerodynamics	8	0	0	72	16777215	120
+300	Or more specifically, how they relate to power production	8	0	0	72	16777215	130
+300	All the wind tunnel tests in the world don't mean anything...	8	0	0	72	16777215	140
+300	if you can't create optimal power	8	0	0	72	16777215	150
+300	So while you can find that perfectly dialed aero position...	8	0	0	72	16777215	160
+300	it might not  yield the fastest time	8	0	0	72	16777215	170
+300	So a balance between power & aerodynamics has to be struck	8	0	0	72	16777215	180
+300	Our out & back course provides a rare opportunity for experimentation today	8	0	0	72	16777215	190
+300	Not normally something we'd tinker with during a race, but...	8	0	0	72	16777215	200
+300	having narrowed your position down to a couple options, why not tinker just a little	8	0	0	72	16777215	210
+300	So choose your tried & true, go-to aero position for your basis	8	0	0	72	16777215	220
+300	Then vary it slightly (or more substantially) during any of today's TT	8	0	0	72	16777215	230
+300	Sure, fatigue will likely play a part here...	8	0	0	72	16777215	240
+300	but there's a good chance that 1 position will prove slightly more comfortable...	8	0	0	72	16777215	250
+300	or slightly less uncomfortable ;)	8	0	0	72	16777215	260
+300	And in turn, one might prove superior than the other...	8	0	0	72	16777215	270
+300	at least in terms of power production	8	0	0	72	16777215	280
+300	Let's use these warm-up segments to sample some options	8	0	0	72	16777215	290
+600	Simply spin a little more quickly for this first minute	8	0	0	72	16777215	0
+600	And when you feel ready, ease into your aero position	8	0	0	72	16777215	10
+600	Make yourself smaller on the bike, smaller to the wind	8	0	0	72	16777215	20
+660	Ease off the gas & sit comfortably	8	0	0	72	16777215	0
+660	Let's use the next minute to make a minor modification	8	0	0	72	16777215	20
+660	Maybe lower your body closer to the bike...	8	0	0	72	16777215	30
+660	Maybe drop your head down a little bit more	8	0	0	72	16777215	40
+660	Make SOME small change that might cut a smaller hole in the wind	8	0	0	72	16777215	50
+720	Fairly quick legs, slightly more aerodynamic position	8	0	0	72	16777215	0
+780	Ease up - how'd that feel?	8	0	0	72	16777215	0
+780	If it felt tougher to hold your power, ditch that modification	8	0	0	72	16777215	10
+780	If it felt sustainable and not distractingly uncomfortable, make note	8	0	0	72	16777215	20
+780	This time, get into your typical aero position...	8	0	0	72	16777215	30
+780	then loosen up a little, become slightly LESS aero	8	0	0	72	16777215	40
+780	Maybe sit slightly higher or don't strain your neck quite so much	8	0	0	72	16777215	50
+840	Reasonably quick again, slightly less aerodynamic	8	0	0	72	16777215	0
+900	Ease up for a minute & catch your breath	8	0	0	72	16777215	0
+900	Consider those minor tweaks & decide if one might help you ride faster	8	0	0	72	16777215	60
+900	If the more aero position felt sustainable...	8	0	0	72	16777215	70
+900	your goal will be to have very comparable time trial segments	8	0	0	72	16777215	80
+900	So you'd ride the same power throughout but might find slightly faster splits	8	0	0	72	16777215	90
+900	Same output, greater speed	8	0	0	72	16777215	100
+900	If the less aero position felt noticeably more powerful...	8	0	0	72	16777215	110
+900	a faster split time might occur due to greater power output	8	0	0	72	16777215	120
+900	More output, greater speed	8	0	0	72	16777215	130
+900	But this all assumes you're waffling between different positions	8	0	0	72	16777215	140
+900	If not, just hammer both segments, aerodynamics be damned!	8	0	0	72	16777215	150
+1170	Time to ramp into a more intense clearing effort...	8	0	0	72	16777215	0
+1170	and really get those metabolic processes rolling	8	0	0	72	16777215	10
+1200	Continue to gradually raise your effort for a few minutes	8	0	0	72	16777215	0
+1200	And remain smooth & relaxed even as your effort climbs	8	0	0	72	16777215	10
+1200	And if you're not already in your aero position, get there now	8	0	0	72	16777215	20
+1200	Keep building your power, pushing slightly harder each second	8	0	0	72	16777215	120
+1200	Start to get a feel for your target intensity today...	8	0	0	72	16777215	130
+1200	but don't get carried away...yet	8	0	0	72	16777215	140
+1410	Time to really ramp things up, but keep it realistic	8	0	0	72	16777215	0
+1440	Hold it right here for a full minute	8	0	0	72	16777215	0
+1440	Well above time trial pace...	8	0	0	72	16777215	10
+1440	strongly clearing your lungs every time you exhale	8	0	0	72	16777215	20
+1440	30 seconds!	8	0	0	72	16777215	30
+1440	20...	8	0	0	72	16777215	40
+1440	10 seconds!	8	0	0	72	16777215	50
+1500	Good, shut it down & noodle for 5 minutes	8	0	0	72	16777215	0
+1500	Time to head to the start line & prep for today's dominance	8	0	0	72	16777215	120
+1500	Feel free to stop pedaling & await your start time...	8	0	0	72	16777215	130
+1500	or continue to ride easy right up until you take off	8	0	0	72	16777215	140
+1770	Choose your start gearing as you come to a FULL stop	8	0	0	72	16777215	0
+1770	A brief surge to get going is fine, but DON'T go out too hard	8	0	0	72	16777215	10
+1770	Starting in 10...	2	0	0	72	16777215	20
+1770	5...	1	0	0	72	16777215	25
+1770	4...	1	0	0	72	16777215	26
+1770	3...	1	0	0	72	16777215	27
+1770	2...	1	0	0	72	16777215	28
+1770	Beeeeeeeeeep!	1	0	0	72	16777215	29
+1800	Wind it up & get aero as soon as possible!	8	0	0	72	16777215	0
+1815	Be patient & hold back just a little bit	8	0	0	72	16777215	0
+1815	A few more seconds to work into something tough...	8	0	0	72	16777215	30
+1815	but something you can hold onto	8	0	0	72	16777215	40
+1815	Get ready for the first of four 5-minute segments	8	0	0	72	16777215	50
+1875	Start to settle into your tempo & draw full, belly breaths	8	0	0	72	16777215	0
+1875	If you're going to compare slightly modified positions...	8	0	0	72	16777215	10
+1875	Find one of them now	8	0	0	72	16777215	20
+1875	By now, you've found your rhythms...	8	0	0	72	16777215	150
+1875	both with your cadence & your breathing	8	0	0	72	16777215	160
+1875	Stay as steady as possible & don't disrupt either	8	0	0	72	16777215	170
+1875	And speaking of steady...	8	0	0	72	16777215	180
+1875	ditch that upper body movement	8	0	0	72	16777215	190
+1875	You're already big enough to the wind, don't make yourself bigger!	8	0	0	72	16777215	200
+2175	Halfway to the turn-around...	8	0	0	72	16777215	0
+2175	how's your pacing feel?	8	0	0	72	16777215	10
+2175	Are you on the verge of nausea?	8	0	0	72	16777215	20
+2175	Then back off a little bit	8	0	0	72	16777215	30
+2175	Does nausea sound like a ridiculous measure of effort...	8	0	0	72	16777215	40
+2175	then WORK HARDER	8	0	0	72	16777215	50
+2175	Steadily applying power?	8	0	0	72	16777215	210
+2175	Focus on smooth, even pedalstrokes - no mashing	8	0	0	72	16777215	220
+2175	Coming up to the turn-around, but don't ease up yet	8	0	0	72	16777215	260
+2175	You can back off for about 20 seconds as you slow to turn...	8	0	0	72	16777215	270
+2175	and then you'll accelerate right back up to speed	8	0	0	72	16777215	280
+2175	Choose your gearing as you slow down	8	0	0	72	16777215	290
+2475	Back off & gulp a few big, deep breaths	8	0	0	72	16777215	0
+2475	Reclaim your focus & get ready to go again!	8	0	0	72	16777215	10
+2495	Wind it back up!	8	0	0	72	16777215	0
+2510	Settle back in & gradually work up your power	8	0	0	72	16777215	0
+2570	Level off & focus this third, 5-minute segment, nothing more	8	0	0	72	16777215	0
+2570	And if you're going to tweak your position, now's the time	8	0	0	72	16777215	10
+2570	Excellent, hold everything steady...	8	0	0	72	16777215	160
+2570	your breathing, your cadence, your body itself	8	0	0	72	16777215	170
+2570	You're on pace for an excellent time...	8	0	0	72	16777215	180
+2570	but only if you keep from flaming out over this second half	8	0	0	72	16777215	190
+2870	Final 5 minutes!	8	0	0	72	16777215	0
+2870	Don't let off the gas even slightly...	8	0	0	72	16777215	10
+2870	because anything you can do for 15 minutes, you can do for 20	8	0	0	72	16777215	20
+2870	3 minutes, stay focused!	8	0	0	72	16777215	120
+2870	Don't give even a single second to your rivals	8	0	0	72	16777215	130
+2870	2 minutes to the finish line!	8	0	0	72	16777215	180
+2870	Hold your power & you'll finish within seconds of the top times!	8	0	0	72	16777215	190
+2870	Final minute!	8	0	0	72	16777215	240
+2870	Bury yourself!	8	0	0	72	16777215	250
+2870	30 seconds! Everything you have left!	8	0	0	72	16777215	270
+2870	20 seconds!	8	0	0	72	16777215	280
+2870	10! Don't back off!	8	0	0	72	16777215	290
+3170	Perfect!	8	0	0	72	16777215	0
+3170	Really well done, spin out the fatigue	8	0	0	72	16777215	10
+3170	Once you've cooled down, have a look at all of your splits	8	0	0	72	16777215	40
+3170	See if any position changes yielded higher power...	8	0	0	72	16777215	50
+3170	or perhaps the same power but with a more aero position	8	0	0	72	16777215	60
+3170	Or simply compare the 4 segments & note how well you paced	8	0	0	72	16777215	70
+3170	Finally, if you average all 4 segments & reduce the average by 5%...	8	0	0	72	16777215	80
+3170	you can use that information to adjust your FTP if you improved it	8	0	0	72	16777215	90
+3170	We'll discuss results, placings & strategy tomorrow...	8	0	0	72	16777215	100
+3170	so until then, rest up, eat well & we'll see you soon	8	0	0	72	16777215	110
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3540	Workout
+600	660	Endurance 1
+720	780	Tempo 1
+840	900	Sweet Spot 1
+1200	1410	Threshold 1
+1410	1440	VO2 Max 1
+1440	1500	VO2 Max 2
+1800	1815	VO2 Max 3
+1815	1875	Threshold 2
+1875	2175	Threshold 3
+2175	2475	Threshold 4
+2495	2510	VO2 Max 4
+2510	2570	Threshold 5
+2570	2870	Threshold 6
+2870	3170	Threshold 7
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

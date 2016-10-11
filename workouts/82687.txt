@@ -1,0 +1,141 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Young TC,91,42. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	51
+2	61
+2	95
+3.5	95
+3.5	40
+5.5	40
+5.5	109
+7	109
+7	40
+8	40
+8	105
+11	105
+11	40
+12	40
+12	103
+16	103
+16	40
+18.5	40
+18.5	109
+20	109
+20	40
+21	40
+21	105
+24	105
+24	40
+25	40
+25	103
+29	103
+29	40
+30	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	VO2 Max & Aerobic Power are the keys to today's workout	8	0	0	72	16777215	10
+0	With proper recovery, Young will make you faster & help you recover faster	8	0	0	72	16777215	20
+0	That's a lot of fast, yeah?	5	0	0	72	16777215	30
+0	As you warm up, try to do it with a comfortable yet quick spin	8	0	0	72	16777215	40
+0	Keep that quick spin & get ready for a short warming effort	8	0	0	72	16777215	110
+120	Try to keep your spin above 85rpm, closer to 95rpm if possible	8	0	0	72	16777215	0
+210	Now that you're a bit more warmed up, let's see what's on the menu today	8	0	0	72	16777215	0
+210	Two sets of 3 varied-intensity, varied-duration intervals	8	0	0	72	16777215	10
+210	The first interval in each set will be 90 seconds at 109% FTP...	8	0	0	72	16777215	20
+210	followed by 3 minutes at 105% FTP & capped off with 5 minutes at 103% FTP	8	0	0	72	16777215	30
+210	The goal with these efforts is to build your repeatable power	8	0	0	72	16777215	40
+210	So that mean's these intervals will be tough...	5	0	0	72	16777215	50
+210	and your heart rate will be high during & between efforts	8	0	0	72	16777215	57
+210	But remember - done well and with adequate recovery...	8	0	0	72	16777215	67
+210	these WILL make you faster	5	0	0	72	16777215	75
+210	Shoot for a spin in the 85-95rpm range, closer to 100 if you can control it	8	0	0	72	16777215	102
+210	Start out relaxed & try to stay that way	5	0	0	72	16777215	112
+330	And we're off, well above FTP but only for 90 seconds	8	0	0	72	16777215	0
+330	Try to keep that cadence above 90rpm & be relaxed	8	0	0	72	16777215	10
+330	Closing 30 seconds, keep your focus, stay relaxed	8	0	0	72	16777215	60
+420	Nice work!	5	0	0	72	16777215	0
+420	Spin lightly & breathe from your diaphragm	5	0	0	72	16777215	10
+420	Strong, controlled breaths	5	0	0	72	16777215	20
+420	Interval #2 coming right up	5	0	0	72	16777215	52
+480	Pick it up, stay loose	5	0	0	72	16777215	0
+480	As you find your groove, keep your shoulders low, grip loose	8	0	0	72	16777215	10
+480	Half way through! Keeping your shoulders low?	8	0	0	72	16777215	90
+480	How about your grip? Loose with soft elbows too?	8	0	0	72	16777215	100
+480	Final minute, make sure your sit bones are anchored	8	0	0	72	16777215	120
+480	If you feel your hips rocking side to side, ground those sit bones!	8	0	0	72	16777215	130
+480	No side to side rocking allowed	5	0	0	72	16777215	140
+480	Final 30! Keep it quick & smooth	5	0	0	72	16777215	150
+660	Well done!	5	0	0	72	16777215	0
+660	Same short rest, so really focus on the quality of your breathing...	8	0	0	72	16777215	10
+660	especially how well you're exhaling & clearing the junk	8	0	0	72	16777215	20
+660	Get relaxed then stay that way as you start to work	8	0	0	72	16777215	50
+720	Settle into a rhythm as soon as you can, breathe from your belly	8	0	0	72	16777215	0
+720	Halfway, make a quick head-to-toes tension check	5	0	0	72	16777215	120
+720	Start at your forhead & ditch tension as you move down your body	8	0	0	72	16777215	130
+720	Shoulders & jaw are probably carrying far too much tension, ditch it	8	0	0	72	16777215	140
+720	Got a death grip on the bars? Hold them like a baby bird, awwww	8	0	0	72	16777215	150
+720	Final minute, stay focused on your quick, smooth spin...	8	0	0	72	16777215	180
+720	and your intimidatingly stoney expression & relaxed body	8	0	0	72	16777215	190
+720	30 more seconds, 10 at a time!	5	0	0	72	16777215	210
+720	Another 10, try to hide your discomfort	5	0	0	72	16777215	220
+720	10 final seconds, not ONE second less!	5	0	0	72	16777215	230
+960	Wow, you're pretty good at this...spin it out	5	0	0	72	16777215	0
+960	News to no one, the intensity is pretty high, these are downright uncomfortable...	8	0	0	72	16777215	60
+960	and while the duration of these intervals should definitely stress you...	8	0	0	72	16777215	70
+960	perhaps the hardest part is the limited recovery time	5	0	0	72	16777215	80
+960	When recovery time is limited, you have to recover quickly	8	0	0	72	16777215	87
+960	Building this ability is invaluable in racing & riding with groups	8	0	0	72	16777215	97
+960	Do it well and you'll get to say goodbye to getting dropped...	5	0	0	72	16777215	107
+960	no two ways about	5	0	0	72	16777215	114
+960	You'll be doing much of the dropping & your new threats...	8	0	0	72	16777215	120
+960	will be amongst the strongest riders out there	5	0	0	72	16777215	130
+960	10 seconds until the final set, get that spin up	5	0	0	72	16777215	140
+1110	Quick but sustainable, 90rpm or higher if possible	8	0	0	72	16777215	0
+1110	30 seconds behind you, stay relaxed, breathe fully	8	0	0	72	16777215	30
+1110	30 seconds to go, just as relaxed	5	0	0	72	16777215	60
+1110	Keep it together for 15 seconds!	5	0	0	72	16777215	75
+1200	Nice job, spin out the heaviness & breathe out the garbage	8	0	0	72	16777215	0
+1200	Rekindle your cadence if it died down	5	0	0	72	16777215	50
+1260	Ease into this will full, belly breaths already	5	0	0	72	16777215	0
+1260	One minute down, get through another	5	0	0	72	16777215	60
+1260	Final minute! Staying relaxed?	5	0	0	72	16777215	120
+1260	30 seconds left, focus on 10 at a time	5	0	0	72	16777215	150
+1260	Good! Another smooth 10 seconds	5	0	0	72	16777215	160
+1260	Final 10, you've got this	5	0	0	72	16777215	170
+1440	Nice, spin lightly & try to recover for the final effort	8	0	0	72	16777215	0
+1440	Almost time to hit the gas, relax & focus	5	0	0	72	16777215	52
+1500	4 minutes between you & freedom, take 'em one at a time	8	0	0	72	16777215	0
+1500	First minute down, stay relaxed & smooth for another	8	0	0	72	16777215	60
+1500	And try not to get ahead of yourself, just one minute at a time	5	0	0	72	16777215	70
+1500	Another minute of a relaxed body & a focused mind	5	0	0	72	16777215	120
+1500	Excellent, just keep your focus for 30 seconds this time	5	0	0	72	16777215	180
+1500	Almost there! 10 seconds at a time	5	0	0	72	16777215	210
+1500	Another 10 seconds of fluid pedaling	5	0	0	72	16777215	220
+1500	Final 10, don't give away how much you're hurting	5	0	0	72	16777215	230
+1740	Way to go! Wind down & clear your muscles	8	0	0	72	16777215	0
+1740	Start pondering your post-workout nutrition...	8	0	0	72	16777215	10
+1740	and we'll see ya next time!	5	0	0	72	16777215	20
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	1800	Workout
+0	120	Endurance 1
+120	210	Sweet Spot 1
+330	420	VO2 Max 1
+480	660	Threshold 1
+720	960	Threshold 2
+1110	1200	VO2 Max 2
+1260	1440	Threshold 3
+1500	1740	Threshold 4
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

@@ -1,0 +1,510 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Eisen,83,103. Created by 42270.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	60
+6	90
+9	90
+9	50
+11	50
+11	150
+11.1	150
+11.1	50
+12	50
+12	160
+12.1	160
+12.1	50
+13	50
+13	180
+13.1	180
+13.1	50
+14	50
+14	200
+14.1	200
+14.1	50
+19	50
+19	107
+19.5	107
+19.5	150
+19.6	150
+19.6	107
+20	107
+20	160
+20.1	160
+20.1	107
+20.5	107
+20.5	180
+20.6	180
+20.6	107
+21	107
+21	200
+21.1	200
+21.1	40
+26	40
+26	107
+26.5	107
+26.5	150
+26.6	150
+26.6	107
+27	107
+27	160
+27.1	160
+27.1	107
+27.5	107
+27.5	180
+27.6	180
+27.6	107
+28	107
+28	200
+28.1	200
+28.1	40
+33	40
+33	107
+33.5	107
+33.5	150
+33.6	150
+33.6	107
+34	107
+34	160
+34.1	160
+34.1	107
+34.5	107
+34.5	180
+34.6	180
+34.6	107
+35	107
+35	200
+35.1	200
+35.1	40
+40	40
+40	107
+40.5	107
+40.5	150
+40.6	150
+40.6	107
+41	107
+41	160
+41.1	160
+41.1	107
+41.5	107
+41.5	180
+41.6	180
+41.6	107
+42	107
+42	200
+42.1	200
+42.1	40
+47	40
+47	107
+47.5	107
+47.5	150
+47.6	150
+47.6	107
+48	107
+48	160
+48.1	160
+48.1	107
+48.5	107
+48.5	180
+48.6	180
+48.6	107
+49	107
+49	200
+49.1	200
+49.1	40
+54	40
+54	107
+54.5	107
+54.5	150
+54.6	150
+54.6	107
+55	107
+55	160
+55.1	160
+55.1	107
+55.5	107
+55.5	180
+55.6	180
+55.6	107
+56	107
+56	200
+56.1	200
+56.1	40
+61	40
+61	107
+61.5	107
+61.5	150
+61.6	150
+61.6	107
+62	107
+62	160
+62.1	160
+62.1	107
+62.5	107
+62.5	180
+62.6	180
+62.6	107
+63	107
+63	200
+63.1	200
+63.1	40
+68	40
+68	107
+68.5	107
+68.5	150
+68.6	150
+68.6	107
+69	107
+69	160
+69.1	160
+69.1	107
+69.5	107
+69.5	180
+69.6	180
+69.6	107
+70	107
+70	200
+70.1	200
+70.1	40
+75	40
+75	107
+75.5	107
+75.5	150
+75.6	150
+75.6	107
+76	107
+76	160
+76.1	160
+76.1	107
+76.5	107
+76.5	180
+76.6	180
+76.6	107
+77	107
+77	200
+77.1	200
+77.1	40
+82	40
+82	107
+82.5	107
+82.5	150
+82.6	150
+82.6	107
+83	107
+83	160
+83.1	160
+83.1	107
+83.5	107
+83.5	180
+83.6	180
+83.6	107
+84	107
+84	199
+84.1	199
+84.1	40
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome! Eisen consists of ten 2-minute intervals	8	0	0	72	16777215	10
+0	Each interval is set to 107% FTP with 4, standing neuromuscular bursts	8	0	0	72	16777215	20
+0	Each burst is between 150-200% FTP and lasts 6 seconds	8	0	0	72	16777215	30
+0	Rest between intervals is 4 minutes	8	0	0	72	16777215	40
+0	This combination of VO2max & neuromuscular intervals  accomplish 2 things:	8	0	0	72	16777215	50
+0	First, the time spent at VO2max will improve your aerobic power	8	0	0	72	16777215	60
+0	Second, the bursts will improve your ability to activate a lot of muscle mass quickly	8	0	0	72	16777215	70
+0	For now, keep warming those legs	8	0	0	72	16777215	80
+0	3-minute clearing effort coming up in about 30 seconds	8	0	0	72	16777215	330
+360	3 minutes at 90% FTP	8	0	0	72	16777215	0
+360	Find a cadence between 85-95rpm and settle in	8	0	0	72	16777215	10
+360	Let's establish a good position in the saddle early on in the workout	8	0	0	72	16777215	20
+360	Relax your shoulders & soften your elbows	8	0	0	72	16777215	30
+360	Try not to put too much weight on your handlebars...	8	0	0	72	16777215	40
+360	and make sure your sit bones are planted on the wings of your saddle	8	0	0	72	16777215	50
+360	If your sit bones are not properly seated on the wide part of your saddle...	8	0	0	72	16777215	60
+360	do your best to tilt your pelvis back a bit until they are	8	0	0	72	16777215	70
+360	If you think of your pelvis like a bowl that can tip forward & backward...	8	0	0	72	16777215	80
+360	tipping it backward can better anchor them to your saddle	8	0	0	72	16777215	90
+360	Try to find this position now & every time you're seated	8	0	0	72	16777215	100
+540	Still warming, next up are 4 clearing-effort bursts	8	0	0	72	16777215	10
+540	Let's use these clearing bursts to practice out-of-the-saddle work	8	0	0	72	16777215	20
+540	Do your best to make your transitions in & out of the saddle as smooth as possible	8	0	0	72	16777215	30
+540	Make sure you're not too heavy on your hands...	8	0	0	72	16777215	40
+540	and you're not gripping the bars too tightly	8	0	0	72	16777215	50
+540	Find a balance of weight between all four contact points - both hands, both feet	8	0	0	72	16777215	60
+540	Next, focus on your cadence	8	0	0	72	16777215	70
+540	These are short, fast bursts, so your cadence should be set accordingly	8	0	0	72	16777215	80
+540	Shoot for a cadence of 120rpm or even higher, if you can control it	8	0	0	72	16777215	90
+540	First warmup burst in 10 seconds...	5	0	0	72	16777215	110
+660	Go fast! 6 seconds	5	0	0	72	16777215	0
+666	And back down. Were you controlled while out of the saddle?	8	0	0	72	16777215	0
+666	Being smooth &  in control is important - even more so indoors	8	0	0	72	16777215	10
+666	No drama when first standing up...	5	0	0	72	16777215	20
+666	no drama through the burst...	5	0	0	72	16777215	27
+666	and no drama when sitting back down	5	0	0	72	16777215	34
+720	Go fast!	5	0	0	72	16777215	0
+726	Get a handle on your cadence & ride easy	8	0	0	72	16777215	0
+780	Again! Go fast	5	0	0	72	16777215	0
+786	Ease off the gas, slow your spin	5	0	0	72	16777215	0
+786	One more, all the way up at 200% FTP	5	0	0	72	16777215	44
+840	Go! 6 seconds	5	0	0	72	16777215	0
+846	Excellent, have a seat & spin comfortably quickly	8	0	0	72	16777215	0
+846	First interval starts in about 90 seconds	8	0	0	72	16777215	84
+846	We'll stay in the saddle for the VO2max work at 107% FTP...	8	0	0	72	16777215	94
+846	then we'll stand for the sprint-like bursts	8	0	0	72	16777215	104
+846	Your seated cadence should be high, at least 90rpm but preferably closer to 100rpm...	8	0	0	72	16777215	114
+846	but this depends on how quickly you can sustain a quick spin	8	0	0	72	16777215	124
+846	Your cadence for the bursts should be even faster - 120rpm, higher if you can control it	8	0	0	72	16777215	134
+846	Above all, make sure you're keeping complete control out of the saddle	8	0	0	72	16777215	144
+846	Slow your cadence a bit if things start to get out of hand	8	0	0	72	16777215	154
+846	Get ready...	3	0	0	72	16777215	289
+1140	Here we go! Find your cadence	8	0	0	72	16777215	0
+1140	Get ready to stand & remember: smooth transition out of the saddle	8	0	0	72	16777215	20
+1170	And up!	8	0	0	72	16777215	0
+1176	Smooth transition back down	5	0	0	72	16777215	0
+1176	Deep breaths, exhale completely	5	0	0	72	16777215	10
+1200	6 seconds!	3	0	0	72	16777215	0
+1206	And back down - no drama, be smooth	5	0	0	72	16777215	0
+1230	Up, 6 seconds!	3	0	0	72	16777215	0
+1236	Final burst ahead! Make it look easy	5	0	0	72	16777215	14
+1260	Full gas!	3	0	0	72	16777215	0
+1266	Great job! Take 5 minutes to clear the legs	8	0	0	72	16777215	0
+1266	Imagine these sort of intervals in a group-ride setting	8	0	0	72	16777215	54
+1266	The 2 minute intervals are akin to a short climb...	8	0	0	72	16777215	64
+1266	and the bursts might be when you generate big watts briefly...	8	0	0	72	16777215	74
+1266	that help you break away from the pack	5	0	0	72	16777215	84
+1266	It's the combination of already high-level work...	8	0	0	72	16777215	94
+1266	with repeated, leg-searing efforts...	8	0	0	72	16777215	104
+1266	that can potentially set you apart from other riders	8	0	0	72	16777215	114
+1266	These are the kind of efforts necessary to give a breakaway a fighting chance	8	0	0	72	16777215	124
+1266	Round 2 coming up, be ready!	8	0	0	72	16777215	284
+1560	Quick legs! Don't let yourself get bogged down early	8	0	0	72	16777215	0
+1560	Get ready for a smooth transition out of your saddle	8	0	0	72	16777215	20
+1590	6 seconds!	3	0	0	72	16777215	0
+1596	Back down, imagine the field of riders falling behind you	8	0	0	72	16777215	0
+1620	Up! Fast legs!	3	0	0	72	16777215	0
+1626	Gently back down, rein in those legs	5	0	0	72	16777215	0
+1650	Again! Be "explosive"	3	0	0	72	16777215	0
+1656	"Explosive" is a relative term since you're on a trainer...	8	0	0	72	16777215	0
+1656	but it's still possible to get a lot of speed all at once	8	0	0	72	16777215	10
+1680	Last time, all out!	3	0	0	72	16777215	0
+1686	Good job :)	5	0	0	72	16777215	0
+1686	5 minutes easy	5	0	0	72	16777215	7
+1686	Don't let your cadence drop too low during the recovery portions	8	0	0	72	16777215	14
+1686	Try to stick with 85-95rpm	8	0	0	72	16777215	24
+1686	These intervals are tough, but they're are only 2 minutes long	8	0	0	72	16777215	34
+1686	Do your best to maintain a high cadence the entire time...	8	0	0	72	16777215	44
+1686	because spinning too slowly can bog you down quickly	8	0	0	72	16777215	54
+1686	Not to mention, it can really fry your muscles	8	0	0	72	16777215	64
+1686	Next interval in 30 seconds, don't let it catch you off guard!	8	0	0	72	16777215	264
+1980	Here we go! 100+rpm straight away	8	0	0	72	16777215	0
+1980	Out of the saddle in 10 seconds, get ready	8	0	0	72	16777215	20
+2010	Up!	3	0	0	72	16777215	0
+2016	Back in the saddle, gracefully	5	0	0	72	16777215	0
+2040	Go fast!	3	0	0	72	16777215	0
+2046	Annnnd back it off & settle in	5	0	0	72	16777215	0
+2070	Again! 6 seconds	3	0	0	72	16777215	0
+2076	Hang in there, these are brutal...but short	8	0	0	72	16777215	0
+2100	Last time, go!	3	0	0	72	16777215	0
+2106	3 down! Nice :)	5	0	0	72	16777215	0
+2106	5 easy minutes, try to keep your legs turning	8	0	0	72	16777215	7
+2106	Make sure you're taking full, deep breaths and keeping your legs moving	8	0	0	72	16777215	17
+2106	Both of these things will help you recover a bit more quickly	8	0	0	72	16777215	27
+2106	Round 4 is in 30 seconds, make sure your cadence is up	8	0	0	72	16777215	264
+2106	And try to make sure you're keeping proper form as the fatigue builds	8	0	0	72	16777215	274
+2400	Get ready to stand, lots of control...	8	0	0	72	16777215	20
+2430	Up!	3	0	0	72	16777215	0
+2436	And back down, keep that cadence quick	5	0	0	72	16777215	0
+2460	Back up! 6 seconds	3	0	0	72	16777215	0
+2466	As the bursts get higher, try to make them look as smooth as the first ones	8	0	0	72	16777215	0
+2490	Get your speed fast!	3	0	0	72	16777215	0
+2496	Good, hang in there!	5	0	0	72	16777215	0
+2520	Last time, all-out!	3	0	0	72	16777215	0
+2526	Nice! Take it easy for 5 minutes	8	0	0	72	16777215	0
+2820	Back at it, lots of speed, lots of control	8	0	0	72	16777215	0
+2820	And you always have the option of staying seated...	8	0	0	72	16777215	10
+2820	but that assumes you can generate big watts in the saddle	8	0	0	72	16777215	20
+2850	Go!	3	0	0	72	16777215	0
+2856	Good, stay on top of your leg speed	8	0	0	72	16777215	0
+2880	Go hard!	3	0	0	72	16777215	0
+2886	Excellent, just a couple left	5	0	0	72	16777215	0
+2910	Go fast!	3	0	0	72	16777215	0
+2916	Ease off just a bit and HANG IN THERE	8	0	0	72	16777215	0
+2940	Last time, everything you got!	3	0	0	72	16777215	0
+2946	And recover! You're halfway through the workout	8	0	0	72	16777215	0
+2946	If you've been able to maintain your watts and cadence so far...	8	0	0	72	16777215	10
+2946	there's a good chance you won't have to bail during the 2nd half of this workout	8	0	0	72	16777215	20
+2946	You know the drill by now...	5	0	0	72	16777215	274
+2946	Fast cadence in the saddle, and even faster cadence out of the saddle	8	0	0	72	16777215	281
+3240	Start out with plenty of control, keep it the whole time	8	0	0	72	16777215	0
+3240	Shoot for your fastest CONTROLLABLE leg speed during the bursts	8	0	0	72	16777215	10
+3270	6 seconds!	3	0	0	72	16777215	0
+3276	Ease up just a bit, keep your speed	5	0	0	72	16777215	0
+3300	Wind it up!	3	0	0	72	16777215	0
+3306	Do your best to keep a consistent  cadence from burst to burst	8	0	0	72	16777215	0
+3306	If you spin at 120rpm during the first burst of each interval...	8	0	0	72	16777215	10
+3306	try to keep it for the rest	3	0	0	72	16777215	20
+3330	Go!	3	0	0	72	16777215	0
+3336	This is where most riders quit, don't be one of them	8	0	0	72	16777215	0
+3360	Last one, all out!	3	0	0	72	16777215	0
+3366	Deep breaths, bring that heart rate down & recover well	8	0	0	72	16777215	0
+3366	Focus on exhaling well, the rest will take care of itself	8	0	0	72	16777215	10
+3366	Next interval in about 1 minute	8	0	0	72	16777215	234
+3366	Let's try the next couple of intervals completely in the saddle	8	0	0	72	16777215	244
+3366	Despite staying in the saddle for the duration of the interval...	8	0	0	72	16777215	254
+3366	keep your cadence HIGH, around 100rpm in the valleys...	8	0	0	72	16777215	264
+3366	and 120rpm or higher during the bursts	8	0	0	72	16777215	274
+3660	Seated at 100rpm or quicker	5	0	0	72	16777215	0
+3690	Seated with even more leg speed!	5	0	0	72	16777215	0
+3696	So far so good? If you bogged down...	8	0	0	72	16777215	0
+3696	wind up a little more leg speed before the burst	8	0	0	72	16777215	10
+3720	Tons of speed!	3	0	0	72	16777215	0
+3726	Better that time? Stay seated if possible...	8	0	0	72	16777215	0
+3726	but stand if necessary...and NO knee pain	8	0	0	72	16777215	10
+3750	High, seated spin!	3	0	0	72	16777215	0
+3756	Good, just hang on to it, almost there!	8	0	0	72	16777215	0
+3780	Last one, all out!	3	0	0	72	16777215	0
+3786	Well done, relax for 5 minutes & spin out the fatigue	8	0	0	72	16777215	0
+3786	We'll spend the next interval entirely in the saddle as well...	8	0	0	72	16777215	274
+3786	only standing if necessary, when/if your cadence falls quickly	8	0	0	72	16777215	284
+4080	3 sets left but try to limit your focus to this 2 minutes only	8	0	0	72	16777215	0
+4110	Quick legs, in the saddle	5	0	0	72	16777215	0
+4116	Good, keep it together & stay quick	5	0	0	72	16777215	0
+4140	Again, all your speed at once!	3	0	0	72	16777215	0
+4146	Quick legs, be tough!	5	0	0	72	16777215	0
+4170	Hammer, 6 seconds!	3	0	0	72	16777215	0
+4176	Hang in there, under 30 seconds!	5	0	0	72	16777215	0
+4200	Last kick!	3	0	0	72	16777215	0
+4206	Keep 'em turning forward for at least another 30 seconds	8	0	0	72	16777215	0
+4206	Help clear the buildup in your legs then backpedal for a minute or 2 if necessary	8	0	0	72	16777215	10
+4206	Lets go back to standing bursts for the final 2 intervals	8	0	0	72	16777215	264
+4206	Always optional of course, do whichever better suits your needs...	8	0	0	72	16777215	274
+4206	especially if either approach limits your performance	8	0	0	72	16777215	284
+4500	Get ready to stand in 10...	5	0	0	72	16777215	20
+4530	And up!	3	0	0	72	16777215	0
+4536	And smoothly back down, fatigued but controlled	8	0	0	72	16777215	0
+4560	Again, get your speed quickly	3	0	0	72	16777215	0
+4566	Good, ride off the burn & breathe fully	8	0	0	72	16777215	0
+4590	Wind it up!	3	0	0	72	16777215	0
+4596	Almost there, do your best to keep your legs quick	8	0	0	72	16777215	0
+4620	Last time, go!	3	0	0	72	16777215	0
+4626	Excellent! Final interval coming up	8	0	0	72	16777215	234
+4626	Even if you're fatigued, and it's really likely you are...	8	0	0	72	16777215	244
+4626	don't let it show	5	0	0	72	16777215	254
+4626	Use this final interval as an opportunity to work on your "poker face"	8	0	0	72	16777215	264
+4626	A poker face in cycling isn't limited to your facial expression either...	8	0	0	72	16777215	274
+4626	a cycling poker face also includes perfect form that makes hard work look easy	8	0	0	72	16777215	284
+4920	Last time, best looking round of sprints yet	8	0	0	72	16777215	0
+4950	Go fast!	3	0	0	72	16777215	0
+4956	So far so good, keep your legs quick	8	0	0	72	16777215	0
+4980	Go! 6 beautiful seconds	3	0	0	72	16777215	0
+4986	Last minute of work, don't show your discomfort	8	0	0	72	16777215	0
+5010	Fast legs!	3	0	0	72	16777215	0
+5016	Excellent! Hide the pain by making it look easy	8	0	0	72	16777215	0
+5040	Everything you have left!	3	0	0	72	16777215	0
+5046	Very well done! That was a LOT of work	8	0	0	72	16777215	0
+5046	Use the next 6 minutes to cool down & ponder your nutrition	8	0	0	72	16777215	10
+5046	And don't hesitate to take an extra day of recovery...	8	0	0	72	16777215	20
+5046	if you find yourself with dead-heavy legs the next time you saddle up	8	0	0	72	16777215	30
+5046	The fatigue from this one might surprise you ;-)	8	0	0	72	16777215	40
+5046	We'll see you next time	8	0	0	72	16777215	50
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+360	540	Sweet Spot 1
+660	666	Sprint 1
+720	726	Sprint 2
+780	786	Sprint 3
+840	846	Sprint 4
+1140	1170	VO2 Max 1
+1170	1176	Sprint 5
+1176	1200	VO2 Max 2
+1200	1206	Sprint 6
+1206	1230	VO2 Max 3
+1230	1236	Sprint 7
+1236	1260	VO2 Max 4
+1260	1266	Sprint 8
+1560	1590	VO2 Max 5
+1590	1596	Sprint 9
+1596	1620	VO2 Max 6
+1620	1626	Sprint 10
+1626	1650	VO2 Max 7
+1650	1656	Sprint 11
+1656	1680	VO2 Max 8
+1680	1686	Sprint 12
+1980	2010	VO2 Max 9
+2010	2016	Sprint 13
+2016	2040	VO2 Max 10
+2040	2046	Sprint 14
+2046	2070	VO2 Max 11
+2070	2076	Sprint 15
+2076	2100	VO2 Max 12
+2100	2106	Sprint 16
+2400	2430	VO2 Max 13
+2430	2436	Sprint 17
+2436	2460	VO2 Max 14
+2460	2466	Sprint 18
+2466	2490	VO2 Max 15
+2490	2496	Sprint 19
+2496	2520	VO2 Max 16
+2520	2526	Sprint 20
+2820	2850	VO2 Max 17
+2850	2856	Sprint 21
+2856	2880	VO2 Max 18
+2880	2886	Sprint 22
+2886	2910	VO2 Max 19
+2910	2916	Sprint 23
+2916	2940	VO2 Max 20
+2940	2946	Sprint 24
+3240	3270	VO2 Max 21
+3270	3276	Sprint 25
+3276	3300	VO2 Max 22
+3300	3306	Sprint 26
+3306	3330	VO2 Max 23
+3330	3336	Sprint 27
+3336	3360	VO2 Max 24
+3360	3366	Sprint 28
+3660	3690	VO2 Max 25
+3690	3696	Sprint 29
+3696	3720	VO2 Max 26
+3720	3726	Sprint 30
+3726	3750	VO2 Max 27
+3750	3756	Sprint 31
+3756	3780	VO2 Max 28
+3780	3786	Sprint 32
+4080	4110	VO2 Max 29
+4110	4116	Sprint 33
+4116	4140	VO2 Max 30
+4140	4146	Sprint 34
+4146	4170	VO2 Max 31
+4170	4176	Sprint 35
+4176	4200	VO2 Max 32
+4200	4206	Sprint 36
+4500	4530	VO2 Max 33
+4530	4536	Sprint 37
+4536	4560	VO2 Max 34
+4560	4566	Sprint 38
+4566	4590	VO2 Max 35
+4590	4596	Sprint 39
+4596	4620	VO2 Max 36
+4620	4626	Sprint 40
+4920	4950	VO2 Max 37
+4950	4956	Sprint 41
+4956	4980	VO2 Max 38
+4980	4986	Sprint 42
+4986	5010	VO2 Max 39
+5010	5016	Sprint 43
+5016	5040	VO2 Max 40
+5040	5046	Sprint 44
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

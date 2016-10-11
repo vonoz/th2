@@ -1,0 +1,158 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Carson 45,82,50. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	65
+4	90
+7	90
+7	40
+12	40
+12	90
+18	90
+18	40
+20	40
+20	94
+26	94
+26	40
+28	40
+28	88
+35	88
+35	40
+37	40
+37	92
+44	92
+44	40
+45	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Settle into a quick but comfortable spin for a few minutes	8	0	0	72	16777215	10
+0	Light stress on the legs & comfortable breathing while you warm	8	0	0	72	16777215	20
+0	Get ready for 3 steady minutes close to FTP	5	0	0	72	16777215	233
+240	Try to keep your cadence & effort steady	5	0	0	72	16777215	0
+420	Nice job, time to talk about today's workout	5	0	0	72	16777215	0
+420	Up ahead, Sweet Spot intervals ranging from 5-7 minutes	8	0	0	72	16777215	7
+420	These steady effort intervals are all high-end aerobic base...	8	0	0	72	16777215	17
+420	And while they aren't completely aerobic, i.e. they'll definitely burn some sugar...	8	0	0	72	16777215	27
+420	they will improve your aerobic fitness, or rather...	5	0	0	72	16777215	37
+420	how hard you can work & still rely mostly on clean, plentiful oxygen	8	0	0	72	16777215	44
+420	The effort straddles the border between Tempo & Threshold work	8	0	0	72	16777215	60
+420	They're a bit tougher than Tempo, but a bit more forgiving than Threshold...	8	0	0	72	16777215	70
+420	and all about establishing a strong base to later build your FTP upon	8	0	0	72	16777215	80
+420	It's uncomfortable, requires focus to stay there & gets the heart goin' pretty good	8	0	0	72	16777215	90
+420	But it's low ENOUGH in intensity that you can actually do quite a lot of it...	8	0	0	72	16777215	100
+420	without overreaching too far or fatiguing yourself too greatly	5	0	0	72	16777215	110
+420	Sweet Spot work is highly productive without being very destructive...	8	0	0	72	16777215	120
+420	and you can even get away with multiple days in a row	5	0	0	72	16777215	130
+420	To enhance today's workout, you have the option of adding some climbing drills	8	0	0	72	16777215	180
+420	If you'd like, try to find something to elevate your front wheel a few inches	8	0	0	72	16777215	190
+420	Don't get too crazy with the height, but it should feel like you're on a 3-5% grade	8	0	0	72	16777215	200
+420	Phone books actually work really well in a pinch	5	0	0	72	16777215	210
+420	See, there IS a use for those things ;)	5	0	0	72	16777215	217
+420	First interval's about 30 seconds out so get ready to work	8	0	0	72	16777215	270
+420	This one's 5 minutes long & it's at the lower end of the Sweet Spot range...	8	0	0	72	16777215	280
+420	so don't worry if you're not quite warmed up, this one's the easiest of the bunch	8	0	0	72	16777215	290
+720	6 minutes of seated climbing this time	5	0	0	72	16777215	0
+720	Climbing doesn't have to mean a slow cadence	5	0	0	72	16777215	7
+720	In fact, most of the best climbers in the world do it with a relatively quick spin	8	0	0	72	16777215	14
+720	Because they understand the trade-off between slow & quick cadences	8	0	0	72	16777215	24
+720	Slow grinds are very muscular - which is fine from time to time & in small doses	8	0	0	72	16777215	34
+720	but sustained climbs should favor a quicker, more heart-reliant spin	8	0	0	72	16777215	44
+720	Otherwise, you overcook your muscles when it's simply not necessary	8	0	0	72	16777215	54
+720	Who was that famous grand tour rider several years back...	8	0	0	72	16777215	64
+720	who kept his spin quick regardless of grade - time trial or climbing?	8	0	0	72	16777215	74
+720	You know, the one who doped. Oh, I remember...	8	0	0	72	16777215	84
+720	EVERYONE ;-)	3	0	0	72	16777215	94
+720	But seriously, save that strength for when you run out of gears & are stuck grinding	8	0	0	72	16777215	100
+720	2 minutes in, watch your left knee for 30 seconds	8	0	0	72	16777215	120
+720	Straight up, straight down	5	0	0	72	16777215	130
+720	Now the right knee	5	0	0	72	16777215	150
+720	Up & down like a piston in an engine	5	0	0	72	16777215	160
+720	Now both knees when they come to the top of the pedalstroke	8	0	0	72	16777215	180
+720	Any wobble? Keep your hips stable & ditch the wobble	5	0	0	72	16777215	190
+720	2 minutes to go, climbing quickly & smoothly	5	0	0	72	16777215	240
+1080	Nicely done, light spin for a couple minutes	5	0	0	72	16777215	0
+1080	Another round of slow grinding & saddle transtions on the way	8	0	0	72	16777215	90
+1080	Bring your cadence down to 75rpm, as long as your knees are in agreement	8	0	0	72	16777215	100
+1080	Relax your arms & try not to tense up when the interval begins	8	0	0	72	16777215	110
+1200	Stay seated for this first minute	5	0	0	72	16777215	0
+1200	Get ready to stand for 10 pedalstrokes...	5	0	0	72	16777215	53
+1200	Up, count 10 on your right knee	5	0	0	72	16777215	60
+1200	Smoothly back in the saddle for the rest of the minute	5	0	0	72	16777215	70
+1200	Each time you return to the saddle...	5	0	0	72	16777215	77
+1200	imagine its shell is cracked & you don't want to worsen the damage	8	0	0	72	16777215	84
+1200	Actually sit with THAT much grace, that much control	8	0	0	72	16777215	94
+1200	This time when you stand, keep your weight on your feet, not your hands	8	0	0	72	16777215	110
+1200	Up, count 10 on your left knee	5	0	0	72	16777215	120
+1200	Hold steady at 75rpm	5	0	0	72	16777215	130
+1200	This time, count when your right foot hits the bottom of the pedalstroke	8	0	0	72	16777215	170
+1200	Up, 10 on the right foot	5	0	0	72	16777215	180
+1200	Softly back into the saddle	5	0	0	72	16777215	187
+1200	Get ready...	5	0	0	72	16777215	233
+1200	Up, 10 when the left foot hits bottom	5	0	0	72	16777215	240
+1200	Good, ride slowly & smoothly - no knee wobble	5	0	0	72	16777215	250
+1200	Last time, get ready...	5	0	0	72	16777215	293
+1200	Rise, count your left right 10 times	5	0	0	72	16777215	300
+1200	Smooth as can be at 75rpm for about a minute	5	0	0	72	16777215	310
+1560	Excellent! Couple really easy minutes	5	0	0	72	16777215	0
+1560	7 minutes this time, all seated at 85rpm	5	0	0	72	16777215	113
+1680	Annnd go!	5	0	0	72	16777215	0
+1680	How's your position on the bike?	5	0	0	72	16777215	60
+1680	Are you comfortably draped over the handlebars?	8	0	0	72	16777215	67
+1680	Or are you stiff-arming your bars like you're trying to push your bike away?	8	0	0	72	16777215	74
+1680	Guess which one's the superior climbing position?	5	0	0	72	16777215	84
+1680	3 minutes in, upper body still relaxed?	5	0	0	72	16777215	180
+1680	Stability comes from your midsection, not your arms	5	0	0	72	16777215	187
+1680	Tense arms not only add to your fatigue...	8	0	0	72	16777215	194
+1680	but they're downright dangerous when it comes to bike handling	8	0	0	72	16777215	201
+1680	So relaaaaax	3	0	0	72	16777215	208
+1680	Let's watch our knees again, start with your left	5	0	0	72	16777215	240
+1680	Right knee	3	0	0	72	16777215	270
+1680	Both knees at the top of the pedalstroke - no wobble at 85rpm	5	0	0	72	16777215	300
+1680	Good, now just focus on smooth climbing for 90 seconds	5	0	0	72	16777215	330
+2100	Well done, take 'er easy	5	0	0	72	16777215	0
+2100	Last round of saddle transitions - 6 times in 7 minutes	8	0	0	72	16777215	90
+2100	If you're too tired to do these well, either skip them or do every other drill	8	0	0	72	16777215	100
+2100	Slow that spin - 75rpm	5	0	0	72	16777215	113
+2220	One minute of muscling those cranks smoothly	8	0	0	72	16777215	0
+2220	Get ready to rise...	5	0	0	72	16777215	53
+2220	Come on up! 10 on the left knee	5	0	0	72	16777215	60
+2220	Really try not to spring onto your handlebars this time	8	0	0	72	16777215	110
+2220	Up! 10 on the right knee	5	0	0	72	16777215	120
+2220	Only a few more minutes. Get ready...	5	0	0	72	16777215	173
+2220	Rise, left foot at bottom, 10 times	5	0	0	72	16777215	180
+2220	Imagine someone's right on your rear wheel...	5	0	0	72	16777215	233
+2220	and SMOOTHLY come up - right foot at bottom, 10 times	5	0	0	72	16777215	240
+2220	Excellent! 3 minutes left	5	0	0	72	16777215	250
+2220	This time, stay a little closer to your saddle...	5	0	0	72	16777215	293
+2220	Up! 10 on the left knee	5	0	0	72	16777215	300
+2220	Did more power stay on the pedals?	5	0	0	72	16777215	310
+2220	Remember, your feet power the bike, your hands don't	5	0	0	72	16777215	320
+2220	Last time, not too heavy on your hands	5	0	0	72	16777215	353
+2220	Up, 10  on the right knee	5	0	0	72	16777215	360
+2220	Awesome, settle & make it look easy	5	0	0	72	16777215	370
+2640	Great job! Spin off that heaviness	5	0	0	72	16777215	0
+2640	Force/strength work like this is tough on the muscles	8	0	0	72	16777215	10
+2640	So be kind to your legs today...	4	0	0	72	16777215	20
+2640	AND tomorrow if you aren't used to this type of training	8	0	0	72	16777215	25
+2640	We'll see you next time	5	0	0	72	16777215	35
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	2700	Workout
+240	420	Sweet Spot 1
+720	1080	Sweet Spot 2
+1200	1560	Sweet Spot 3
+1680	2100	Sweet Spot 4
+2220	2640	Sweet Spot 5
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

@@ -1,0 +1,282 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Guard TC,88,38. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	60
+3	90
+5	90
+5	50
+7	50
+7	150
+7.1	150
+7.1	50
+8	50
+8	160
+8.1	160
+8.1	50
+9	50
+9	180
+9.1	180
+9.1	50
+10	50
+10	200
+10.1	200
+10.1	40
+12	40
+12	107
+12.5	107
+12.5	150
+12.6	150
+12.6	107
+13	107
+13	160
+13.1	160
+13.1	107
+13.5	107
+13.5	180
+13.6	180
+13.6	107
+14	107
+14	200
+14.1	200
+14.1	40
+17	40
+17	107
+17.5	107
+17.5	150
+17.6	150
+17.6	107
+18	107
+18	160
+18.1	160
+18.1	107
+18.5	107
+18.5	180
+18.6	180
+18.6	107
+19	107
+19	200
+19.1	200
+19.1	40
+22	40
+22	107
+22.5	107
+22.5	150
+22.6	150
+22.6	107
+23	107
+23	160
+23.1	160
+23.1	107
+23.5	107
+23.5	180
+23.6	180
+23.6	107
+24	107
+24	200
+24.1	200
+24.1	40
+27	40
+27	107
+27.5	107
+27.5	150
+27.6	150
+27.6	107
+28	107
+28	160
+28.1	160
+28.1	107
+28.5	107
+28.5	180
+28.6	180
+28.6	107
+29	107
+29	200
+29.1	200
+29.1	40
+30	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Guard consists of four 2-minute intervals	8	0	0	72	16777215	10
+0	Each interval is set to 107% FTP with 4, standing neuromuscular bursts	8	0	0	72	16777215	20
+0	Each sprint-like burst is between 150-200% FTP and lasts 6 seconds...	8	0	0	72	16777215	30
+0	and each rest between intervals is 3 minutes long	8	0	0	72	16777215	40
+0	This combination of VO2max & Sprint intervals  accomplish 2 things:	8	0	0	72	16777215	50
+0	First, the time spent at VO2max will improve your aerobic power	8	0	0	72	16777215	60
+0	Second, the bursts will improve your ability to activate a lot of muscle mass quickly	8	0	0	72	16777215	70
+0	For now, keep warming those legs	8	0	0	72	16777215	80
+0	2-minute clearing effort coming up in 30 seconds	8	0	0	72	16777215	150
+180	Just a couple minutes at 90% FTP	5	0	0	72	16777215	0
+180	Find a cadence between 85-95rpm and settle in	8	0	0	72	16777215	10
+180	Let's establish a good position in the saddle early on in the workout	8	0	0	72	16777215	20
+180	Relax your shoulders & soften your elbows...	8	0	0	72	16777215	30
+180	try not to put too much weight on your handlebars...	8	0	0	72	16777215	40
+180	and make sure your sit bones are planted on the wings of your saddle	8	0	0	72	16777215	50
+180	If your sit bones aren't properly seated on the widest part of your saddle...	8	0	0	72	16777215	60
+180	tilt your pelvis back a bit until they are	8	0	0	72	16777215	70
+180	Think of your pelvis like a bowl that can tip forward and backward...	8	0	0	72	16777215	80
+180	and tip it back until you feel pressure on your sit bones	8	0	0	72	16777215	90
+180	Try to give yourself a strong platform to push from...	8	0	0	72	16777215	100
+180	one that doesn't rock side to side robbing you off power all the while	8	0	0	72	16777215	110
+300	Good, back off for a couple minutes but keep your legs fairly quick	8	0	0	72	16777215	0
+300	Next up are 4 sprint-like bursts of power, only 6 seconds each	8	0	0	72	16777215	10
+300	Let's use these clearing bursts to practice out-of-the-saddle work	8	0	0	72	16777215	20
+300	Do your best to make transitions in & out of the saddle as smooth as possible	8	0	0	72	16777215	30
+300	Make sure you're not too heavy on your hands...	8	0	0	72	16777215	40
+300	and you're not gripping the bars too tightly	8	0	0	72	16777215	50
+300	Find a balance of weight between your hands & feet	8	0	0	72	16777215	60
+300	Next, let's talk about your cadence while surging	8	0	0	72	16777215	70
+300	These are short, fast bursts so your cadence should be set accordingly	8	0	0	72	16777215	80
+300	Shoot for a cadence in the neighborhood of 120rpm, maybe a bit higher	8	0	0	72	16777215	90
+300	And you're always welcome to perform the bursts while seated...get ready!	5	0	0	72	16777215	110
+420	Drill it!	3	0	0	72	16777215	0
+426	And back down. Were you controlled while standing?	8	0	0	72	16777215	0
+426	Being smooth &  in control is important - even more so indoors	8	0	0	72	16777215	10
+426	No drama when first standing up...	5	0	0	72	16777215	20
+426	no drama through each burst...	5	0	0	72	16777215	26
+426	annnnd no drama when sitting back down	5	0	0	72	16777215	33
+480	Run on the pedals!	3	0	0	72	16777215	0
+486	Gracefully back down as you get control of your leg speed	8	0	0	72	16777215	0
+486	Each of these require just a little more effort, just like the upcoming intervals	8	0	0	72	16777215	10
+486	So when you jump, do it powerfully & with GREAT control	8	0	0	72	16777215	20
+540	Jump hard!	3	0	0	72	16777215	0
+546	Have a seat, slow things down, one to go	8	0	0	72	16777215	0
+546	Highest effort yet, probably in the same gear you're using now...	8	0	0	72	16777215	34
+546	especially if you're in Ergo mode on an electronic trainer	8	0	0	72	16777215	44
+600	Go!	3	0	0	72	16777215	0
+606	Good, have a seat & catch your breath for a couple minutes	8	0	0	72	16777215	0
+606	First interval starts in about 90 seconds	8	0	0	72	16777215	24
+606	We'll stay in the saddle for the VO2max work at 107% FTP...	8	0	0	72	16777215	34
+606	and we recommend standing for the neuromuscular bursts	8	0	0	72	16777215	44
+606	Your seated cadence should be high - 100rpm if you can manage	8	0	0	72	16777215	54
+606	Your cadence for the bursts should be even faster - 120rpm or higher	8	0	0	72	16777215	64
+606	That said, make sure you're keeping complete control out of the saddle	8	0	0	72	16777215	74
+606	Slow your cadence a bit if things start to get out of hand	8	0	0	72	16777215	84
+606	First round just ahead, get ready!	5	0	0	72	16777215	107
+720	Here we go! Find your cadence right away	5	0	0	72	16777215	0
+720	Get ready to stand with a smooth transition out of the saddle	8	0	0	72	16777215	20
+750	Up! Run on the pedals	3	0	0	72	16777215	0
+756	Smooth transition back down	5	0	0	72	16777215	0
+756	Deep breaths, calm your HR as much as possible	8	0	0	72	16777215	10
+780	Go! 6 seconds	3	0	0	72	16777215	0
+786	And back down, no drama, be smooth	5	0	0	72	16777215	0
+810	Again! 6 seconds	3	0	0	72	16777215	0
+816	Have a seat, get things under control	5	0	0	72	16777215	0
+816	Final, highest burst ahead! Make it look easy	5	0	0	72	16777215	17
+840	Go! All-out!	3	0	0	72	16777215	0
+846	Great job! Take 3 minutes to clear the legs	8	0	0	72	16777215	4
+846	Imagine these sort of intervals in a group-ride setting	8	0	0	72	16777215	54
+846	The entire 2-minute intervals are akin to a short climb...	8	0	0	72	16777215	64
+846	and the bursts are like short, hard accelerations to create a gap...	8	0	0	72	16777215	74
+846	or to follow a similar move by someone else	5	0	0	72	16777215	84
+846	It's the combination of already high-level work...	8	0	0	72	16777215	94
+846	with repeated, leg-searing efforts that sets you apart from other riders	8	0	0	72	16777215	104
+846	These are the kind of efforts often necessary to make breakaways stick	8	0	0	72	16777215	114
+846	Round 2 coming up, be ready!	5	0	0	72	16777215	227
+1020	Quick legs! Don't let yourself get bogged down early	8	0	0	72	16777215	0
+1020	Get ready for a smooth transition out of the saddle	5	0	0	72	16777215	23
+1050	Up! Fast legs!	3	0	0	72	16777215	0
+1056	Back down, imagine the field of riders falling behind you	8	0	0	72	16777215	0
+1080	Up again!	3	0	0	72	16777215	0
+1086	Good, continue to grow your gap & discourage followers	8	0	0	72	16777215	0
+1110	Go hard!	3	0	0	72	16777215	0
+1116	This is where focus counts most, stay on it!	5	0	0	72	16777215	0
+1140	Last kick to the line!	3	0	0	72	16777215	0
+1146	Good job, halfway there!	5	0	0	72	16777215	0
+1146	3 easy minutes of lightly ticking over the pedals	8	0	0	72	16777215	7
+1146	Don't let your cadence drop too low during the recovery valleys	8	0	0	72	16777215	14
+1146	Try to stick to 85-95rpm	5	0	0	72	16777215	27
+1146	30 seconds until the next interval, get your leg speed up a little	8	0	0	72	16777215	144
+1146	These are hard but only 2 minutes long...	8	0	0	72	16777215	154
+1146	so holding a high cadence is reasonable & necessary	8	0	0	72	16777215	164
+1320	Here we go! 100rpm or higher straight away	8	0	0	72	16777215	0
+1320	Out of the saddle in 10 seconds, get ready...	8	0	0	72	16777215	20
+1350	Up & run on the pedals!	3	0	0	72	16777215	0
+1356	Back down but hold some leg speed	5	0	0	72	16777215	0
+1356	Up again in 10 seconds, get ready to wind it up quickly	8	0	0	72	16777215	14
+1380	Go fast!	3	0	0	72	16777215	0
+1386	Hardest part is right after a burst, stay tough!	8	0	0	72	16777215	0
+1410	Go fast!	3	0	0	72	16777215	0
+1416	Good, just gut out 20 more seconds!	3	0	0	72	16777215	0
+1440	Last sprint, all-out!	3	0	0	72	16777215	0
+1446	3 down, very nice!	5	0	0	72	16777215	4
+1446	3 easy minutes, just stay moving even if that means backpedaling	8	0	0	72	16777215	11
+1446	Make sure you're taking full, deep breaths & keeping your legs moving	8	0	0	72	16777215	24
+1446	Help yourself clear the junk & recover a bit faster	8	0	0	72	16777215	34
+1446	Round 4 in 30 seconds	5	0	0	72	16777215	144
+1446	Make sure you're keeping proper form as the fatigue builds...	8	0	0	72	16777215	151
+1446	arguably the hardest aspect of these intervals	8	0	0	72	16777215	161
+1446	3...	1	0	0	72	16777215	171
+1446	2...	1	0	0	72	16777215	172
+1446	1...	1	0	0	72	16777215	173
+1620	Quick spin - rapid, light muscle contractions	5	0	0	72	16777215	0
+1620	Get ready to stand in 5...	3	0	0	72	16777215	25
+1650	Jump & run!	3	0	0	72	16777215	0
+1656	And back down, keep that cadence quick	8	0	0	72	16777215	0
+1656	When you come up, be somewhat explosive = jump	8	0	0	72	16777215	4
+1656	Once you're up, spin really quickly while standing = run	8	0	0	72	16777215	14
+1680	Again, jump & run!	3	0	0	72	16777215	0
+1686	Back into the saddle, hold most of your leg speed	5	0	0	72	16777215	0
+1686	Each time you stand, make it look even more controlled than the last time	8	0	0	72	16777215	10
+1686	3...	1	0	0	72	16777215	21
+1686	2...	1	0	0	72	16777215	22
+1686	1...	1	0	0	72	16777215	23
+1710	Go fast!	3	0	0	72	16777215	0
+1716	Toughest part right here, hang on!	5	0	0	72	16777215	0
+1740	Last time, go!	3	0	0	72	16777215	0
+1746	Very well done! Have a seat & slow things way down	8	0	0	72	16777215	0
+1746	Take as long as you like to cool down & ponder your post-workout nutrition...	8	0	0	72	16777215	10
+1746	and we'll see you next time	5	0	0	72	16777215	20
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	1800	Workout
+180	300	Sweet Spot 1
+420	426	Sprint 1
+480	486	Sprint 2
+540	546	Sprint 3
+600	606	Sprint 4
+720	750	VO2 Max 1
+750	756	Sprint 5
+756	780	VO2 Max 2
+780	786	Sprint 6
+786	810	VO2 Max 3
+810	816	Sprint 7
+816	840	VO2 Max 4
+840	846	Sprint 8
+1020	1050	VO2 Max 5
+1050	1056	Sprint 9
+1056	1080	VO2 Max 6
+1080	1086	Sprint 10
+1086	1110	VO2 Max 7
+1110	1116	Sprint 11
+1116	1140	VO2 Max 8
+1140	1146	Sprint 12
+1320	1350	VO2 Max 9
+1350	1356	Sprint 13
+1356	1380	VO2 Max 10
+1380	1386	Sprint 14
+1386	1410	VO2 Max 11
+1410	1416	Sprint 15
+1416	1440	VO2 Max 12
+1440	1446	Sprint 16
+1620	1650	VO2 Max 13
+1650	1656	Sprint 17
+1656	1680	VO2 Max 14
+1680	1686	Sprint 18
+1686	1710	VO2 Max 15
+1710	1716	Sprint 19
+1716	1740	VO2 Max 16
+1740	1746	Sprint 20
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

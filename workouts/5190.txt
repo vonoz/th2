@@ -1,0 +1,292 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Glacier ,92,127. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	90
+6	100
+6	40
+7	40
+7	130
+7.5	130
+7.5	40
+8	40
+8	150
+8.5	150
+8.5	43
+13	43
+13	130
+15	130
+15	40
+20	40
+20	130
+22	130
+22	40
+27	40
+27	130
+29	130
+29	40
+33	40
+33	130
+35	130
+35	40
+40	40
+40	130
+42	130
+42	40
+48	40
+48	150
+49	150
+49	40
+52	40
+52	150
+53	150
+53	40
+56	40
+56	150
+57	150
+57	40
+60	40
+60	150
+61	150
+61	40
+64	40
+64	150
+65	150
+65	40
+71	40
+71	180
+71.5	180
+71.5	40
+74.5	40
+74.5	180
+75	180
+75	40
+78	40
+78	180
+78.5	180
+78.5	40
+81.5	40
+81.5	180
+82	180
+82	40
+85	40
+85	180
+85.5	180
+85.5	40
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Today's beast of a workout is all about Anaerobic work capacity...	8	0	0	72	16777215	10
+0	and after all 15 efforts, you'll have gotten that memo ;-)	8	0	0	72	16777215	20
+0	Each interval will be well above your Functional Threshold Power (FTP)...	8	0	0	72	16777215	30
+0	garnering you a total of 17 minutes & 30 seconds miles above FTP	8	0	0	72	16777215	40
+0	We'll talk more about the challenges & benefits of this type of work later...	8	0	0	72	16777215	50
+0	but for now, just spin quickly & warm things up	8	0	0	72	16777215	60
+240	Try to spin above 85rpm during this 2-minute warming ramp	8	0	0	72	16777215	0
+360	Still quick but with much less effort	8	0	0	72	16777215	0
+360	Shoot for appropriate leg speed during these 2 repeats...	8	0	0	72	16777215	40
+360	something above 100rpm and even as high as 120-130rpm if it suits you	8	0	0	72	16777215	50
+420	Nice & quick but not so fast you fry your legs with speed	8	0	0	72	16777215	0
+450	Keep most of your leg speed & catch your breath	8	0	0	72	16777215	0
+480	Quicker this time if you felt a little sluggish last time	8	0	0	72	16777215	0
+510	Good, ease up & and we'll talk about Glacier's sadistic profile	8	0	0	72	16777215	0
+510	This first set of intervals will provide you with an ample workload	8	0	0	72	16777215	10
+510	10 minutes at 130% FTP is certainly no joke...	8	0	0	72	16777215	20
+510	but as always, it's plenty manageable with proper motivation	5	0	0	72	16777215	30
+510	5 minute recoveries between efforts...	8	0	0	72	16777215	40
+510	will allow you to continue forging ahead	8	0	0	72	16777215	50
+510	During these efforts, focus on technique above all else	8	0	0	72	16777215	60
+510	1 minute until our first effort, take a few deep breaths	8	0	0	72	16777215	210
+510	Put yourself in a light gear and breathe easy	8	0	0	72	16777215	220
+510	During this first effort, move your hands to the tops of the bars...	8	0	0	72	16777215	240
+510	like you would when you are climbing	5	0	0	72	16777215	250
+510	10 seconds out, grab a quick drink if you need to	8	0	0	72	16777215	260
+780	Quick spin, right from the start - 100rpm or higher	8	0	0	72	16777215	0
+780	If you posture up like you're climbing...	8	0	0	72	16777215	10
+780	you'll engage your muscles in a slightly different manner...	8	0	0	72	16777215	20
+780	making you strong no matter your riding position	8	0	0	72	16777215	30
+780	Avoid mashing on the pedals by spinning quickly & smoothly	8	0	0	72	16777215	60
+780	And relax your grip on the bars, soften your elbows	8	0	0	72	16777215	70
+780	Relax the back of your neck and drop your shoulders...	8	0	0	72	16777215	80
+780	and relax all the way through your fingers	8	0	0	72	16777215	90
+780	That'll help stabilize you & keep a quiet upper body	8	0	0	72	16777215	100
+900	Good job!	5	0	0	72	16777215	0
+900	Catch your breath & relax but keep your legs moving	8	0	0	72	16777215	10
+900	Make sure you are keeping a continuous & light spin	8	0	0	72	16777215	180
+900	Spinning lightly through these recoveries is invaluable...	8	0	0	72	16777215	190
+900	as it continues to flush the byproduct from your muscles	8	0	0	72	16777215	200
+900	Keeping them fresh and recovering throughout the rest	8	0	0	72	16777215	210
+900	This time, let's work on riding from your drops	8	0	0	72	16777215	240
+900	Riding from your drops is more aerodynamic & can save you a lot of time	8	0	0	72	16777215	250
+900	But it's pointless if you can't put out big power in that position	8	0	0	72	16777215	260
+900	So spend time during workouts training in positions you'll utilize outdoors	8	0	0	72	16777215	270
+900	Time to move to the drops	5	0	0	72	16777215	290
+1200	Go! In your drops with quick legs	8	0	0	72	16777215	0
+1200	Keep a +100rpm spin while in this position	8	0	0	72	16777215	10
+1200	It's very easy to fall into pushing a heavy gear while in the drops	8	0	0	72	16777215	20
+1200	Fight that!	5	0	0	72	16777215	30
+1200	Your increased bend in the waist & hunched posture...	8	0	0	72	16777215	40
+1200	make breathing & pedaling with force more difficult	8	0	0	72	16777215	50
+1200	So if you need to sit up tall from time to time...	8	0	0	72	16777215	60
+1200	do so in order to maintain your Target Power	8	0	0	72	16777215	70
+1320	Well done!	5	0	0	72	16777215	0
+1320	This time let's work on riding from the hoods	8	0	0	72	16777215	180
+1320	With your hands on the brake hoods...	8	0	0	72	16777215	190
+1320	you have a comfortable position with plenty of control	8	0	0	72	16777215	200
+1320	But you can make this a great aero position too	8	0	0	72	16777215	210
+1320	By dropping your forearms horizontal to the ground...	8	0	0	72	16777215	220
+1320	with your palms on the hoods...	8	0	0	72	16777215	230
+1320	and elbows tucked directly in line...	8	0	0	72	16777215	240
+1320	you are maintaining what some argue...	8	0	0	72	16777215	250
+1320	is the most aero position without aero bars	8	0	0	72	16777215	260
+1320	We'll let a wind tunnel decide that one though ;-)	8	0	0	72	16777215	270
+1320	Get comfortable and into position - lower but still powerful	8	0	0	72	16777215	280
+1320	10 seconds left, make your spin quick & light	8	0	0	72	16777215	290
+1620	Pick it up!	5	0	0	72	16777215	0
+1620	In this position, make sure your torso is as low as is comfortable	8	0	0	72	16777215	10
+1620	Take a look at your elbows	5	0	0	72	16777215	20
+1620	Are they flaring out or close to your body? Bring 'em in	8	0	0	72	16777215	30
+1620	Then do the same for your knees	5	0	0	72	16777215	40
+1620	Pro tip:	5	0	0	72	16777215	50
+1620	If your palms are on the hoods...	8	0	0	72	16777215	60
+1620	then you need to decide what to do with your fingers	8	0	0	72	16777215	70
+1620	Try rolling the tops of your hands outwards...	8	0	0	72	16777215	80
+1620	and wrapping your fingers around the hoods	8	0	0	72	16777215	90
+1620	This will round out your shoulders ever so slightly...	8	0	0	72	16777215	100
+1620	and make it easier to avoid shrugging	5	0	0	72	16777215	110
+1740	Nice job!	5	0	0	72	16777215	0
+1740	During the next two intervals we will leave it up to you...	8	0	0	72	16777215	180
+1740	to decide which position best suits your personal needs	8	0	0	72	16777215	190
+1980	Go time! Spin quickly, stay relaxed	5	0	0	72	16777215	0
+1980	Refine that position & keep your power on Target	8	0	0	72	16777215	10
+1980	Hold that power & try to stay in position, 1 minute	8	0	0	72	16777215	60
+2100	Nicely done! Spin away the fatigue in prep for your last 2-minute effort	8	0	0	72	16777215	0
+2400	Back at it! Set your spin & settle in	8	0	0	72	16777215	0
+2400	Make sure you find that balance between power, aero & comfort	8	0	0	72	16777215	10
+2400	Final minute of these longer intervals, make it look smooth & relaxed	8	0	0	72	16777215	60
+2400	30 seconds, don't fade!	5	0	0	72	16777215	90
+2520	Nice work!	5	0	0	72	16777215	0
+2520	We've got the longer ones out of the way now	8	0	0	72	16777215	10
+2520	The next set is composed of 5 intervals like last time...	8	0	0	72	16777215	240
+2520	but they last for only 1 minute and jump up to 150% FTP	8	0	0	72	16777215	250
+2520	The rests have been decreased to 3 minutes...	8	0	0	72	16777215	260
+2520	but this is sufficient recovery for intervals this short	8	0	0	72	16777215	270
+2520	Once again, focus on technique	5	0	0	72	16777215	280
+2520	Don't underestimate the importance of riding with minimal wasted energy...	8	0	0	72	16777215	290
+2520	especially at work rates as high as these	5	0	0	72	16777215	300
+2520	Kick things off by nailing your cadence...	8	0	0	72	16777215	330
+2520	by trying to keep that cadence above 100rpm, well above if possible	8	0	0	72	16777215	340
+2880	Quick legs with zero bouncing in the saddle	8	0	0	72	16777215	0
+2880	Already halfway there, try to relax your upper body	8	0	0	72	16777215	30
+2940	Well done!	5	0	0	72	16777215	0
+2940	Focus on your breathing for a minute	5	0	0	72	16777215	150
+2940	In through the nose & mouth...	8	0	0	72	16777215	160
+2940	followed by powerful exhales out the mouth stemming  from your diaphragm	8	0	0	72	16777215	170
+3120	Fast legs & stable hips!	5	0	0	72	16777215	0
+3120	Make the latter 30 seconds even smoother than the first 30	8	0	0	72	16777215	30
+3180	Nice job! Two in the bag	5	0	0	72	16777215	0
+3180	Now it's time to work on your pedalstroke a bit	8	0	0	72	16777215	120
+3180	Kick forward at the top...	8	0	0	72	16777215	130
+3180	and carry that kick into your downstroke	5	0	0	72	16777215	140
+3180	Then pull backwards at the bottom...	8	0	0	72	16777215	150
+3180	and carry that into an upward pull at the back of the stroke	8	0	0	72	16777215	160
+3180	All combined, this forms one fluid motion with steady pressure	8	0	0	72	16777215	170
+3360	Time to go! Be quick & relaxed	5	0	0	72	16777215	0
+3360	Smooth, clean & fast - no wasted motion	5	0	0	72	16777215	30
+3420	Nice work! Only 2 left	5	0	0	72	16777215	0
+3420	Spend these last two efforts working on a weakness of your choice	8	0	0	72	16777215	150
+3420	Give extra attention to something you know could use it	8	0	0	72	16777215	160
+3600	Bring it up! Fast & light for 1 minute	5	0	0	72	16777215	0
+3600	30 more seconds just as controlled as the first 30	8	0	0	72	16777215	30
+3660	Back it down & breeeeeeathe deeply	5	0	0	72	16777215	0
+3840	Back at it! Spin well above 100rpm	5	0	0	72	16777215	0
+3900	Another set down & 6 minutes of light spinning ahead	8	0	0	72	16777215	0
+3900	These last efforts are extremely short but very intense	8	0	0	72	16777215	300
+3900	The same 3 minute recoveries separate each effort...	8	0	0	72	16777215	310
+3900	but the intervals are all the way up at 180% FTP	8	0	0	72	16777215	320
+3900	Safe to say, you're going to earn your rest ;-)	8	0	0	72	16777215	330
+3900	Perform the first couple of these in the saddle and...	8	0	0	72	16777215	340
+3900	after that you'll have the option to practice standing sprints	8	0	0	72	16777215	350
+4260	LOTS of leg speed, don't get bogged down!	5	0	0	72	16777215	0
+4290	Over before you know it, right?	5	0	0	72	16777215	0
+4290	If that first one caught you snoozing, it was probably a matter of leg speed	8	0	0	72	16777215	10
+4290	It's vital that you have plenty of speed heading into efforts this demanding	8	0	0	72	16777215	20
+4290	Nobody sprints at 60rpm...	8	0	0	72	16777215	30
+4290	well, nobody WINS a sprint going 60rpm, anyway	8	0	0	72	16777215	40
+4290	Get ready, bring your spin way up - at least 100rpm...	8	0	0	72	16777215	160
+4290	and if you can control it, shoot for a spin closer to 120rpm	8	0	0	72	16777215	170
+4470	Push! Lots of speed the WHOLE 30 seconds	5	0	0	72	16777215	0
+4470	Final 10 seconds, don't fade!	5	0	0	72	16777215	20
+4500	Well done, spin out the fatigue - backward or forward	8	0	0	72	16777215	0
+4500	During these final 3 intervals...	8	0	0	72	16777215	120
+4500	let's work on sprinting, but remember you're on a trainer...	8	0	0	72	16777215	130
+4500	so don't go crazy and twist your bike in half ;)	8	0	0	72	16777215	140
+4500	During this next effort, work on a seated sprint	8	0	0	72	16777215	150
+4500	Start spinning lightly but quickly while in your drops...	8	0	0	72	16777215	160
+4500	then shift up and go all out for 30 seconds, get ready!	8	0	0	72	16777215	170
+4680	Sprint!	3	0	0	72	16777215	0
+4680	Halfway, keep that speed!	5	0	0	72	16777215	15
+4680	Hold on!	3	0	0	72	16777215	25
+4710	Nice work!	5	0	0	72	16777215	0
+4710	If you start to spin out during these sprints, keep shifting up	8	0	0	72	16777215	90
+4710	The goal is to cross the line first, so speed is paramount	8	0	0	72	16777215	100
+4710	For this next interval, start the first 15 seconds seated...	8	0	0	72	16777215	150
+4710	and finish the final 15 seconds out of the saddle	8	0	0	72	16777215	160
+4710	In the drops & spinning quickly to start...	8	0	0	72	16777215	170
+4890	Hammer from the saddle!	5	0	0	72	16777215	0
+4890	Get out of the saddle & drill it!	5	0	0	72	16777215	15
+4890	Keep it!	3	0	0	72	16777215	25
+4920	Well done! Did you keep your speed throughout?	8	0	0	72	16777215	0
+4920	If you started to lose your leg speed toward the end of the sprint...	8	0	0	72	16777215	10
+4920	hold back just a little bit when you initially come off your saddle	8	0	0	72	16777215	20
+4920	A well-paced sprint means you accelerate or at least hold speed...	8	0	0	72	16777215	30
+4920	all the way to the line	5	0	0	72	16777215	40
+4920	Finish this final interval off strong	8	0	0	72	16777215	120
+4920	If you feel up to it, do all 30 seconds out of the saddle	8	0	0	72	16777215	130
+4920	Otherwise, just repeat the same approach as the last interval	8	0	0	72	16777215	140
+4920	In either case, start building your speed while in the saddle...	8	0	0	72	16777215	150
+4920	and then drill it for the final 30 seconds of this workout	8	0	0	72	16777215	160
+4920	10 seconds left, spinning quickly with plenty of control	8	0	0	72	16777215	170
+5100	Smash it!	5	0	0	72	16777215	0
+5100	Stand if you're not already!	5	0	0	72	16777215	15
+5100	Final 5 seconds, hold on!	3	0	0	72	16777215	25
+5130	Way to go! That's a LOT of work, especially in 90 minutes	8	0	0	72	16777215	0
+5130	Finishing strong like that may require more cool down time...	8	0	0	72	16777215	10
+5130	so take as much time as you need & disregard the timer	8	0	0	72	16777215	20
+5130	And start planning or taking on your recovery nutrition...	8	0	0	72	16777215	30
+5130	and we'll see you next time	8	0	0	72	16777215	40
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+240	360	Sweet Spot 1
+420	450	Sprint 1
+480	510	Sprint 2
+780	900	Anaerobic Capacity 1
+1200	1320	Anaerobic Capacity 2
+1620	1740	Anaerobic Capacity 3
+1980	2100	Anaerobic Capacity 4
+2400	2520	Anaerobic Capacity 5
+2880	2940	Anaerobic Capacity 6
+3120	3180	Anaerobic Capacity 7
+3360	3420	Anaerobic Capacity 8
+3600	3660	Anaerobic Capacity 9
+3840	3900	Anaerobic Capacity 10
+4260	4290	Sprint 3
+4470	4500	Sprint 4
+4680	4710	Sprint 5
+4890	4920	Sprint 6
+5100	5130	Sprint 7
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

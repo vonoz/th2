@@ -1,0 +1,73 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Power Training Ridethrough,88,5. Created by 44401.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+0.2	50
+0.2	50
+0.5	70
+0.5	70
+1.33	70
+1.33	100
+2.33	100
+2.33	70
+2.5	70
+2.5	70
+3	130
+3	130
+3.5	70
+3.5	70
+4	70
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to TrainerRoad!	7	0	0	72	16777215	1
+0	In this short workout, we'll show you how to get set up to train with Power	8	0	0	72	16777215	8
+12	Your Power output should be showing in the upper left	8	0	0	72	16777215	4
+12	If it isn't, Go to the Settings tab on the other window to search for and pair your ANT+ Power Meter	8	0	0	72	16777215	12
+30	For VirtualPower, connect a speed sensor and choose your trainer model as the power source	8	0	0	72	16777215	2
+30	TrainerRoad will convert speed to power on the fly and display it	8	0	0	72	16777215	10
+30	All workouts are scaled to your fitness by setting your FTP in the profile tab or doing the 20 minute or 2x8 min assessment workouts	8	0	0	72	16777215	18
+30	Or you can use the up/down arrows on the bottom of the player to adjust the percentage	8	0	0	72	16777215	26
+30	The workout starts on the left and the graph represents your workout over time	8	0	0	72	16777215	34
+30	Your Power and HR get recorded every second and are displayed at your current spot on the graph	8	0	0	72	16777215	42
+80	The goal is to match your power with the target power level. Let's try a 1 minute interval now	8	0	0	72	16777215	-1
+80	try to match the target power for 1 minute	8	0	0	72	16777215	8
+80	Your power output can ocsillate very quickly but the smoother you pedal the better	8	0	0	72	16777215	16
+80	If you have a cadence sensor, your cadence should be showing in the upper right	8	0	0	72	16777215	24
+80	If you ever have to pause the workout, wiggle the mouse and hit the pause button in the middle of the window	8	0	0	72	16777215	32
+80	Your workout automatically gets saved when you complete it	8	0	0	72	16777215	40
+80	It will also get saved if you close the player or pause for an extended period of time	8	0	0	72	16777215	48
+80	Once you complete a workout, a summary screen will be displayed	8	0	0	72	16777215	56
+140	Where intervals like this will be displayed.	8	0	0	72	16777215	4
+150	Return to pedaling normally now if you havent already	8	0	0	72	16777215	2
+150	You may have noticed the top timer counted down until the end of the interval	8	0	0	72	16777215	10
+150	While the one below shows your total workout time.	8	0	0	72	16777215	18
+150	Last thing to mention is that there are two screen layouts	8	0	0	72	16777215	26
+180	Vertical is the default, showing the text over the middle graph and the gauges on top	8	0	0	72	16777215	4
+180	Horizontal shows the whole workout on the left, gauges in the middle and a zoomed in view on the right	8	0	0	72	16777215	12
+180	It is great for watching movies. Just move it to the bottom of the screen and maximize it	8	0	0	72	16777215	20
+180	The workout text will show up in the center of the screen over the movie	8	0	0	72	16777215	28
+210	Not all workouts have text and you can always turn text off in the Profile tab	8	0	0	72	16777215	6
+210	To review your workouts or post them to Facebook, go to the Career tab.	8	0	0	72	16777215	14
+210	If you have any questions or problems contact support@trainerroad.com	7	0	0	72	16777215	22
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	240	Workout
+30	80	Endurance 1
+80	140	Threshold 1
+140	150	Endurance 2
+150	180	Threshold 2
+180	210	Threshold 3
+210	240	Endurance 3
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

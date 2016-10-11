@@ -1,0 +1,445 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Andrews,70,73. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+10	70
+10	70
+12	70
+12	70
+13	68
+13	68
+25	68
+25	68
+26	65
+26	65
+40	65
+40	65
+41	75
+41	75
+55	75
+55	75
+56	70
+56	70
+70	70
+70	70
+71	75
+71	75
+85	75
+85	75
+90	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Andrews	5	0	0	72	16777215	10
+0	Settle into a spin between 85-95rpm...	4	0	0	72	16777215	17
+0	as you begin this moderate-duration...	3	0	0	72	16777215	22
+0	but relatively easy 90-minute ride	3	0	0	72	16777215	26
+0	The goal is little more than cultivating aerobic efficiency...	4	0	0	72	16777215	31
+0	but there will also be some opportunity...	4	0	0	72	16777215	36
+0	to target improvements in your pedaling efficiency too	4	0	0	72	16777215	41
+0	Typically, aerobic endurance work involves long rides...	4	0	0	72	16777215	47
+0	consisting of hours of low, steady effort	4	0	0	72	16777215	52
+0	But on typically time-constrained schedules...	3	0	0	72	16777215	58
+0	shorter rides have to suffice	3	0	0	72	16777215	62
+0	Fortunately, the steady-effort nature of riding indoors is highly productive...	5	0	0	72	16777215	67
+0	and shorter indoor durations...	3	0	0	72	16777215	73
+0	can match the effects of longer outdoor mileage	4	0	0	72	16777215	77
+0	So if you can resist the urge to take breaks or fall off pace...	5	0	0	72	16777215	83
+0	you can actually get as much benefit out of 90 minutes indoors...	5	0	0	72	16777215	89
+0	as a similar 2-hour ride outdoors, even longer	5	0	0	72	16777215	95
+0	So try to keep those pedals turning as steadily as possible...	5	0	0	72	16777215	102
+0	and keep your Power close to your Target	4	0	0	72	16777215	108
+0	And once you reach the top of this warming ramp...	4	0	0	72	16777215	114
+0	you'll have the option to follow along...	4	0	0	72	16777215	119
+0	with some very detailed Form Drills...	4	0	0	72	16777215	124
+0	aimed at both improving your pedaling efficiency...	4	0	0	72	16777215	129
+0	as well as passing the time a little more quickly	4	0	0	72	16777215	134
+600	Aerobic base is vital to an endurance athlete's success...	5	0	0	72	16777215	0
+600	and especially important to steady-state endurance athletes	5	0	0	72	16777215	6
+600	In order to tolerate high workloads...	4	0	0	72	16777215	13
+600	without burning a lot of sugar (carbohydrate)...	4	0	0	72	16777215	18
+600	a wide & deep aerobic base is crucial	4	0	0	72	16777215	23
+600	This aerobic "infrastructure" is also responsible...	4	0	0	72	16777215	29
+600	for processing excess metabolic byproducts...	4	0	0	72	16777215	34
+600	that your body generates as you work nearer & above FTP	5	0	0	72	16777215	39
+600	So not only can you work at fairly high power outputs...	5	0	0	72	16777215	46
+600	while sparing precious glycogen stores...	4	0	0	72	16777215	52
+600	you can work substantially harder, more frequently...	5	0	0	72	16777215	57
+600	without crushing yourself...	3	0	0	72	16777215	63
+600	or sabotaging the rest of your ride or race	4	0	0	72	16777215	67
+600	So during those instances where you're riding that edge...	5	0	0	72	16777215	73
+600	then you push harder, over that edge...	4	0	0	72	16777215	79
+600	and load up your legs...	3	0	0	72	16777215	84
+600	improved aerobic fitness will help you clear that excess...	5	0	0	72	16777215	88
+600	and diminish that uncomfortable burn...	4	0	0	72	16777215	94
+600	while still riding at a high power output	4	0	0	72	16777215	99
+600	So you can work hard, work harder...	4	0	0	72	16777215	105
+600	then return to working hard...	3	0	0	72	16777215	110
+600	again & again	3	0	0	72	16777215	114
+720	Spin lightly & quickly for a minute...	4	0	0	72	16777215	0
+720	and we'll start the drills shortly	4	0	0	72	16777215	5
+780	Let's begin with some single-leg drills...	4	0	0	72	16777215	-1
+780	but nothing too technical or demanding	4	0	0	72	16777215	5
+780	Rather than the full-on ILT drills where you dangle one leg...	5	0	0	72	16777215	11
+780	while the other leg does ALL the work...	4	0	0	72	16777215	17
+780	this round of drills will have you shift your focus...	5	0	0	72	16777215	22
+780	to a single leg for one minute at a time	5	0	0	72	16777215	28
+780	The name of the drill?	3	0	0	72	16777215	35
+780	Single-Leg Focus	3	0	0	72	16777215	40
+780	Who'd have guessed	3	0	0	72	16777215	45
+780	The objective here is straightforward...	4	0	0	72	16777215	50
+780	and the drill itself is quite easy	3	0	0	72	16777215	55
+780	Start now by shifting your attention to your left leg	5	0	0	72	16777215	60
+780	Your right leg is still doing its fair share of work...	5	0	0	72	16777215	67
+780	but your left leg is doing it better...	4	0	0	72	16777215	73
+780	for the simple reason that you've devoted more attention to its form...	5	0	0	72	16777215	78
+780	than you otherwise would if you had to split that focus	4	0	0	72	16777215	84
+780	Keep focusing on that left leg for another 30 seconds	5	0	0	72	16777215	90
+780	Switch your focus to your right leg now	5	0	0	72	16777215	120
+780	Don't worry, this drill will get a little more detailed soon...	5	0	0	72	16777215	127
+780	but for now it's enough to simply focus on a single leg	5	0	0	72	16777215	133
+780	30 more seconds, all of your focus on the right leg	5	0	0	72	16777215	150
+780	As you switch your focus back to your left leg...	4	0	0	72	16777215	180
+780	give special attention to how your knee is moving	4	0	0	72	16777215	185
+780	Does it move directly up & directly down?	4	0	0	72	16777215	191
+780	Or is there a little waver each time it hits its high point?	5	0	0	72	16777215	197
+780	If so, see if you can reduce that lateral motion...	4	0	0	72	16777215	204
+780	simply by trying to limit any side-to-side	4	0	0	72	16777215	209
+780	Ideally, each knee will track perfectly vertically...	4	0	0	72	16777215	215
+780	but it's common to have a small loss of control...	4	0	0	72	16777215	220
+780	when your pedal reaches top-dead-center...	4	0	0	72	16777215	225
+780	and brings your knee to its highest point	3	0	0	72	16777215	230
+780	Switch your focus back to your right leg...	4	0	0	72	16777215	240
+780	and concentrate on its ability to track straight up...	4	0	0	72	16777215	245
+780	straight down	3	0	0	72	16777215	250
+780	If there's any waver, try to consciously reduce its magnitude	5	0	0	72	16777215	255
+780	30 more seconds of limiting any lateral knee movement	5	0	0	72	16777215	270
+780	Switch again, this time...	3	0	0	72	16777215	300
+780	focus on actively pulling your left foot backward...	4	0	0	72	16777215	304
+780	and then kicking it foward just as lightly	4	0	0	72	16777215	309
+780	So a light pull across the bottom...	4	0	0	72	16777215	315
+780	followed immediately by a light kick across the top	4	0	0	72	16777215	320
+780	30 more seconds of left-side kicking & pulling	5	0	0	72	16777215	330
+780	Shift your focus...	3	0	0	72	16777215	360
+780	to your right leg's top & bottom pedalstroke quadrants	5	0	0	72	16777215	364
+780	Use that light forward kick...	3	0	0	72	16777215	371
+780	and that light backward pull...	3	0	0	72	16777215	375
+780	to round out some unevenness in your pedalstrokes	4	0	0	72	16777215	379
+780	30 more seconds of kicking & pulling...	3	0	0	72	16777215	390
+780	right-side focus	3	0	0	72	16777215	394
+780	Back to the left...	3	0	0	72	16777215	420
+780	this time, emphasis goes to feeling pressure on your foot...	4	0	0	72	16777215	424
+780	all the way around each pedal revolution	4	0	0	72	16777215	429
+780	So not only are you kicking & pulling and pressing downward...	5	0	0	72	16777215	435
+780	but try adding a light lift to your knee as it carries through the pull	5	0	0	72	16777215	441
+780	Pull back & up, kick forward, press down	5	0	0	72	16777215	448
+780	Switch legs & add that "upstroke" emphasis	5	0	0	72	16777215	480
+780	So now the right foot kicks forward into the downstroke...	5	0	0	72	16777215	487
+780	then lifts upward following your pull across the bottom	5	0	0	72	16777215	493
+780	30 more seconds of feeling your right foot all the way around	5	0	0	72	16777215	510
+780	Time for one more round of alternating your focus...	4	0	0	72	16777215	540
+780	as you feel your left foot drive the pedal...	4	0	0	72	16777215	545
+780	all the way around each pedal revolution	3	0	0	72	16777215	550
+780	Last switch, give your focus to your right foot...	4	0	0	72	16777215	600
+780	and feel pressure all the way around its revolutions	4	0	0	72	16777215	605
+780	Well done	3	0	0	72	16777215	660
+780	Ditch the focus and just pedal well for a couple minutes	5	0	0	72	16777215	665
+1560	Working at lower, manageable workloads like this...	5	0	0	72	16777215	0
+1560	is a great time to adjust to more aerodynamic positions...	5	0	0	72	16777215	6
+1560	without sacrificing any power	4	0	0	72	16777215	12
+1560	When you get lower...	3	0	0	72	16777215	18
+1560	pay particular attention to your sit-bones	4	0	0	72	16777215	22
+1560	The wings of your saddle...	3	0	0	72	16777215	28
+1560	are meant to bear your body's weight...	4	0	0	72	16777215	32
+1560	but they can only do so if you properly position yourself	5	0	0	72	16777215	37
+1560	When seated upright...	3	0	0	72	16777215	44
+1560	it should be pretty easy to anchor your hips...	4	0	0	72	16777215	48
+1560	but as you settle into a lower, more aero position...	5	0	0	72	16777215	53
+1560	it's common for riders to tip forward onto their pubic bones	5	0	0	72	16777215	59
+1560	Not desirable, not stable	3	0	0	72	16777215	66
+1560	And if you don't have the flexibility...	4	0	0	72	16777215	71
+1560	to get low while remaining anchored...	4	0	0	72	16777215	76
+1560	your version of low may not be particularly low...	4	0	0	72	16777215	81
+1560	for now, anyway...	3	0	0	72	16777215	86
+1560	and keeping your sit-bones in contact with your saddle...	5	0	0	72	16777215	90
+1560	is the higher priority	3	0	0	72	16777215	96
+1560	There's also a potential issue with low abdominal strength...	5	0	0	72	16777215	101
+1560	but we'll save that discussion for another workout	4	0	0	72	16777215	107
+1560	For now...	3	0	0	72	16777215	113
+1560	each time you settle into a more aero riding position...	5	0	0	72	16777215	117
+1560	see to it that your sit-bones continue to feel the saddle...	5	0	0	72	16777215	123
+1560	as you lower your body	3	0	0	72	16777215	129
+1560	As soon as they lose contact...	4	0	0	72	16777215	134
+1560	raise yourself up a bit and get it back	4	0	0	72	16777215	139
+1560	Even though this means reducing your aerodynamics...	4	0	0	72	16777215	145
+1560	it's far better to become slightly less aero for now...	4	0	0	72	16777215	150
+1560	in order to become gradually more aero...	4	0	0	72	16777215	155
+1560	and increasingly powerful as your fitness & flexibility improve	5	0	0	72	16777215	160
+1560	During this adjustment period...	4	0	0	72	16777215	167
+1560	frequently confirm that your sit-bones are remaining anchored	5	0	0	72	16777215	172
+1560	If they aren't, a dead giveaway is rocking hips	4	0	0	72	16777215	239
+1560	In this instance...	3	0	0	72	16777215	245
+1560	it's likely you're teetering on your pubic junction...	4	0	0	72	16777215	249
+1560	and this can not only cost you power...	4	0	0	72	16777215	254
+1560	but  it can lead to skin irritation...	4	0	0	72	16777215	259
+1560	and even debilitating saddle sores, yikes	5	0	0	72	16777215	264
+1560	So any rocking from side to side with each pedalstroke...	5	0	0	72	16777215	271
+1560	probably indicates that your weight is unfavorably distributed	5	0	0	72	16777215	277
+1560	So anchor those sit-bones...	4	0	0	72	16777215	284
+1560	and we'll check back in a few minutes	4	0	0	72	16777215	289
+1560	Aero or upright...	3	0	0	72	16777215	480
+1560	see to it that you're staying pretty relaxed	4	0	0	72	16777215	484
+1560	Start with your face, jaw & neck...	4	0	0	72	16777215	490
+1560	and let your expression go slack...	4	0	0	72	16777215	495
+1560	as you loosen your jaw & even your lips	4	0	0	72	16777215	500
+1560	Then allow this tension release to travel down your body...	5	0	0	72	16777215	506
+1560	all the way to & through your feet	4	0	0	72	16777215	512
+1560	And if riding low...	3	0	0	72	16777215	518
+1560	perhaps a little TOO low...	3	0	0	72	16777215	522
+1560	is contributing to some tension accumulation...	4	0	0	72	16777215	526
+1560	take short breaks from your aero position	4	0	0	72	16777215	531
+1560	This is especially important if you're new to riding low...	4	0	0	72	16777215	537
+1560	since sustaining your Target power is the bigger concern	4	0	0	72	16777215	542
+1560	So ride low or low-ish...	3	0	0	72	16777215	548
+1560	for whatever durations work for you...	4	0	0	72	16777215	552
+1560	and aim to grow these durations over time...	4	0	0	72	16777215	557
+1560	workout to workout...	3	0	0	72	16777215	562
+1560	training phase to training phase	3	0	0	72	16777215	566
+2460	Over the course of this next segment...	5	0	0	72	16777215	-1
+2460	the optional form drills will target your ability to maintain leg speed	6	0	0	72	16777215	5
+2460	This is otherwise referred to as "speed endurance"...	5	0	0	72	16777215	13
+2460	but these drills are really about refining your form...	4	0	0	72	16777215	19
+2460	and then retaining those refinements	4	0	0	72	16777215	24
+2460	So unlike sprints and their "on/off" blurs of leg speed...	5	0	0	72	16777215	30
+2460	Endurance Spinning drills are about staying "on"...	5	0	0	72	16777215	36
+2460	for extended periods of time	3	0	0	72	16777215	42
+2460	In the case of these 2 efforts...	4	0	0	72	16777215	47
+2460	you'll strive to hold a quick spin for 5 minutes at a time	5	0	0	72	16777215	52
+2460	How quick?	3	0	0	72	16777215	59
+2460	Only a little quicker than your normal, self-selected cadence	5	0	0	72	16777215	64
+2460	Typically, this falls in the 3-5rpm range	5	0	0	72	16777215	71
+2460	So if you usually spin at 90rpm, you'll shoot for 93-95rpm	5	0	0	72	16777215	78
+2460	Whatever the case...	3	0	0	72	16777215	85
+2460	spinning at the top of your comfortable rpm range...	4	0	0	72	16777215	89
+2460	for 5 continuous minutes...	3	0	0	72	16777215	94
+2460	is what you're after, twice	4	0	0	72	16777215	98
+2460	We'll kick off this first one in about 15 seconds	4	0	0	72	16777215	104
+2460	Time to gradually lift your leg speed a couple/few rpm	5	0	0	72	16777215	120
+2460	Nothing excessive, nothing that loads up your legs	5	0	0	72	16777215	127
+2460	In fact, this should barely affect your heart rate	5	0	0	72	16777215	134
+2460	We'll check in from time to time to confirm...	5	0	0	72	16777215	141
+2460	that your HR hasn't risen more than a few beats	5	0	0	72	16777215	147
+2460	If it has, no big deal...	4	0	0	72	16777215	154
+2460	it just means you're spinning a little too quickly	5	0	0	72	16777215	159
+2460	One minute in, try to stay as relaxed as possible	5	0	0	72	16777215	180
+2460	If your shoulders are starting to hug your ears...	5	0	0	72	16777215	187
+2460	let them fall, keep 'em loose	4	0	0	72	16777215	193
+2460	If your neck or jaw are full of tension, relax them	5	0	0	72	16777215	199
+2460	If you're overgripping the bars, loosen up	5	0	0	72	16777215	206
+2460	Couple minutes in, how's your HR?	5	0	0	72	16777215	240
+2460	As long as your only 2-3 beats per minute higher...	5	0	0	72	16777215	247
+2460	than when you started this interval, keep it up	5	0	0	72	16777215	253
+2460	If, on the other hand, it's risen 4 or 5bpm...	5	0	0	72	16777215	260
+2460	back your spin off ever so slightly...	4	0	0	72	16777215	266
+2460	and see if you can drop your heart rate a little	4	0	0	72	16777215	271
+2460	Another minute of staying relaxed...	3	0	0	72	16777215	300
+2460	spinning slightly quicker than usual...	3	0	0	72	16777215	304
+2460	and keeping that HR in check	3	0	0	72	16777215	308
+2460	1 more minute of keeping your spin slightly elevated	5	0	0	72	16777215	360
+2460	With this quicker spin...	3	0	0	72	16777215	367
+2460	see to it that your hips aren't bouncing around	5	0	0	72	16777215	371
+2460	If they are, you have a couple options:	5	0	0	72	16777215	378
+2460	1 - Slow your spin slightly	3	0	0	72	16777215	385
+2460	2 - Loosen up your lower legs	3	0	0	72	16777215	390
+2460	A lot of times, bouncing in the saddle results from...	4	0	0	72	16777215	395
+2460	lower legs carrying too much tension	3	0	0	72	16777215	400
+2460	So ditch that tension...	3	0	0	72	16777215	405
+2460	almost as though you're pedaling with your knees...	5	0	0	72	16777215	409
+2460	and your lower legs only serve to connect you to the pedals	5	0	0	72	16777215	415
+2460	Well done, resume your usual cadence	5	0	0	72	16777215	422
+2460	Stay comfortably here for the next 2 minutes	5	0	0	72	16777215	427
+2460	Almost time to work in another 5-minute Endurance Spin	5	0	0	72	16777215	510
+2460	Based on your last one, modify your target cadence as necessary	5	0	0	72	16777215	517
+2460	Again, the idea is to spin just above your usual cadence...	5	0	0	72	16777215	524
+2460	but still within your comfort zone, if at the high end of it	5	0	0	72	16777215	530
+2460	OK, pick it up slightly & settle in	5	0	0	72	16777215	540
+2460	We'll touch base every minute on the minute	5	0	0	72	16777215	547
+2460	First minute behind ya, staying fluid & relaxed?	5	0	0	72	16777215	600
+2460	Another minute down...	3	0	0	72	16777215	660
+2460	drop those shoulders, loosen your grip	5	0	0	72	16777215	664
+2460	Only 2 minutes left, make them look effortlessly quick	5	0	0	72	16777215	720
+2460	Final minute holding that slightly elevated cadence	5	0	0	72	16777215	780
+2460	Just as relaxed as when you began this segment	5	0	0	72	16777215	787
+3300	Ease up and settle back into a more comfortable cadence	5	0	0	72	16777215	0
+3360	Let's devote this next block to some form drills that target...	5	0	0	72	16777215	-1
+3360	that ability to keep your knees in line, vertically	5	0	0	72	16777215	5
+3360	Quite simply, you'll watch a single knee...	4	0	0	72	16777215	12
+3360	for 30-60 seconds at a time before switching	4	0	0	72	16777215	17
+3360	What you're hoping to find is that both knees...	5	0	0	72	16777215	23
+3360	move straight up, straight down, like pistons in an engine	5	0	0	72	16777215	29
+3360	And if they don't...	3	0	0	72	16777215	36
+3360	you'll try to remedy this first through observation...	5	0	0	72	16777215	40
+3360	and then through more complex approaches should the need exist	6	0	0	72	16777215	46
+3360	We'll start with your left knee	3	0	0	72	16777215	54
+3360	Without altering your body position...	3	0	0	72	16777215	60
+3360	stare at your left knee	3	0	0	72	16777215	64
+3360	OK, that's the drill, have a great day	5	0	0	72	16777215	90
+3360	More seriously, what did you see?	5	0	0	72	16777215	97
+3360	Did your knee waver at first...	4	0	0	72	16777215	104
+3360	but wavered less or not at all when you watched it?	5	0	0	72	16777215	109
+3360	This is both common & encouraging because it means...	5	0	0	72	16777215	116
+3360	your lack of control is largely neuromuscular...	5	0	0	72	16777215	122
+3360	or a matter of how your brain controls your muscles	5	0	0	72	16777215	128
+3360	Simply devoting attention to the matter can quell the issue	5	0	0	72	16777215	135
+3360	Get ready to watch your right knee for 30 seconds	5	0	0	72	16777215	142
+3360	And go! Stare at that bad boy	5	0	0	72	16777215	150
+3360	How'd that one look?	5	0	0	72	16777215	180
+3360	Chances are, one knee exhibits more control than the other	5	0	0	72	16777215	187
+3360	But the real concern is whether or not...	4	0	0	72	16777215	194
+3360	you can improve each knee's control with increased mental focus	5	0	0	72	16777215	199
+3360	If that's the case, and it often is...	4	0	0	72	16777215	206
+3360	then your mission today is to watch your knees...	5	0	0	72	16777215	211
+3360	in an effort to make this conscious, vertical tracking...	5	0	0	72	16777215	217
+3360	become less conscious over time, more automatic	5	0	0	72	16777215	223
+3360	Which knee needed more attention?	5	0	0	72	16777215	230
+3360	Watch that particular knee for a minute this time	5	0	0	72	16777215	240
+3360	OK, take a break from watching for a minute	5	0	0	72	16777215	300
+3360	With a bit of attention...	3	0	0	72	16777215	307
+3360	a lot of unnecessary, potentially harmful...	3	0	0	72	16777215	311
+3360	lateral movement evaporates	2	0	0	72	16777215	315
+3360	This is ideal	3	0	0	72	16777215	318
+3360	But that's not always the case	3	0	0	72	16777215	322
+3360	Sometimes these poor tracking issues are deeper-seated...	5	0	0	72	16777215	327
+3360	and require treatment outside of our scope	5	0	0	72	16777215	333
+3360	This usually boils down to muscular imbalances...	5	0	0	72	16777215	340
+3360	that can be corrected with a little bit of strengthening & stretching	5	0	0	72	16777215	346
+3360	More on this in a minute...	3	0	0	72	16777215	353
+3360	time to watch your more coordinated knee for 60 seconds...	5	0	0	72	16777215	360
+3360	and really stare down that over-achiever	5	0	0	72	16777215	366
+3360	OK, take a break from analyzing your knees...	5	0	0	72	16777215	420
+3360	while we talk about some common flexibility limitations	5	0	0	72	16777215	427
+3360	A common issue with twitchy knees is tightness...	5	0	0	72	16777215	434
+3360	in the outer hips, inner thighs, or outer thighs	5	0	0	72	16777215	440
+3360	And for most riders, this inflexibility can be addressed...	5	0	0	72	16777215	447
+3360	with little more than stretching & massage	5	0	0	72	16777215	453
+3360	Again, this broad topic is a bit out of our scope...	5	0	0	72	16777215	460
+3360	but quite easily researched via the internet...	5	0	0	72	16777215	466
+3360	and/or local bodywork practitioners	4	0	0	72	16777215	472
+3360	If your knee alignment issues seem more severe...	4	0	0	72	16777215	478
+3360	than a basic matter of increased knee focus...	4	0	0	72	16777215	483
+3360	consider digging a little deeper into the issue	4	0	0	72	16777215	488
+3360	Because it's small matters like these...	3	0	0	72	16777215	494
+3360	that can develop into far bigger issues down the road	5	0	0	72	16777215	498
+3360	Especially when you consider the sheer repetition of pedaling a bike...	5	0	0	72	16777215	505
+3360	and, potentially far more dangerous to your joint health...	5	0	0	72	16777215	511
+3360	the amount of force we apply to the pedals sometimes	5	0	0	72	16777215	517
+3360	Okay, time for a couple rounds of...	4	0	0	72	16777215	530
+3360	Knees Like Pistons!	3	0	0	72	16777215	535
+3360	For 3 solid minutes, shift your gaze from knee to knee...	5	0	0	72	16777215	540
+3360	as you try to mentally manage how well each knee tracks	5	0	0	72	16777215	546
+3360	The objective is simple:	4	0	0	72	16777215	553
+3360	make them track straight up, straight down...	4	0	0	72	16777215	559
+3360	and if that's not possible...	3	0	0	72	16777215	564
+3360	try to improve how well they track vertically	4	0	0	72	16777215	568
+3360	2 more minutes of teaching those knees better habits	5	0	0	72	16777215	600
+3360	One more minute...	3	0	0	72	16777215	660
+3360	make your knees follow a perfect vertical line...	5	0	0	72	16777215	664
+3360	or as close to it as you can manage	4	0	0	72	16777215	670
+3360	Well done	3	0	0	72	16777215	720
+3360	Ditch the focus and ride relaxed for a few minutes	5	0	0	72	16777215	725
+4260	Over the course of this final stretch...	3	0	0	72	16777215	2
+4260	we'll once more target improvements in fluid leg speed	5	0	0	72	16777215	6
+4260	There's enough time for a couple more 5-minute Endurance Spins...	5	0	0	72	16777215	13
+4260	so we'll work one in, rest up for a couple minutes, then repeat	5	0	0	72	16777215	19
+4260	With a workout of this duration...	3	0	0	72	16777215	27
+4260	your fatigue and consequently your level of control...	4	0	0	72	16777215	31
+4260	could become a bit of a challenge over time	4	0	0	72	16777215	36
+4260	So we'll take it a minute at a time...	3	0	0	72	16777215	42
+4260	and should your from slip, beyond your control...	4	0	0	72	16777215	46
+4260	return your spin to its "natural" rate...	3	0	0	72	16777215	51
+4260	and resume the drills when/if you can perform them well	4	0	0	72	16777215	55
+4260	Go ahead and lift your cadence a few rpm & settle in	5	0	0	72	16777215	61
+4260	Keep in mind, this is only slightly quicker than your usual cadence...	5	0	0	72	16777215	68
+4260	at about 3-5rpm above what you sustain "naturally"	5	0	0	72	16777215	74
+4260	One minute in, how's your form looking?	5	0	0	72	16777215	120
+4260	If you feel sloppy, chances are high that you ARE sloppy	5	0	0	72	16777215	127
+4260	And this flies in the face of everything Form work is about	5	0	0	72	16777215	134
+4260	Form work is about establishing desirable habits...	4	0	0	72	16777215	141
+4260	and it's counterproductive to practice anything less than your best technique	6	0	0	72	16777215	146
+4260	Even if your best technique leaves a lot to be desired...	5	0	0	72	16777215	154
+4260	you're still working TOWARD better technique...	4	0	0	72	16777215	160
+4260	via small, productive steps	3	0	0	72	16777215	165
+4260	But if you force yourself to perform drills even as your form is deteriorating...	5	0	0	72	16777215	170
+4260	you're begging for bad habits to take root...	4	0	0	72	16777215	176
+4260	and unintentionally working toward poor form	4	0	0	72	16777215	181
+4260	Improper habits are far harder to break...	3	0	0	72	16777215	187
+4260	than proper habits are to establish	4	0	0	72	16777215	191
+4260	So if you feel like you're doing anything less than your very best...	5	0	0	72	16777215	197
+4260	table the drills for a minute or two	4	0	0	72	16777215	203
+4260	Still managing to hold that quicker-than-usual cadence...	4	0	0	72	16777215	240
+4260	with no obvious deterioration in form?	4	0	0	72	16777215	245
+4260	Then hang in there for another minute	3	0	0	72	16777215	251
+4260	Otherwise, slow it back down and ride more smoothly with less speed	5	0	0	72	16777215	256
+4260	Still reinforcing nothing but good habits?	5	0	0	72	16777215	300
+4260	Then hang in there for yet another minute	4	0	0	72	16777215	307
+4260	Otherwise, slow things back down to the point...	4	0	0	72	16777215	313
+4260	where you feel controlled and confident...	4	0	0	72	16777215	318
+4260	that you can keep your spin steady & efficient	4	0	0	72	16777215	323
+4260	And there it is, the full 5 minutes	5	0	0	72	16777215	360
+4260	Slow things down to a more natural cadence...	4	0	0	72	16777215	367
+4260	and ride off any tension that may have accumulated	5	0	0	72	16777215	372
+4260	You'll begin the second, identical drill in a couple minutes	5	0	0	72	16777215	379
+4260	Based on the first Endurance Spinning drill...	4	0	0	72	16777215	450
+4260	make a sensible call regarding this next bout of quicker legs	5	0	0	72	16777215	455
+4260	If you feel like you can handle that same, quicker spin, get ready	5	0	0	72	16777215	462
+4260	But if you feel as though you need to trim off a little leg speed...	5	0	0	72	16777215	469
+4260	to keep things productive, only lift things 1-3rpm	4	0	0	72	16777215	476
+4260	Just a little more leg speed than usual	5	0	0	72	16777215	483
+4260	One minute in, decide if another minute...	4	0	0	72	16777215	540
+4260	will reinforce habits you want to retain...	4	0	0	72	16777215	545
+4260	or habits that work AGAINST cultivating those improved circles	5	0	0	72	16777215	550
+4260	Same call to make...	3	0	0	72	16777215	600
+4260	hang in there or slow things down a bit	4	0	0	72	16777215	604
+4260	Only two minutes to go...	3	0	0	72	16777215	660
+4260	but don't stubbornly hang in there if you're falling apart	5	0	0	72	16777215	664
+4260	Show top-notch form or ditch the speed drills	5	0	0	72	16777215	671
+4260	Final minute, you know the rules	5	0	0	72	16777215	720
+4260	Done for now! Return to your usual spin...	5	0	0	72	16777215	780
+4260	one that's ideally above 85rpm	4	0	0	72	16777215	786
+5100	Well done, time to gradually back things down again	5	0	0	72	16777215	0
+5100	As you warm down, give some thought...	4	0	0	72	16777215	7
+5100	to how you'll refuel after this workout	4	0	0	72	16777215	12
+5100	The intensity wasn't high enough to thoroughly deplete your muscles...	5	0	0	72	16777215	18
+5100	but that's not to say you won't have some fatigue to contend with	5	0	0	72	16777215	24
+5100	90 solid minutes of pedaling at 65-75% FTP...	4	0	0	72	16777215	31
+5100	or anything reasonably close...	4	0	0	72	16777215	36
+5100	is stressful in its own way	4	0	0	72	16777215	41
+5100	So if you find yourself pretty sapped of energy...	4	0	0	72	16777215	47
+5100	ponder & plan your recovery nutrition...	4	0	0	72	16777215	52
+5100	and we'll see you next time	5	0	0	72	16777215	57
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+600	720	Endurance 1
+720	780	Endurance 2
+780	1500	Endurance 3
+1500	1560	Endurance 4
+1560	2400	Endurance 5
+2400	2460	Endurance 6
+2460	3300	Endurance 7
+3300	3360	Endurance 8
+3360	4200	Endurance 9
+4200	4260	Endurance 10
+4260	5100	Endurance 11
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

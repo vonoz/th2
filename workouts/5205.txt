@@ -1,0 +1,322 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Clarence King,92,128. Created by 42270.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	100
+7	100
+7	40
+9.8	40
+9.8	40
+10	95
+10	95
+15	95
+15	99
+16	99
+16	103
+17	103
+17	107
+18	107
+18	111
+19	111
+19	115
+20	115
+20	40
+22.8	40
+22.8	40
+23	90
+23	90
+28	90
+28	95
+29	95
+29	100
+30	100
+30	105
+31	105
+31	110
+32	110
+32	115
+33	115
+33	40
+35.8	40
+35.8	40
+36	95
+36	95
+41	95
+41	97
+41.5	97
+41.5	99
+42	99
+42	101
+42.5	101
+42.5	103
+43	103
+43	105
+43.5	105
+43.5	107
+44	107
+44	109
+44.5	109
+44.5	111
+45	111
+45	113
+45.5	113
+45.5	115
+46	115
+46	40
+48.8	40
+48.8	40
+49	100
+49	100
+54	100
+54	103
+55	103
+55	106
+56	106
+56	109
+57	109
+57	112
+58	112
+58	115
+59	115
+59	40
+61.8	40
+61.8	40
+62	90
+62	90
+67	90
+67	95
+68	95
+68	100
+69	100
+69	105
+70	105
+70	110
+71	110
+71	115
+72	115
+72	40
+74.8	40
+74.8	40
+75	95
+75	95
+80	95
+80	99
+81	99
+81	103
+82	103
+82	107
+83	107
+83	111
+84	111
+84	115
+85	115
+85	40
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Today's ramping workout will keep things exciting	8	0	0	72	16777215	10
+0	4 different types of ramps that all build to 115% FTP	8	0	0	72	16777215	20
+0	While some start higher than others...	8	0	0	72	16777215	30
+0	this is a great opportunity to work on mental fortitude	8	0	0	72	16777215	40
+0	Or as we more commonly refer to it, "toughness"	8	0	0	72	16777215	50
+0	After the warmup block, we'll look at things in more detail	8	0	0	72	16777215	60
+240	Pick it up! Settle into a spin above 85rpm	8	0	0	72	16777215	0
+420	OK, now that you're all warmed up...	8	0	0	72	16777215	30
+420	let's take a look at this first interval	5	0	0	72	16777215	40
+420	After a quick build, you'll settle in for 5 minutes at 95% FTP	8	0	0	72	16777215	50
+420	As you do so, try to stabilize your cadence	8	0	0	72	16777215	60
+420	Make sure that you stay calm and composed & remember...	8	0	0	72	16777215	70
+420	this is only 95% FTP, something you can hold for ages ;-)	8	0	0	72	16777215	80
+420	After the first 5 minutes you'll start your first 5-step ramp	8	0	0	72	16777215	90
+420	Each step will be taken in 4% FTP increments, fairly sizable	8	0	0	72	16777215	100
+420	While you are working through the steps...	8	0	0	72	16777215	110
+420	try very hard not to get "behind the 8-ball"	8	0	0	72	16777215	120
+420	Or in other words, keep your cadence high...	8	0	0	72	16777215	130
+420	control your breathing and stay positive & focused	8	0	0	72	16777215	140
+420	Almost time to go	5	0	0	72	16777215	160
+588	Build it up	8	0	0	72	16777215	0
+600	Good, now settle in to a comfortable rhythm	8	0	0	72	16777215	0
+600	Stay strong, stay efficient	5	0	0	72	16777215	60
+600	Big, controlled exhaling	5	0	0	72	16777215	120
+600	Smooth pedalstroke with no mashing	5	0	0	72	16777215	180
+600	Relaxed upper body, smooth & powerful lower body	8	0	0	72	16777215	240
+600	Our first step is coming up	5	0	0	72	16777215	280
+600	Don't get caught off guard with a low cadence	8	0	0	72	16777215	290
+900	Keep that spin high & stay relaxed	5	0	0	72	16777215	0
+960	Up another 4%, hold your spin	8	0	0	72	16777215	0
+1020	Keep it up! Don't lose any rpm	5	0	0	72	16777215	0
+1080	Higher power, same steady spin	5	0	0	72	16777215	0
+1140	60 seconds at the top!	8	0	0	72	16777215	0
+1200	Nice work! Work on lowering that heart rate	8	0	0	72	16777215	0
+1200	The cool thing about these stepped workouts...	8	0	0	72	16777215	60
+1200	is that they are great teachers of pace & management	8	0	0	72	16777215	70
+1200	Our mind is powerful, but our body is loud	8	0	0	72	16777215	80
+1200	Never let your body's complaints override the brain's power	8	0	0	72	16777215	90
+1200	By breaking the efforts into chunks...	8	0	0	72	16777215	100
+1200	and just focusing on the current effort, not on what's ahead...	8	0	0	72	16777215	110
+1200	you'll be surprised at how capable you really are	8	0	0	72	16777215	120
+1200	This next one will start out at a lower intensity...	8	0	0	72	16777215	130
+1200	and in 5 steps, work towards the same 115% FTP	8	0	0	72	16777215	140
+1368	Pick it up! Ideally above 85rpm	8	0	0	72	16777215	0
+1380	Hit your marks and check the boxes	8	0	0	72	16777215	0
+1380	Breathing? Pedal stroke? Cadence? Position? Tension?	8	0	0	72	16777215	10
+1380	You may feel the steps a little more this time	8	0	0	72	16777215	240
+1380	Even though each step is only 1% more than the last set...	8	0	0	72	16777215	250
+1380	that difference can be felt at this high of an intensity	8	0	0	72	16777215	260
+1380	Pay attention to this throughout the steps...	8	0	0	72	16777215	270
+1380	and make note of how important it is to save even 1% of your FTP	8	0	0	72	16777215	280
+1380	Make sure your cadence is high but comfortable	8	0	0	72	16777215	290
+1680	Up! Hold your leg speed steady	5	0	0	72	16777215	0
+1740	100% FTP for 60 seconds	5	0	0	72	16777215	0
+1800	Bump it up a notch & ignore the burn	5	0	0	72	16777215	0
+1860	Only 1 minute at 110%, you can do this	5	0	0	72	16777215	0
+1920	Final step, breathe deeply & spin quickly	5	0	0	72	16777215	0
+1980	Good work!	5	0	0	72	16777215	0
+1980	Recovery time	5	0	0	72	16777215	10
+1980	Our next set has twice as many steps	8	0	0	72	16777215	90
+1980	With each one lasting only 30 seconds at 2% increments...	8	0	0	72	16777215	100
+1980	this is almost a steady ramp...but don't let it be	8	0	0	72	16777215	110
+1980	Step your effort up when it's time and then maintain your pace	8	0	0	72	16777215	120
+1980	Don't dread the steps, instead be ready, be proactive!	8	0	0	72	16777215	130
+2148	Here we go!	8	0	0	72	16777215	0
+2160	95% for 5 minutes again	5	0	0	72	16777215	0
+2160	Easy & fast pedalstroke	5	0	0	72	16777215	90
+2160	Save your energy during this effort for the upcoming steps	8	0	0	72	16777215	180
+2160	30 seconds left	5	0	0	72	16777215	270
+2160	Get your breathing, cadence & positioning where you want	8	0	0	72	16777215	280
+2160	Remember, you're picking up the pace, not the other way around	8	0	0	72	16777215	290
+2460	Match that increase and hold for 30 seconds	8	0	0	72	16777215	0
+2490	Match and hold	8	0	0	72	16777215	0
+2520	Up again, stay relaxed	8	0	0	72	16777215	0
+2610	Still stepping up but you've got plenty left to give	8	0	0	72	16777215	0
+2670	Remember, increase the pace & hold	5	0	0	72	16777215	0
+2700	Be tough & don't quit!	5	0	0	72	16777215	0
+2730	Last one! Be tough!	5	0	0	72	16777215	0
+2760	Well done!	5	0	0	72	16777215	0
+2760	Take some time to catch your breath	8	0	0	72	16777215	10
+2760	We'll start things at your FTP for this next set	8	0	0	72	16777215	90
+2760	The minute-long 3% steps will, again, almost feel like a ramp	8	0	0	72	16777215	100
+2760	But remember to make your accelerations defined...	8	0	0	72	16777215	110
+2760	and to hold strong from step to step	8	0	0	72	16777215	120
+2760	To help with this and handle the higher intensity start...	8	0	0	72	16777215	130
+2760	Establish your breathing now, and don't let it slip	8	0	0	72	16777215	140
+2760	Pick your cadence up and breathe from the diaphragm	8	0	0	72	16777215	150
+2928	Build...	8	0	0	72	16777215	0
+2940	Good, now break this in two halves	8	0	0	72	16777215	0
+2940	Fast, strong & smooth	5	0	0	72	16777215	60
+2940	Half done, half to go	5	0	0	72	16777215	150
+2940	Stay disciplined & stay positive	8	0	0	72	16777215	210
+3240	Good! Time to ramp it up!	5	0	0	72	16777215	0
+3240	Remember, stay positive!	5	0	0	72	16777215	10
+3300	That voice in your head is only useful if it's psyching you UP...	8	0	0	72	16777215	0
+3300	not if it's psyching you out	8	0	0	72	16777215	10
+3360	Halfway through, keep your cadence up	5	0	0	72	16777215	0
+3420	Final couple of minutes but THIS minute is the one that matters	8	0	0	72	16777215	0
+3480	1 more minute of power! Don't fade!	8	0	0	72	16777215	0
+3540	Excellent!	5	0	0	72	16777215	0
+3540	The next set is much less intense, so don't dwell on it	8	0	0	72	16777215	10
+3540	Big, controlled breaths	5	0	0	72	16777215	60
+3540	Quick spinning legs	5	0	0	72	16777215	120
+3708	Back at it!	5	0	0	72	16777215	0
+3720	Alright, this one is plenty manageable	5	0	0	72	16777215	0
+3720	We'll let you work your way through it mostly on your own	8	0	0	72	16777215	10
+3720	Remember to be proactive with technique & breathing	8	0	0	72	16777215	20
+4020	Time to ramp it up! Take it 1 minute at a time	8	0	0	72	16777215	0
+4260	Almost there! Make this final minute look EASY	8	0	0	72	16777215	0
+4320	Nice! Rest up for the last set!	5	0	0	72	16777215	0
+4320	During this final set, let's imagine we are climbing to the finish	8	0	0	72	16777215	120
+4320	I want you to approach this one like a winner	8	0	0	72	16777215	130
+4320	After all, that's what you are, yeah?	5	0	0	72	16777215	140
+4488	Ramp it up	8	0	0	72	16777215	0
+4500	Alright, on the lower slopes of the final climb now	8	0	0	72	16777215	0
+4500	You're towards the front of the pack	8	0	0	72	16777215	10
+4500	The pace is relatively easy for a finishing climb...	8	0	0	72	16777215	20
+4500	so stay alert and be ready to attack at the opportune moment	8	0	0	72	16777215	30
+4500	Pace is still holding and the pack is getting anxious...	8	0	0	72	16777215	120
+4500	something's gotta happen soon	5	0	0	72	16777215	130
+4500	Still nothing!	5	0	0	72	16777215	240
+4500	Alright, work yourself into a spot where you have a clear path...	8	0	0	72	16777215	250
+4500	but try to be sneaky	5	0	0	72	16777215	260
+4500	That's it, drift away from the main players	8	0	0	72	16777215	270
+4500	Alright, you've got a clear path now. Take a quick drink...	8	0	0	72	16777215	280
+4500	shift into the proper gear...	5	0	0	72	16777215	290
+4800	Shoot! There go the main contenders!	5	0	0	72	16777215	0
+4800	Match their pace and get into their draft	5	0	0	72	16777215	10
+4800	They're looking around & wondering what you're doing up there	8	0	0	72	16777215	40
+4800	Let's show 'em! 10 seconds...	5	0	0	72	16777215	50
+4860	Move to the front, just a slight increase	8	0	0	72	16777215	0
+4860	They're latched on to your wheel now, but you've got this	8	0	0	72	16777215	10
+4920	Pick it up again & let's see if we can thin the herd	8	0	0	72	16777215	0
+4920	Nice! Only 3 of you left now	5	0	0	72	16777215	30
+4920	Stay calm, show them this is easy for you!	8	0	0	72	16777215	40
+4980	Let's give them some more!	5	0	0	72	16777215	0
+4980	Nice! Just one left now, push through the burn!	8	0	0	72	16777215	20
+4980	The other guy is hurting!	5	0	0	72	16777215	40
+4980	Get ready to deliver the fatal blow...	5	0	0	72	16777215	50
+5040	Go! Drop him!	5	0	0	72	16777215	0
+5040	He's struggling!	5	0	0	72	16777215	20
+5040	He's lost contact!	5	0	0	72	16777215	40
+5040	Keep pushing! Strong all the way to the line!	5	0	0	72	16777215	50
+5100	Way to go! Ease waaaaaay up & keep spinning	8	0	0	72	16777215	0
+5100	That's a ton of work, so recover as well as possible	8	0	0	72	16777215	10
+5100	Spin down for as long as you need, mull over some post-workout nutrition...	8	0	0	72	16777215	20
+5100	and we'll see ya next time!	8	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+240	420	Threshold 1
+600	900	Sweet Spot 1
+900	960	Threshold 2
+960	1020	Threshold 3
+1020	1080	VO2 Max 1
+1080	1140	VO2 Max 2
+1140	1200	VO2 Max 3
+1380	1680	Sweet Spot 2
+1680	1740	Sweet Spot 3
+1740	1800	Threshold 4
+1800	1860	Threshold 5
+1860	1920	VO2 Max 4
+1920	1980	VO2 Max 5
+2160	2460	Sweet Spot 4
+2460	2490	Threshold 6
+2490	2520	Threshold 7
+2520	2550	Threshold 8
+2550	2580	Threshold 9
+2580	2610	Threshold 10
+2610	2640	VO2 Max 6
+2640	2670	VO2 Max 7
+2670	2700	VO2 Max 8
+2700	2730	VO2 Max 9
+2730	2760	VO2 Max 10
+2940	3240	Threshold 11
+3240	3300	Threshold 12
+3300	3360	VO2 Max 11
+3360	3420	VO2 Max 12
+3420	3480	VO2 Max 13
+3480	3540	VO2 Max 14
+3720	4020	Sweet Spot 5
+4020	4080	Sweet Spot 6
+4080	4140	Threshold 13
+4140	4200	Threshold 14
+4200	4260	VO2 Max 15
+4260	4320	VO2 Max 16
+4500	4800	Sweet Spot 7
+4800	4860	Threshold 15
+4860	4920	Threshold 16
+4920	4980	VO2 Max 17
+4980	5040	VO2 Max 18
+5040	5100	VO2 Max 19
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

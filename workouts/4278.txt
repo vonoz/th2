@@ -1,0 +1,224 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Eagle Scout,90,81. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+2	50
+2	95
+3	95
+3	50
+4	50
+4	125
+5	125
+5	50
+6	50
+6	125
+7	125
+7	50
+10	50
+10	107
+12	107
+12	100
+16	100
+16	93
+22	93
+22	50
+25	50
+25	107
+27	107
+27	100
+31	100
+31	94
+37	94
+37	50
+40	50
+40	107
+42	107
+42	100
+46	100
+46	93
+52	93
+52	50
+60	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Keep your spin fairly quick for a couple minutes...	8	0	0	72	16777215	10
+0	90-95rpm is our recommendation	8	0	0	72	16777215	20
+120	Pick things up a bit, try for 100-110rpm	8	0	0	72	16777215	0
+120	If this causes you to bounce around in the saddle...	8	0	0	72	16777215	10
+120	try relaxing your feet, ankles, calves...	8	0	0	72	16777215	20
+120	or simply slow your spin a little bit	8	0	0	72	16777215	30
+180	Good, back to 90-95rpm	8	0	0	72	16777215	0
+240	Again, somewhere above 100rpm...	8	0	0	72	16777215	0
+240	but no bouncing	8	0	0	72	16777215	10
+300	Nice, ease back down to 90-95rpm	8	0	0	72	16777215	0
+360	Last time, pick it up to 100+rpm	8	0	0	72	16777215	0
+420	Annnnnd slow things back down, 90rpm or a bit higher	8	0	0	72	16777215	0
+420	Today's workout is a mix of riding positions & drills...	8	0	0	72	16777215	30
+420	with some of the work performed nicely above FTP...	8	0	0	72	16777215	40
+420	some right at FTP, & some just a bit below FTP	8	0	0	72	16777215	50
+420	Each interval includes some out-of-the-saddle work...	8	0	0	72	16777215	60
+420	some seated work with additional drills...	8	0	0	72	16777215	70
+420	and some aero-position riding	8	0	0	72	16777215	80
+420	In one minute, you'll either continue your warmup, seated...	8	0	0	72	16777215	120
+420	or you'll dive right into the standing, supra-threshold effort	8	0	0	72	16777215	130
+420	No shame in staying seated either, get good & warm	8	0	0	72	16777215	140
+420	If you plan to stand, keep a couple things in mind...	8	0	0	72	16777215	150
+420	First, don't lunge forward & in doing so, throw your bike backward	8	0	0	72	16777215	160
+420	Instead, rise with control & raise your power - get ready	8	0	0	72	16777215	170
+600	Seated, 100+rpm or standing, 65+rpm	8	0	0	72	16777215	0
+600	In either case, pretty quick yet highly controlled	8	0	0	72	16777215	10
+600	If you're standing, try to keep your weight on your feet	8	0	0	72	16777215	20
+600	Heavy hands mean you're effectively working against yourself...	8	0	0	72	16777215	30
+600	as though you're pulling power OUT of your pedalstroke	8	0	0	72	16777215	40
+600	So keep your feet weighted, hands light & try to be fluid	8	0	0	72	16777215	50
+600	Fluidity comes with practice, MUCH practice...	8	0	0	72	16777215	60
+600	so don't sweat it if you aren't particularly fluid yet	8	0	0	72	16777215	70
+600	Well under a minute, hang in there	8	0	0	72	16777215	80
+600	If you're standing, you'll sit softly in about 30 seconds	8	0	0	72	16777215	90
+600	If you're seated, you get to slow your spin a little	8	0	0	72	16777215	100
+600	Get ready...	5	0	0	72	16777215	110
+720	In the saddle, spin above 90rpm	8	0	0	72	16777215	0
+720	Catch your breath for a few seconds and...	8	0	0	72	16777215	10
+720	clear any heaviness off your muscles by breathing well	8	0	0	72	16777215	20
+720	Shift some of your attention to the top of your pedalstroke...	8	0	0	72	16777215	30
+720	by actively & lightly kicking your toes forward	8	0	0	72	16777215	40
+720	Each time you hit 10 o'clock, lightly kick toward 2 o'clock	8	0	0	72	16777215	50
+720	30 more seconds, lightly kicking over the top	8	0	0	72	16777215	60
+720	Switch your emphasis to pulling across the bottom	8	0	0	72	16777215	90
+720	So when you hit 4 o'clock, lightly pull toward 8 o'clock	8	0	0	72	16777215	100
+720	Activley yet lightly drag your foot backward...	8	0	0	72	16777215	110
+720	and feel your hamstrings working, calves too	8	0	0	72	16777215	120
+720	Time to switch to your upstroke by lightly lifting your knees	8	0	0	72	16777215	150
+720	Each time you hit 8 o'clock, lift each knee lightly	8	0	0	72	16777215	160
+720	It's similar to the motion of juggling a soccer ball...	8	0	0	72	16777215	170
+720	a little quicker perhaps, but not much harder	8	0	0	72	16777215	180
+720	Nice, put it all together for this last 30 seconds	8	0	0	72	16777215	210
+720	Kick, pull, lift...kick, pull, lift	8	0	0	72	16777215	220
+960	Final minute, see if you can stay aero the whole time	8	0	0	72	16777215	-360
+960	Keep that same 90+rpm spin & pedal more naturally	8	0	0	72	16777215	0
+960	When you feel ready, settle into a more aerodynamic position	8	0	0	72	16777215	10
+960	This will vary from rider to rider, goal to goal	8	0	0	72	16777215	20
+960	Maybe you just grab your drops, maybe you settle into aero bars...	8	0	0	72	16777215	30
+960	it might be as simple as softening your elbows a bit	8	0	0	72	16777215	40
+960	In any case, spend as much of this 6 minutes riding lower	8	0	0	72	16777215	50
+960	Come out of position as often as you need to...	8	0	0	72	16777215	60
+960	but don't let your changes in position affect your power	8	0	0	72	16777215	70
+960	Stay smooth & steady	8	0	0	72	16777215	80
+960	Halfway there, try to stay aero as much as possible	8	0	0	72	16777215	180
+960	While it's usually a less comfortable position...	8	0	0	72	16777215	190
+960	it's usually a faster position, more "slippery"	8	0	0	72	16777215	200
+960	And that translates to more speed for the same effort...	8	0	0	72	16777215	210
+960	or the same speed for less effort...outside, of course	8	0	0	72	16777215	220
+1320	Nicely done, slow things down a bit...	8	0	0	72	16777215	0
+1320	but keep moving & help those legs clear	8	0	0	72	16777215	10
+1320	These active rest periods are pretty short...	8	0	0	72	16777215	20
+1320	but they'll do the trick as long as you go easy	8	0	0	72	16777215	30
+1320	Next round in 1 minute, exactly like the first	8	0	0	72	16777215	120
+1320	We'll follow the same format which means standing to start	8	0	0	72	16777215	130
+1320	Everyone stands this time, how long you stand, however...	8	0	0	72	16777215	140
+1320	depends on how well you do it	8	0	0	72	16777215	150
+1320	If you start to feel sloppy, have a seat for a bit...	8	0	0	72	16777215	160
+1320	rise when you feel like you can do it well with steady power	8	0	0	72	16777215	170
+1500	Come on up, find your 65+rpm spin	8	0	0	72	16777215	0
+1500	If spinning above 65rpm tears down your form...	8	0	0	72	16777215	10
+1500	slow things down to where you can ride with control	8	0	0	72	16777215	20
+1500	Over time, try to lift your out-of-the-saddle (OTS) spin...	8	0	0	72	16777215	30
+1500	to somewhere in the 70-85rpm range	8	0	0	72	16777215	40
+1500	How's your body position?	8	0	0	72	16777215	60
+1500	Heavy on the hands? Ease back slightly	8	0	0	72	16777215	70
+1500	Heavy on the quads? Ease forward slightly	8	0	0	72	16777215	80
+1500	Try to find your OTS sweet spot	8	0	0	72	16777215	90
+1620	Gently have a seat & bring up your cadence...	8	0	0	72	16777215	0
+1620	to somewhere above 90rpm, ideally	8	0	0	72	16777215	10
+1620	Back to some quadrant drills...	8	0	0	72	16777215	20
+1620	Top quadrant first, kick over the top	8	0	0	72	16777215	30
+1620	Bottom quadrant next, pull across the bottom	8	0	0	72	16777215	60
+1620	Back quadrant now, lift your knees upward	8	0	0	72	16777215	90
+1620	Let's repeat that same cycle, lightly kick for now	8	0	0	72	16777215	120
+1620	Switch to a light pull across the bottom	8	0	0	72	16777215	150
+1620	And lightly lift your knees upward	8	0	0	72	16777215	180
+1620	Settle back into a more balanced pedalstroke	8	0	0	72	16777215	210
+1860	Keep that same spin & try to lower your HR a little	8	0	0	72	16777215	0
+1860	Do this by relaxing, letting any unnecessary tension go	8	0	0	72	16777215	10
+1860	And draw full, deep, BELLY breaths	8	0	0	72	16777215	20
+1860	Time to get aero, whatever that means for you	8	0	0	72	16777215	30
+1860	Whichever position you settle into, make it powerful	8	0	0	72	16777215	60
+1860	While the watts aren't crazy-high right now...	8	0	0	72	16777215	70
+1860	you should still feel as though you could crank out the power if you had to	8	0	0	72	16777215	80
+1860	If your position restricts this capability...	8	0	0	72	16777215	90
+1860	it's too severe, so soften things up until you feel powerful	8	0	0	72	16777215	100
+1860	Over time, you might adjust to a more severe position...	8	0	0	72	16777215	110
+1860	or you might find that a less severe position is necessary	8	0	0	72	16777215	120
+1860	Halfway, sit upright when you need a break from your aero position	8	0	0	72	16777215	180
+1860	2 more minutes, can you feel your sit bones?	8	0	0	72	16777215	240
+1860	Too often, riders tip forward when they try to ride low	8	0	0	72	16777215	250
+1860	Try to keep your sit bones anchored to the saddle...	8	0	0	72	16777215	260
+1860	regardless of how low you position your body	8	0	0	72	16777215	270
+1860	Think "powerful platform"	8	0	0	72	16777215	280
+1860	Push from a strong, stable position...	8	0	0	72	16777215	290
+1860	not one that teeters painfully on your pubic bone	8	0	0	72	16777215	300
+1860	Final 30 seconds, hang on!	8	0	0	72	16777215	330
+2220	Very nice, ease up a bit & get comfortable	8	0	0	72	16777215	0
+2220	Final interval in a minute, no surprises	8	0	0	72	16777215	120
+2220	Same format but probably more tired muscles though...	8	0	0	72	16777215	130
+2220	which might mean standing less or not at all	8	0	0	72	16777215	140
+2220	Only rise if you feel like you're practicing good habits...	8	0	0	72	16777215	150
+2220	habits you want to retain	8	0	0	72	16777215	160
+2220	Have a seat anytime you feel those good habits fade	8	0	0	72	16777215	170
+2400	Come on up if you can...	8	0	0	72	16777215	0
+2400	at 65rpm or higher, 90rpm or higher if you stay seated	8	0	0	72	16777215	10
+2400	1 more minute, light hands, light feet	8	0	0	72	16777215	60
+2400	Think of dancing from pedal to pedal...	8	0	0	72	16777215	70
+2400	but doing so powerfully by kicking & pulling	8	0	0	72	16777215	80
+2400	Yep, even standing, that kick & pull is important	8	0	0	72	16777215	90
+2400	So learn to apply it whether you're OTS or seated	8	0	0	72	16777215	100
+2520	Gently have a seat, find a 90rpm spin or a little quicker	8	0	0	72	16777215	0
+2520	Start your active kicking across the top	8	0	0	72	16777215	30
+2520	Switch to your active pulls across the bottom	8	0	0	72	16777215	60
+2520	Then actively lift your knees upward	8	0	0	72	16777215	90
+2520	Same sequence, kick lightly first	8	0	0	72	16777215	120
+2520	Pull lightly next	8	0	0	72	16777215	150
+2520	Finally, lift lightly	8	0	0	72	16777215	180
+2520	No need to train the downstroke, that happens regardless of focus	8	0	0	72	16777215	190
+2520	Just wake up the other 3 quadrants of your pedalstroke	8	0	0	72	16777215	200
+2520	OK, put it all together...kick, pull, lift	8	0	0	72	16777215	210
+2760	Keep your spin steady, slow your breathing for 30 seconds	8	0	0	72	16777215	0
+2760	Ride off that burn & get relaxed...	8	0	0	72	16777215	10
+2760	and prepare to cut a smaller hole in the wind by riding lower	8	0	0	72	16777215	20
+2760	Aero position, often, as long as you can sustain your power	8	0	0	72	16777215	30
+2760	If the power is stable, stay aero	8	0	0	72	16777215	120
+2760	Halfway there!	8	0	0	72	16777215	180
+2760	Stay aero as much as possible, keep any breaks short	8	0	0	72	16777215	240
+2760	Final minute, get aero & stay there	8	0	0	72	16777215	300
+3120	Nicely done!	8	0	0	72	16777215	0
+3120	Warm down thoroughly & start your post-workout nutrition...	8	0	0	72	16777215	10
+3120	or at least start mulling it over	8	0	0	72	16777215	20
+3120	We'll see you next time	8	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+120	180	Sweet Spot 1
+240	300	Anaerobic Capacity 1
+360	420	Anaerobic Capacity 2
+600	720	VO2 Max 1
+720	960	Threshold 1
+960	1320	Sweet Spot 2
+1500	1620	VO2 Max 2
+1620	1860	Threshold 2
+1860	2220	Sweet Spot 3
+2400	2520	VO2 Max 3
+2520	2760	Threshold 3
+2760	3120	Sweet Spot 4
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

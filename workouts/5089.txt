@@ -1,0 +1,348 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Lion Rock,83,103. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	90
+8	100
+8	40
+10	40
+10	130
+10.1	130
+10.1	40
+10.4	40
+10.4	140
+10.5	140
+10.5	40
+10.8	40
+10.8	150
+10.9	150
+10.9	40
+15	40
+15	150
+15.25	150
+15.25	85
+16	95
+16	95
+20	95
+20	40
+21	40
+21	150
+21.25	150
+21.25	85
+22	95
+22	95
+26	95
+26	40
+27	40
+27	150
+27.25	150
+27.25	85
+28	95
+28	95
+31.5	95
+31.5	95
+32	140
+32	40
+40	40
+40	150
+40.25	150
+40.25	85
+41	95
+41	95
+45	95
+45	40
+46	40
+46	150
+46.25	150
+46.25	85
+47	95
+47	95
+51	95
+51	40
+52	40
+52	150
+52.25	150
+52.25	85
+53	95
+53	95
+56.5	95
+56.5	95
+57	140
+57	40
+65	40
+65	150
+65.25	150
+65.25	85
+66	95
+66	95
+70	95
+70	40
+71	40
+71	150
+71.25	150
+71.25	85
+72	95
+72	95
+76	95
+76	40
+77	40
+77	150
+77.25	150
+77.25	85
+78	95
+78	95
+81.5	95
+81.5	95
+82	140
+82	40
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Lion Rock consists of 3 sets of 3x5-minute Threshold efforts	8	0	0	72	16777215	1
+0	The catch is is that each intervals begins with a 15-second sprint at 150% FTP	8	0	0	72	16777215	10
+0	Additionally, rest between intervals is short at only 1 minute	8	0	0	72	16777215	20
+0	This means that aerobically fit riders will find repeating these efforts manageable...	8	0	0	72	16777215	30
+0	while less aerobically adapted riders will be able to use this workout...	8	0	0	72	16777215	40
+0	as an opportunity to improve their ability to recover quickly	8	0	0	72	16777215	50
+0	This is also an opportunity to improve the willingness to work hard, over & over again	8	0	0	72	16777215	60
+0	This workout targets the recruitment of muscle fibers during the 15-second sprints...	8	0	0	72	16777215	70
+0	and then targets sustainable, aerobic power during the 4 minutes at 95% FTP	8	0	0	72	16777215	80
+300	3-minute clearing ramp from 90% up to full FTP	8	0	0	72	16777215	0
+300	Keep your spin in the 85-95rpm range	8	0	0	72	16777215	10
+480	Ease up for a couple minutes & catch your breath	8	0	0	72	16777215	0
+480	Three, very short clearing bursts coming up	8	0	0	72	16777215	80
+480	Spin very quickly through these, ideally 100rpm or higher	8	0	0	72	16777215	90
+480	And try to get your speed really quickly, almost all at once	8	0	0	72	16777215	100
+480	6-second burst coming up, get ready...	5	0	0	72	16777215	110
+480	3...	1	0	0	72	16777215	117
+480	2...	1	0	0	72	16777215	118
+480	1..	1	0	0	72	16777215	119
+600	Go!	3	0	0	72	16777215	0
+606	Get control of your spin, you'll go again in just a few seconds	8	0	0	72	16777215	0
+606	3...	1	0	0	72	16777215	15
+606	2...	1	0	0	72	16777215	16
+606	1...	1	0	0	72	16777215	17
+624	Go!	3	0	0	72	16777215	0
+630	Get a handle on your leg speed again, relax your upper body	8	0	0	72	16777215	0
+630	Get ready...	3	0	0	72	16777215	10
+630	3...	1	0	0	72	16777215	15
+630	2...	1	0	0	72	16777215	16
+630	1...	1	0	0	72	16777215	17
+648	Go!	3	0	0	72	16777215	0
+654	Excellent, 4 easy minutes until we begin	5	0	0	72	16777215	0
+654	If you don't feel as though you're sufficiently warmed up...	8	0	0	72	16777215	10
+654	consider dropping the Workout Intensity of this first interval by 5%	8	0	0	72	16777215	20
+654	These intervals are all about a strong and fast start...	8	0	0	72	16777215	186
+654	followed by a high but sustainable effort	5	0	0	72	16777215	196
+654	These are the efforts necessary to break away from other riders	8	0	0	72	16777215	206
+654	The word "efforts" is plural because more often than not...	8	0	0	72	16777215	216
+654	your first attempt (or several) at a break won't stick so you need to be relentless	8	0	0	72	16777215	226
+654	Bring your cadence up above 100rpm for this first SEATED sprint...	5	0	0	72	16777215	236
+654	3...	1	0	0	72	16777215	243
+654	2...	1	0	0	72	16777215	244
+654	1...	1	0	0	72	16777215	245
+900	Fast legs for 15 seconds!	5	0	0	72	16777215	0
+915	45-second to recover & ramp up to 95% FTP	8	0	0	72	16777215	0
+915	Let your cadence fall between 85-95rpm	8	0	0	72	16777215	10
+915	Of course, the closer to 95rpm your are, the better	8	0	0	72	16777215	20
+915	A higher cadence taxes your legs less, differently	8	0	0	72	16777215	30
+915	As you become more aerobically fit...	5	0	0	72	16777215	40
+915	you'll be able to sustain a faster cadence for longer periods of time	8	0	0	72	16777215	47
+960	Settle into some steady work & ride through any sprint fatigue	8	0	0	72	16777215	0
+960	Final 2 minutes, hold your Target Power steady	8	0	0	72	16777215	120
+1200	Only one minute of recovery, so make it count	8	0	0	72	16777215	0
+1200	Exhale completely in order to bring your heart rate down as much as possible	8	0	0	72	16777215	10
+1200	This time, use what you learned from the first interval	8	0	0	72	16777215	20
+1200	Was your gearing effective? Did you manage high leg speed?	8	0	0	72	16777215	30
+1200	Do you want to sprint seated or standing? All decisions to make right now	8	0	0	72	16777215	40
+1200	Get ready for a strong, quick jump...	5	0	0	72	16777215	50
+1200	3...	1	0	0	72	16777215	57
+1200	2...	1	0	0	72	16777215	58
+1200	1...	1	0	0	72	16777215	59
+1260	15-seconds, all-out!	5	0	0	72	16777215	0
+1260	Hold onto your power...	5	0	0	72	16777215	7
+1275	and settle into a more sustainable pace with a reasonably quick cadence	8	0	0	72	16777215	0
+1275	Say it with me, "In the 85-95rpm range"	8	0	0	72	16777215	10
+1275	Stay on the gas & gradually work your watts back up	8	0	0	72	16777215	20
+1320	Settle in right here & ride as smoothly as you know how	8	0	0	72	16777215	0
+1320	Two more minutes, no slip in form, power or cadence	8	0	0	72	16777215	120
+1560	Good, but you still have to do that one more time	8	0	0	72	16777215	0
+1560	No problem though, you're aerobically very strong...	8	0	0	72	16777215	10
+1560	so you can repeat these efforts over & over until the pelotonor your buddies crack ;-)	8	0	0	72	16777215	20
+1560	Time for another effort, make this jump explosive...as much as you can on a trainer anyway	8	0	0	72	16777215	40
+1560	Get ready for some quick legs!	5	0	0	72	16777215	50
+1560	3...	1	0	0	72	16777215	57
+1560	2...	1	0	0	72	16777215	58
+1560	1...	1	0	0	72	16777215	59
+1620	And here's the jump! Away you gooooo	5	0	0	72	16777215	0
+1620	Hold your leg speed and HIGH power	5	0	0	72	16777215	7
+1635	That's a solid gap you've established, now grow it!	8	0	0	72	16777215	0
+1680	Keep growing your gap by pedaling as efficiently as possible	8	0	0	72	16777215	0
+1680	A quick pedalstroke & proper bike position on the bike are key	8	0	0	72	16777215	10
+1680	Make sure your sit bones are firmly planted on the saddle wings...	8	0	0	72	16777215	20
+1680	and don't tense up your upper body, try to appear relaxed	8	0	0	72	16777215	30
+1680	You don't want anyone to see that you're working hard	8	0	0	72	16777215	40
+1680	Almost to the line! Get ready for one last push...	8	0	0	72	16777215	190
+1680	Bring your cadence up  a bit for the final effort	8	0	0	72	16777215	200
+1890	Stay seated and drive the power up, all the way to the line	8	0	0	72	16777215	0
+1890	Keep those legs quick and that power high!	8	0	0	72	16777215	10
+1890	Final 10 seconds, don't fade now!	5	0	0	72	16777215	20
+1890	3...	1	0	0	72	16777215	27
+1890	2...	1	0	0	72	16777215	28
+1890	1...	1	0	0	72	16777215	29
+1920	Done! THAT is how you break away AND stay away	8	0	0	72	16777215	0
+1920	Take a full 8 minutes to recover at any cadence that suits you...	8	0	0	72	16777215	10
+1920	but it's a good idea to keep your cadence above 85rpm if possible	8	0	0	72	16777215	20
+1920	Oftentimes, the rider who wins the race, or is the group-ride hero...	8	0	0	72	16777215	420
+1920	isn't always the strongest on paper, maybe doesn't have the best numbers	8	0	0	72	16777215	430
+1920	They are, however, very, VERY tough	5	0	0	72	16777215	440
+1920	They have the mental fortitude to force themselves to go hard time & time again	8	0	0	72	16777215	450
+1920	So when the going gets tough, what sort of rider will you be?	8	0	0	72	16777215	460
+1920	Set the tone with this initial effort	5	0	0	72	16777215	470
+1920	3...	1	0	0	72	16777215	477
+1920	2...	1	0	0	72	16777215	478
+1920	1...	1	0	0	72	16777215	479
+2400	High leg speed, high watts, 15 seconds!	8	0	0	72	16777215	0
+2415	Settle into that 85-95rpm range & breeeeeeathe	8	0	0	72	16777215	0
+2460	Even though many breakaway efforts don't stick...	8	0	0	72	16777215	0
+2460	today's repeated hard work will accomplish 2 things:	8	0	0	72	16777215	10
+2460	First, it will simply make you a stronger rider - both mentally & physically	8	0	0	72	16777215	20
+2460	Second, your relentlessness will weaken the resolve of anyone chasing you	8	0	0	72	16777215	30
+2460	Just 2 more minutes of keeping things steady & powerful	8	0	0	72	16777215	120
+2700	If need be, take 10-20 seconds to backpedal	8	0	0	72	16777215	0
+2700	Just be sure you get back on top of your cadence well before the next interval	8	0	0	72	16777215	10
+2700	Round 2 of the set. Get ready...	5	0	0	72	16777215	50
+2700	3...	1	0	0	72	16777215	57
+2700	2...	1	0	0	72	16777215	58
+2700	1...	1	0	0	72	16777215	59
+2760	Go! Imagine accelerating past others like they're not moving at all	8	0	0	72	16777215	0
+2775	Now hold the gap you worked so hard to develop	8	0	0	72	16777215	0
+2820	Now settle into a pace that holds or even grows your gap	8	0	0	72	16777215	0
+2820	And if you want to make these a little more real-world applicable...	8	0	0	72	16777215	10
+2820	get low, down in your drops or laid out on your brake hoods	8	0	0	72	16777215	20
+2820	Final 2 minutes, no easing up	5	0	0	72	16777215	120
+2820	One more minute, move in & out of the saddle occasionally if you lose you leg speed	5	0	0	72	16777215	180
+2820	Don't come to rely on standing to save yourself or your spin...	5	0	0	72	16777215	187
+2820	but also don't hesitate to practice it for when it's truly necessary	5	0	0	72	16777215	194
+3060	If you'd been caught again, the other riders would know you're an aggressive rider	8	0	0	72	16777215	0
+3060	So the next time you go, maybe you get a useful break-mate	8	0	0	72	16777215	10
+3060	And if not, it's probably because you're wearing them down ;-)	8	0	0	72	16777215	20
+3060	Which means you might make something stick now that you've broken them down	8	0	0	72	16777215	30
+3060	Get ready...	5	0	0	72	16777215	50
+3060	3...	1	0	0	72	16777215	57
+3060	2...	1	0	0	72	16777215	58
+3060	1...	1	0	0	72	16777215	59
+3120	Strong, fast jump! 15 seconds of all-out effort	8	0	0	72	16777215	0
+3135	45 seconds to catch your breath & ramp back up	8	0	0	72	16777215	0
+3180	Settle in for 3 and a half minutes	8	0	0	72	16777215	0
+3180	This may be the final effort in the set...	8	0	0	72	16777215	10
+3180	but that doesn't mean you should allow for your form to slip	8	0	0	72	16777215	20
+3180	Relax those shoulders, loosen your grip on the bars	8	0	0	72	16777215	30
+3180	Make your neck a little longer & relax your jaw & mouth...	8	0	0	72	16777215	40
+3180	and keep that pedalstroke as smooth as butter	8	0	0	72	16777215	50
+3180	Final pushing coming up!	8	0	0	72	16777215	190
+3180	Bring your cadence up & get ready to gut out the closing 30 seconds	8	0	0	72	16777215	200
+3390	Build your power over the entire 30 seconds...	8	0	0	72	16777215	0
+3390	and don't give away any of your leg speed as you go	8	0	0	72	16777215	10
+3390	Final 10 seconds, do...not...fade!	8	0	0	72	16777215	20
+3420	And relax! Really well done, do some light spinning or even backpedaling...	8	0	0	72	16777215	0
+3420	and bring your breathing & heart rate back down	8	0	0	72	16777215	10
+3420	Final set starts in 30 seconds & you've learned a lot by now	8	0	0	72	16777215	440
+3420	That doesn't mean there isn't more room for refinement though	8	0	0	72	16777215	450
+3420	If you can make improvements during these last few, get clear on what you're after	8	0	0	72	16777215	460
+3420	Get ready to jump...	5	0	0	72	16777215	470
+3420	3...	1	0	0	72	16777215	477
+3420	2...	1	0	0	72	16777215	478
+3420	1...	1	0	0	72	16777215	479
+3900	15 seconds, all-out!	5	0	0	72	16777215	0
+3915	Settle back into a more manageable cadence...	8	0	0	72	16777215	0
+3915	and start to work your power back up as you corral your breathing	8	0	0	72	16777215	10
+3960	These quick accelerations followed by high, sustained efforts...	8	0	0	72	16777215	0
+3960	not only serve to physically distance yourself from other riders...	8	0	0	72	16777215	10
+3960	but in the process you'll probably intimidate them as well	8	0	0	72	16777215	20
+3960	Two more minutes, just hold your focus & stay relaxed	8	0	0	72	16777215	120
+3960	Final minute of this first breakaway attempt, keep your power & cadence	8	0	0	72	16777215	180
+4200	Draw deep, full breaths & exhale completely	8	0	0	72	16777215	0
+4200	Get ready...	5	0	0	72	16777215	50
+4200	3...	1	0	0	72	16777215	57
+4200	2...	1	0	0	72	16777215	58
+4200	1...	1	0	0	72	16777215	59
+4260	15-second jump!	5	0	0	72	16777215	0
+4275	Gap opened! Keep that cadence high & hold it steady	8	0	0	72	16777215	0
+4320	This is the make-or-break portion of the interval, where most riders fade	8	0	0	72	16777215	180
+4320	Stay tough & don't show your pain, not to your opponents, not to yourself	8	0	0	72	16777215	190
+4320	Put on your poker face	5	0	0	72	16777215	200
+4560	Well done, just one to go. Feel free to backpedal briefly	8	0	0	72	16777215	0
+4560	Final racewinner in 30 seconds, get your leg speed up...	8	0	0	72	16777215	30
+4560	so you can really attack this last jump	8	0	0	72	16777215	40
+4560	Lots of speed all at once...	5	0	0	72	16777215	50
+4560	3...	1	0	0	72	16777215	57
+4560	2...	1	0	0	72	16777215	58
+4560	1...	1	0	0	72	16777215	59
+4620	Go! 15 high-power seconds	5	0	0	72	16777215	0
+4635	Steadily work your power back up as you bring your breathing back down	8	0	0	72	16777215	0
+4680	Final opportunity to work hard, make the most of it	8	0	0	72	16777215	0
+4680	When you end up ahead of everyone, you're like a carrot tempting riders across	8	0	0	72	16777215	150
+4680	But when you open a sizable enough gap and CONTINUE to grow that gap...	8	0	0	72	16777215	160
+4680	you'll discourage all but the strongest riders from bridging your gap	8	0	0	72	16777215	170
+4680	One final kick, and you're across the line	8	0	0	72	16777215	200
+4890	Build power & keep your cadence high the whole time	8	0	0	72	16777215	0
+4890	20 more seconds, keeeeeep building...	8	0	0	72	16777215	10
+4890	Final, brutal 10 seconds!	5	0	0	72	16777215	20
+4890	3...	1	0	0	72	16777215	27
+4890	2...	1	0	0	72	16777215	28
+4890	1...	1	0	0	72	16777215	29
+4920	Excellent job! Only the most resilient riders can tackle workouts like that one	8	0	0	72	16777215	0
+4920	Take as much of the 8 minutes allotted to cool down...	8	0	0	72	16777215	10
+4920	and we'll see you next time	8	0	0	72	16777215	20
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+300	480	Sweet Spot 1
+600	606	Sprint 1
+624	630	Sprint 2
+648	654	Sprint 3
+900	915	Sprint 4
+915	960	Sweet Spot 2
+960	1200	Sweet Spot 3
+1260	1275	Sprint 5
+1275	1320	Sweet Spot 4
+1320	1560	Sweet Spot 5
+1620	1635	Sprint 6
+1635	1680	Sweet Spot 6
+1680	1890	Sweet Spot 7
+1890	1920	VO2 Max 1
+2400	2415	Sprint 7
+2415	2460	Sweet Spot 8
+2460	2700	Sweet Spot 9
+2760	2775	Sprint 8
+2775	2820	Sweet Spot 10
+2820	3060	Sweet Spot 11
+3120	3135	Sprint 9
+3135	3180	Sweet Spot 12
+3180	3390	Sweet Spot 13
+3390	3420	VO2 Max 2
+3900	3915	Sprint 10
+3915	3960	Sweet Spot 14
+3960	4200	Sweet Spot 15
+4260	4275	Sprint 11
+4275	4320	Sweet Spot 16
+4320	4560	Sweet Spot 17
+4620	4635	Sprint 12
+4635	4680	Sweet Spot 18
+4680	4890	Sweet Spot 19
+4890	4920	VO2 Max 3
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

@@ -1,0 +1,232 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Deerhorn TC,86,37. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	50
+3	95
+4	95
+4	105
+4.5	105
+4.5	40
+7	40
+7	92
+8	92
+8	103
+8.5	103
+8.5	94
+9.5	94
+9.5	107
+10	107
+10	40
+10.5	40
+10.5	92
+11.5	92
+11.5	106
+12	106
+12	94
+13	94
+13	103
+13.5	103
+13.5	40
+14	40
+14	92
+15	92
+15	107
+15.5	107
+15.5	94
+16.5	94
+16.5	103
+17	103
+17	40
+19	40
+19	92
+20	92
+20	103
+20.5	103
+20.5	94
+21.5	94
+21.5	107
+22	107
+22	40
+22.5	40
+22.5	92
+23.5	92
+23.5	103
+24	103
+24	94
+25	94
+25	107
+25.5	107
+25.5	40
+26	40
+26	92
+27	92
+27	107
+27.5	107
+27.5	94
+28.5	94
+28.5	103
+29	103
+29	40
+30	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	The time-crunched version of Deerhorn is all about physical & mental adaptations...	8	0	0	72	16777215	10
+0	aimed at helpig you handle changes in pace...	8	0	0	72	16777215	20
+0	when you're already working at a high percentage of FTP	8	0	0	72	16777215	30
+0	In other words, this workout will help teach you to "work through the burn"	8	0	0	72	16777215	40
+0	Today's workout consists of 2 sets of 4x3-minute, Criss-Cross intervals	8	0	0	72	16777215	60
+0	Criss-Cross intervals will have you riding slightly below or slightly above FTP...	8	0	0	72	16777215	70
+0	in much the same way as other Over-Under workouts do	8	0	0	72	16777215	80
+0	Get ready for a short clearing effort to prime your muscles & lungs	8	0	0	72	16777215	150
+0	This clearing effort will give you a good idea of what you're up against today...	8	0	0	72	16777215	160
+0	so shoot for that 85-95rpm target cadence to get a feel for that as well	8	0	0	72	16777215	170
+180	1 minute right here, smooth & relaxed	8	0	0	72	16777215	0
+240	Pick things up just a bit but stay seated and hold your spin steady	8	0	0	72	16777215	0
+270	Ease up but keep your legs reasonably quick	8	0	0	72	16777215	0
+270	Again, this workout is just as much about mental strength as physical fitness	8	0	0	72	16777215	10
+270	The over-segments will begin to flood your muscles...	8	0	0	72	16777215	20
+270	and this will probably make you want to ease up	8	0	0	72	16777215	30
+270	Resist the urge to ease up, backpedal, or bail entirely...	8	0	0	72	16777215	40
+270	and in place of those easy exits, learn to embrace the discomfort	8	0	0	72	16777215	50
+270	You're capable of quite a bit outside the confines of your comfort zone...	8	0	0	72	16777215	60
+270	and you're also able to expand those very confines with training	8	0	0	72	16777215	70
+270	First interval in about 1 minute	8	0	0	72	16777215	90
+270	Try to hold your cadence between 85-95rpm throughout each interval	8	0	0	72	16777215	100
+270	Start settling into your work interval cadence	8	0	0	72	16777215	130
+270	First minute is at 92% FTP, very manageable	8	0	0	72	16777215	140
+420	Here we go!	5	0	0	72	16777215	0
+420	Take the first 30 seconds to settle into a sustainable cadence...	8	0	0	72	16777215	7
+420	and adjusting to the increased workload	5	0	0	72	16777215	17
+420	The first surge is approaching	5	0	0	72	16777215	25
+420	It will put you at 103% FTP for 30 seconds	8	0	0	72	16777215	32
+420	Hold your cadence steady & start out relaxed	8	0	0	72	16777215	50
+480	Try to make the wattage change appear unnoticeable	8	0	0	72	16777215	0
+510	Good job, spend a minute at 94% FTP	8	0	0	72	16777215	0
+510	Keep that cadence high & steady	5	0	0	72	16777215	30
+510	Next surge is in 30 seconds	5	0	0	72	16777215	30
+510	This one will bring you up to 107% FTP, slightly more work than last time	8	0	0	72	16777215	40
+510	Again, make it look easy! No drama	5	0	0	72	16777215	50
+570	Final minute! Keep it smooth	5	0	0	72	16777215	0
+600	Nicely done, take full, slow breaths during this minute of rest	5	0	0	72	16777215	0
+600	Exhale completely to actively clear out the used air	8	0	0	72	16777215	10
+600	2nd interval in 10 seconds, find your cadence	8	0	0	72	16777215	20
+630	If you're feeling up to it, we're going to do some out-of-the-saddle drills	8	0	0	72	16777215	0
+630	Let's try riding while standing for a portion of the next surge	8	0	0	72	16777215	10
+630	Make sure that when you get out-of-the-saddle...	8	0	0	72	16777215	20
+630	you are not placing too much weight on your hands...	8	0	0	72	16777215	30
+630	OR on your quads	5	0	0	72	16777215	40
+630	Slow your cadence down just a bit, find your gearing & start to rise	8	0	0	72	16777215	50
+690	Remember, light on your feet, light on the handlebars	8	0	0	72	16777215	0
+690	Wrenching the handlebars around is not only inefficient...	8	0	0	72	16777215	10
+690	but it could even cause damage to your bike when fastened to a trainer	8	0	0	72	16777215	20
+720	Have a seat if you aren't already back in the saddle	8	0	0	72	16777215	0
+720	Bring your cadence back up, 85-95rpm preferably	8	0	0	72	16777215	10
+720	Settle in for the next couple of minutes & lower your breathing rate	8	0	0	72	16777215	20
+720	Next out-of-the-saddle portion coming up in 30 seconds	8	0	0	72	16777215	30
+720	Focus on a smooth transition up into your standing position	8	0	0	72	16777215	40
+720	That means preparing your cadence/gearing now	8	0	0	72	16777215	50
+780	And up! Make this a good-looking 30 seconds out of the saddle	8	0	0	72	16777215	0
+780	Make sure you're not placing too much weight on your handlebars	8	0	0	72	16777215	10
+810	Good job! Bring your cadence back to a comfortable speed...	8	0	0	72	16777215	0
+810	and keep the pedals turning forward for at least another 20 seconds	8	0	0	72	16777215	10
+810	We're going to work on a quicker cadence next	8	0	0	72	16777215	20
+840	Bring that cadence up, 95rpm or higher is a good goal	8	0	0	72	16777215	0
+840	If 95+rpm isn't realistic at the moment, just ride a little quicker than usual	8	0	0	72	16777215	10
+840	Whatever your cadence is, make sure you're practicing good form	8	0	0	72	16777215	20
+840	That means not bouncing around in the saddle, not carrying excess tension in your upper body...	8	0	0	72	16777215	30
+840	and maintaining a smooth pedalstroke that almost looks effortless	8	0	0	72	16777215	40
+840	Try to bring your cadence up even further for the upcoming surge	8	0	0	72	16777215	50
+900	100rpm or higher is an excellent goal	8	0	0	72	16777215	0
+900	Only another 20 seconds, so keep that cadence high!	8	0	0	72	16777215	10
+900	But make sure you're not sacrificing any form in the process	8	0	0	72	16777215	20
+930	Good job! Bring that cadence down to a comfortable range	8	0	0	72	16777215	0
+930	Stay in this range for the next minute or so	8	0	0	72	16777215	10
+930	Let's start ramping that cadence up again, shoot for 95+rpm	8	0	0	72	16777215	60
+930	Final surge coming up, start relaxed & stay relaxed	8	0	0	72	16777215	70
+930	Target the fastest cadence you can maintain without any slip in form	8	0	0	72	16777215	110
+990	Keep it up! Just 20 seconds to go, no bouncing in the saddle!	8	0	0	72	16777215	10
+990	Final 10 seconds, MUCH control	5	0	0	72	16777215	20
+1020	Very nice, first set of Criss-Cross intervals - Done!	8	0	0	72	16777215	0
+1020	Take the next couple minutes to spin the legs out	8	0	0	72	16777215	10
+1020	Next set of Criss-Cross intervals in about a minute	8	0	0	72	16777215	60
+1020	We'll work on single-hand drills during this first interval	8	0	0	72	16777215	70
+1020	The idea of single-hand drills is to make sure we're as balanced as possible	8	0	0	72	16777215	80
+1020	We'll simply lift one hand off of the handlebars...	8	0	0	72	16777215	90
+1020	while maintaining correct body position	5	0	0	72	16777215	100
+1020	Ride this first 30 seconds normally, get back into the swing of working hard	8	0	0	72	16777215	110
+1140	Spin reasonably quickly, preferably above 85rpm	8	0	0	72	16777215	0
+1140	Slightly lift one of your hands, your choice which	8	0	0	72	16777215	10
+1140	No need to raise it too high - just a couple of inches above your bars	8	0	0	72	16777215	20
+1140	This should be the only thing about your position that changes	8	0	0	72	16777215	30
+1140	If you could see a video of you from your chest up...	8	0	0	72	16777215	40
+1140	you shouldn't be able to tell that you have one hand off the bars	8	0	0	72	16777215	50
+1200	Both hands back on for 30 seconds, hit your Target Power	8	0	0	72	16777215	0
+1230	Nicely done! Back to the drill, other hand this time	8	0	0	72	16777215	0
+1230	Switch hands anytime you think your form is suffering due to fatigue	8	0	0	72	16777215	30
+1230	Get ready for another surge, both hands on the bars	8	0	0	72	16777215	90
+1290	Both hands very lightly on the bars for 30  seconds	8	0	0	72	16777215	0
+1320	Great job! Just 2 intervals to go	5	0	0	72	16777215	0
+1320	We'll resume the one-handers over the course of this next interval	8	0	0	72	16777215	10
+1320	One valley on one hand, the other valley on the other	8	0	0	72	16777215	20
+1350	As soon as you're ready, raise one hand but keep your shoulders level	8	0	0	72	16777215	0
+1350	Keep this hand floating for as much of this minute as possible...	8	0	0	72	16777215	10
+1350	switch only if totally necessary	5	0	0	72	16777215	20
+1410	Both hands back on, pick up your spin a little, maybe 5 extra rpm	8	0	0	72	16777215	0
+1440	Return to your normal spin and float the opposite hand	8	0	0	72	16777215	0
+1440	Same deal, try to last the whole minute or switch hands if necessary	8	0	0	72	16777215	10
+1500	Final 30 seconds, slightly quicker spin	5	0	0	72	16777215	0
+1530	Nice! Try to make this the last one the prettiest interval yet	8	0	0	72	16777215	0
+1530	And by "prettiest" I mean done with impeccable form	8	0	0	72	16777215	10
+1530	Keeping great form when tired will only serve to make you a better cyclist	8	0	0	72	16777215	20
+1560	Here we go! Stay focused & tough	8	0	0	72	16777215	0
+1560	Try to hold yourself to a higher standard of form during this last interval	8	0	0	72	16777215	10
+1620	30 seconds, be tough & keep your cadence in the 85-95rpm range	8	0	0	72	16777215	0
+1650	That probably hurt but you'll start to feel better over the next 30 seconds	8	0	0	72	16777215	0
+1650	Just be patient, your muscles WILL slowly start to clear	8	0	0	72	16777215	10
+1710	Final 30 seconds, most fluid, most relaxed form of the day!	8	0	0	72	16777215	0
+1740	Excellent job!	3	0	0	72	16777215	0
+1740	As always, feel free to continue cooling down after the clock runs out...	8	0	0	72	16777215	10
+1740	and we'll see you next time	5	0	0	72	16777215	20
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	1800	Workout
+180	240	Sweet Spot 1
+240	270	Threshold 1
+420	480	Sweet Spot 2
+480	510	Threshold 2
+510	570	Sweet Spot 3
+570	600	VO2 Max 1
+630	690	Sweet Spot 4
+690	720	VO2 Max 2
+720	780	Sweet Spot 5
+780	810	Threshold 3
+840	900	Sweet Spot 6
+900	930	VO2 Max 3
+930	990	Sweet Spot 7
+990	1020	Threshold 4
+1140	1200	Sweet Spot 8
+1200	1230	Threshold 5
+1230	1290	Sweet Spot 9
+1290	1320	VO2 Max 4
+1350	1410	Sweet Spot 10
+1410	1440	Threshold 6
+1440	1500	Sweet Spot 11
+1500	1530	VO2 Max 5
+1560	1620	Sweet Spot 12
+1620	1650	VO2 Max 6
+1650	1710	Sweet Spot 13
+1710	1740	Threshold 7
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

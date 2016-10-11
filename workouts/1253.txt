@@ -1,0 +1,524 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Ebbetts,82,67. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	40
+4	50
+4	75
+5	75
+5	50
+5.5	50
+5.5	85
+6.5	85
+6.5	50
+7	50
+7	95
+8	95
+8	40
+11	40
+11	92
+12	92
+12	160
+12.08	160
+12.08	92
+14	92
+14	160
+14.08	160
+14.08	92
+16	92
+16	160
+16.08	160
+16.08	92
+18	92
+18	160
+18.08	160
+18.08	92
+19	92
+19	41
+23	41
+23	90
+24	90
+24	170
+24.08	170
+24.08	90
+26	90
+26	170
+26.08	170
+26.08	90
+28	90
+28	170
+28.08	170
+28.08	90
+30	90
+30	170
+30.08	170
+30.08	90
+31	90
+31	40
+35	40
+35	94
+36	94
+36	150
+36.08	150
+36.08	94
+38	94
+38	150
+38.08	150
+38.08	94
+40	94
+40	150
+40.08	150
+40.08	94
+42	94
+42	150
+42.08	150
+42.08	94
+43	94
+43	40
+47	40
+47	88
+48	88
+48	180
+48.08	180
+48.08	88
+50	88
+50	180
+50.08	180
+50.08	88
+52	88
+52	180
+52.08	180
+52.08	88
+54	88
+54	180
+54.08	180
+54.08	88
+55	88
+55	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Ebbetts!	5	0	0	72	16777215	10
+0	This workout's goals are twofold...	4	0	0	72	16777215	17
+0	with an emphasis on brute strength...	4	0	0	72	16777215	22
+0	coupled with a greater emphasis on muscle endurance	5	0	0	72	16777215	27
+0	So while the far majority of each interval will target...	4	0	0	72	16777215	34
+0	your ability to sustain pretty high percentages of your FTP...	5	0	0	72	16777215	39
+0	the other aim is to increase just how much of your pedaling muscle...	5	0	0	72	16777215	45
+0	you can recruit, or activate...	3	0	0	72	16777215	51
+0	and just how quickly you can do so	4	0	0	72	16777215	55
+0	So as you steadily work at a pretty high power output...	5	0	0	72	16777215	61
+0	and target your ability to sustain a demanding workload...	4	0	0	72	16777215	67
+0	you'll have to quickly but briefly...	3	0	0	72	16777215	72
+0	wind up a bunch of controlled power...	3	0	0	72	16777215	76
+0	before immediately resuming that slightly subthreshold power output	5	0	0	72	16777215	80
+0	Efforts like these are not only beneficial on a couple physiological levels...	5	0	0	72	16777215	87
+0	but they're highly similar to the demands of riding outdoors...	5	0	0	72	16777215	93
+0	whether in a group ride or road race...	4	0	0	72	16777215	99
+0	or on a rolling dirt trail...	3	0	0	72	16777215	104
+0	or in a criterium or draft-legal triathlon bike leg...	4	0	0	72	16777215	108
+0	where working really hard but only briefly...	4	0	0	72	16777215	113
+0	doesn't often come with guaranteed recovery afterward	5	0	0	72	16777215	118
+0	More on this later	3	0	0	72	16777215	125
+0	For now, keep warming gradually...	3	0	0	72	16777215	130
+0	and we'll further the warmup in a couple minutes	4	0	0	72	16777215	134
+0	Until then, try to spin lightly & fairly quickly...	4	0	0	72	16777215	140
+0	preferably above 85rpm	3	0	0	72	16777215	145
+240	Spin a little bit quicker...	3	0	0	72	16777215	0
+240	as long as you don't start bouncing in the saddle	5	0	0	72	16777215	4
+300	Back to a comfortable cadence...	4	0	0	72	16777215	0
+300	as you relax your upper body	4	0	0	72	16777215	5
+300	Get ready to pick it back up...	3	0	0	72	16777215	21
+300	90rpm or higher	3	0	0	72	16777215	25
+330	Stay relaxed & make it look easy...	3	0	0	72	16777215	0
+330	with a quick but smooth spin	3	0	0	72	16777215	4
+390	Back your leg speed down again...	3	0	0	72	16777215	0
+390	and ditch any tension the crept into your upper body	5	0	0	72	16777215	4
+420	Once more, this time above 100rpm...	4	0	0	72	16777215	0
+420	as long as you can keep from bouncing	4	0	0	72	16777215	5
+480	Slow things back down...	3	0	0	72	16777215	0
+480	and spin lightly for the next few minutes...	4	0	0	72	16777215	4
+480	while we talk more about the intervals	4	0	0	72	16777215	9
+480	Just ahead, you'll "wake up" your sprinting muscles...	4	0	0	72	16777215	15
+480	with very short, fairly intense bursts of power	4	0	0	72	16777215	20
+480	But primarily, you'll target your muscular endurance...	4	0	0	72	16777215	26
+480	via Sweet Spot work	3	0	0	72	16777215	31
+480	If you've done other Sweet Spot workouts...	4	0	0	72	16777215	36
+480	you might already know what this power zone is about	4	0	0	72	16777215	41
+480	But if you're new to it...	3	0	0	72	16777215	47
+480	just know it's one of the most productive effort levels...	4	0	0	72	16777215	51
+480	in which you can spend your limited training time	4	0	0	72	16777215	56
+480	This is largely because you can reap a high training benefit...	5	0	0	72	16777215	62
+480	without accumulating too much fatigue	4	0	0	72	16777215	68
+480	Working a little below your FTP...	3	0	0	72	16777215	74
+480	is far more forgiving than spending time right at Threshold	5	0	0	72	16777215	78
+480	This translates to less fatigue & recovery time...	4	0	0	72	16777215	85
+480	resulting in more time to train...	4	0	0	72	16777215	90
+480	and less time necessary for recuperation	4	0	0	72	16777215	95
+480	This "forgiving" nature means Sweet Spot work can be repeated...	5	0	0	72	16777215	101
+480	more frequently than similar Threshold workouts...	4	0	0	72	16777215	107
+480	and leave you less exhausted in the process	4	0	0	72	16777215	112
+480	Sweet Spot training is like pouring the foundation...	4	0	0	72	16777215	118
+480	upon which you'll build a higher FTP...	4	0	0	72	16777215	123
+480	thanks to an improved ability to sustain fairly high workloads...	5	0	0	72	16777215	128
+480	for increasingly longer durations	3	0	0	72	16777215	134
+480	Put another way...	3	0	0	72	16777215	139
+480	you're training the ability to work harder, longer	4	0	0	72	16777215	143
+480	This training starts in about 30 seconds...	4	0	0	72	16777215	150
+480	so settle into a cadence that feels quick but manageable	4	0	0	72	16777215	155
+480	Ideally, this is above 85rpm...	3	0	0	72	16777215	161
+480	but feel free to use any cadence that suits you & your goals	5	0	0	72	16777215	165
+660	Take a minute to adjust to the workload...	4	0	0	72	16777215	0
+660	and breathe fully, from your belly	4	0	0	72	16777215	5
+660	Your first quick burst of speed is just ahead...	4	0	0	72	16777215	47
+660	so get ready to spin more quickly...	3	0	0	72	16777215	51
+660	for a short, 5-second blip	3	0	0	72	16777215	55
+720	5 fast seconds!	3	0	0	72	16777215	5
+725	Settle back in for a couple minutes...	4	0	0	72	16777215	1
+725	without letting your Power fall below your Target	5	0	0	72	16777215	6
+725	Those bursts can hurt, no doubt...	4	0	0	72	16777215	13
+725	but they're super short...	3	0	0	72	16777215	18
+725	so don't let them scare you	3	0	0	72	16777215	22
+725	Just wind up a few seconds of leg speed...	4	0	0	72	16777215	27
+725	highly controlled leg speed, that is...	4	0	0	72	16777215	32
+725	and then settle right back into your steady effort	4	0	0	72	16777215	37
+725	It's that simple	3	0	0	72	16777215	43
+725	As you resume the steadier work...	4	0	0	72	16777215	48
+725	try to be as relaxed as possible...	3	0	0	72	16777215	53
+725	especially if you let the burst cause a bit of tension...	4	0	0	72	16777215	57
+725	in your shoulders & hands	3	0	0	72	16777215	62
+725	And check your position on your saddle too	5	0	0	72	16777215	67
+725	See to it that you can feel your sit-bones...	4	0	0	72	16777215	74
+725	evenly on each wing of your saddle	4	0	0	72	16777215	79
+725	Get ready for another brief dose of leg speed...	4	0	0	72	16777215	100
+725	a little, or a lot, quicker than your current cadence	5	0	0	72	16777215	105
+725	3...	1	0	0	72	16777215	112
+725	2...	1	0	0	72	16777215	113
+725	1...	1	0	0	72	16777215	114
+840	Stay seated, go fast!	3	0	0	72	16777215	1
+845	Get your rhythm back without backing off too far...	5	0	0	72	16777215	1
+845	find your sit-bones...	3	0	0	72	16777215	7
+845	and relax your hands & shoulders	4	0	0	72	16777215	11
+845	These bursts are all about "waking up" your muscles...	5	0	0	72	16777215	17
+845	and sharpening your ability to call on them...	4	0	0	72	16777215	23
+845	at a fraction of a second's notice	3	0	0	72	16777215	28
+845	Riding at FTP & lower only recruits certain muscle fibers....	5	0	0	72	16777215	33
+845	and to activate those other non-contributors...	4	0	0	72	16777215	39
+845	you have to work HARD if only briefly	4	0	0	72	16777215	44
+845	But more active muscle = more strength...	4	0	0	72	16777215	50
+845	without necessarily adding extra mass...	4	0	0	72	16777215	55
+845	which means more power with no additional body weight	5	0	0	72	16777215	60
+845	Get ready to wind it up again...	3	0	0	72	16777215	102
+845	with lots of control, in the saddle	4	0	0	72	16777215	106
+845	In 3...	1	0	0	72	16777215	112
+845	2...	1	0	0	72	16777215	113
+845	1...	1	0	0	72	16777215	114
+960	Tons of speed, all at once	3	0	0	72	16777215	1
+965	Good, now get through the next 30 seconds...	4	0	0	72	16777215	1
+965	without giving into the temptation to back off	5	0	0	72	16777215	6
+965	Feeling better, right?	3	0	0	72	16777215	25
+965	Well, maybe "capable" is a better word	4	0	0	72	16777215	30
+965	Capable of hanging on for another few minutes...	4	0	0	72	16777215	36
+965	and continuing to build your ability to work pretty hard...	5	0	0	72	16777215	41
+965	even following a short, explosive effort	4	0	0	72	16777215	47
+965	Last one!	3	0	0	72	16777215	105
+965	Scoot forward on your saddle a bit	3	0	0	72	16777215	110
+1080	Go fast!	3	0	0	72	16777215	1
+1085	As you bring your cadence back down...	4	0	0	72	16777215	-17
+1085	keep your Power as close to your Target as possible	5	0	0	72	16777215	-12
+1085	And don't allow your fatigue...	4	0	0	72	16777215	-5
+1085	to cost you any form - be smooth	4	0	0	72	16777215	0
+1140	Excellent! Time for some easy spinning	5	0	0	72	16777215	0
+1140	And make recovery feel like recovery...	4	0	0	72	16777215	7
+1140	keep it easy, yeah?	3	0	0	72	16777215	12
+1140	Just lift your knees...	3	0	0	72	16777215	17
+1140	then let 'em fall	3	0	0	72	16777215	21
+1140	Some riders fail to make the easy stuff truly easy...	5	0	0	72	16777215	26
+1140	and then can't make the hard stuff hard enough	5	0	0	72	16777215	32
+1140	So rest when it's time to rest...	4	0	0	72	16777215	39
+1140	so you can work effectively when the time comes	4	0	0	72	16777215	44
+1140	Almost time to do it again...	4	0	0	72	16777215	210
+1140	so get your game face on, anchor your sit-bones...	4	0	0	72	16777215	215
+1140	smooth out your 85+rpm spin...	4	0	0	72	16777215	220
+1140	and get as relaxed as you can be...	4	0	0	72	16777215	225
+1140	while still turning the pedals with excellent control	5	0	0	72	16777215	230
+1380	Use this first minute...	3	0	0	72	16777215	0
+1380	to settle into a quick-ish cadence...	4	0	0	72	16777215	4
+1380	and start those belly-driven breaths	4	0	0	72	16777215	9
+1380	Really utilize your deep, abdominal muscles...	4	0	0	72	16777215	15
+1380	to actively clear your lungs as you narrow your midsection...	5	0	0	72	16777215	20
+1380	and then fully recharge with fresh air...	4	0	0	72	16777215	26
+1380	as you distend your belly and make room to fill your lungs	5	0	0	72	16777215	31
+1380	Almost time to wind it up...	3	0	0	72	16777215	40
+1380	and decide whether you'll stand or sit	4	0	0	72	16777215	44
+1380	If in doubt, stay seated...	3	0	0	72	16777215	50
+1380	otherwise, get ready to jump	3	0	0	72	16777215	54
+1440	Hit it!	3	0	0	72	16777215	1
+1445	Back things off, have a seat if you stood...	4	0	0	72	16777215	1
+1445	and emphasize those belly-breaths	4	0	0	72	16777215	6
+1445	Standing to sprint is optional...	4	0	0	72	16777215	12
+1445	and best practiced under a few conditions	4	0	0	72	16777215	17
+1445	1) You can do it without any pain	3	0	0	72	16777215	23
+1445	2) You can do it without damaging your bike	4	0	0	72	16777215	28
+1445	3) It makes sense relative to your goals	4	0	0	72	16777215	34
+1445	Some riders will be better served learning to jump while seated...	5	0	0	72	16777215	40
+1445	while others need to react far more explosively...	4	0	0	72	16777215	46
+1445	which is better accomplished out of the saddle	4	0	0	72	16777215	51
+1445	In either case...	3	0	0	72	16777215	57
+1445	exhibit a ton of control...	3	0	0	72	16777215	61
+1445	and don't go too crazy, it's only 5 seconds	4	0	0	72	16777215	65
+1445	Another burst in about 30 seconds...	4	0	0	72	16777215	85
+1445	and if it helps...	3	0	0	72	16777215	90
+1445	try creeping forward slightly on your saddle...	4	0	0	72	16777215	94
+1445	so your hips are more in line with your feet...	4	0	0	72	16777215	99
+1445	rather than behind them	3	0	0	72	16777215	104
+1445	Get ready	2	0	0	72	16777215	109
+1445	3...	1	0	0	72	16777215	112
+1445	2...	1	0	0	72	16777215	113
+1445	1...	1	0	0	72	16777215	114
+1560	Lots of power, all at once!	3	0	0	72	16777215	1
+1565	Now just hang on for 30 seconds...	3	0	0	72	16777215	1
+1565	and get past that brief discomfort	4	0	0	72	16777215	5
+1565	Good, no backing off now...	4	0	0	72	16777215	25
+1565	because if you can hang on for the initial 30 seconds...	4	0	0	72	16777215	30
+1565	that follow a sprint effort...	3	0	0	72	16777215	35
+1565	you can very likely hang on for much longer	4	0	0	72	16777215	39
+1565	Learning to work through the sort of pain...	4	0	0	72	16777215	45
+1565	that accompanies these intense little spikes...	4	0	0	72	16777215	50
+1565	can go a long way toward cultivating the sort of toughness...	5	0	0	72	16777215	55
+1565	that lets riders roll away from a group of less hearty athletes	5	0	0	72	16777215	61
+1565	Not only that...	3	0	0	72	16777215	68
+1565	it fosters the physiology necessary to do so	4	0	0	72	16777215	72
+1565	So you get mentally tougher...	3	0	0	72	16777215	78
+1565	and physically more capable	3	0	0	72	16777215	82
+1565	Get ready to go again...	3	0	0	72	16777215	87
+1565	and consider shifting gears if you're not reaching your Target power	5	0	0	72	16777215	91
+1565	In any case...	3	0	0	72	16777215	98
+1565	use a gear that allows you to wind things up quickly...	4	0	0	72	16777215	102
+1565	really quickly, a second or two	4	0	0	72	16777215	107
+1680	Big power, right away!	3	0	0	72	16777215	1
+1685	Yep, it hurts...	3	0	0	72	16777215	1
+1685	but do you need a break...	3	0	0	72	16777215	5
+1685	or do you just want one?	3	0	0	72	16777215	9
+1685	Learn to recognize the difference...	4	0	0	72	16777215	14
+1685	because it can transform you as a rider	4	0	0	72	16777215	19
+1685	That's 30 seconds, keep hanging in there	5	0	0	72	16777215	30
+1685	How's your pedalstroke looking?	3	0	0	72	16777215	37
+1685	Are you lightly kicking over the top?	4	0	0	72	16777215	42
+1685	Pulling lightly across the bottom?	4	0	0	72	16777215	48
+1685	Give your quads a break...	3	0	0	72	16777215	54
+1685	by riding softly on the soles of your feet	4	0	0	72	16777215	58
+1685	Kicking & pulling can make a bigger difference than you might think...	5	0	0	72	16777215	64
+1685	when it comes to sparing the bigger pedaling muscles	5	0	0	72	16777215	70
+1685	So try to take just a little stress off your quads...	4	0	0	72	16777215	77
+1685	and spin with a bit more force across the top...	4	0	0	72	16777215	82
+1685	and the bottom of each fluid pedal revolution	4	0	0	72	16777215	87
+1685	Get ready to go again	3	0	0	72	16777215	105
+1685	In...	1	0	0	72	16777215	111
+1685	3...	1	0	0	72	16777215	112
+1685	2...	1	0	0	72	16777215	113
+1685	1...	1	0	0	72	16777215	114
+1800	Full gas!	3	0	0	72	16777215	1
+1805	Excellent, just ride out this last minute...	4	0	0	72	16777215	1
+1805	with form so smooth & relaxed...	4	0	0	72	16777215	6
+1805	that it doesn't even look like you're working	4	0	0	72	16777215	11
+1860	Time for another stretch of well-earned recovery	5	0	0	72	16777215	0
+1860	Keep your legs moving...	3	0	0	72	16777215	7
+1860	even if it means a bit of backpedaling	4	0	0	72	16777215	11
+1860	30 seconds of spinning backward...	4	0	0	72	16777215	17
+1860	is ideal for riders needing just a little extra recovery...	5	0	0	72	16777215	22
+1860	during these low-intensity valleys	4	0	0	72	16777215	28
+1860	They keep you moving...	3	0	0	72	16777215	34
+1860	but they remove virtually all muscular load	4	0	0	72	16777215	38
+1860	They're also really useful in much longer intervals...	5	0	0	72	16777215	44
+1860	where a quick break can maintain the productivity...	4	0	0	72	16777215	50
+1860	lost when plugging away as fatigue compromises your form	5	0	0	72	16777215	55
+1860	So tuck that little recovery option away...	4	0	0	72	16777215	62
+1860	for later workouts...	3	0	0	72	16777215	67
+1860	and later recovery valleys within this workout	4	0	0	72	16777215	71
+1860	Round 3 in 30 seconds...	4	0	0	72	16777215	210
+1860	so bring up your spin if it fell below 85rpm...	4	0	0	72	16777215	215
+1860	relax your upper body, anchor your sit-bones...	5	0	0	72	16777215	220
+1860	get those belly-driven breaths flowing...	4	0	0	72	16777215	226
+1860	and commit to 8 minutes of proper work	4	0	0	72	16777215	231
+2100	Start each set as relaxed as possible...	4	0	0	72	16777215	0
+2100	then do your best to stay that way...	4	0	0	72	16777215	5
+2100	as the workload starts to take its toll	4	0	0	72	16777215	10
+2100	Milder bursts this time...	3	0	0	72	16777215	49
+2100	so consider a little more leg speed if you can keep it controlled	5	0	0	72	16777215	53
+2160	Wind it up!	3	0	0	72	16777215	1
+2165	Emphasize that kick & pull...	3	0	0	72	16777215	1
+2165	and try to let your quads recover	4	0	0	72	16777215	5
+2165	Even the smallest bit of assistance derived...	4	0	0	72	16777215	11
+2165	from a slightly more active kick & pull...	4	0	0	72	16777215	16
+2165	can keep your quads a little fresher a little longer...	4	0	0	72	16777215	21
+2165	and be the difference between fading or cramping...	4	0	0	72	16777215	26
+2165	and setting a PR or owning a finish sprint	4	0	0	72	16777215	31
+2165	So tone down some of that vertical mashing...	4	0	0	72	16777215	37
+2165	and think of pedaling a bit more horizontally for a minute...	5	0	0	72	16777215	42
+2165	as your prime movers get a little relief	4	0	0	72	16777215	48
+2165	One more minute of fluid pedaling...	4	0	0	72	16777215	55
+2165	due to a relaxed upper body...	3	0	0	72	16777215	60
+2165	firmly seated sit-bones...	3	0	0	72	16777215	64
+2165	and feet that lightly but actively kick & pull	4	0	0	72	16777215	68
+2165	Get ready to go again	3	0	0	72	16777215	107
+2165	3...	1	0	0	72	16777215	112
+2165	2..	1	0	0	72	16777215	113
+2165	1..	1	0	0	72	16777215	114
+2280	Quick power!	3	0	0	72	16777215	1
+2285	Good, get 30 seconds past it	3	0	0	72	16777215	1
+2285	Time to find your form if you lost it...	4	0	0	72	16777215	30
+2285	and relax	2	0	0	72	16777215	35
+2285	Loosen your grip on the bars & soften your elbows	5	0	0	72	16777215	39
+2285	Use that light bend in your arms to create a little room...	5	0	0	72	16777215	46
+2285	to drop your shoulders away from your ears	4	0	0	72	16777215	52
+2285	As your shoulders fall...	3	0	0	72	16777215	58
+2285	let all tension leave your jaw & face	3	0	0	72	16777215	62
+2285	And consider tipping your head down, eyes up...	4	0	0	72	16777215	67
+2285	if the back of your neck is a riged mess	4	0	0	72	16777215	72
+2285	Once more, get ready	3	0	0	72	16777215	107
+2285	3...	1	0	0	72	16777215	112
+2285	2..	1	0	0	72	16777215	113
+2285	1...	1	0	0	72	16777215	114
+2400	All at once!	3	0	0	72	16777215	1
+2405	Shut down that speed & breathe fully	4	0	0	72	16777215	1
+2405	Again, do your best to relax...	4	0	0	72	16777215	7
+2405	and ditch any & all tension...	4	0	0	72	16777215	12
+2405	that doesn't help you turn the pedals	4	0	0	72	16777215	17
+2405	Last burst before a nice, long recovery	4	0	0	72	16777215	106
+2405	3...	1	0	0	72	16777215	112
+2405	2...	1	0	0	72	16777215	113
+2405	1...	1	0	0	72	16777215	114
+2520	Tons of speed!	3	0	0	72	16777215	1
+2525	30 seconds of focus!	3	0	0	72	16777215	1
+2525	You're practically there...	3	0	0	72	16777215	25
+2525	just keep it together for a few more seconds...	4	0	0	72	16777215	29
+2525	and try to make it look easy as you do it	4	0	0	72	16777215	34
+2580	Nicely done, take it easy for a short while	5	0	0	72	16777215	0
+2580	Last set's just ahead...	3	0	0	72	16777215	210
+2580	and while the fatigue is at its highest..	4	0	0	72	16777215	214
+2580	the sustained power has dropped a little	4	0	0	72	16777215	219
+2580	So focus on this or some other positive...	4	0	0	72	16777215	225
+2580	and get ready to do some WORK!	4	0	0	72	16777215	230
+2820	You know the drill...	3	0	0	72	16777215	0
+2820	85rpm or higher, anchored sit-bones...	4	0	0	72	16777215	4
+2820	low shoulders & soft elbows...	3	0	0	72	16777215	9
+2820	and a grip on the bars so soft...	3	0	0	72	16777215	13
+2820	you might think they were made of butter	4	0	0	72	16777215	17
+2820	First of 4 remaining sprints just ahead...	4	0	0	72	16777215	40
+2820	and there's no harm in dailing the leg speed down a little...	4	0	0	72	16777215	45
+2820	if you doubt your ability to stay in control...	4	0	0	72	16777215	50
+2820	during these closing efforts	3	0	0	72	16777215	55
+2880	Drill it!	3	0	0	72	16777215	0
+2885	Get your spin back up...	3	0	0	72	16777215	1
+2885	if that burst bogged you down	4	0	0	72	16777215	5
+2885	These closers are the toughest sprints of the workout...	4	0	0	72	16777215	11
+2885	but they're still a scant 5 seconds long...	4	0	0	72	16777215	16
+2885	and nothing you can't power through if you try	4	0	0	72	16777215	21
+2885	Keep your spin on the higher side of 85rpm if you can...	5	0	0	72	16777215	27
+2885	and try to stave off the muscle fatigue that comes...	4	0	0	72	16777215	33
+2885	with slower, more grinding cadences	4	0	0	72	16777215	38
+2885	Next sprint is comin' up.	3	0	0	72	16777215	107
+2885	3...	1	0	0	72	16777215	112
+2885	2...	1	0	0	72	16777215	113
+2885	1...	1	0	0	72	16777215	114
+3000	Tons of speed!	3	0	0	72	16777215	1
+3005	Focus, 30 seconds!	3	0	0	72	16777215	1
+3005	Just ride through that fatigue...	4	0	0	72	16777215	6
+3005	breathing as well as possible as you do	4	0	0	72	16777215	11
+3005	Good, relax & smooth out your pedaling...	4	0	0	72	16777215	30
+3005	if your form is starting to suffer	4	0	0	72	16777215	35
+3005	And wipe the snarl off your face	4	0	0	72	16777215	41
+3005	No sense in letting anyone else know...	4	0	0	72	16777215	47
+3005	how bad you're hurting	3	0	0	72	16777215	53
+3005	No real sense in acknowledging it yourself	4	0	0	72	16777215	58
+3005	Just be relaxed & make it look easy...	4	0	0	72	16777215	64
+3005	and even YOU will begin to believe it	4	0	0	72	16777215	69
+3005	Burst number 3 comin' up, get ready	4	0	0	72	16777215	105
+3005	3...	1	0	0	72	16777215	112
+3005	2...	1	0	0	72	16777215	113
+3005	1...	1	0	0	72	16777215	114
+3120	Quick legs, high power!	3	0	0	72	16777215	1
+3125	Good, this workout's almost over!	4	0	0	72	16777215	1
+3125	But you're not there quite yet...	4	0	0	72	16777215	7
+3125	so keep your head in the game...	4	0	0	72	16777215	12
+3125	and ride through the heaviness that's trying to slow you down...	5	0	0	72	16777215	17
+3125	and rob you of this workout's greatest benefit	5	0	0	72	16777215	23
+3125	Because it's always the last intervals...	4	0	0	72	16777215	30
+3125	those ones where you're not quite sure you can hang on...	4	0	0	72	16777215	35
+3125	that make the greatest impact on your previous limits	5	0	0	72	16777215	40
+3125	Now's the time you further those so-called boundaries...	5	0	0	72	16777215	47
+3125	raise your capabilities a bit more...	4	0	0	72	16777215	53
+3125	and not sacrifice an ounce of form in the process	5	0	0	72	16777215	58
+3125	This requires concentration & committment	4	0	0	72	16777215	65
+3125	So stay focused and don't let yourself bail early	4	0	0	72	16777215	71
+3125	You've got this	3	0	0	72	16777215	77
+3125	Final sprint!	3	0	0	72	16777215	107
+3125	3...	1	0	0	72	16777215	112
+3125	2...	1	0	0	72	16777215	113
+3125	1...	1	0	0	72	16777215	114
+3240	Last time, go fast!	3	0	0	72	16777215	1
+3245	Home stretch!	3	0	0	72	16777215	1
+3245	Less than a minute & you're done	4	0	0	72	16777215	6
+3245	Be smooth & continue to make it look easy...	4	0	0	72	16777215	12
+3245	because as always...	3	0	0	72	16777215	17
+3245	fatigue is never an excuse for poor form	5	0	0	72	16777215	21
+3300	Well done!	3	0	0	72	16777215	0
+3300	Spin out the heaviness...	3	0	0	72	16777215	5
+3300	gradually bring down your breathing & HR...	4	0	0	72	16777215	9
+3300	and start to ponder your recovery nutrition	4	0	0	72	16777215	14
+3300	We'll see you next time	5	0	0	72	16777215	20
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+240	300	Endurance 1
+330	390	Sweet Spot 1
+420	480	Sweet Spot 2
+660	720	Sweet Spot 3
+720	725	Sprint 1
+725	840	Sweet Spot 4
+840	845	Sprint 2
+845	960	Sweet Spot 5
+960	965	Sprint 3
+965	1080	Sweet Spot 6
+1080	1085	Sprint 4
+1085	1140	Sweet Spot 7
+1380	1440	Sweet Spot 8
+1440	1445	Sprint 5
+1445	1560	Sweet Spot 9
+1560	1565	Sprint 6
+1565	1680	Sweet Spot 10
+1680	1685	Sprint 7
+1685	1800	Sweet Spot 11
+1800	1805	Sprint 8
+1805	1860	Sweet Spot 12
+2100	2160	Sweet Spot 13
+2160	2165	Sprint 9
+2165	2280	Sweet Spot 14
+2280	2285	Sprint 10
+2285	2400	Sweet Spot 15
+2400	2405	Sprint 11
+2405	2520	Sweet Spot 16
+2520	2525	Sprint 12
+2525	2580	Sweet Spot 17
+2820	2880	Sweet Spot 18
+2880	2885	Sprint 13
+2885	3000	Sweet Spot 19
+3000	3005	Sprint 14
+3005	3120	Sweet Spot 20
+3120	3125	Sprint 15
+3125	3240	Sweet Spot 21
+3240	3245	Sprint 16
+3245	3300	Sweet Spot 22
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

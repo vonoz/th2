@@ -1,0 +1,159 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Unicorn,91,125. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	76
+12	76
+12	96
+15	96
+15	10
+16	10
+16	50
+21	50
+21	90
+26	98
+26	98
+81	100
+81	50
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Your final time trial will kick off with the same 20-minute warmup as usual...	8	0	0	72	16777215	10
+0	but if you prefer a warmup that's more specific to your own needs...	8	0	0	72	16777215	20
+0	one that you'll employ when warming for your event itself...	8	0	0	72	16777215	30
+0	you're always welcome to do what best suits your personal needs	8	0	0	72	16777215	40
+0	If that's the case, simply perform your warmup & start this time trial...	8	0	0	72	16777215	50
+0	just after the 1-minute recovery way down at 10% FTP	8	0	0	72	16777215	60
+0	Still here? Go ahead & settle into a comfortably quick spin for the rest of this first 6 minutes	8	0	0	72	16777215	80
+0	Preferably above 85rpm, but by now you've determined your ideal and/or goal cadence	8	0	0	72	16777215	90
+0	IMPORTANT: Electronic trainer riders (KICKR, CompuTrainer, PowerBeam Pro, etc)...	8	0	0	72	16777215	100
+0	will need to change from Erg mode to Slope mode prior to starting the time trial...	8	0	0	72	16777215	110
+0	unless you simply want today's workout to be a very long single-interval workout...	8	0	0	72	16777215	120
+0	but one that's likely to be BELOW your possibly improved FTP	8	0	0	72	16777215	130
+360	Bring your effort up & further emphasize the quality of your breathing...	8	0	0	72	16777215	0
+360	by drawing full, belly-breaths & actively emptying your lungs each breath	8	0	0	72	16777215	10
+360	And as always, it's a good idea to keep your spin above 85rpm	8	0	0	72	16777215	20
+720	Final 3 minutes, just a little under your FTP	8	0	0	72	16777215	0
+720	Bring your spin up just a little quicker unless you're already topped out...	8	0	0	72	16777215	10
+720	and hold your power as steady as possible for the remaining 3 minutes of the warmup	8	0	0	72	16777215	20
+900	Feel free to backpedal for a minute...	8	0	0	72	16777215	0
+900	come to a stop & sit up if you're using the LSCT warmup...	8	0	0	72	16777215	10
+900	or simply pedal easy for a minute while you soak in the warmup	8	0	0	72	16777215	20
+960	Settle into a quick & light spin while we talk time trials one last time	8	0	0	72	16777215	0
+960	Unicorn is the last of 3 time trials & lasts for a full hour	8	0	0	72	16777215	10
+960	Very probably, you'll only ride this workout in place of your event...	8	0	0	72	16777215	20
+960	if your event is postponed or for whatever reason your schedule has shifted	8	0	0	72	16777215	30
+960	But you're here which makes it clear that you're on board for a full-hour TT	8	0	0	72	16777215	40
+960	An indoor, steady-state workout like this in likely to be even more challenging...	8	0	0	72	16777215	50
+960	than its outdoor equivalent primarily due to cooling & outdoor motivators	8	0	0	72	16777215	60
+960	So whether you're here for a 1-hour time trial simulation...	8	0	0	72	16777215	70
+960	or a truly representative FTP assessment workout, you have a brute of an interval ahead of you	8	0	0	72	16777215	80
+960	In the case of practicing your time trialing, few things are as challenging...	8	0	0	72	16777215	90
+960	as hammering steadily for a solid hour in solitude	8	0	0	72	16777215	100
+960	Squaring off against one long, non-stop, all-out race against the clock...	8	0	0	72	16777215	110
+960	or in this case, a battle for your highest sustained wattage...	8	0	0	72	16777215	120
+960	will certainly serve to better your capabilities as a time trialist of any sort	8	0	0	72	16777215	130
+960	You can be a triathlete, a time trial specialist, or a road racer on a breakaway...	8	0	0	72	16777215	140
+960	a rider who's off the front chasing a podium spot or off the back trying to regain contact...	8	0	0	72	16777215	150
+960	the ability to hold high, steady power for long durations...	8	0	0	72	16777215	160
+960	will only serve to make you a more capable rider in numerous scenarios	8	0	0	72	16777215	170
+960	Regarding FTP re-assessment, your average power over the course of this single interval...	8	0	0	72	16777215	180
+960	is likely to be a true demonstration of your current time trial power	8	0	0	72	16777215	190
+960	So if you suspect you've increased your FTP, today could be a truly accurate depiction of your hour power	8	0	0	72	16777215	200
+960	And as usual, electronic trainer riders should switch to Slope mode now if planning to assess FTP	8	0	0	72	16777215	210
+960	Your TT kicks off in 1 minute, so establish the cadence you'll try to maintain	8	0	0	72	16777215	240
+960	Ideally this is in the 85-95rpm range but do what works best for you	8	0	0	72	16777215	250
+960	And as you mentally brace for what's ahead, contemplate your strategy	8	0	0	72	16777215	260
+960	You can hammer the first couple minutes, level out, then hammer the closing couple minutes...	8	0	0	72	16777215	270
+960	always a dangerous approach for most riders, newbies or veterans...	8	0	0	72	16777215	280
+960	so we recommend slowly ramping into the long effort over the first 6 minutes	8	0	0	72	16777215	290
+1260	Decide now, and start to bring up your effort while keeping in mind...	8	0	0	72	16777215	0
+1260	you have a 60-minute effort ahead of you	8	0	0	72	16777215	10
+1260	As you ramp into your time trial, make a key decision early...	8	0	0	72	16777215	60
+1260	Are you here to practice time trialing by getting low, using race cadence & race power?	8	0	0	72	16777215	70
+1260	Or are you here to assess FTP improvement by riding upright using your most powerful cadence?	8	0	0	72	16777215	80
+1260	While you CAN do both at once, you might not be truly adapted to your aero position yet...	8	0	0	72	16777215	90
+1260	and that could cost you a little power & affect your FTP estimation	8	0	0	72	16777215	100
+1260	Best to choose one or the other, but the call is yours to make	8	0	0	72	16777215	110
+1260	One more minute before you level out & it's very important that you...	8	0	0	72	16777215	240
+1260	DON'T allow Target Power to limit your ride today	8	0	0	72	16777215	250
+1260	Target Power is a calculation that doesn't apply to these time trials because...	8	0	0	72	16777215	260
+1260	if you're assessing FTP, you're trying to outperform your Target Power...	8	0	0	72	16777215	270
+1260	and if you're practicing time trialing, you might decide to hold aero at the expense of a little power	8	0	0	72	16777215	280
+1260	In both cases, Target Power might not be an ideal fit for you during these time trials	8	0	0	72	16777215	290
+1560	Time to settle in for a long haul, also time to segment your workout	8	0	0	72	16777215	0
+1560	Typically, quarter-segments work well, e.g. 1 hour = 4x15-minute segments	8	0	0	72	16777215	10
+1560	and that's exactly what you're up against today, 4x15-minute segments	8	0	0	72	16777215	20
+1560	Accordingly, just focus on getting to the 36:00 mark for now	8	0	0	72	16777215	30
+1560	To break things down further, you can even target 5-minutes at a time...	8	0	0	72	16777215	40
+1560	whatever makes a long effort seem more manageable, less intimidating	8	0	0	72	16777215	50
+1560	Next 5 minutes, stay smooth & relaxed...	8	0	0	72	16777215	300
+1560	and make sure there's plenty of gas left in the tank	8	0	0	72	16777215	310
+1560	If you're already clinging for dear life, ease up a bit	8	0	0	72	16777215	320
+1560	Next 5 minutes, how's your pacing working out so far?	8	0	0	72	16777215	600
+1560	Again, plenty of gas left in the tank or back things off slightly	8	0	0	72	16777215	610
+1560	On the other hand, if you're not feeling quite uncomfortable enough...	8	0	0	72	16777215	620
+1560	lift your effort slightly but don't get carried away	8	0	0	72	16777215	630
+1560	Next 5 minutes of focus, try to keep your cadence on track with your goal cadence...	8	0	0	72	16777215	900
+1560	unless you're assessing FTP, in which case use whichever spin works best at this point in time	8	0	0	72	16777215	910
+1560	Above all, focus on RIGHT NOW, don't get ahead of yourself	8	0	0	72	16777215	920
+1560	And regardless of your spin, breathe deeply & fully, almost slowly	8	0	0	72	16777215	920
+1560	Next 5 minutes, make sure you're riding that fine line...	8	0	0	72	16777215	1200
+1560	between working too hard & not working hard enough	8	0	0	72	16777215	1210
+1560	You can use your Target Power to guide this, just don't let it ruin your time trial	8	0	0	72	16777215	1220
+1560	Very nice, you're halfway there!	8	0	0	72	16777215	1500
+1560	Keep things together for this next 5 minutes & stay relaxed	8	0	0	72	16777215	1510
+1560	And if you haven't already...forehead to toes, ditch any useless tension	8	0	0	72	16777215	1520
+1560	Gettin' there! Try to renew your focus for another 5 minutes	8	0	0	72	16777215	1800
+1560	If all you can seem to contemplate is your suffering, SHIFT YOUR FOCUS	8	0	0	72	16777215	1810
+1560	Breathing, pedalstroke, cadence, power output, sit bones...you choose	8	0	0	72	16777215	1820
+1560	Keep your breathing slow & steady, fully clearing your lungs each breath	8	0	0	72	16777215	2100
+1560	Next five of your final 20 minutes, stay relaxed	8	0	0	72	16777215	2100
+1560	Final fifteen minutes, focus on 5 quality minutes...	8	0	0	72	16777215	2400
+1560	of riding so smoothly you look bored ;-)	8	0	0	72	16777215	2410
+1560	Only 10 minutes to go, return your focus to this next 5 only	8	0	0	72	16777215	2700
+1560	After this 5 minutes, we'll break things down to shorter durations	8	0	0	72	16777215	2710
+1560	So hang in there & keep your thoughts positive, you got this	8	0	0	72	16777215	2720
+1560	Final 5 minutes of your time trial! One minute at a time	8	0	0	72	16777215	3000
+1560	Next minute, focus on drawing full breaths then fully clearing your lungs	8	0	0	72	16777215	3060
+1560	Next minute, lightly kick forward & lightly pull back - kick & pull...	8	0	0	72	16777215	3120
+1560	Also focus on holding your power steady, no backing off now!	8	0	0	72	16777215	3130
+1560	Or try to grow your power ever so slightly over the rest of this minute	8	0	0	72	16777215	3140
+1560	Next minute, hold your power or grow it slightly	8	0	0	72	16777215	3180
+1560	Final minute, resist the urge to go all-out	8	0	0	72	16777215	3240
+1560	Just keep your form super pretty & hold your power...	8	0	0	72	16777215	3250
+1560	or elevate it slightly, no sprinting if you're assessing FTP	8	0	0	72	16777215	3260
+1560	But if you're simulating a time trial, go for it!	8	0	0	72	16777215	3270
+1560	20 seconds, don't fade!	5	0	0	72	16777215	3280
+1560	Final 10 seconds, keep it together!	5	0	0	72	16777215	3290
+1560	3...	1	0	0	72	16777215	3297
+1560	2...	1	0	0	72	16777215	3298
+1560	1...	1	0	0	72	16777215	3299
+4860	Nicely done! Spin out the junk, backward or forward	8	0	0	72	16777215	0
+4860	If you used today as assessment, your power over the final 55 minutes...	8	0	0	72	16777215	60
+4860	will serve as a true representation of your current FTP...	8	0	0	72	16777215	70
+4860	assuming you felt good today and came into this workout recovered & motivated	8	0	0	72	16777215	80
+4860	Nothing quite like burying yourself for an entire hour on an indoor trainer, very impressive	8	0	0	72	16777215	90
+4860	Time to start your post-workout nutrition or at least your recovery plan...	8	0	0	72	16777215	100
+4860	and we'll see you next time	8	0	0	72	16777215	110
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+360	720	Tempo 1
+720	900	Threshold 1
+1260	1560	Sweet Spot 1
+1560	4860	Threshold 2
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

@@ -1,0 +1,567 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Mallory +1,88,156. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+20	65
+20	90
+21	90
+21	110
+21.25	110
+21.25	90
+22	90
+22	110
+22.25	110
+22.25	90
+23	90
+23	40
+28	40
+28	90
+28.75	90
+28.75	105
+29	105
+29	90
+29.75	90
+29.75	105
+30	105
+30	90
+30.75	90
+30.75	110
+31	110
+31	95
+31.75	95
+31.75	110
+32	110
+32	95
+32.75	95
+32.75	110
+33	110
+33	100
+33.75	100
+33.75	120
+34	120
+34	100
+34.75	100
+34.75	120
+35	120
+35	100
+35.75	100
+35.75	120
+36	120
+36	105
+36.75	105
+36.75	130
+37	130
+37	105
+37.75	105
+37.75	130
+38	130
+38	105
+38.75	105
+38.75	135
+39	135
+39	110
+39.75	110
+39.75	135
+40	135
+40	40
+47	40
+47	90
+47.75	90
+47.75	105
+48	105
+48	90
+48.75	90
+48.75	105
+49	105
+49	90
+49.75	90
+49.75	110
+50	110
+50	95
+50.75	95
+50.75	110
+51	110
+51	95
+51.75	95
+51.75	110
+52	110
+52	100
+52.75	100
+52.75	120
+53	120
+53	100
+53.75	100
+53.75	120
+54	120
+54	100
+54.75	100
+54.75	120
+55	120
+55	105
+55.75	105
+55.75	130
+56	130
+56	105
+56.75	105
+56.75	130
+57	130
+57	110
+57.75	110
+57.75	135
+58	135
+58	110
+58.75	110
+58.75	135
+59	135
+59	40
+66	40
+66	90
+66.75	90
+66.75	105
+67	105
+67	90
+67.75	90
+67.75	105
+68	105
+68	95
+68.75	95
+68.75	110
+69	110
+69	95
+69.75	95
+69.75	110
+70	110
+70	95
+70.75	95
+70.75	110
+71	110
+71	100
+71.75	100
+71.75	120
+72	120
+72	100
+72.75	100
+72.75	120
+73	120
+73	100
+73.75	100
+73.75	120
+74	120
+74	105
+74.75	105
+74.75	130
+75	130
+75	105
+75.75	105
+75.75	130
+76	130
+76	110
+76.75	110
+76.75	135
+77	135
+77	110
+77.75	110
+77.75	135
+78	135
+78	65
+89	65
+89	120
+91	120
+91	40
+93	40
+93	120
+95	120
+95	40
+97	40
+97	120
+99	120
+99	40
+106	40
+106	120
+108	120
+108	40
+110	40
+110	120
+112	120
+112	40
+114	40
+114	120
+116	120
+116	40
+120	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Today's workout is all about variety...	5	0	0	72	16777215	10
+0	and pain ;-)	3	0	0	72	16777215	17
+0	A combination of 3 over-under intervals lasting 12 minutes each...	5	0	0	72	16777215	22
+0	followed by a couple sets of 3x2-minute VO2max intervals...	5	0	0	72	16777215	31
+0	promises to keep things interesting	5	0	0	72	16777215	39
+0	You'll have short but adequate rest periods between efforts...	5	0	0	72	16777215	46
+0	and plenty of workload!	3	0	0	72	16777215	54
+0	Before then...	3	0	0	72	16777215	60
+0	a long stretch of general warming followed by...	5	0	0	72	16777215	65
+0	a short over-under warmup to get you ready	5	0	0	72	16777215	72
+1200	Keep your spin light & quick	5	0	0	72	16777215	0
+1260	Steady spin, higher power	5	0	0	72	16777215	0
+1380	Ease up & spin lightly for a few minutes	5	0	0	72	16777215	0
+1380	Alright then, time to talk about the over-unders	5	0	0	72	16777215	60
+1380	The bonus to these over-unders...	3	0	0	72	16777215	67
+1380	is that they are progressive	3	0	0	72	16777215	72
+1380	So as the set progresses, their intensity increases as well	5	0	0	72	16777215	77
+1380	This is very similar to what you experience...	5	0	0	72	16777215	84
+1380	in a team time trial (TTT)	5	0	0	72	16777215	91
+1380	The increased difficulty might make it hard...	5	0	0	72	16777215	98
+1380	to maintain a quick cadence	3	0	0	72	16777215	105
+1380	If it gets too hard to keep your leg speed...	5	0	0	72	16777215	110
+1380	shift down to keep your spin high	5	0	0	72	16777215	117
+1380	And if you're on an electronic trainer in Ergo mode...	5	0	0	72	16777215	124
+1380	use the occasional, short backpedal break	5	0	0	72	16777215	131
+1380	Just spin backward for 5-8 seconds...	5	0	0	72	16777215	138
+1380	just long enough for the resistance to fall to zero...	5	0	0	72	16777215	145
+1380	and then spin it back up	3	0	0	72	16777215	152
+1380	We'll let you get your bearings during the first set...	5	0	0	72	16777215	180
+1380	but after that we'll work in some technique drills	5	0	0	72	16777215	187
+1380	During this first effort especially...	8	0	0	72	16777215	194
+1380	try your best to maintain cadence	5	0	0	72	16777215	201
+1380	30 seconds until the first set...	3	0	0	72	16777215	270
+1380	so bring your spin up to 85rpm or higher	5	0	0	72	16777215	275
+1380	Try to maintain that quick cadence throughout	5	0	0	72	16777215	282
+1380	And breathe steadily & deeply throughout	5	0	0	72	16777215	289
+1680	Let's roll	3	0	0	72	16777215	0
+1725	Work a little harder...	3	0	0	72	16777215	0
+1725	but hide the change in effort	5	0	0	72	16777215	5
+1845	A little higher now	3	0	0	72	16777215	0
+1980	Good! Now we're getting into the swing of things	5	0	0	72	16777215	0
+1980	Stay as relaxed as possible...	5	0	0	72	16777215	7
+1980	and try to make this all look easy	5	0	0	72	16777215	14
+2025	Pick it up!	3	0	0	72	16777215	0
+2205	Higher still...	3	0	0	72	16777215	0
+2205	but continue to hide your effort	5	0	0	72	16777215	5
+2325	Last set of increases, hang on!	5	0	0	72	16777215	0
+2340	Almost there! Be smooth	3	0	0	72	16777215	0
+2385	Last kick, lots of control	5	0	0	72	16777215	0
+2400	Nice job! Ease waaaaaaaay up	5	0	0	72	16777215	0
+2400	Take some time to backpedal if needed	5	0	0	72	16777215	10
+2400	This next set is nearly identical to the first...	5	0	0	72	16777215	120
+2400	but let's turn our focus to your body positioning	5	0	0	72	16777215	127
+2400	Chances are...	3	0	0	72	16777215	134
+2400	putting out an effort like this when riding outside...	5	0	0	72	16777215	139
+2400	would happen during a Team Time Trial	5	0	0	72	16777215	146
+2400	And if that were the case...	3	0	0	72	16777215	153
+2400	you'd be in your drops or aero bars	5	0	0	72	16777215	158
+2400	So if you have aero bars, use them during this next set	5	0	0	72	16777215	165
+2400	If you don't have aero bars...	3	0	0	72	16777215	172
+2400	consider getting into your drops...	5	0	0	72	16777215	177
+2400	or your more-aero-than-usual position of choice	5	0	0	72	16777215	184
+2400	Building power in this position is important...	5	0	0	72	16777215	191
+2400	if you plan to employ it outdoors	5	0	0	72	16777215	198
+2400	So we'll work on refining it throughout the next set	5	0	0	72	16777215	205
+2400	30 seconds until the next set, adjust your spin...	5	0	0	72	16777215	390
+2400	but don't get into your aero position just yet	5	0	0	72	16777215	397
+2400	Use the first 10 seconds or so...	5	0	0	72	16777215	405
+2400	to get up to speed, THEN get into position	5	0	0	72	16777215	412
+2820	Bring up that power & settle in	5	0	0	72	16777215	0
+2820	When you're ready, get into your aero position...	5	0	0	72	16777215	7
+2820	then stay aero for as much of this interval as you can	5	0	0	72	16777215	40
+2865	A little more effort, still aero	5	0	0	72	16777215	0
+3000	Good! Now evaluate your position	5	0	0	72	16777215	0
+3000	Are you bent over too far?	3	0	0	72	16777215	7
+3000	Ease up a little	3	0	0	72	16777215	12
+3000	Do you need to scoot forward an inch on your saddle?	5	0	0	72	16777215	17
+3000	Is your head low?	3	0	0	72	16777215	24
+3000	Neck long & relaxed?	3	0	0	72	16777215	29
+3180	Are your shoulders relaxed?	5	0	0	72	16777215	0
+3180	Let 'em fall	3	0	0	72	16777215	5
+3180	Is your torso stable?	3	0	0	72	16777215	10
+3180	Or are you rocking with every pedalstroke?	5	0	0	72	16777215	15
+3180	Stabilize those hips...	3	0	0	72	16777215	22
+3180	and anchor those sit-bones	5	0	0	72	16777215	27
+3300	Even though it's tough...	3	0	0	72	16777215	0
+3300	and getting tougher by the minute	3	0	0	72	16777215	5
+3300	stay in position	3	0	0	72	16777215	10
+3465	Keep it going...	3	0	0	72	16777215	0
+3465	fast & smooth!	3	0	0	72	16777215	5
+3525	Last kick! Make it pretty	5	0	0	72	16777215	0
+3540	Very well done!	5	0	0	72	16777215	0
+3540	Take it really easy for a few	5	0	0	72	16777215	7
+3540	Don't be afraid to test & tweak...	5	0	0	72	16777215	60
+3540	your aero position... frequently	5	0	0	72	16777215	67
+3540	Riding on the trainer is a great opportunity to do so...	5	0	0	72	16777215	72
+3540	keeping in mind you might get more body movement...	5	0	0	72	16777215	79
+3540	when on a stationary bike	3	0	0	72	16777215	86
+3540	But working on maintaining a steady body...	5	0	0	72	16777215	91
+3540	will only make you more stable & powerful for outdoors	5	0	0	72	16777215	98
+3540	During this next set...	5	0	0	72	16777215	180
+3540	we're going to work on pacing your effort	5	0	0	72	16777215	187
+3540	While the end result is apparently physical...	5	0	0	72	16777215	193
+3540	the means to this end is very much mental	5	0	0	72	16777215	200
+3540	By controlling your output & your emotions...	5	0	0	72	16777215	207
+3540	you can stay fresher for longer	3	0	0	72	16777215	214
+3540	One key is keeping your cadence higher...	5	0	0	72	16777215	220
+3540	than when you're riding easy	3	0	0	72	16777215	227
+3540	This will help you avoid flooding your muscles early on	5	0	0	72	16777215	234
+3540	Try to anticipate increases in power...	5	0	0	72	16777215	241
+3540	with this quicker cadence	3	0	0	72	16777215	248
+3540	And focus on breathing well before...	5	0	0	72	16777215	253
+3540	throughout...	2	0	0	72	16777215	258
+3540	even after the set	3	0	0	72	16777215	262
+3540	30 seconds until the next set...	5	0	0	72	16777215	390
+3540	so start breathing deeply using your belly	5	0	0	72	16777215	397
+3960	Quick cadence...	3	0	0	72	16777215	0
+3960	relaxed lower legs & upper body	5	0	0	72	16777215	5
+4005	Keep a calm & relaxed face too	5	0	0	72	16777215	0
+4020	Keep your cadence high...	3	0	0	72	16777215	35
+4020	in anticipation of the upcoming power increase	5	0	0	72	16777215	40
+4140	Just because it's a hard work...	5	0	0	72	16777215	0
+4140	doesn't mean you need to breathe hard	5	0	0	72	16777215	7
+4140	Control your breathing...	3	0	0	72	16777215	12
+4140	and control your mind	3	0	0	72	16777215	17
+4140	Try not to let your thoughts wander...	5	0	0	72	16777215	22
+4140	and stay positive & confident...	5	0	0	72	16777215	29
+4140	even as you fatigue	3	0	0	72	16777215	36
+4200	Pick up your cadence if needed	5	0	0	72	16777215	35
+4320	Great job! Already halfway through	5	0	0	72	16777215	0
+4320	Keep staying ahead of the cadence-curve...	5	0	0	72	16777215	10
+4320	and you'll have plenty to give at the end	5	0	0	72	16777215	17
+4380	Another increase, be prepared	5	0	0	72	16777215	35
+4500	Remind yourself to relax...	5	0	0	72	16777215	0
+4500	OFTEN	3	0	0	72	16777215	7
+4500	Last increase coming up...	3	0	0	72	16777215	35
+4500	be ready	2	0	0	72	16777215	40
+4545	Just a little more effort...	5	0	0	72	16777215	0
+4545	but don't let anyone see it	5	0	0	72	16777215	7
+4620	1 minute to go...	3	0	0	72	16777215	0
+4620	use everything you have left to hang on	5	0	0	72	16777215	5
+4665	Make this final kick SMOOTH	5	0	0	72	16777215	0
+4680	Fantastic work! The hard stuff is behind you	5	0	0	72	16777215	2
+4680	Well, the longer hard stuff is behind you anyway ;-)	5	0	0	72	16777215	10
+4680	Settle into this long stretch & relax	5	0	0	72	16777215	20
+4680	About halfway through this stretch...	5	0	0	72	16777215	300
+4680	and it's time for a quick relaxation check	5	0	0	72	16777215	307
+4680	Face tense?	3	0	0	72	16777215	314
+4680	Are you grimacing? Snarling?	3	0	0	72	16777215	319
+4680	Let your cheeks go slack...	3	0	0	72	16777215	324
+4680	and relax your jaw	3	0	0	72	16777215	329
+4680	Shoulders trying to squeeze your head off?	5	0	0	72	16777215	334
+4680	Let them fall, shoulder blades too	5	0	0	72	16777215	341
+4680	Soften up your elbows...	3	0	0	72	16777215	348
+4680	and gently hold your bars...	3	0	0	72	16777215	353
+4680	like you're cradling a baby bird...	5	0	0	72	16777215	360
+4680	awwwwww ;-)	3	0	0	72	16777215	367
+4680	Now for a change of scenery	5	0	0	72	16777215	600
+4680	We have 2 sets of VO2 Max intervals left...	5	0	0	72	16777215	607
+4680	and at 120% FTP these will be very demanding...	5	0	0	72	16777215	614
+4680	but entirely manageable, cross our hearts	5	0	0	72	16777215	621
+4680	Instead of thinking how hard they'll be...	5	0	0	72	16777215	628
+4680	and letting them psyche you out...	5	0	0	72	16777215	635
+4680	focus on hitting your marks...	5	0	0	72	16777215	642
+4680	with smooth, graceful power	3	0	0	72	16777215	649
+4680	Get your game face on	3	0	0	72	16777215	654
+5340	Use a high cadence during these short brutes	5	0	0	72	16777215	0
+5340	Try spinning at 100rpm or higher...	5	0	0	72	16777215	7
+5340	as long as you don't bounce in the saddle	5	0	0	72	16777215	14
+5340	And if you DO start to bounce...	5	0	0	72	16777215	21
+5340	relax your calves, ankles & feet	5	0	0	72	16777215	28
+5340	Halfway in...	3	0	0	72	16777215	60
+5340	keep your focus & keep your power	5	0	0	72	16777215	65
+5340	30 seconds, don't let your cadence fall!	5	0	0	72	16777215	90
+5460	Well done! Spin really easy for a couple minutes	5	0	0	72	16777215	0
+5460	And don't call the grammar police on us	5	0	0	72	16777215	7
+5460	I swear we know the difference...	5	0	0	72	16777215	14
+5460	between adverbs & adjectives	5	0	0	72	16777215	21
+5460	Certain things just read better than others ;-)	5	0	0	72	16777215	28
+5460	Before moving on to the next interval...	5	0	0	72	16777215	60
+5460	evaluate how you did during that last one	5	0	0	72	16777215	67
+5460	Was the pace too hard? Too easy?	5	0	0	72	16777215	74
+5460	Make any necessary adjustments...	5	0	0	72	16777215	81
+5460	with the Workout Intensity arrows	5	0	0	72	16777215	88
+5460	But don't lower these intervals any lower than 110% FTP	5	0	0	72	16777215	95
+5460	That's your VO2 Max "floor"	3	0	0	72	16777215	102
+5460	Almost time to go again...	3	0	0	72	16777215	110
+5460	remember to spin quickly	3	0	0	72	16777215	115
+5580	Go for it! 100rpm or higher	5	0	0	72	16777215	0
+5580	If you can control it...	3	0	0	72	16777215	7
+5580	try to spin as high as 120rpm	5	0	0	72	16777215	12
+5580	Stay steady for one more minute...	5	0	0	72	16777215	60
+5580	30 seconds at a time	3	0	0	72	16777215	67
+5580	Here's the good stuff...	3	0	0	72	16777215	90
+5580	here's where you get stronger!	3	0	0	72	16777215	95
+5580	20 seconds!	2	0	0	72	16777215	100
+5580	10, keep it!	2	0	0	72	16777215	110
+5700	Nice work!	5	0	0	72	16777215	0
+5700	Backpedal or pedal forward lightly	5	0	0	72	16777215	7
+5700	Last one in the set...	3	0	0	72	16777215	60
+5700	see if you can make it the best of the three	5	0	0	72	16777215	65
+5700	Try to be as precise as possible throughout this one...	5	0	0	72	16777215	72
+5700	by shifting gears, adjusting cadence...	5	0	0	72	16777215	79
+5700	changing your body position...	5	0	0	72	16777215	86
+5700	whatever you need to keep your power right on Target	5	0	0	72	16777215	93
+5700	10 seconds to launch time, spin it up	5	0	0	72	16777215	110
+5820	Get after it!	3	0	0	72	16777215	0
+5820	Keep pushing...	3	0	0	72	16777215	60
+5820	30 seconds + 30 seconds	3	0	0	72	16777215	65
+5820	10 seconds at a time	3	0	0	72	16777215	95
+5820	Another 10 seconds of power!	3	0	0	72	16777215	100
+5820	10 more seconds...	3	0	0	72	16777215	110
+5820	not a second less!	3	0	0	72	16777215	115
+5940	Well done!	5	0	0	72	16777215	0
+5940	Draw big breaths & slow your heart rate	5	0	0	72	16777215	7
+5940	Use this recovery to rest up any way you see fit...	5	0	0	72	16777215	14
+5940	but try to keep your legs moving for nearly all of it	5	0	0	72	16777215	21
+5940	This time let's focus on recovering...	3	0	0	72	16777215	390
+5940	during each break by focusing...	3	0	0	72	16777215	395
+5940	on one aspect of active recovery each time	5	0	0	72	16777215	400
+6360	Go time! Get through this first minute	5	0	0	72	16777215	0
+6360	Next minute, emphasize your breathing	5	0	0	72	16777215	60
+6360	Final 30 seconds...	3	0	0	72	16777215	90
+6360	no slip in form or power	3	0	0	72	16777215	95
+6480	Great! Spin lightly while we talk recovery	5	0	0	72	16777215	0
+6480	Focus on pedaling first	3	0	0	72	16777215	7
+6480	Oddly enough, ceasing your pedaling entirely...	5	0	0	72	16777215	12
+6480	is not as productive as pedaling through your breaks	5	0	0	72	16777215	19
+6480	As long as your cadence is reasonably quick...	5	0	0	72	16777215	26
+6480	and the pressure on your legs is light...	5	0	0	72	16777215	33
+6480	you'll be effectively flushing your muscles...	5	0	0	72	16777215	40
+6480	of all the metabolic byproduct	3	0	0	72	16777215	47
+6480	And if the rest is longer than 20 seconds...	5	0	0	72	16777215	54
+6480	don't be afraid to backpedal a bit	5	0	0	72	16777215	61
+6480	But make sure you're building up your cadence & power...	5	0	0	72	16777215	68
+6480	20 seconds prior to the start of the next interval	5	0	0	72	16777215	74
+6480	Time to start building it up...	5	0	0	72	16777215	100
+6480	and getting back into the groove	5	0	0	72	16777215	107
+6600	Stay as relaxed as possible for this first minute	5	0	0	72	16777215	0
+6600	Just as relaxed...	3	0	0	72	16777215	60
+6600	even though the pain is building	5	0	0	72	16777215	65
+6600	Hang in there for 30 seconds...	3	0	0	72	16777215	90
+6600	with smooth, powerful pedaling	5	0	0	72	16777215	95
+6720	Great job! Only one to go	5	0	0	72	16777215	0
+6720	Pay attention to your breathing for a minute	5	0	0	72	16777215	7
+6720	Then exhale powerfully from your diaphragm	5	0	0	72	16777215	10
+6720	Try using your mouth AND nose when inhaling	5	0	0	72	16777215	14
+6720	And actively control the pace of your breathing...	5	0	0	72	16777215	21
+6720	but don't make it uncomfortably slow	5	0	0	72	16777215	28
+6720	In terms of performance...	3	0	0	72	16777215	35
+6720	the exhale is tremendously important	5	0	0	72	16777215	40
+6720	When you exhale...	3	0	0	72	16777215	47
+6720	you help expel the waste in your bloodstream	5	0	0	72	16777215	52
+6720	Not to mention you make room for new, fresh air	5	0	0	72	16777215	59
+6720	And the inhale?	3	0	0	72	16777215	66
+6720	Just relax & a muscular vaccum effect will handle the rest	5	0	0	72	16777215	71
+6720	So keep pushing that air out with strength...	8	0	0	72	16777215	78
+6720	then relax & refill	3	0	0	72	16777215	85
+6720	20 seconds to go, bring up your spin	5	0	0	72	16777215	100
+6720	100-120rpm is our recommendation	5	0	0	72	16777215	107
+6840	Last one!	3	0	0	72	16777215	0
+6840	Make it look like you could do 10 more	5	0	0	72	16777215	5
+6840	First 30 seconds, done!	3	0	0	72	16777215	30
+6840	Next 30 seconds is ALL you care about	5	0	0	72	16777215	60
+6840	Final 30 seconds...	3	0	0	72	16777215	90
+6840	10 smooth seconds at a time	3	0	0	72	16777215	95
+6840	Next 10 seconds...	3	0	0	72	16777215	100
+6840	BIG belly-breaths	3	0	0	72	16777215	105
+6840	Final 10 seconds...	3	0	0	72	16777215	110
+6840	no ducking out early!	3	0	0	72	16777215	115
+6960	Well done today!	5	0	0	72	16777215	0
+6960	Spin out the junk...	5	0	0	72	16777215	7
+6960	and take as much time as you need to cool down	6	0	0	72	16777215	12
+6960	We'll see you next time	5	0	0	72	16777215	20
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	7200	Workout
+1200	1260	Sweet Spot 1
+1260	1275	VO2 Max 1
+1275	1320	Sweet Spot 2
+1320	1335	VO2 Max 2
+1335	1380	Sweet Spot 3
+1680	1725	Sweet Spot 4
+1725	1740	Threshold 1
+1740	1785	Sweet Spot 5
+1785	1800	Threshold 2
+1800	1845	Sweet Spot 6
+1845	1860	VO2 Max 3
+1860	1905	Sweet Spot 7
+1905	1920	VO2 Max 4
+1920	1965	Sweet Spot 8
+1965	1980	VO2 Max 5
+1980	2025	Threshold 3
+2025	2040	VO2 Max 6
+2040	2085	Threshold 4
+2085	2100	VO2 Max 7
+2100	2145	Threshold 5
+2145	2160	VO2 Max 8
+2160	2205	Threshold 6
+2205	2220	Sprint 1
+2220	2265	Threshold 7
+2265	2280	Sprint 2
+2280	2325	Threshold 8
+2325	2340	Sprint 3
+2340	2385	VO2 Max 9
+2385	2400	Sprint 4
+2820	2865	Sweet Spot 9
+2865	2880	Threshold 9
+2880	2925	Sweet Spot 10
+2925	2940	Threshold 10
+2940	2985	Sweet Spot 11
+2985	3000	VO2 Max 10
+3000	3045	Sweet Spot 12
+3045	3060	VO2 Max 11
+3060	3105	Sweet Spot 13
+3105	3120	VO2 Max 12
+3120	3165	Threshold 11
+3165	3180	VO2 Max 13
+3180	3225	Threshold 12
+3225	3240	VO2 Max 14
+3240	3285	Threshold 13
+3285	3300	VO2 Max 15
+3300	3345	Threshold 14
+3345	3360	Sprint 5
+3360	3405	Threshold 15
+3405	3420	Sprint 6
+3420	3465	VO2 Max 16
+3465	3480	Sprint 7
+3480	3525	VO2 Max 17
+3525	3540	Sprint 8
+3960	4005	Sweet Spot 14
+4005	4020	Threshold 16
+4020	4065	Sweet Spot 15
+4065	4080	Threshold 17
+4080	4125	Sweet Spot 16
+4125	4140	VO2 Max 18
+4140	4185	Sweet Spot 17
+4185	4200	VO2 Max 19
+4200	4245	Sweet Spot 18
+4245	4260	VO2 Max 20
+4260	4305	Threshold 18
+4305	4320	VO2 Max 21
+4320	4365	Threshold 19
+4365	4380	VO2 Max 22
+4380	4425	Threshold 20
+4425	4440	VO2 Max 23
+4440	4485	Threshold 21
+4485	4500	Sprint 9
+4500	4545	Threshold 22
+4545	4560	Sprint 10
+4560	4605	VO2 Max 24
+4605	4620	Sprint 11
+4620	4665	VO2 Max 25
+4665	4680	Sprint 12
+4680	5340	Endurance 1
+5340	5460	VO2 Max 26
+5580	5700	VO2 Max 27
+5820	5940	VO2 Max 28
+6360	6480	VO2 Max 29
+6600	6720	VO2 Max 30
+6840	6960	VO2 Max 31
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

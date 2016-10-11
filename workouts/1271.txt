@@ -1,0 +1,351 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = 8 Minute Test,88,78. Created by 54949.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	50
+12	65
+12	75
+13	75
+13	50
+14	50
+14	75
+16	75
+16	50
+18	50
+18	65
+18.5	150
+18.5	150
+19	150
+19	50
+22	50
+22	50
+22.5	160
+22.5	160
+23	160
+23	50
+28	50
+28	110
+36	110
+36	50
+46	50
+46	110
+54	110
+54	40
+60	30
+[END COURSE DATA]
+
+
+[COURSE TEXT]
+0	Welcome to everyone's favorite undertaking...	5	0	0	72	16777215	10
+0	assessment efforts, yaaaaaaay!	3	0	0	72	16777215	16
+0	After warming you thoroughly...	3	0	0	72	16777215	20
+0	we'll assess your fitness based on your highest sustainable power	5	0	0	72	16777215	24
+0	You'll face a couple of 8-minute intervals...	4	0	0	72	16777215	31
+0	that will help us estimate the sort of power output...	4	0	0	72	16777215	36
+0	you could sustain for about an hour...	4	0	0	72	16777215	41
+0	assuming you've built the fitness to actually ride hard for an entire hour	6	0	0	72	16777215	46
+0	These much shorter efforts are obviously going to be more intense...	5	0	0	72	16777215	54
+0	than an unrelenting, hour-long effort	4	0	0	72	16777215	60
+0	But paced properly...	3	0	0	72	16777215	66
+0	they can rather accurately predict what you COULD do for an hour	6	0	0	72	16777215	70
+0	In terms of exertion...	3	0	0	72	16777215	78
+0	both efforts will be pretty uncomfortable yet sustainable	5	0	0	72	16777215	82
+0	Ideally, they'll also be pretty comparable...	5	0	0	72	16777215	89
+0	and if one effort is over 10% different than the other...	5	0	0	72	16777215	95
+0	your pacing could benefit from a bit of refinement	4	0	0	72	16777215	101
+0	So don't destroy yourself on the first effort...	4	0	0	72	16777215	107
+0	only to have nothing left for the second one	4	0	0	72	16777215	112
+0	Unlike the alternative 20-minute assessment...	4	0	0	72	16777215	118
+0	where you ride just below your muscles' "burning point"...	5	0	0	72	16777215	123
+0	these efforts will lightly "flood" your muscles...	4	0	0	72	16777215	129
+0	and actually make them burn a bit	4	0	0	72	16777215	134
+0	But just a bit	3	0	0	72	16777215	140
+0	Flood them too heavily and you'll be forced to back off...	5	0	0	72	16777215	145
+0	potentially well inside of 8 minutes	4	0	0	72	16777215	151
+0	So work hard but don't overdo it...	4	0	0	72	16777215	157
+0	and recognize that proper pacing is key	4	0	0	72	16777215	162
+0	This quality of pacing comes with a lot of practice though...	5	0	0	72	16777215	168
+0	and you're bound to improve a little each time	4	0	0	72	16777215	174
+0	But because no one wants to endure this process more than necessary...	5	0	0	72	16777215	180
+0	we'll give you TWO shots to get it right	4	0	0	72	16777215	186
+0	Our gift to you ;-)	2	0	0	72	16777215	191
+0	And while neither effort should be seen as throwaway...	4	0	0	72	16777215	194
+0	this does allow you to refine your second effort...	4	0	0	72	16777215	199
+0	based on what you learn the first one	4	0	0	72	16777215	204
+0	We'll then use your two assessment intervals to estimate your FTP...	5	0	0	72	16777215	210
+0	by using your 8-minute average power	4	0	0	72	16777215	216
+0	This will give you a measure of your current fitness...	5	0	0	72	16777215	222
+0	which can be used to track your progress over time	5	0	0	72	16777215	228
+300	Time to start gradually raising your effort...	5	0	0	72	16777215	0
+300	as your legs & lungs warm	4	0	0	72	16777215	6
+300	Quick note for riders bestowed with the luxury of an electronic trainer:	5	0	0	72	16777215	10
+300	We'll automatically switch you to Slope mode for both 8-minute efforts	6	0	0	72	16777215	16
+300	This will happen at the start of each effort...	4	0	0	72	16777215	24
+300	and means you'll have the ability to affect your power...	5	0	0	72	16777215	39
+300	by shifting gears much the way you do outdoors	5	0	0	72	16777215	45
+300	And a note for those using a power meter:	4	0	0	72	16777215	52
+300	Now's the time to calibrate	4	0	0	72	16777215	57
+300	We'll touch base again in a few minutes	5	0	0	72	16777215	63
+300	If this is your first FTP assessment...	5	0	0	72	16777215	240
+300	your FTP is set to 200 by default	4	0	0	72	16777215	246
+300	In your case, this number means nothing right now...	5	0	0	72	16777215	252
+300	so go ahead and ignore it...	4	0	0	72	16777215	258
+300	as well as the Target power based on it	4	0	0	72	16777215	263
+300	Simply go as hard as you can for 8 minutes at a time...	5	0	0	72	16777215	269
+300	being reasonable knowing you have to last for 8 minutes...	5	0	0	72	16777215	275
+300	twice	3	0	0	72	16777215	281
+300	For those riders who have tested before...	5	0	0	72	16777215	285
+300	it's reasonable to expect an improvement of 2-3% every 4-6 weeks	6	0	0	72	16777215	292
+300	But this is highly subjective and depends on a number of factors	5	0	0	72	16777215	300
+300	Your training history, incoming fitness...	4	0	0	72	16777215	307
+300	your levels of freshness & motivation...	4	0	0	72	16777215	312
+300	during this assessment as well as your previous one...	5	0	0	72	16777215	317
+300	and of course, your ability to pace effectively	4	0	0	72	16777215	323
+300	All can have an effect on your assessment results	5	0	0	72	16777215	329
+300	But if you want SOME idea of what to shoot for today...	5	0	0	72	16777215	336
+300	a 2-3% improvement is both common & conservative in many cases	6	0	0	72	16777215	342
+300	In a minute...	4	0	0	72	16777215	360
+300	you'll face your first of 2 quick-spinning efforts...	4	0	0	72	16777215	365
+300	aimed at "waking up" your pedaling muscles	4	0	0	72	16777215	370
+300	The first effort is a minute long...	3	0	0	72	16777215	376
+300	and the second is 2 minutes in duration	4	0	0	72	16777215	380
+300	In both cases, the goal is high leg speed...	4	0	0	72	16777215	386
+300	or a high cadence...	3	0	0	72	16777215	391
+300	and NOT high power	3	0	0	72	16777215	395
+300	So use a small gear you can turn quickly...	4	0	0	72	16777215	400
+300	unless your on an electronic trainer in Erg mode	4	0	0	72	16777215	405
+300	In that case, just spin the same gear quickly	5	0	0	72	16777215	411
+720	Spin it up...	3	0	0	72	16777215	0
+720	somewhere in the 100-130rpm range...	4	0	0	72	16777215	4
+720	depending on how well you control quick legs	4	0	0	72	16777215	9
+720	In other words, no bouncing	4	0	0	72	16777215	15
+780	Good, back to a normal cadence...	4	0	0	72	16777215	2
+780	something around 90rpm works well	5	0	0	72	16777215	7
+780	Get ready for a longer round of quick spinning	5	0	0	72	16777215	53
+840	Quick spin, twice the duration this time	5	0	0	72	16777215	0
+840	Maybe a little quicker than last time?	4	0	0	72	16777215	7
+840	Just make sure you can do it without bouncing around	5	0	0	72	16777215	13
+960	Excellent, slow to a normal cadence...	4	0	0	72	16777215	2
+960	back in the neighborhood of 90rpm	4	0	0	72	16777215	7
+960	Up next, some truer blow-out efforts...	5	0	0	72	16777215	60
+960	to get your muscles more thoroughly prepared...	4	0	0	72	16777215	66
+960	for the assessment efforts looming on the horizon	5	0	0	72	16777215	71
+960	These are short & potentially very intense...	5	0	0	72	16777215	78
+960	depending on how familiar you are with efforts of this nature	5	0	0	72	16777215	84
+960	New to high-intensity training?	4	0	0	72	16777215	91
+960	Then be conservative on this first one, perhaps both of them...	5	0	0	72	16777215	97
+960	and simply work hard...	3	0	0	72	16777215	103
+960	without risking any damage to your bike or body	5	0	0	72	16777215	107
+960	Everyone else, KILL IT	4	0	0	72	16777215	114
+1080	30 seconds to build up to HIGH power	5	0	0	72	16777215	0
+1110	30 seconds to hang on...	3	0	0	72	16777215	0
+1110	to some really high power!	4	0	0	72	16777215	4
+1110	10 seconds, keep it!	3	0	0	72	16777215	20
+1110	5...	1	0	0	72	16777215	25
+1110	4...	1	0	0	72	16777215	26
+1110	3...	1	0	0	72	16777215	27
+1110	2...	1	0	0	72	16777215	28
+1110	1...	1	0	0	72	16777215	29
+1140	Nice! Spin lightly for 3 minutes	5	0	0	72	16777215	2
+1140	Just keep your spin quick but comfortable	5	0	0	72	16777215	9
+1140	Just one more of those all-out efforts...	5	0	0	72	16777215	150
+1140	to get you truly ready to do some work	4	0	0	72	16777215	156
+1140	Just like last time...	3	0	0	72	16777215	162
+1140	build to a high number over 30 seconds...	4	0	0	72	16777215	166
+1140	and then bury yourself to hang onto it	4	0	0	72	16777215	171
+1320	Gradual but high-effort build!	4	0	0	72	16777215	0
+1350	Now hang onto it!	3	0	0	72	16777215	0
+1350	10 seconds, don't fade!	3	0	0	72	16777215	20
+1350	5...	1	0	0	72	16777215	25
+1350	4...	1	0	0	72	16777215	26
+1350	3...	1	0	0	72	16777215	27
+1350	2...	1	0	0	72	16777215	28
+1350	1...	1	0	0	72	16777215	29
+1380	Done!	3	0	0	72	16777215	2
+1380	Back to some easy spinning for 5 minutes	4	0	0	72	16777215	6
+1380	With your first of 2 efforts only a few minutes out...	5	0	0	72	16777215	120
+1380	let's talk a little about pacing an 8-minute effort	5	0	0	72	16777215	126
+1380	First tip, and this applies to all time trials...	4	0	0	72	16777215	133
+1380	whether in testing or in competition...	4	0	0	72	16777215	138
+1380	DON'T GO OUT TOO HARD	5	0	0	72	16777215	143
+1380	Abide by this rule and ignore all others...	4	0	0	72	16777215	150
+1380	and you at least won't fall apart inside of the halfway mark	5	0	0	72	16777215	155
+1380	But overdo the opening couple of minutes...	4	0	0	72	16777215	162
+1380	and you'll doom yourself to some self-imposed misery...	4	0	0	72	16777215	167
+1380	as well as some less-than-useful assessment results	4	0	0	72	16777215	172
+1380	Get this right though...	4	0	0	72	16777215	178
+1380	and your next concern is adjusting your effort...	4	0	0	72	16777215	183
+1380	over the course of each effort	3	0	0	72	16777215	188
+1380	This is a matter of small changes...	4	0	0	72	16777215	193
+1380	and the more experienced you become...	4	0	0	72	16777215	198
+1380	the smaller these power tweaks will become...	4	0	0	72	16777215	203
+1380	because well-practiced riders find their groove quickly...	5	0	0	72	16777215	208
+1380	and seldom stray far from it	3	0	0	72	16777215	214
+1380	For everyone else though, most riders that is...	5	0	0	72	16777215	219
+1380	you'll frequently face the same decision:	4	0	0	72	16777215	225
+1380	Can I work a little harder without popping?	4	0	0	72	16777215	231
+1380	or...	2	0	0	72	16777215	237
+1380	Do I need to back off a little before I blow up?	4	0	0	72	16777215	241
+1380	It's really that simple once you've found that narrow range	5	0	0	72	16777215	247
+1380	You'll either raise your effort a little...	4	0	0	72	16777215	254
+1380	or you'll back things off a little...	4	0	0	72	16777215	259
+1380	a LITTLE	3	0	0	72	16777215	265
+1380	So work HARD but keep it somewhat reined in...	4	0	0	72	16777215	270
+1380	during the opening 50-60 seconds...	4	0	0	72	16777215	275
+1380	then settle into a hard but sustainable pace...	4	0	0	72	16777215	280
+1380	that you THINK you'll be able to maintain...	4	0	0	72	16777215	285
+1380	and then simply micro-adjust every so often	4	0	0	72	16777215	290
+1380	Ready!?	2	0	0	72	16777215	296
+1680	Geeeet after it!	5	0	0	72	16777215	-1
+1680	With only 8 minutes of work in each interval...	4	0	0	72	16777215	7
+1680	it's necessary to build your power relatively quickly...	4	0	0	72	16777215	12
+1680	using just this first minute	3	0	0	72	16777215	17
+1680	So already you're working pretty hard...	4	0	0	72	16777215	22
+1680	but holding back a little bit	4	0	0	72	16777215	27
+1680	Continue to gradually lift your effort...	4	0	0	72	16777215	33
+1680	aiming to level off in about 20 more seconds	5	0	0	72	16777215	38
+1680	Try to settle into a pace...	4	0	0	72	16777215	60
+1680	that you THINK you can hang on to...	4	0	0	72	16777215	65
+1680	and we'll touch base in about a minute	5	0	0	72	16777215	70
+1680	2 minutes in and it's time to ask yourself...	5	0	0	72	16777215	120
+1680	Can I go a little harder?	4	0	0	72	16777215	126
+1680	or...	2	0	0	72	16777215	131
+1680	Am I going a little too hard?	4	0	0	72	16777215	134
+1680	In either case...	3	0	0	72	16777215	140
+1680	make SMALL changes, nothing dramatic...	3	0	0	72	16777215	144
+1680	and then hang on for another 90 seconds	4	0	0	72	16777215	148
+1680	How's your cadence?	4	0	0	72	16777215	180
+1680	Remember, do what you do best	4	0	0	72	16777215	186
+1680	Now isn't the time to work on weaknesses or limiters	5	0	0	72	16777215	192
+1680	Halfway there! Time to reassess	4	0	0	72	16777215	240
+1680	Same questions: Too hard? Too easy?	4	0	0	72	16777215	246
+1680	Make subtle changes if necessary...	3	0	0	72	16777215	252
+1680	or stay right where you are & concentrate	4	0	0	72	16777215	256
+1680	Concentrate on your fluid pedaling...	3	0	0	72	16777215	262
+1680	your full, belly-driven breathing...	3	0	0	72	16777215	266
+1680	on staying as relaxed as possible while working this hard	5	0	0	72	16777215	270
+1680	You've got this, be tough for 3 minutes!	5	0	0	72	16777215	300
+1680	Final 2 minutes!	4	0	0	72	16777215	360
+1680	Small adjustments if necessary	4	0	0	72	16777215	366
+1680	Keep your focus...	3	0	0	72	16777215	372
+1680	and don't allow your power or form to fade	5	0	0	72	16777215	376
+1680	One more minute, just hang in there!	5	0	0	72	16777215	420
+1680	Drop your shoulders & loosen your grip	4	0	0	72	16777215	427
+1680	Final 30, don't ease up even a little!	5	0	0	72	16777215	450
+1680	10 seconds, don't sprint!	3	0	0	72	16777215	470
+1680	5...	1	0	0	72	16777215	475
+1680	4...	1	0	0	72	16777215	476
+1680	3...	1	0	0	72	16777215	477
+1680	2...	1	0	0	72	16777215	478
+1680	1...	1	0	0	72	16777215	479
+2160	Done!	3	0	0	72	16777215	0
+2160	Time to recover for a full 10 minutes	4	0	0	72	16777215	5
+2160	Try to keep moving for these next couple minutes...	4	0	0	72	16777215	11
+2160	even if that means you do a bit of backspinning	4	0	0	72	16777215	16
+2160	And don't worry...	3	0	0	72	16777215	22
+2160	your legs won't feel this useless 10 minutes from now	5	0	0	72	16777215	26
+2160	And don't give any thought to that next effort right now...	5	0	0	72	16777215	33
+2160	but just focus on clearing the heaviness, lowering your HR	5	0	0	72	16777215	39
+2160	We'll touch base again in a few minutes	5	0	0	72	16777215	46
+2160	Keep your spin comfortably quick but relaxed...	5	0	0	72	16777215	300
+2160	keeping in mind that here's nothing to gain...	4	0	0	72	16777215	306
+2160	from working through this recovery opportunity	4	0	0	72	16777215	311
+2160	Time to contemplate your first 8-minute effort	5	0	0	72	16777215	540
+2160	Was your spin too slow? Too quick?	4	0	0	72	16777215	546
+2160	Did you go out too hard?	4	0	0	72	16777215	552
+2160	Maybe you held back a bit too much...	4	0	0	72	16777215	558
+2160	knowing that another 8-minute interval was laying in wait?	5	0	0	72	16777215	563
+2160	Understandable, but don't do it again	4	0	0	72	16777215	570
+2160	At least one of these has to be an effort...	4	0	0	72	16777215	575
+2160	to which you give everything you've got	4	0	0	72	16777215	580
+2160	And if it wasn't that first one, make sure it's this one	5	0	0	72	16777215	585
+2160	Find your starting gear and get ready!	5	0	0	72	16777215	592
+2760	Start out hard, but not too hard	5	0	0	72	16777215	0
+2760	Build your power over this first minute...	4	0	0	72	16777215	7
+2760	holding back slightly but ramping up steadily	5	0	0	72	16777215	12
+2760	And right from the start, be relaxed	5	0	0	72	16777215	19
+2760	Time to settle into your groove...	5	0	0	72	16777215	60
+2760	and see to it that your breathing is full...	4	0	0	72	16777215	66
+2760	and comes from the base of your lungs	4	0	0	72	16777215	71
+2760	First 2 minutes down...	4	0	0	72	16777215	120
+2760	and your first checkpoint where you decide...	4	0	0	72	16777215	125
+2760	if you're already overdoing or being too conservative	5	0	0	72	16777215	130
+2760	8 minutes is a long time if you overshoot the effort...	4	0	0	72	16777215	137
+2760	but it can also be a waste of time if you don't push yourself	5	0	0	72	16777215	142
+2760	So try to find that delicate balance	4	0	0	72	16777215	149
+2760	Halfway! Time to micro-adjust if necessary...	5	0	0	72	16777215	240
+2760	and shed any nonproductive muscle tension	5	0	0	72	16777215	246
+2760	Check your face, jaw & neck...	4	0	0	72	16777215	253
+2760	and your shoulders, elbows & hands	4	0	0	72	16777215	258
+2760	Both of your sit-bones on the saddle?	4	0	0	72	16777215	264
+2760	Are your breaths deep, coming from your diaphragm?	5	0	0	72	16777215	270
+2760	Final 2 minutes, don't ease up...	4	0	0	72	16777215	360
+2760	unless you're on the verge of cracking	4	0	0	72	16777215	365
+2760	Even in that case, only back off a LITTLE	4	0	0	72	16777215	370
+2760	One more minute, you've got this!	4	0	0	72	16777215	420
+2760	Final 30 seconds, do NOT back off	5	0	0	72	16777215	450
+2760	10 seconds, don't sprint!	3	0	0	72	16777215	470
+2760	5...	1	0	0	72	16777215	475
+2760	4...	1	0	0	72	16777215	476
+2760	3...	1	0	0	72	16777215	477
+2760	2...	1	0	0	72	16777215	478
+2760	1...	1	0	0	72	16777215	479
+3240	Done!	3	0	0	72	16777215	0
+3240	Try to choke back the vomit...	4	0	0	72	16777215	5
+3240	or maybe get someone to hold your hair out of the way...	5	0	0	72	16777215	10
+3240	and try to keep those legs moving for a few minutes	5	0	0	72	16777215	16
+3240	Spin out that heaviness...	3	0	0	72	16777215	23
+3240	and as the dizzyness dissipates...	4	0	0	72	16777215	27
+3240	start considering your post-workout nutrition	4	0	0	72	16777215	32
+3240	And if the idea of food seems obscene at the moment...	5	0	0	72	16777215	38
+3240	you probably performed that second effort just right ;-)	4	0	0	72	16777215	44
+3240	Keep cooling down and once the workout ends...	5	0	0	72	16777215	50
+3240	we will automatically update your FTP...	4	0	0	72	16777215	56
+3240	to reflect a 10% reduction in your 8-minute power	5	0	0	72	16777215	62
+3240	A window will pop up displaying your new FTP...	5	0	0	72	16777215	69
+3240	and you can decide to accept your new value or keep your previous one	5	0	0	72	16777215	75
+3240	If you're not happy with your results just now...	4	0	0	72	16777215	82
+3240	you can choose to not apply the newly calculated FTP	5	0	0	72	16777215	87
+3240	Then at any point later on...	3	0	0	72	16777215	94
+3240	you can update this all-important number in your profile at anytime	5	0	0	72	16777215	98
+3240	It's also worth mentioning...	3	0	0	72	16777215	140
+3240	when we use "FTP/kg" in your workouts & Career...	4	0	0	72	16777215	144
+3240	"FTP" relates to your power output...	4	0	0	72	16777215	149
+3240	but the "kg" value relates to your body weight	5	0	0	72	16777215	154
+3240	So if this relation is important to you & your training...	5	0	0	72	16777215	160
+3240	make sure to record any meaningful weight changes...	5	0	0	72	16777215	166
+3240	such that you track your improvements in FTP...	4	0	0	72	16777215	170
+3240	along with changes in your body weight	4	0	0	72	16777215	175
+3240	Well that about does it for now	4	0	0	72	16777215	181
+3240	Congratulate yourself on a job well done...	3	0	0	72	16777215	186
+3240	get on top of your recovery nutrition...	3	0	0	72	16777215	190
+3240	and we'll see you next time	5	0	0	72	16777215	194
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+720	780	Endurance 1
+780	840	Endurance 2
+840	960	Endurance 3
+960	1080	Endurance 4
+1080	1110	VO2 Max 1
+1110	1140	Sprint 1
+1350	1380	Sprint 2
+1680	2160	VO2 Max 2	True
+2760	3240	VO2 Max 3	True
+[END INTERVAL DATA]
+
+[MODE DATA]
+1680	Slope	3
+2160	Erg	0
+2760	Slope	3
+3240	Erg	0
+[END MODE DATA]
+

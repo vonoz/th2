@@ -1,0 +1,212 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Rubicon,91,83. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	72
+12	72
+12	96
+15	96
+15	10
+16	10
+16	50
+20.83	50
+20.83	70
+21	105
+21	105
+31	105
+31	40
+31.83	40
+31.83	70
+32	105
+32	105
+42	105
+42	40
+42.83	40
+42.83	70
+43	105
+43	105
+53	105
+53	50
+60	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Let's kick things off with another full 20 minutes of warmup	8	0	0	72	16777215	10
+0	Keep a quick & light spin for these first 6 minutes	8	0	0	72	16777215	20
+360	Ramp things up a little, further your warmup, open your lungs a bit	8	0	0	72	16777215	0
+360	And do your best to keep your spin above 85rpm, higher if it's reasonably comfortable	8	0	0	72	16777215	10
+720	Final 3 minutes of your warmup, right next to FTP	8	0	0	72	16777215	0
+720	Increase your spin to 90rpm or higher...	8	0	0	72	16777215	10
+720	if you're not already spinning that quickly	8	0	0	72	16777215	20
+720	And draw long, full belly-breaths...	8	0	0	72	16777215	30
+720	then completely empty your lungs	8	0	0	72	16777215	40
+720	Establish this breathing pattern now, eventually it'll come naturally	8	0	0	72	16777215	50
+900	Good, feel free to backpedal for a minute...	8	0	0	72	16777215	0
+900	check your HRR if you're using the LSCT warmup...	8	0	0	72	16777215	10
+900	or just pedal really easy for a minute while you recover	8	0	0	72	16777215	20
+960	Rubicon is a recovery version of the supra-threshold workouts...	8	0	0	72	16777215	0
+960	you've endured over the last few weeks	8	0	0	72	16777215	10
+960	The intensity is the same, even the interval duration is the same	8	0	0	72	16777215	20
+960	So this won't be a cake-walk; rather it's enough of a drop in volume...	8	0	0	72	16777215	30
+960	to allow you to keep your current fitness while absorbing some more	8	0	0	72	16777215	40
+960	Only 3 sets this time around & the recoveries are back up to a minute	8	0	0	72	16777215	50
+960	So again, not easy but comparatively much less work	8	0	0	72	16777215	60
+960	And all the same rules apply...	8	0	0	72	16777215	70
+960	in terms of cadence, aero positioning & Target Power	8	0	0	72	16777215	80
+960	HOWEVER...since this is a recovery week, treat it as such	8	0	0	72	16777215	90
+960	If the workouts are burying you, drop the Intensity 5%...	8	0	0	72	16777215	100
+960	maybe even end the intervals a minute or two early & extend the recoveries	8	0	0	72	16777215	110
+960	Everyone responds differenly to training AND recovery	8	0	0	72	16777215	120
+960	Some recover quickly, some take a little extra time	8	0	0	72	16777215	130
+960	So don't hesitate to tweak the structure of this week's workouts...	8	0	0	72	16777215	140
+960	if you recognize that you aren't gradually getting back on top of things	8	0	0	72	16777215	150
+960	A minute out, start to solidfy your cadence & aero objectives	8	0	0	72	16777215	240
+960	Try to keep your spin in the 85-95rpm range...	8	0	0	72	16777215	250
+960	and decide if aero positioning is going to contribute to your workout...	8	0	0	72	16777215	260
+960	or degrade it & bury you deeper in fatigue	8	0	0	72	16777215	270
+960	It's not often we'll encourage you to take it easy...	8	0	0	72	16777215	280
+1250	but that's exactly what's recommended this week, if it's necessary	8	0	0	72	16777215	0
+1260	2 minutes worth of form & focus...	8	0	0	72	16777215	0
+1260	shorter chunks depending on how you best keep things together	8	0	0	72	16777215	10
+1260	Any lengths of time that aren't too distractingly frequent will work	8	0	0	72	16777215	20
+1260	Practice managing your discomfort before the interval gets more demanding	8	0	0	72	16777215	80
+1260	Then when things get truly tough, good habits are easier to reinforce	8	0	0	72	16777215	90
+1260	2 minutes behind ya, 2 minutes ahead of ya	8	0	0	72	16777215	120
+1260	Keep your focus limited, keep your body low	8	0	0	72	16777215	130
+1260	As the workout rolls by & the time adds up...	8	0	0	72	16777215	180
+1260	focus becomes harder to hang onto	8	0	0	72	16777215	190
+1260	But maintaining it can be the difference between surviving & thriving	8	0	0	72	16777215	200
+1260	Most riders can survive an interval with poor form, too-low cadence, messy form...	8	0	0	72	16777215	210
+1260	but the riders who keep it together & maintain quality throughout...	8	0	0	72	16777215	220
+1260	are the riders who learn how to deliver when it really counts	8	0	0	72	16777215	230
+1260	Next 2 minutes of steady focus	8	0	0	72	16777215	240
+1260	Remember, your body can do this...	8	0	0	72	16777215	250
+1260	as long as your mind doesn't talk you out of it	8	0	0	72	16777215	260
+1260	And drifting focus is almost as harmful as negative self-talk	8	0	0	72	16777215	270
+1260	So stay sharp, don't distance yourself too far from the job at hand	8	0	0	72	16777215	280
+1260	Another 2 minutes behind you!	8	0	0	72	16777215	360
+1260	This is just a matter of deciding how you'll ride	8	0	0	72	16777215	370
+1260	If you tell yourself you can't do this, you're very likely to quit	8	0	0	72	16777215	380
+1260	But if you keep reminding yourself, "I got this"...	8	0	0	72	16777215	390
+1260	you're accepting your capabilities, allowing yourself to truly perform	8	0	0	72	16777215	400
+1260	Allowing yourself to come closer & closer...	8	0	0	72	16777215	410
+1260	to what your body is actually capable of	8	0	0	72	16777215	420
+1260	You push yourself closer to your potential each & every workout	8	0	0	72	16777215	430
+1260	Final 2 minutes! 30 seconds at a time	8	0	0	72	16777215	480
+1260	Keep your breathing steady & deep, 30 seconds	8	0	0	72	16777215	510
+1260	Keep your pedalstroke fluid & light, 30 seconds	8	0	0	72	16777215	540
+1260	Keep your focus sharp, 30 seconds	8	0	0	72	16777215	570
+1860	Well done, backpedal or spin lightly for about a minute	8	0	0	72	16777215	0
+1910	Second round, you know the deal	8	0	0	72	16777215	0
+1920	Settle into your aero position right away	8	0	0	72	16777215	0
+1920	The "recovery" workouts can be even tougher to handle...	8	0	0	72	16777215	30
+1920	than the more intense stuff if you mentally check out	8	0	0	72	16777215	40
+1920	These are not easy workouts, they're shorter workouts	8	0	0	72	16777215	50
+1920	We increased your workload each week, and now it's time to back things down	8	0	0	72	16777215	60
+1920	But only enough to refresh you for you next round of training...	8	0	0	72	16777215	70
+1920	or to taper you for your upcoming key event	8	0	0	72	16777215	80
+1920	In either case, this is where you really get stronger, faster, even tougher...	8	0	0	72	16777215	90
+1920	because your body gets a better chance to adapt to the stress...	8	0	0	72	16777215	100
+1920	of all the previous weeks & your mind gets a bit of a break as well	8	0	0	72	16777215	110
+1920	Two minutes in, keep your cadence steady...	8	0	0	72	16777215	120
+1920	and make sure you're spending most or all of your time in aero	8	0	0	72	16777215	130
+1920	Think back to the overload principle of training...	8	0	0	72	16777215	150
+1920	By consistently exceeding the demands your body's use to...	8	0	0	72	16777215	160
+1920	you impose new demands, greater demands, ones that spur growth	8	0	0	72	16777215	170
+1920	Each week gets a little tougher than the previous week...	8	0	0	72	16777215	180
+1920	but each week you get a little stronger	8	0	0	72	16777215	190
+1920	And then we back things off enough that you can really feel the improvement	8	0	0	72	16777215	200
+1920	Maybe not this week, but as early as next week you'll start to feel it	8	0	0	72	16777215	210
+1920	Two more minutes behind you, next 2 in mind	8	0	0	72	16777215	240
+1920	Either in your aero position or taking a short, upright break	8	0	0	72	16777215	250
+1920	Each time you return to aero, do a couple things...	8	0	0	72	16777215	260
+1920	First, make sure you aren't crimping your breathing cavity	8	0	0	72	16777215	270
+1920	This happens when you hinge sharpley at the hips...	8	0	0	72	16777215	280
+1920	but can be avoided by hollowing out your abdomen instead	8	0	0	72	16777215	290
+1920	This ties into the second thing to try each time...	8	0	0	72	16777215	300
+1920	and that's keeping your sit bones anchored	8	0	0	72	16777215	310
+1920	When you get low but manage to keep your sit bones on the saddle...	8	0	0	72	16777215	320
+1920	you set the stage for a gently rounded spine	8	0	0	72	16777215	330
+1920	This rounding is what allows a hollow abdomen instead of a hinged one	8	0	0	72	16777215	340
+1920	Hinging results from a too-flat back, but rounding allows your belly to distend	8	0	0	72	16777215	350
+1920	Next 2 minutes, breath with your belly	8	0	0	72	16777215	360
+1920	Breath into that ample cavity created by anchoring & rounding	8	0	0	72	16777215	370
+1920	Anchoring the sit bones, gently rounding your lower spine	8	0	0	72	16777215	380
+1920	Give your belly room to maneuver, to breathe fully	8	0	0	72	16777215	390
+1920	Final 2 minutes! Make sure you can see the horizon	8	0	0	72	16777215	480
+1920	Avoid the habit of staring at your arms or closing your eyes	8	0	0	72	16777215	490
+1920	Practice keeping your eyes on the horizon, where they'll be outdoors	8	0	0	72	16777215	500
+1920	Next 30 seconds! Sit bones anchored	8	0	0	72	16777215	510
+1920	Next 30 seconds, full belly-breaths	8	0	0	72	16777215	540
+1920	Final 30! Keep your spin smooth & steady	8	0	0	72	16777215	570
+2520	Well done, 2 of 3 in the bag. Take it easy	8	0	0	72	16777215	0
+2570	Bring up your power with a quick, controlled spin...	8	0	0	72	16777215	0
+2580	and settle into your final interval - aero is optional	8	0	0	72	16777215	0
+2580	If you're really feeling the fatigue, there's no shame in dropping intensity	8	0	0	72	16777215	10
+2580	Chances are, a 5% drop will be enough to keep you in the interval...	8	0	0	72	16777215	20
+2580	without totally wiping you out & affecting your form	8	0	0	72	16777215	30
+2580	But if it's simply a matter of slipping focus...	8	0	0	72	16777215	60
+2580	remember that time trialing is SUCH a mental game	8	0	0	72	16777215	70
+2580	Almost all endurance spornts are all about fortitude...	8	0	0	72	16777215	80
+2580	both physical & mental; body & mind	8	0	0	72	16777215	90
+2580	But racing against the clock requires the utmost discipline	8	0	0	72	16777215	100
+2580	Your motivation has to come almost entirely from within	8	0	0	72	16777215	110
+2580	This shifts the mind-body balance more to the mental side than usual	8	0	0	72	16777215	120
+2580	Next two minutes, by the way ;-)	8	0	0	72	16777215	130
+2580	Due to this psychological shift, your mind...	8	0	0	72	16777215	140
+2580	HAS to be as strong or even stronger than your body	8	0	0	72	16777215	150
+2580	This requirement draws the line between the winners...	8	0	0	72	16777215	160
+2580	and the rest	8	0	0	72	16777215	170
+2580	And again, winning can be measured in a number of different ways	8	0	0	72	16777215	180
+2580	It comes in as many forms as fitness improvement does	8	0	0	72	16777215	190
+2580	No single measure or result is the single form of winning	8	0	0	72	16777215	200
+2580	Those strict measures of success can bury you in unnecessary pressure...	8	0	0	72	16777215	210
+2580	and leave you with an "all or nothing" outcome	8	0	0	72	16777215	220
+2580	Should you falter, should the circumstances not favor you...	8	0	0	72	16777215	230
+2580	it's best to have numerous ways to see your performance as successful	8	0	0	72	16777215	240
+2580	Next two minutes are already underway!	8	0	0	72	16777215	250
+2580	Stay aero, stay on Target, stay focused	8	0	0	72	16777215	260
+2580	And don't let your cadence falter just because you're tired	8	0	0	72	16777215	270
+2580	Specificity is still important - practice keeping your spin even as you get tired	8	0	0	72	16777215	280
+2580	Next 2 minutes, focus on your breathing for 30 seconds	8	0	0	72	16777215	360
+2580	Let your belly distend each time your draw breath...	8	0	0	72	16777215	370
+2580	then exhale strongly as your navel rises toward your spine	8	0	0	72	16777215	380
+2580	Spend this 30 seconds focusing on kicking & pulling	8	0	0	72	16777215	390
+2580	Over the top, across the bottom, lightly with both legs	8	0	0	72	16777215	400
+2580	How about 30 seconds of ditching tension?	8	0	0	72	16777215	420
+2580	Forehead, jaw, lips...neck, shoulders, grip...	8	0	0	72	16777215	430
+2580	all the way down through your legs & out your toes	8	0	0	72	16777215	440
+2580	30 seconds of lightly lifting & kicking your feet	8	0	0	72	16777215	450
+2580	Juggle the soccer ball then kick it with your toes	8	0	0	72	16777215	460
+2580	Final 2 minutes! 30 seconds at a time	8	0	0	72	16777215	480
+2580	Next 30 seconds, fluid & relaxed	8	0	0	72	16777215	510
+2580	Next 30, keep your cadence & power steady	8	0	0	72	16777215	540
+2580	Final 30! Stay focused & smooooooth	8	0	0	72	16777215	570
+3180	Nicely done, ramp things down & relax	8	0	0	72	16777215	0
+3180	Start your post-workout nutrition or start planning it...	8	0	0	72	16777215	10
+3180	and remember to take it easy this week, let your body heal	8	0	0	72	16777215	20
+3180	We'll see you next time	8	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+360	720	Endurance 1
+720	900	Threshold 1
+1250	1260	Sweet Spot 1
+1260	1860	Threshold 2
+1910	1920	Sweet Spot 2
+1920	2520	Threshold 3
+2570	2580	Sweet Spot 3
+2580	3180	Threshold 4
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

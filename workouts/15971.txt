@@ -1,0 +1,239 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = 8DC - Stage 5,86,83. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	55
+4.36	60
+4.36	60
+5.55	98
+5.55	98
+8.25	95
+8.25	95
+9.61	98
+9.61	98
+13.68	100
+13.68	99
+14.13	68
+14.13	68
+16.71	70
+16.71	70
+19.18	66
+19.18	75
+19.6	130
+19.6	180
+19.76	180
+19.76	20
+20.18	63
+20.18	63
+21.95	63
+21.95	63
+22.95	76
+22.95	76
+25.4	94
+25.4	94
+28.36	97
+28.36	97
+28.86	130
+28.86	145
+29.36	145
+29.36	40
+29.78	72
+29.78	72
+32.91	75
+32.91	75
+33.88	73
+33.88	73
+38.46	75
+38.46	75
+38.88	130
+38.88	180
+39.05	180
+39.05	20
+39.46	70
+39.46	70
+42.06	70
+42.06	70
+44.26	75
+44.26	75
+47.33	72
+47.33	72
+49.08	72
+49.08	75
+49.5	130
+49.5	180
+49.66	180
+49.66	20
+50.08	76
+50.08	76
+51.88	76
+51.88	76
+54.13	80
+54.13	80
+56.83	77
+56.83	77
+59.03	87
+59.03	87
+60.11	95
+60.11	95
+63.31	98
+63.31	98
+64.26	106
+64.26	50
+67	45
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Hey Team!	5	0	0	72	16777215	30
+0	How are the legs?	5	0	0	72	16777215	37
+0	They've felt better? Not to worry, today's stage is somewhat forgiving	8	0	0	72	16777215	44
+0	Unfortunately, our sprinter is still nursing a nagging knee injury	8	0	0	72	16777215	54
+0	So there's no pressure on today's finish sprint	8	0	0	72	16777215	64
+0	But we have other riders amassing sprint points...	8	0	0	72	16777215	74
+0	...so intermediate sprints are still a going concern	8	0	0	72	16777215	84
+0	And today's stage includes several intermediate sprints & 1 KOM	8	0	0	72	16777215	94
+0	While we could make today's stage hard...	8	0	0	72	16777215	124
+0	...we stand a good chance of some high Time Trial finishes tomorrow	8	0	0	72	16777215	134
+0	So our play is to remain conservative today...	8	0	0	72	16777215	144
+0	...get over this first climb smoothly...	8	0	0	72	16777215	154
+0	...and let the point chasers duke it out	8	0	0	72	16777215	164
+262	It's rough to work so early in a stage, but the first climb is upon us	8	0	0	72	16777215	0
+262	We'll consider this a warm-up for our on-the-bike recovery day	10	0	0	72	16777215	10
+262	Ease back into the field & keep your legs quick & light	8	0	0	72	16777215	20
+262	Stay awake, stay relaxed	8	0	0	72	16777215	30
+333	This climb will take about 8 minutes at this pace...	8	0	0	72	16777215	12
+577	Staying relaxed?	8	0	0	72	16777215	0
+577	Start at your forehead, work your way to your toes...	8	0	0	72	16777215	10
+577	Let go of any tension that doesn't help move the bike	8	0	0	72	16777215	20
+577	Get in the habit of doing this at the beginning of any ride...	8	0	0	72	16777215	30
+577	...and then revisit the process over the course of the ride	8	0	0	72	16777215	40
+848	Keep your legs spinning throughout this descent...	8	0	0	72	16777215	0
+848	...but keep the effort down, save the time trialing for tomorrow ;-)	8	0	0	72	16777215	10
+1003	Coming up on the first of today's 3 sprints	8	0	0	72	16777215	0
+1003	Take a minute to consider your gearing	8	0	0	72	16777215	8
+1003	Even good sprinters make the mistake of pushing a big gear once in awhile	8	0	0	72	16777215	18
+1003	But usually when an attack sneaks up on them	8	0	0	72	16777215	28
+1003	Any other time, they know that a formidable sprint has 2 factors...	8	0	0	72	16777215	38
+1003	Lots of force, lots of speed	8	0	0	72	16777215	48
+1003	So it's not enough to stomp the pedals, you have to stomp them QUICKLY	8	0	0	72	16777215	58
+1003	Don't get stuck trying to wind up a big gear while everyone else blows by	8	0	0	72	16777215	68
+1003	Choose the right gear, wind it out, shift, repeat	8	0	0	72	16777215	78
+1003	Over the course of 10 seconds, you might shift twice, probably once	8	0	0	72	16777215	88
+1003	And with 3 sprints in front of you, you get 2 do-overs if you mess up!	8	0	0	72	16777215	98
+1003	Sprinters, get ready!	5	0	0	72	16777215	139
+1151	Build power for 25 seconds	5	0	0	72	16777215	0
+1151	Sprints don't happen from a standstill	6	0	0	72	16777215	7
+1151	They happen at already high speeds, high power outputs	6	0	0	72	16777215	15
+1151	3	1	0	0	72	16777215	22
+1151	2	1	0	0	72	16777215	23
+1151	1	1	0	0	72	16777215	24
+1176	Sprint!	5	0	0	72	16777215	0
+1176	3 seconds...	3	0	0	72	16777215	7
+1186	Shut it down	5	0	0	72	16777215	0
+1211	How'd that go?	5	0	0	72	16777215	0
+1211	Get all your speed in a hurry?	5	0	0	72	16777215	7
+1211	Run out of gears too quickly?	5	0	0	72	16777215	14
+1211	A couple more cracks at your perfect sprint are still to come	8	0	0	72	16777215	21
+1317	We don't want the climbers feeling neglected in this sprint-heavy stage	8	0	0	72	16777215	0
+1317	Start to ramp things up slowly	8	0	0	72	16777215	10
+1377	Keep bringing up that power	5	0	0	72	16777215	0
+1524	I don't think the field is going to hotly contest this one...	8	0	0	72	16777215	120
+1524	...but be ready, just in case	8	0	0	72	16777215	128
+1702	There it goes! Pick it up!	8	0	0	72	16777215	0
+1702	20 more seconds...	5	0	0	72	16777215	10
+1702	10 more seconds...	5	0	0	72	16777215	20
+1732	Hit it...HARD!	5	0	0	72	16777215	0
+1732	Halfway there, don't let up!	5	0	0	72	16777215	15
+1732	5 seconds!	5	0	0	72	16777215	25
+1762	Nicely done	5	0	0	72	16777215	0
+1787	Settle into the peloton and recover for awhile	8	0	0	72	16777215	0
+2033	Get ready for sprint #2	8	0	0	72	16777215	215
+2033	If you think you found your sprint gearing...	8	0	0	72	16777215	225
+2033	...maybe fine-tune your leadout gearing	8	0	0	72	16777215	235
+2033	Same rules apply: don't mash slowly, don't run out of gears	8	0	0	72	16777215	245
+2033	The leadout is more forgiving, but try to avoid wasting any energy on bad gearing	8	0	0	72	16777215	255
+2033	Get ready...	5	0	0	72	16777215	265
+2308	Build power with leg speed AND gearing...	8	0	0	72	16777215	0
+2308	Wind up one gear, shift into the next	8	0	0	72	16777215	10
+2308	3	1	0	0	72	16777215	21
+2308	2	1	0	0	72	16777215	22
+2308	1	1	0	0	72	16777215	23
+2333	Sprint! 10 seconds!	5	0	0	72	16777215	0
+2333	3 seconds!	5	0	0	72	16777215	7
+2343	Turn it off	5	0	0	72	16777215	0
+2368	2 down!	5	0	0	72	16777215	0
+2368	Was that one smoother? More powerful?	8	0	0	72	16777215	7
+2368	You'll know you nailed it when it happens	8	0	0	72	16777215	15
+2368	Well timed-gear changes are distinct	8	0	0	72	16777215	25
+2368	Just as you get on top of a gear, you're already shifting into the next...	8	0	0	72	16777215	35
+2368	...building power & speed all the while	8	0	0	72	16777215	45
+2368	If there's a slip or plateau in either...	8	0	0	72	16777215	55
+2368	...then there's room for improvement	8	0	0	72	16777215	65
+2368	Sprints go from fast to faster to over	8	0	0	72	16777215	75
+2840	Time to start pondering your final sprint of the day	8	0	0	72	16777215	-1
+2840	Did you note  your gearing?	8	0	0	72	16777215	9
+2840	Or better yet, do you FEEL like you're in the right gear?	8	0	0	72	16777215	19
+2840	Time to put your practice to the test	8	0	0	72	16777215	29
+2840	Get ready...	5	0	0	72	16777215	39
+2945	Pick it up	5	0	0	72	16777215	0
+2945	Pick it up some more	5	0	0	72	16777215	10
+2945	More!	5	0	0	72	16777215	16
+2945	3	1	0	0	72	16777215	22
+2945	2	1	0	0	72	16777215	23
+2945	1	1	0	0	72	16777215	24
+2970	Go!!! 10 seconds!	5	0	0	72	16777215	0
+2970	3 seconds!	3	0	0	72	16777215	7
+2980	Done!	5	0	0	72	16777215	0
+3005	Get rested and let's prepare for the run-in	8	0	0	72	16777215	0
+3005	Without a sprinter in the mix, our finale will be relatively easy...	8	0	0	72	16777215	10
+3005	...albeit it dangerous since we'll be toward the back of the peloton	8	0	0	72	16777215	20
+3005	So be hyper-aware of what's going on ahead of you...	8	0	0	72	16777215	30
+3005	...and stay relaxed	8	0	0	72	16777215	40
+3410	Here we go...	5	0	0	72	16777215	0
+3410	This will all be over in about 7 minutes	8	0	0	72	16777215	7
+3410	Be patient, do a little work, pay attention	8	0	0	72	16777215	17
+3542	Ramping up, stay relaxed	8	0	0	72	16777215	0
+3607	Hang in there, just 3 minutes to go	8	0	0	72	16777215	0
+3799	One last, little push!	8	0	0	72	16777215	0
+3856	Well done, Team. We live to fight another day!	8	0	0	72	16777215	0
+3856	No change in the rankings for us & tomorrow is the time trial	8	0	0	72	16777215	10
+3856	While  short, the TT promises to be brutally intense with an uphill finish	8	0	0	72	16777215	20
+3856	So get some good rest & come prepared to crush it	8	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	4020	Workout
+333	495	Threshold 1
+495	577	Threshold 2
+577	821	Threshold 3
+1151	1176	Threshold 4
+1176	1186	Sprint 1
+1377	1524	Sweet Spot 1
+1524	1702	Sweet Spot 2
+1702	1732	VO2 Max 1
+1732	1762	Sprint 2
+1787	1975	Endurance 1
+1975	2033	Endurance 2
+2033	2308	Endurance 3
+2308	2333	Threshold 5
+2333	2343	Sprint 3
+2656	2840	Endurance 4
+2840	2945	Endurance 5
+2945	2970	Threshold 6
+2970	2980	Sprint 4
+3005	3113	Tempo 1
+3113	3248	Tempo 2
+3248	3410	Tempo 3
+3410	3542	Tempo 4
+3542	3607	Sweet Spot 3
+3607	3799	Threshold 7
+3799	3856	Threshold 8
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

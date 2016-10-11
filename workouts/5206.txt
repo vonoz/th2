@@ -1,0 +1,675 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Gardiner,89,119. Created by 42270.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	95
+6	100
+6	40
+7	40
+7	130
+7.2	130
+7.2	40
+7.6	40
+7.6	140
+7.8	140
+7.8	40
+8.2	40
+8.2	150
+8.4	150
+8.4	40
+12	40
+12	150
+12.25	150
+12.25	40
+12.5	40
+12.5	150
+12.75	150
+12.75	40
+13	40
+13	150
+13.25	150
+13.25	40
+13.5	40
+13.5	150
+13.75	150
+13.75	40
+14	40
+14	150
+14.25	150
+14.25	40
+14.5	40
+14.5	150
+14.75	150
+14.75	40
+15	40
+15	150
+15.25	150
+15.25	40
+15.5	40
+15.5	150
+15.75	150
+15.75	40
+16	40
+16	150
+16.25	150
+16.25	40
+16.5	40
+16.5	150
+16.75	150
+16.75	40
+17	40
+17	150
+17.25	150
+17.25	40
+17.5	40
+17.5	150
+17.75	150
+17.75	40
+18	40
+18	150
+18.25	150
+18.25	40
+18.5	40
+18.5	150
+18.75	150
+18.75	40
+19	40
+19	150
+19.25	150
+19.25	40
+19.5	40
+19.5	150
+19.75	150
+19.75	40
+25	40
+25	160
+25.25	160
+25.25	40
+25.5	40
+25.5	160
+25.75	160
+25.75	40
+26	40
+26	160
+26.25	160
+26.25	40
+26.5	40
+26.5	160
+26.75	160
+26.75	40
+27	40
+27	160
+27.25	160
+27.25	40
+27.5	40
+27.5	160
+27.75	160
+27.75	40
+28	40
+28	160
+28.25	160
+28.25	40
+28.5	40
+28.5	160
+28.75	160
+28.75	40
+29	40
+29	160
+29.25	160
+29.25	40
+29.5	40
+29.5	160
+29.75	160
+29.75	40
+30	40
+30	160
+30.25	160
+30.25	40
+30.5	40
+30.5	160
+30.75	160
+30.75	40
+31	40
+31	160
+31.25	160
+31.25	40
+31.5	40
+31.5	160
+31.75	160
+31.75	40
+32	40
+32	160
+32.25	160
+32.25	40
+32.5	40
+32.5	160
+32.75	160
+32.75	40
+38	40
+38	170
+38.25	170
+38.25	40
+38.5	40
+38.5	170
+38.75	170
+38.75	40
+39	40
+39	170
+39.25	170
+39.25	40
+39.5	40
+39.5	170
+39.75	170
+39.75	40
+40	40
+40	170
+40.25	170
+40.25	40
+40.5	40
+40.5	170
+40.75	170
+40.75	40
+41	40
+41	170
+41.25	170
+41.25	40
+41.5	40
+41.5	170
+41.75	170
+41.75	40
+42	40
+42	170
+42.25	170
+42.25	40
+42.5	40
+42.5	170
+42.75	170
+42.75	40
+43	40
+43	170
+43.25	170
+43.25	40
+43.5	40
+43.5	170
+43.75	170
+43.75	40
+44	40
+44	170
+44.25	170
+44.25	40
+44.5	40
+44.5	170
+44.75	170
+44.75	40
+45	40
+45	170
+45.25	170
+45.25	40
+45.5	40
+45.5	170
+45.75	170
+45.75	40
+51	40
+51	180
+51.25	180
+51.25	40
+51.5	40
+51.5	180
+51.75	180
+51.75	40
+52	40
+52	180
+52.25	180
+52.25	40
+52.5	40
+52.5	180
+52.75	180
+52.75	40
+53	40
+53	180
+53.25	180
+53.25	40
+53.5	40
+53.5	180
+53.75	180
+53.75	40
+54	40
+54	180
+54.25	180
+54.25	40
+54.5	40
+54.5	180
+54.75	180
+54.75	40
+55	40
+55	180
+55.25	180
+55.25	40
+55.5	40
+55.5	180
+55.75	180
+55.75	40
+56	40
+56	180
+56.25	180
+56.25	40
+56.5	40
+56.5	180
+56.75	180
+56.75	40
+57	40
+57	180
+57.25	180
+57.25	40
+57.5	40
+57.5	180
+57.75	180
+57.75	40
+58	40
+58	180
+58.25	180
+58.25	40
+58.5	40
+58.5	180
+58.75	180
+58.75	40
+65	40
+65	160
+65.25	160
+65.25	40
+65.5	40
+65.5	160
+65.75	160
+65.75	40
+66	40
+66	160
+66.25	160
+66.25	40
+66.5	40
+66.5	160
+66.75	160
+66.75	40
+67	40
+67	160
+67.25	160
+67.25	40
+67.5	40
+67.5	160
+67.75	160
+67.75	40
+68	40
+68	160
+68.25	160
+68.25	40
+68.5	40
+68.5	160
+68.75	160
+68.75	40
+69	40
+69	160
+69.25	160
+69.25	40
+69.5	40
+69.5	160
+69.75	160
+69.75	40
+70	40
+70	160
+70.25	160
+70.25	40
+70.5	40
+70.5	160
+70.75	160
+70.75	40
+71	40
+71	160
+71.25	160
+71.25	40
+71.5	40
+71.5	160
+71.75	160
+71.75	40
+72	40
+72	160
+72.25	160
+72.25	40
+72.5	40
+72.5	160
+72.75	160
+72.75	40
+78	40
+78	170
+78.25	170
+78.25	40
+78.5	40
+78.5	170
+78.75	170
+78.75	40
+79	40
+79	170
+79.25	170
+79.25	40
+79.5	40
+79.5	170
+79.75	170
+79.75	40
+80	40
+80	170
+80.25	170
+80.25	40
+80.5	40
+80.5	170
+80.75	170
+80.75	40
+81	40
+81	170
+81.25	170
+81.25	40
+81.5	40
+81.5	170
+81.75	170
+81.75	40
+82	40
+82	170
+82.25	170
+82.25	40
+82.5	40
+82.5	170
+82.75	170
+82.75	40
+83	40
+83	170
+83.25	170
+83.25	40
+83.5	40
+83.5	170
+83.75	170
+83.75	40
+84	40
+84	170
+84.25	170
+84.25	40
+84.5	40
+84.5	170
+84.75	170
+84.75	40
+85	40
+85	170
+85.25	170
+85.25	40
+85.5	40
+85.5	170
+85.75	170
+85.75	40
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Microburst workout profiles can be a bit scary...	8	0	0	72	16777215	10
+0	but this format is actually a little "friendlier" than you might think	8	0	0	72	16777215	20
+0	Just the same, Gardiner is a tough workout	8	0	0	72	16777215	30
+0	for improvement on a number of levels, but more on that later	8	0	0	72	16777215	40
+0	For now, spin quickly & lightly and get warm	8	0	0	72	16777215	50
+240	2-minute ramp with quick, +85rpm legs	8	0	0	72	16777215	0
+360	Drop your power but keep your leg speed	8	0	0	72	16777215	0
+360	During these practice bursts, home in on a realistic cadence	8	0	0	72	16777215	40
+360	Probably something in the 100-120rpm range	8	0	0	72	16777215	50
+432	Keep your legs just as quick during these short breaks	8	0	0	72	16777215	0
+504	Keep spinning but slow things down & rest up	8	0	0	72	16777215	6
+504	Alright, let's talk microbursts	5	0	0	72	16777215	96
+504	You're initial reaction may be to go as hard as you can...	8	0	0	72	16777215	106
+504	but notice that each of these sets is at a different intensity	8	0	0	72	16777215	116
+504	These aren't all out hammerfest efforts	5	0	0	72	16777215	126
+504	Instead, they offer the option to find out what's repeatable & what's not	8	0	0	72	16777215	136
+504	Your goal for the first few intervals of each set...	8	0	0	72	16777215	146
+504	should be to hit your marks with high precision	8	0	0	72	16777215	156
+504	After you get the precision down, we'll work on other things	8	0	0	72	16777215	166
+504	The key to surviving full sets of microbursts...	8	0	0	72	16777215	176
+504	is quality breathing & lots of leg speed	8	0	0	72	16777215	186
+504	And both extend to the breaks as much as the work intervals	8	0	0	72	16777215	196
+504	Alright, 10 seconds and we're in it	8	0	0	72	16777215	206
+720	Lots of leg speed, relaxed upper body	5	0	0	72	16777215	0
+735	Back off and spin easy but stay quick	8	0	0	72	16777215	0
+750	Fast legs!	3	0	0	72	16777215	0
+765	Still quick, breathe deeply	5	0	0	72	16777215	0
+780	Again!	3	0	0	72	16777215	0
+795	By now you're getting the hang of it, yeah?	8	0	0	72	16777215	0
+825	As you figure out your gearing, you might need to shift more than once	8	0	0	72	16777215	0
+840	Hit it!	3	0	0	72	16777215	0
+855	Shifting multiple times might be necessary in order to hit your marks	8	0	0	72	16777215	0
+885	Either that or a lot of leg speed, probably a combination of both	8	0	0	72	16777215	0
+945	Remember, you don't benefit by working through your rest	8	0	0	72	16777215	0
+1050	Hit your mark every time or skip a burst for extra rest	8	0	0	72	16777215	0
+1185	Nice! Keep spinning, backward for a minute or two if need be	8	0	0	72	16777215	0
+1185	During the rests in between sets like this, feel free to backpedal	8	0	0	72	16777215	10
+1185	Try to keep your legs moving but recovery is the real concern	8	0	0	72	16777215	20
+1185	Use the first 4 intervals of this next set to get your bearings	8	0	0	72	16777215	135
+1185	But while going through the set, focus on breathing	8	0	0	72	16777215	145
+1185	With so little rest, it is easy to find yourself out of breath	8	0	0	72	16777215	155
+1185	So establish a solid rhythm before the set begins	8	0	0	72	16777215	165
+1185	Make sure you take deep breaths, but don't hold your breath	8	0	0	72	16777215	175
+1185	When exhaling, push the old air out with force	8	0	0	72	16777215	185
+1185	Most importantly, don't force yourself to hold the same rhythm	8	0	0	72	16777215	195
+1185	The relentless repetition will require you to breathe faster...	8	0	0	72	16777215	205
+1185	but eventually you'll top out & find a sustainable rhythm	8	0	0	72	16777215	215
+1185	10 seconds left, get ready for a harder set this time	8	0	0	72	16777215	305
+1500	Go! See how 160% repeats treat you	8	0	0	72	16777215	0
+1605	With 4 repeats in your legs, honestly assess your odds	8	0	0	72	16777215	0
+1635	Is this an effort level you can continue to repeat?	8	0	0	72	16777215	0
+1635	If not, drop the Workout Intensity	5	0	0	72	16777215	10
+1665	But if you can repeat these frequently with only an occasional missed burst...	8	0	0	72	16777215	0
+1665	leave things just as they are	5	0	0	72	16777215	10
+1695	The objective is to repeat as many bursts as possible with high quality	8	0	0	72	16777215	0
+1725	Skipping one here & there is fine, but more than 2 per set isn't	8	0	0	72	16777215	0
+1755	You can backpedal through 2 bursts each set but during the third one...	8	0	0	72	16777215	0
+1755	drop the intensity 10%	5	0	0	72	16777215	10
+1785	This will keep you active for more bursts which is your primary goal	8	0	0	72	16777215	0
+1890	Big exhales, really clear the expired air	8	0	0	72	16777215	0
+1965	Nicely done! Take some time to recover, you earned it	8	0	0	72	16777215	0
+1965	Alright, we're going to pick it up even higher this time	8	0	0	72	16777215	75
+1965	Each interval will be at 170% FTP	5	0	0	72	16777215	85
+1965	But once again, this assumes you can repeat these efforts	8	0	0	72	16777215	95
+1965	When you find yourself backpedaling through multiple bursts...	8	0	0	72	16777215	105
+1965	it's time to reevaluate & probably drop the Workout Intensity	8	0	0	72	16777215	115
+1965	Out of 16 repeats per set, you ought to be able to string together...	8	0	0	72	16777215	125
+1965	4 or 5 bursts at a time	8	0	0	72	16777215	135
+1965	If you can't do that, you're way better off dropping watts & repeating more bursts	8	0	0	72	16777215	145
+1965	Now that we've got our breathing down from the last set...	8	0	0	72	16777215	225
+1965	Let's talk about working on cadence	8	0	0	72	16777215	235
+1965	During each interval, strive to keep your cadence at 110rpm or higher	8	0	0	72	16777215	245
+1965	During the rests, keep your spin nearly as quick but comfortable	8	0	0	72	16777215	255
+1965	By keeping your cadence high throughout the set...	8	0	0	72	16777215	275
+1965	you're more likely to avoid flooding your muscles and prolonging your power output	8	0	0	72	16777215	285
+1965	And you won't get bogged down by a surprise burst...	8	0	0	72	16777215	295
+1965	as the breaks magically get shorter & shorter ;-)	8	0	0	72	16777215	305
+2280	Spin! High, steady cadence	5	0	0	72	16777215	0
+2310	Hit that Target Power!	5	0	0	72	16777215	0
+2415	If necessary, you can backpedal for a few seconds during each recovery	8	0	0	72	16777215	0
+2415	But it has to be quick, 5 seconds tops	5	0	0	72	16777215	10
+2430	How's your cadence? Upwards of 100rpm at least?	8	0	0	72	16777215	0
+2550	If your cadence is dropping, trying kicking & pulling slightly harder	8	0	0	72	16777215	0
+2550	Top & bottom of each pedalstroke	5	0	0	72	16777215	10
+2565	No mashing, just one fluid motion with constant pressure	8	0	0	72	16777215	5
+2625	Keep it up, just 4 more bursts!	5	0	0	72	16777215	0
+2715	Keep spinning those legs!	8	0	0	72	16777215	0
+2730	Last one, smooth as silk!	5	0	0	72	16777215	0
+2745	Time to recover, back way off & breeeeeeathe	8	0	0	72	16777215	0
+2745	Backpedal for a bit and relax every muscle you can	8	0	0	72	16777215	10
+2745	Alright, this 4th set is our toughest yet	8	0	0	72	16777215	195
+2745	180% FTP may feel like an all out effort at this point	8	0	0	72	16777215	205
+2745	But once again, repeatable power is the objective	8	0	0	72	16777215	215
+2745	If you can't hit your power or you're bailing more than twice per set...	8	0	0	72	16777215	225
+2745	drop the Workout Intensity to a manageable yet challenging level	8	0	0	72	16777215	255
+2745	And while these pace fluctuations make it easy to "lose yourself" in the effort...	8	0	0	72	16777215	265
+2745	don't let it happen - stay focused, calm & relaxed	8	0	0	72	16777215	275
+2745	Pain faces, no matter how gnarly, don't make you faster ;-)	8	0	0	72	16777215	285
+2745	Work on staying above the effort during this set...	8	0	0	72	16777215	295
+2745	by psychologically "removing" yourself from the discomfort	8	0	0	72	16777215	305
+3060	Go time! Get three in your legs then reassess	8	0	0	72	16777215	0
+3135	How'd those first few go? Can you get 2 or 3 more?	8	0	0	72	16777215	0
+3150	Hit your marks and stay strong	5	0	0	72	16777215	0
+3225	Still ticking off sets of at least 5 at a time? If not...	8	0	0	72	16777215	0
+3225	drop the intensity a full 10%	5	0	0	72	16777215	10
+3270	Even though your legs are spinning at +110rpm...	8	0	0	72	16777215	0
+3270	don't let your upper body show it - strong, smooth, powerful	8	0	0	72	16777215	10
+3390	Keep it up! Final 5 reps	5	0	0	72	16777215	0
+3405	Try to nail each of these final 4, ONE at a time	8	0	0	72	16777215	0
+3435	Excellent, breathe fully & focus on getting through just ONE more	8	0	0	72	16777215	0
+3465	You got this! One more	5	0	0	72	16777215	0
+3480	You're stronger than this workout, remember that	8	0	0	72	16777215	0
+3495	As always, make the final rep look as smooth as the first	8	0	0	72	16777215	0
+3510	So smooth & relaxed that you look bored!	5	0	0	72	16777215	0
+3525	Nice job! Even with an intensity reduction, you're FOUR sets in!	8	0	0	72	16777215	0
+3525	For the next 6 minutes, do whatever it takes to get recovered	8	0	0	72	16777215	10
+3525	Easy breaths, relaxed body, very light spin forward or backward	8	0	0	72	16777215	75
+3525	A smart rider knows when to say when...	8	0	0	72	16777215	345
+3525	and while no one is trying to talk you into taking the easy way out...	8	0	0	72	16777215	355
+3525	learn to recognize when you've crossed the line into unproductivity	8	0	0	72	16777215	365
+3900	These first few reps will let you know which side of that line you're on	8	0	0	72	16777215	0
+3975	Still good? If you're already needing to skip a burst, drop the intensity	8	0	0	72	16777215	0
+4005	If an intensity reduction doesn't do the trick, might be time to call it a day	8	0	0	72	16777215	0
+4035	But if you're still hanging in there, riding well and lasting the full 15 seconds...	8	0	0	72	16777215	0
+4035	continue to gut it out!	5	0	0	72	16777215	10
+4050	Breathing, cadence,  efficiency	8	0	0	72	16777215	0
+4185	Well over halfway, don't hesitate to use an occasional 5-second backpedal	8	0	0	72	16777215	0
+4200	Quick legs, quiet upper body, laser-like focus	8	0	0	72	16777215	0
+4230	Let your shoulders fall, loosen your jaw, don't grind your teeth	8	0	0	72	16777215	0
+4245	Use each brief recovery to ditch all unbeneficial muscle tension	8	0	0	72	16777215	0
+4275	Final three ahead but limit your focus to ONE at a time	8	0	0	72	16777215	0
+4305	Excellent, breathe off the fatigue, stay focused	8	0	0	72	16777215	0
+4320	Tons of control, fatigue never excuses sloppy form	8	0	0	72	16777215	0
+4335	Yup, you got this...make the last one pretty	8	0	0	72	16777215	0
+4350	Smooth as can be!	5	0	0	72	16777215	0
+4365	Well done! Spin easy and catch your breath	8	0	0	72	16777215	0
+4365	Last set, here's where it's truly tough to not let yourself get lazy	8	0	0	72	16777215	285
+4365	Make this one as precise & clean as possible	8	0	0	72	16777215	295
+4365	Ramp up that leg speed & get ready	8	0	0	72	16777215	305
+4680	Find your mark!	8	0	0	72	16777215	0
+4725	Hit your marks during the rests too - precision is key!	8	0	0	72	16777215	0
+4830	Big effort, same easy breathing	8	0	0	72	16777215	0
+4965	Keep those legs spinning, you're over halfway!	8	0	0	72	16777215	0
+5070	Relax your body from your head down	8	0	0	72	16777215	0
+5100	Keep your focus right here, 15 seconds	5	0	0	72	16777215	0
+5115	Get ready to ride the smoothest repeat of this entire workout	8	0	0	72	16777215	0
+5130	Make it pretty!	5	0	0	72	16777215	0
+5145	Awesome job! That is a LOT of work inside of 90 minutes	8	0	0	72	16777215	0
+5145	That's a lot of work period, and you're tougher because of it	8	0	0	72	16777215	10
+5145	You earned some recovery nutrition and plenty of relaxation	8	0	0	72	16777215	20
+5145	Reward yourself & be kind to your muscles for the next day or two...	8	0	0	72	16777215	30
+5145	and we'll see you next time	8	0	0	72	16777215	40
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+240	360	Threshold 1
+420	432	Sprint 1
+456	468	Sprint 2
+492	504	Sprint 3
+720	735	Sprint 4
+750	765	Sprint 5
+780	795	Sprint 6
+810	825	Sprint 7
+840	855	Sprint 8
+870	885	Sprint 9
+900	915	Sprint 10
+930	945	Sprint 11
+960	975	Sprint 12
+990	1005	Sprint 13
+1020	1035	Sprint 14
+1050	1065	Sprint 15
+1080	1095	Sprint 16
+1110	1125	Sprint 17
+1140	1155	Sprint 18
+1170	1185	Sprint 19
+1500	1515	Sprint 20
+1530	1545	Sprint 21
+1560	1575	Sprint 22
+1590	1605	Sprint 23
+1620	1635	Sprint 24
+1650	1665	Sprint 25
+1680	1695	Sprint 26
+1710	1725	Sprint 27
+1740	1755	Sprint 28
+1770	1785	Sprint 29
+1800	1815	Sprint 30
+1830	1845	Sprint 31
+1860	1875	Sprint 32
+1890	1905	Sprint 33
+1920	1935	Sprint 34
+1950	1965	Sprint 35
+2280	2295	Sprint 36
+2310	2325	Sprint 37
+2340	2355	Sprint 38
+2370	2385	Sprint 39
+2400	2415	Sprint 40
+2430	2445	Sprint 41
+2460	2475	Sprint 42
+2490	2505	Sprint 43
+2520	2535	Sprint 44
+2550	2565	Sprint 45
+2580	2595	Sprint 46
+2610	2625	Sprint 47
+2640	2655	Sprint 48
+2670	2685	Sprint 49
+2700	2715	Sprint 50
+2730	2745	Sprint 51
+3060	3075	Sprint 52
+3090	3105	Sprint 53
+3120	3135	Sprint 54
+3150	3165	Sprint 55
+3180	3195	Sprint 56
+3210	3225	Sprint 57
+3240	3255	Sprint 58
+3270	3285	Sprint 59
+3300	3315	Sprint 60
+3330	3345	Sprint 61
+3360	3375	Sprint 62
+3390	3405	Sprint 63
+3420	3435	Sprint 64
+3450	3465	Sprint 65
+3480	3495	Sprint 66
+3510	3525	Sprint 67
+3900	3915	Sprint 68
+3930	3945	Sprint 69
+3960	3975	Sprint 70
+3990	4005	Sprint 71
+4020	4035	Sprint 72
+4050	4065	Sprint 73
+4080	4095	Sprint 74
+4110	4125	Sprint 75
+4140	4155	Sprint 76
+4170	4185	Sprint 77
+4200	4215	Sprint 78
+4230	4245	Sprint 79
+4260	4275	Sprint 80
+4290	4305	Sprint 81
+4320	4335	Sprint 82
+4350	4365	Sprint 83
+4680	4695	Sprint 84
+4710	4725	Sprint 85
+4740	4755	Sprint 86
+4770	4785	Sprint 87
+4800	4815	Sprint 88
+4830	4845	Sprint 89
+4860	4875	Sprint 90
+4890	4905	Sprint 91
+4920	4935	Sprint 92
+4950	4965	Sprint 93
+4980	4995	Sprint 94
+5010	5025	Sprint 95
+5040	5055	Sprint 96
+5070	5085	Sprint 97
+5100	5115	Sprint 98
+5130	5145	Sprint 99
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

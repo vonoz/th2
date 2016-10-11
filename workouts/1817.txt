@@ -1,0 +1,718 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Mary Austin,91,124. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	53
+7	68
+7	95
+8	95
+8	100
+9	100
+9	105
+10	105
+10	40
+15	40
+15	95
+17	95
+17	100
+19	100
+19	105
+21	105
+21	100
+23	100
+23	95
+25	95
+25	40
+26	40
+26	95
+28	95
+28	100
+30	100
+30	105
+32	105
+32	100
+34	100
+34	95
+36	95
+36	40
+41	40
+41	95
+43	95
+43	100
+45	100
+45	105
+47	105
+47	100
+49	100
+49	95
+51	95
+51	40
+52	40
+52	95
+54	95
+54	100
+56	100
+56	105
+58	105
+58	100
+60	100
+60	95
+62	95
+62	40
+67	40
+67	95
+69	95
+69	100
+71	100
+71	105
+73	105
+73	100
+75	100
+75	95
+77	95
+77	40
+78	40
+78	95
+80	95
+80	100
+82	100
+82	105
+84	105
+84	100
+86	100
+86	95
+88	95
+88	40
+90	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Mary Austin	5	0	0	72	16777215	10
+0	Ahead lay 3 sets of stepping intervals...	4	0	0	72	16777215	17
+0	aimed at challenging & later improving your ability...	5	0	0	72	16777215	22
+0	to crank out more watts for extended durations	4	0	0	72	16777215	28
+0	So in training terms...	3	0	0	72	16777215	34
+0	these are all about improving your strength endurance	5	0	0	72	16777215	38
+0	Each interval is also an excellent opportunity...	4	0	0	72	16777215	40
+0	to enhance your mental stamina...	3	0	0	72	16777215	45
+0	since each set of intervals starts only a little below your FTP...	5	0	0	72	16777215	49
+0	already putting you close to your lactic tipping point...	5	0	0	72	16777215	56
+0	where your muscles are accumulating more lactate than they can clear	5	0	0	72	16777215	62
+0	At the same time...	3	0	0	72	16777215	69
+0	other byproducts are welling up...	3	0	0	72	16777215	73
+0	and along with them your muscles become more acidic...	4	0	0	72	16777215	77
+0	then start to burn, then start to revolt	4	0	0	72	16777215	82
+0	Which is what the next 3 steps are about	4	0	0	72	16777215	88
+0	So while the low steps won't result in much discomfort...	5	0	0	72	16777215	94
+0	the middle 3 steps are likely to put you in a bit of bother	5	0	0	72	16777215	100
+0	Welcome to the world of Lactate Tolerance intervals	5	0	0	72	16777215	107
+0	On top of the physical discomfort...	4	0	0	72	16777215	113
+0	comes the added challenge of mentally tolerating...	4	0	0	72	16777215	118
+0	both the pain and the urge to bail out...	4	0	0	72	16777215	123
+0	especially during those downward steps...	4	0	0	72	16777215	128
+0	where the workload appears to be dropping...	4	0	0	72	16777215	133
+0	yet the burning in your thighs remains stubbornly present	5	0	0	72	16777215	138
+0	Visually, the workout tells you it's getting easier...	4	0	0	72	16777215	145
+0	but mounting fatigue assures it won't FEEL any easier	5	0	0	72	16777215	150
+0	Ahhhh the unfairness of hard work	4	0	0	72	16777215	157
+0	But as you learn to keep power to the pedals...	4	0	0	72	16777215	163
+0	while staunchly resisting the temptation to quit...	5	0	0	72	16777215	168
+0	you become incrementally tougher...	4	0	0	72	16777215	174
+0	and, with adequate recovery...	3	0	0	72	16777215	179
+0	physically stronger & capable of more work	5	0	0	72	16777215	183
+0	Enough chit chat for now though	4	0	0	72	16777215	190
+0	Keep your focus on warming up...	4	0	0	72	16777215	196
+0	and do your best to keep your spin quick & light...	5	0	0	72	16777215	201
+0	and preferably upwards of 85rpm	5	0	0	72	16777215	207
+420	With the jump in effort...	4	0	0	72	16777215	0
+420	that quicker cadence becomes more beneficial	5	0	0	72	16777215	5
+420	So try to spin above 85rpm, closer to 95rpm if possible	5	0	0	72	16777215	12
+420	Whichever spin you settle on...	4	0	0	72	16777215	19
+420	make sure it's controllable...	3	0	0	72	16777215	24
+420	(no bouncing or rocking)...	3	0	0	72	16777215	28
+420	and sustainable...	3	0	0	72	16777215	32
+420	since you'll soon try to hold your cadence steady...	4	0	0	72	16777215	36
+420	for 10 minutes at a time	3	0	0	72	16777215	41
+480	Stay on top of your cadence...	4	0	0	72	16777215	0
+480	and do your best to relax	4	0	0	72	16777215	5
+480	Just because you're working hard...	4	0	0	72	16777215	11
+480	doesn't mean you have to show it	4	0	0	72	16777215	16
+480	Be smooth, fluid & relaxed	4	0	0	72	16777215	22
+540	One more bump, this time above your FTP	4	0	0	72	16777215	0
+540	Try to maintain that same easygoing appearance...	5	0	0	72	16777215	6
+540	and hide the work as you pedal fluidly	5	0	0	72	16777215	12
+600	Ease up but keep those pedals ticking over	5	0	0	72	16777215	0
+600	If you managed to keep your spin reasonably steady...	5	0	0	72	16777215	7
+600	during each of those warming steps...	4	0	0	72	16777215	13
+600	then you've probably landed on a workable cadence	4	0	0	72	16777215	18
+600	But if that short, 3-minute effort dragged down your leg speed...	5	0	0	72	16777215	24
+600	you might need a quicker starting spin...	4	0	0	72	16777215	30
+600	a little more focus over the course of each interval...	5	0	0	72	16777215	35
+600	or perhaps even a temporary reduction in Workout Intensity...	5	0	0	72	16777215	41
+600	during this first 10-minute interval	4	0	0	72	16777215	47
+600	It's better to back things off a little early on...	4	0	0	72	16777215	53
+600	than to blow yourself up and suffer needlessly later...	4	0	0	72	16777215	58
+600	especially with so much "opportunity for improvement" ahead	5	0	0	72	16777215	63
+600	Which is honestly what each of these is!	4	0	0	72	16777215	70
+600	Intervals beat you down, they wear you out...	5	0	0	72	16777215	76
+600	and it takes a certain kind of individual to endure them...	5	0	0	72	16777215	82
+600	but without this form of self-abuse...	4	0	0	72	16777215	88
+600	this willingness to push yourself...	4	0	0	72	16777215	93
+600	whether in the pursuit of increased capabilities...	4	0	0	72	16777215	98
+600	or simply with the goal of feeling & looking better...	5	0	0	72	16777215	103
+600	improvement would come slowly if it came at all	5	0	0	72	16777215	109
+600	Pushing boundaries, exploring limits...	4	0	0	72	16777215	116
+600	and redefining both is perhaps the most direct path...	5	0	0	72	16777215	121
+600	to becoming a stronger, tougher athlete	4	0	0	72	16777215	127
+600	There are other ways to improve strength & endurance...	4	0	0	72	16777215	133
+600	but there aren't many that do it quite as well as indoor intervals	5	0	0	72	16777215	138
+600	The work is concentrated, focused...	4	0	0	72	16777215	145
+600	and free of so many distractions that can detract from a workout...	5	0	0	72	16777215	150
+600	that your excuses for poor performance become pretty limited	5	0	0	72	16777215	156
+600	But we'll talk more about those later...	4	0	0	72	16777215	163
+600	and reserve right now for a bit more detail on what's ahead	5	0	0	72	16777215	168
+600	These intervals split focus between your ability to create torque...	5	0	0	72	16777215	175
+600	(basically how hard you can turn the pedals)...	5	0	0	72	16777215	181
+600	and your ability to keep doing it	4	0	0	72	16777215	187
+600	So they address strength & endurance simultaneously...	4	0	0	72	16777215	193
+600	seeking to improve your ability to ride harder for longer	5	0	0	72	16777215	198
+600	By pushing your muscles past the point of sustainable work...	5	0	0	72	16777215	205
+600	a clear message is sent to your muscles, heart, brain...	5	0	0	72	16777215	211
+600	that your current capabilities...	3	0	0	72	16777215	217
+600	are insufficient & need to grow	4	0	0	72	16777215	221
+600	Delivered properly, these "messages" spur adaptations...	5	0	0	72	16777215	227
+600	that lead to stronger muscles, better oxygen delivery...	4	0	0	72	16777215	233
+600	improved waste removal & reutilization...	4	0	0	72	16777215	238
+600	and numerous other training adaptations...	4	0	0	72	16777215	243
+600	that WILL make you a better athlete...	4	0	0	72	16777215	248
+600	when you allow your body sufficient downtime between workouts	5	0	0	72	16777215	253
+600	So work hard, rest adequately, and don't overdo either...	5	0	0	72	16777215	260
+600	and you'll see steady, measurable improvments in performance	5	0	0	72	16777215	266
+600	Specific to the work ahead...	3	0	0	72	16777215	273
+600	you'll grow your FTP...	3	0	0	72	16777215	277
+600	as well as the lengths of time you can sustain...	4	0	0	72	16777215	281
+600	high percentages of that Functional Threshold Power	5	0	0	72	16777215	286
+600	So let's get started!	4	0	0	72	16777215	293
+900	As you settle in to this first interval...	4	0	0	72	16777215	0
+900	do a couple of things:	3	0	0	72	16777215	5
+900	1 - Anchor your sit-bones on your saddle	5	0	0	72	16777215	10
+900	Try to feel your weight between your hands, your feet...	5	0	0	72	16777215	17
+900	and the bones in your backside pretty evenly	5	0	0	72	16777215	23
+900	2 - Draw & clear your breaths with your belly	5	0	0	72	16777215	30
+900	Get in touch with using your diaphragm...	4	0	0	72	16777215	37
+900	to both fill & clear your lungs..	4	0	0	72	16777215	42
+900	by actively distending & narrowing your belly	5	0	0	72	16777215	47
+900	3 - Try to keep your spin steady...	4	0	0	72	16777215	54
+900	and preferably above 85rpm	4	0	0	72	16777215	59
+1020	Just a little more effort...	4	0	0	72	16777215	0
+1020	but no visible difference in how you're riding	5	0	0	72	16777215	5
+1020	Just because you're working harder...	4	0	0	72	16777215	12
+1020	doesn't mean you have to show it	4	0	0	72	16777215	17
+1020	So same cadence, same relaxed upper body...	4	0	0	72	16777215	23
+1020	and probably some slightly stronger breathing	5	0	0	72	16777215	28
+1020	Check to make sure your sit-bones didn't come unhitched...	5	0	0	72	16777215	35
+1020	and relax your grip on the bars	4	0	0	72	16777215	41
+1020	Keep those steady, belly-driven breaths flowing...	5	0	0	72	16777215	60
+1020	and help your muscles stay ahead of the burn	5	0	0	72	16777215	66
+1140	Without slowing your spin...	4	0	0	72	16777215	0
+1140	put a little added emphasis into your kick & pull	5	0	0	72	16777215	5
+1140	Just think of unburdening your quads a bit...	4	0	0	72	16777215	12
+1140	by kicking foward...	3	0	0	72	16777215	17
+1140	over the top of each pedalstroke...	3	0	0	72	16777215	21
+1140	and pulling backward...	3	0	0	72	16777215	25
+1140	across the bottom of each revolution...	4	0	0	72	16777215	29
+1140	just slightly harder than usual	4	0	0	72	16777215	34
+1140	No visible change in the way you look...	4	0	0	72	16777215	40
+1140	but a slight sense of relief in your thighs	4	0	0	72	16777215	45
+1140	And keep your grip loose, elbows soft, shoulders low	5	0	0	72	16777215	51
+1140	Halfway! Keep your cadence steady	5	0	0	72	16777215	60
+1140	It's still early in the workout...	4	0	0	72	16777215	67
+1140	so you might not be dealing with much of a burn yet...	5	0	0	72	16777215	72
+1140	(or your legs might already be on fire)...	4	0	0	72	16777215	78
+1140	but regardless of any discomfort...	3	0	0	72	16777215	83
+1140	hide the work & make this look easy	4	0	0	72	16777215	87
+1140	And if your legs ARE welling up a bit...	4	0	0	72	16777215	93
+1140	add some extra effort to your exhales	4	0	0	72	16777215	98
+1140	Think of it as breathing off the used air	4	0	0	72	16777215	104
+1140	There's never really a bad time...	3	0	0	72	16777215	110
+1140	to focus on the quality of your breathing...	4	0	0	72	16777215	114
+1260	but it's especially useful during heavier efforts...	8	0	0	72	16777215	0
+1260	especially sustained ones	3	0	0	72	16777215	9
+1260	And these certainly qualify	3	0	0	72	16777215	14
+1260	In fact, "sustained" is really the name of the game...	4	0	0	72	16777215	19
+1260	because the goal is to establish a burn, some flooding...	5	0	0	72	16777215	24
+1260	and then gradually work through it...	4	0	0	72	16777215	30
+1260	while sustaining your Power...	3	0	0	72	16777215	35
+1260	sustaining your cadence...	3	0	0	72	16777215	39
+1260	sustaining your relaxed body & fluid pedaling...	4	0	0	72	16777215	43
+1260	even sustaining your anchored sit-bones	4	0	0	72	16777215	48
+1260	Be smooth & relaxed for another minute...	4	0	0	72	16777215	60
+1260	and patiently wait to drop below FTP again	4	0	0	72	16777215	65
+1260	Don't let the burn discourage you...	4	0	0	72	16777215	71
+1260	because while it's unpleasant...	3	0	0	72	16777215	76
+1260	it's not enough overload to bury you inside a couple minutes	5	0	0	72	16777215	80
+1260	Become increasingly familiar with this uncomfortable sensation...	5	0	0	72	16777215	87
+1260	and learn to see it as an effect of working hard...	5	0	0	72	16777215	93
+1260	rather than an excuse to ease up	4	0	0	72	16777215	99
+1380	Just a couple more minutes of focus...	4	0	0	72	16777215	0
+1380	and again, no visible change in appearance	4	0	0	72	16777215	5
+1380	Try to make it look as easy as a gradual warmup...	5	0	0	72	16777215	11
+1380	even if your legs are clearing frustratingly slowly	5	0	0	72	16777215	17
+1380	Final minute of riding off that burn...	5	0	0	72	16777215	60
+1380	and staying fluid & relaxed in the process	4	0	0	72	16777215	66
+1380	Hands still loose? Elbows soft?	4	0	0	72	16777215	72
+1380	How about your position on the saddle?	4	0	0	72	16777215	78
+1380	Try to keep your hip girdle pretty level...	4	0	0	72	16777215	84
+1380	and avoid the tendency to tip forward as fatigue sets in	5	0	0	72	16777215	89
+1500	Quick break, breathe deeply & relax	5	0	0	72	16777215	0
+1500	If necessary...	3	0	0	72	16777215	7
+1500	spin backward for 20-30 seconds and shed some accumulation...	5	0	0	72	16777215	11
+1500	whenever you recognize the need	4	0	0	72	16777215	17
+1500	Might not be necessary this early on...	4	0	0	72	16777215	23
+1500	but keep this recovery method in mind	4	0	0	72	16777215	28
+1500	as the intervals & sets start to stack up	4	0	0	72	16777215	33
+1500	Pedaling foward again, 85rpm or higher	5	0	0	72	16777215	40
+1560	With one in the pocket...	3	0	0	72	16777215	0
+1560	try to improve matters a little this time	5	0	0	72	16777215	4
+1560	If your cadence was too slow (too quick?)...	5	0	0	72	16777215	11
+1560	to sustain for the entire 10 minutes, tweak it	5	0	0	72	16777215	17
+1560	If your Power was erratic during the upper steps...	5	0	0	72	16777215	24
+1560	focus more on a "rounder" pedalstroke	4	0	0	72	16777215	30
+1560	If you became increasingly tense as the interval progressed...	5	0	0	72	16777215	36
+1560	pay extra attention to staying relaxed	4	0	0	72	16777215	42
+1560	And if you feel you rode it perfectly...	4	0	0	72	16777215	48
+1560	try to do it again	3	0	0	72	16777215	53
+1680	Keep your cadence steady, body relaxed...	4	0	0	72	16777215	0
+1680	and consider a slightly harder kick & pull	4	0	0	72	16777215	5
+1680	With just a little more effort than usual...	4	0	0	72	16777215	11
+1680	kick over the top, pull across the bottom	5	0	0	72	16777215	16
+1680	Might surprise you...	3	0	0	72	16777215	23
+1680	that such a small change in pedal emphasis...	4	0	0	72	16777215	27
+1680	can bring such a measurable change in Power	4	0	0	72	16777215	32
+1680	Probably SMOOTHER power too	3	0	0	72	16777215	38
+1680	And anytime your effort rises...	4	0	0	72	16777215	43
+1680	remind yourself to stay relaxed	4	0	0	72	16777215	48
+1680	Too often...	2	0	0	72	16777215	54
+1680	a bump in workload brings a rise in overall body tension...	5	0	0	72	16777215	57
+1680	that's counter to everything we're after	4	0	0	72	16777215	63
+1800	Work just a little harder...	4	0	0	72	16777215	0
+1800	but don't show it	3	0	0	72	16777215	5
+1800	It might take a few seconds before the effort feels harder...	5	0	0	72	16777215	10
+1800	or it might be apparent RIGHT away	4	0	0	72	16777215	16
+1800	In either case, brace for it...	3	0	0	72	16777215	22
+1800	and don't let it affect your fluid, relaxed riding style	5	0	0	72	16777215	26
+1800	Halfway, time to work your way back out	5	0	0	72	16777215	60
+1800	As you do, check your saddle position...	4	0	0	72	16777215	67
+1800	and make sure you aren't rocking side to side	4	0	0	72	16777215	72
+1800	Also make sure you aren't tipped forward...	4	0	0	72	16777215	78
+1800	onto your pubic bone, floating your sit-bones	4	0	0	72	16777215	83
+1920	Stay reasonably quick & fluid...	4	0	0	72	16777215	0
+1920	and try to eliminate as much upper body motion as possible	5	0	0	72	16777215	5
+1920	The more stable you are on the saddle...	4	0	0	72	16777215	12
+1920	the more power you can create from the hips down...	4	0	0	72	16777215	17
+1920	without incorporating your upper body...	4	0	0	72	16777215	22
+1920	needlessly into the situation	3	0	0	72	16777215	27
+1920	There will be times when some upper body contribution is mertied...	5	0	0	72	16777215	32
+1920	but this is not one of them	3	0	0	72	16777215	38
+1920	So ditch the upper body movement...	4	0	0	72	16777215	43
+1920	and save some energy in the process...	4	0	0	72	16777215	48
+1920	while also reducing your aero impact	4	0	0	72	16777215	53
+1920	Riders who waver side to side...	4	0	0	72	16777215	59
+1920	or bob their heads around...	3	0	0	72	16777215	64
+1920	are effectively reducing their aerodynamics	4	0	0	72	16777215	68
+1920	This might not be a big deal grinding slowly up a steep grade...	5	0	0	72	16777215	74
+1920	but it is when you're flying down a flatter road	5	0	0	72	16777215	80
+1920	But regardless of grade or speed...	4	0	0	72	16777215	87
+1920	undesirable habits...	2	0	0	72	16777215	92
+1920	will become part of your riding style if you let them	4	0	0	72	16777215	95
+2040	Legs are probably pretty heavy...	4	0	0	72	16777215	0
+2040	but that's no excuse to slack off	4	0	0	72	16777215	5
+2040	Keep that fairly quick spin...	4	0	0	72	16777215	11
+2040	and patiently await the relief that WILL come	5	0	0	72	16777215	16
+2040	Just focus on your breathing...	3	0	0	72	16777215	23
+2040	and keep your thoughts on the positive side of things	4	0	0	72	16777215	27
+2040	You might even try smiling	3	0	0	72	16777215	33
+2040	As unnatural as it may feel in the moment...	4	0	0	72	16777215	38
+2040	it can have a powerful effect on your mindset	5	0	0	72	16777215	43
+2040	Final minute of focus & smooth Power	5	0	0	72	16777215	60
+2040	Relax everything that doesn't help you power the bike...	5	0	0	72	16777215	67
+2040	and make it look easy for less than a minute	5	0	0	72	16777215	73
+2160	Way to earn 5 minutes of recovery	5	0	0	72	16777215	0
+2160	Keep your legs moving for as much of this valley as you can...	5	0	0	72	16777215	7
+2160	and we'll chat a minute before round 2	5	0	0	72	16777215	13
+2160	News to no one...	4	0	0	72	16777215	240
+2160	stepping down is at least as demanding as stepping up	5	0	0	72	16777215	245
+2160	Even though the workload is on the decline...	5	0	0	72	16777215	252
+2160	the fatigue grows & grows	3	0	0	72	16777215	258
+2160	But this is the aim of efforts like these...	4	0	0	72	16777215	263
+2160	and manageable muscle fatigue & burning accumulation...	5	0	0	72	16777215	268
+2160	is an outright goal during each interval	4	0	0	72	16777215	274
+2160	So try to make peace with this objective...	4	0	0	72	16777215	280
+2160	and don't let the intended suffering intimidate you	5	0	0	72	16777215	285
+2160	It hurts, but it's entirely purposeful	4	0	0	72	16777215	292
+2460	Bring it up, 85-95rpm or higher...	4	0	0	72	16777215	0
+2460	as long as you can sustain it smoothly	5	0	0	72	16777215	5
+2460	As you adjust to the workload...	4	0	0	72	16777215	60
+2460	you might notice greater fatigue earlier on	4	0	0	72	16777215	65
+2460	A lot of this stems from the recovery valley though...	5	0	0	72	16777215	71
+2460	and will soon pass - just be patient	4	0	0	72	16777215	77
+2460	Optional drill coming up...	4	0	0	72	16777215	150
+2460	where you'll get out of the saddle for 10 pedalstrokes...	5	0	0	72	16777215	155
+2460	at the top of each step	4	0	0	72	16777215	161
+2460	If you plan to stand...	3	0	0	72	16777215	167
+2460	slow your cadence a little bit...	3	0	0	72	16777215	171
+2460	and get ready to rise	3	0	0	72	16777215	175
+2580	Come on up, count one knee 10 times...	5	0	0	72	16777215	0
+2580	then gracefully have a seat & resume your seated cadence	5	0	0	72	16777215	6
+2580	Then consider a slightly more active upstroke	5	0	0	72	16777215	13
+2580	At least try to unweight each knee...	4	0	0	72	16777215	19
+2580	as your leg travels upward during that back quadrant	5	0	0	72	16777215	24
+2580	The driving leg already has enough to contend with...	5	0	0	72	16777215	31
+2580	without carrying dead weight as well	4	0	0	72	16777215	37
+2580	Juggle that soccer ball...	3	0	0	72	16777215	43
+2580	or simply take weight off your foot...	4	0	0	72	16777215	47
+2580	but make it a conscious action...	4	0	0	72	16777215	52
+2580	anytime you really start to "notice" your quads	5	0	0	72	16777215	57
+2580	Even better...	3	0	0	72	16777215	64
+2580	try to preempt the fatigue in your quads...	4	0	0	72	16777215	68
+2580	by increasing the rest of your pedalstroke's contribution...	4	0	0	72	16777215	73
+2580	when the Target power rises	3	0	0	72	16777215	78
+2580	Start slowing your spin if you plan to rise...	4	0	0	72	16777215	103
+2580	and put your cadence somewhere in the 60-70rpm range...	5	0	0	72	16777215	110
+2580	unless a quicker standing spin suits you	4	0	0	72	16777215	114
+2700	Come on up & stay light on your hands...	5	0	0	72	16777215	0
+2700	then have a seat at 10 pedalstrokes	5	0	0	72	16777215	6
+2700	One you're back in the saddle...	4	0	0	72	16777215	13
+2700	gradually or quickly resume your seated cadence...	5	0	0	72	16777215	18
+2700	depending on how drastically your legs light up	5	0	0	72	16777215	24
+2700	These drills basically make a tough interval tougher...	5	0	0	72	16777215	31
+2700	but they're really practical and worth the effort	5	0	0	72	16777215	37
+2700	Unless they put you in a spot...	4	0	0	72	16777215	44
+2700	where you can't reestablish your Target Power	4	0	0	72	16777215	49
+2700	So skip the drills if they're taking too great a toll	5	0	0	72	16777215	55
+2700	On the way back out! Stay positive...	5	0	0	72	16777215	62
+2700	and patiently work through the pain	5	0	0	72	16777215	68
+2700	This too shall pass, right?	4	0	0	72	16777215	75
+2700	Anytime you find yourself taking things a bit too seriously...	5	0	0	72	16777215	84
+2700	try to remember that you're riding a bike	5	0	0	72	16777215	90
+2700	It's easy to get caught up in the numbers...	4	0	0	72	16777215	97
+2700	the goals, the objectives, the training...	4	0	0	72	16777215	102
+2700	and lose sight of the fact that this stuff is FUN	5	0	0	72	16777215	107
+2700	Get ready to rise if you can do it well	4	0	0	72	16777215	114
+2820	Stay relaxed & count 10 on one knee...	5	0	0	72	16777215	0
+2820	then have a seat & rekindle that spin	4	0	0	72	16777215	6
+2820	Stay positive & try to keep things in perspective...	5	0	0	72	16777215	12
+2820	annnd be patient, 'cause this "fun" stuff can hurt	5	0	0	72	16777215	18
+2820	It hurts less if you keep drawing those belly-breaths though	5	0	0	72	16777215	25
+2820	And you can always duck out for a quick...	4	0	0	72	16777215	32
+2820	10-second backpedal IF you get overwhelmed	4	0	0	72	16777215	37
+2820	This means spinning backward for no more than 10 seconds...	5	0	0	72	16777215	43
+2820	if you reach a point where a break...	4	0	0	72	16777215	49
+2820	is the only thing that will save your interval	4	0	0	72	16777215	54
+2820	A falling cadence that you simply can't lift qualifies	5	0	0	72	16777215	60
+2820	Muscles fatigued to the point of cramping certainly qualifies	5	0	0	72	16777215	67
+2820	So does tunneling vision	3	0	0	72	16777215	74
+2820	But be honest with yourself...	4	0	0	72	16777215	79
+2820	and be demanding too	3	0	0	72	16777215	84
+2820	Shortcuts & easy exits don't build better athletes	5	0	0	72	16777215	89
+2820	Neither do excuses	3	0	0	72	16777215	96
+2820	If you're going to stand one more time...	4	0	0	72	16777215	101
+2820	start slowing your spin back down	4	0	0	72	16777215	106
+2820	Weight stays on the pedals...	3	0	0	72	16777215	112
+2820	hands stay light	3	0	0	72	16777215	116
+2940	Rise with control, count 10 revolutions...	5	0	0	72	16777215	1
+2940	and gracefully return to the saddle...	4	0	0	72	16777215	6
+2940	and your seated cadence	3	0	0	72	16777215	11
+2940	Be patient and that burn will start to dissipate...	5	0	0	72	16777215	16
+2940	as you work through the pain...	4	0	0	72	16777215	22
+2940	rather than succumbing to it	3	0	0	72	16777215	27
+2940	Final minute on your way to the halfway point...	5	0	0	72	16777215	60
+2940	which can be both encouraging...	4	0	0	72	16777215	66
+2940	or a bit of a downer depending how you feel	4	0	0	72	16777215	71
+2940	But regardless...	2	0	0	72	16777215	77
+2940	a short break is just ahead...	4	0	0	72	16777215	80
+2940	so hang in there	3	0	0	72	16777215	85
+3060	Good! Draw some full, belly-breaths...	5	0	0	72	16777215	0
+3060	and gradually make them bigger, slower breaths...	5	0	0	72	16777215	6
+3060	as your heart rate starts to drop a bit	4	0	0	72	16777215	12
+3060	Do your best to keep your legs turning...	4	0	0	72	16777215	18
+3060	even if some of it's done spinning backwards	4	0	0	72	16777215	23
+3060	Pedaling foward, upwards of 85rpm...	4	0	0	72	16777215	40
+3060	and super excited about rounding out this second round, right?	5	0	0	72	16777215	45
+3060	Set your spin, drop your shoulders...	3	0	0	72	16777215	52
+3060	anchor your sit-bones & relax	3	0	0	72	16777215	56
+3120	Back at it with a couple minutes of reacclimation	5	0	0	72	16777215	1
+3120	If you find yourself getting a little discouraged...	5	0	0	72	16777215	8
+3120	by the amount of work still ahead...	4	0	0	72	16777215	14
+3120	try to limit your focus to this 2 minutes	5	0	0	72	16777215	19
+3120	No sense in diluting your concentration...	4	0	0	72	16777215	26
+3120	with concerns that extend beyond this single step	5	0	0	72	16777215	31
+3120	So make your goals small, manageable & incremental...	5	0	0	72	16777215	38
+3120	and don't give much thought to the next one...	4	0	0	72	16777215	44
+3120	until you're nearly done with this one	4	0	0	72	16777215	49
+3120	Another minute of focusing on THIS step only	5	0	0	72	16777215	60
+3120	Sit-bones still down, upper body still relaxed	5	0	0	72	16777215	67
+3120	This time, the optional drill...	4	0	0	72	16777215	90
+3120	is a 30-second spin-up at the start of each step	5	0	0	72	16777215	95
+3120	When the Target climbs...	3	0	0	72	16777215	102
+3120	simply raise your cadence for 30 seconds	4	0	0	72	16777215	106
+3120	How much you raise it is up to you	5	0	0	72	16777215	112
+3240	Pick it up!	4	0	0	72	16777215	0
+3240	Add 3 rpm, add 20 rpm, it's up to you...	5	0	0	72	16777215	6
+3240	but try to keep it for 30 seconds...	4	0	0	72	16777215	12
+3240	without letting it cripple your performance...	4	0	0	72	16777215	17
+3240	over the remainder of each step	4	0	0	72	16777215	22
+3240	Ease off the leg speed a bit & settle in	5	0	0	72	16777215	30
+3240	Draw a few bigger-than-usual breaths...	5	0	0	72	16777215	37
+3240	and try to bring your breathing & HR down slightly	5	0	0	72	16777215	43
+3360	A little more leg speed for 30 seconds...	5	0	0	72	16777215	0
+3360	but keep things just as smooth & relaxed	4	0	0	72	16777215	6
+3360	In fact, the quicker you spin...	4	0	0	72	16777215	12
+3360	make things even MORE smooth & relaxed	5	0	0	72	16777215	17
+3360	Bring your cadence back to normal...	4	0	0	72	16777215	30
+3360	and focus on your breathing for a minute	4	0	0	72	16777215	35
+3360	Feel your belly distend, really pooch out...	4	0	0	72	16777215	41
+3360	each time you fill your lungs	4	0	0	72	16777215	46
+3360	Then draw your entire abdominal wall inward...	4	0	0	72	16777215	52
+3360	and actively clear out that used air	4	0	0	72	16777215	57
+3360	Pretty rapidly of course...	3	0	0	72	16777215	63
+3360	but no less actively	3	0	0	72	16777215	67
+3360	Be in charge of your breathing...	4	0	0	72	16777215	72
+3360	rather than waiting until it's too late	4	0	0	72	16777215	77
+3360	Think of staying ahead of your oxygen demand...	5	0	0	72	16777215	83
+3360	especially when you know full well what's coming	5	0	0	72	16777215	89
+3480	Be quicker for 30 seconds if you can...	4	0	0	72	16777215	0
+3480	and try to competently get through...	4	0	0	72	16777215	5
+3480	what might be the hardest part of these intervals	5	0	0	72	16777215	10
+3480	Ditch the quicker spin early if necessary...	4	0	0	72	16777215	17
+3480	and make Power the priority	4	0	0	72	16777215	22
+3480	Spin more naturally, above 85rpm...	4	0	0	72	16777215	30
+3480	and take things 30 seconds at a time	4	0	0	72	16777215	35
+3480	Next 30 seconds of patiently abiding the pain...	5	0	0	72	16777215	60
+3480	without allowing it to call the shots	4	0	0	72	16777215	66
+3480	YOU'RE in charge here...	3	0	0	72	16777215	72
+3480	and YOU decide how things will go	5	0	0	72	16777215	76
+3480	Don't let the intensity or the pain guide your workout...	5	0	0	72	16777215	83
+3480	rather decide, consciously, to push on	5	0	0	72	16777215	89
+3480	-I can do this	3	0	0	72	16777215	96
+3600	Once more, a quick 30 seconds	4	0	0	72	16777215	0
+3600	Spin off that fatigue...	4	0	0	72	16777215	6
+3600	and breathe out the waste	4	0	0	72	16777215	11
+3600	Another 30 seconds of focus...	4	0	0	72	16777215	30
+3600	and anchored sit-bones, stable hips	5	0	0	72	16777215	35
+3600	Next 30 seconds of steady Power...	4	0	0	72	16777215	60
+3600	and fluid, relaxed pedaling	4	0	0	72	16777215	65
+3600	Just 30 more seconds of making it look easy	5	0	0	72	16777215	90
+3600	Ditch the pain-face...	3	0	0	72	16777215	97
+3600	drop your shoulders...	3	0	0	72	16777215	101
+3600	quiet your upper body even more	4	0	0	72	16777215	105
+3720	Nicely done! Spin out the heaviness	5	0	0	72	16777215	0
+3720	Still one more set left...	4	0	0	72	16777215	7
+3720	so take advantage of the down time...	4	0	0	72	16777215	12
+3720	and do whatever's necessary to rest up a bit	5	0	0	72	16777215	17
+3720	Again, it's best to keep moving...	4	0	0	72	16777215	24
+3720	but that can involve backspinning...	4	0	0	72	16777215	29
+3720	some light stretching, a trip to the bathroom maybe...	5	0	0	72	16777215	35
+3720	but keep the muscles firing, the blood circulating	5	0	0	72	16777215	41
+3720	We'll touch base in about 3 minutes	5	0	0	72	16777215	48
+3720	As is so often the case...	4	0	0	72	16777215	240
+3720	the final round is about damage control	4	0	0	72	16777215	245
+3720	This won't be your freshest, most rested round...	4	0	0	72	16777215	251
+3720	but there's nothing to say it can't be your best	5	0	0	72	16777215	256
+3720	Continue consciously working to rise above the pain...	5	0	0	72	16777215	263
+3720	recognizing that while it demands to be acknowledged...	5	0	0	72	16777215	269
+3720	you decide HOW to acknowledge it	4	0	0	72	16777215	275
+3720	You can focus on it, dread it, let it own you...	5	0	0	72	16777215	281
+3720	or you can see it for what it is...	4	0	0	72	16777215	287
+3720	just another sensation that accompanies hard work	5	0	0	72	16777215	292
+4020	A strong, very persuasive sensation sometimes...	5	0	0	72	16777215	0
+4020	but no matter the severity...	3	0	0	72	16777215	6
+4020	how you react to it is almost always your decision	5	0	0	72	16777215	10
+4020	And just like you build a body capable of hard work...	5	0	0	72	16777215	17
+4020	you can condition your mind in much the same way	5	0	0	72	16777215	23
+4020	By subjecting yourself to gradually greater degrees of discomfort...	5	0	0	72	16777215	30
+4020	you mirror that same dose & effect response...	4	0	0	72	16777215	36
+4020	that happens with interval training	4	0	0	72	16777215	41
+4020	Push your boundaries a bit...	3	0	0	72	16777215	47
+4020	(physically or mentally)...	3	0	0	72	16777215	51
+4020	and those boundaries stretch a little	4	0	0	72	16777215	55
+4020	Over time, they expand...	4	0	0	72	16777215	61
+4020	and what was once painfully intolerable...	4	0	0	72	16777215	66
+4020	is familiar, manageable & sustainable	4	0	0	72	16777215	71
+4020	Body gets stronger, mind gets tougher	5	0	0	72	16777215	77
+4020	And you become a more formidable, capable athlete	4	0	0	72	16777215	84
+4020	This is real, inarguably so	4	0	0	72	16777215	90
+4140	The best athletes aren't always the fittest...	4	0	0	72	16777215	0
+4140	but they are always amongst the toughest	4	0	0	72	16777215	5
+4140	This isn't to underplay the importance of fitness...	5	0	0	72	16777215	11
+4140	or overcredit the power of mental fortitude...	4	0	0	72	16777215	17
+4140	rather it's a way to help you see pain...	4	0	0	72	16777215	22
+4140	as something necessary & useful...	3	0	0	72	16777215	27
+4140	as you narrow the gap between the athlete you are now...	5	0	0	72	16777215	31
+4140	and the athlete you're capable of becoming	5	0	0	72	16777215	37
+4140	Few will ever reach their potential as an athlete...	5	0	0	72	16777215	44
+4140	blame it on a hundred different reasons, limitations, priorities	5	0	0	72	16777215	50
+4140	But the ones who get the closest...	4	0	0	72	16777215	57
+4140	are the ones who make pain their friend	4	0	0	72	16777215	61
+4140	So buddy up...	3	0	0	72	16777215	68
+4140	and start changing the nature of your relationship with suffering	5	0	0	72	16777215	72
+4260	Time to get downright CHUMMY with the hurt	5	0	0	72	16777215	0
+4260	This doesn't have to suck...	4	0	0	72	16777215	7
+4260	but it does have to hurt	4	0	0	72	16777215	12
+4260	But it's one of many opportunities...	4	0	0	72	16777215	18
+4260	that we at TrainerRoad are happy to offer...	4	0	0	72	16777215	23
+4260	on your path to optimizing your pain management skills	5	0	0	72	16777215	28
+4260	You're welcome	3	0	0	72	16777215	35
+4260	On the backside of this one...	4	0	0	72	16777215	60
+4260	hang in there!	3	0	0	72	16777215	65
+4260	See if you've got any tension to dispense with...	5	0	0	72	16777215	70
+4260	starting with your hands	3	0	0	72	16777215	76
+4260	An overly tight grip carries...	4	0	0	72	16777215	81
+4260	and can result in needless, nonbeneficial tension...	4	0	0	72	16777215	85
+4260	in places you'd never imagine	3	0	0	72	16777215	90
+4260	So loosen that grip...	3	0	0	72	16777215	95
+4260	and hold your bars as though they're made of clay	5	0	0	72	16777215	99
+4260	That gives the green light to soften up your shoulders...	5	0	0	72	16777215	106
+4260	which in turn creates room to drop your shoulders	5	0	0	72	16777215	112
+4380	Don't stop now though...	4	0	0	72	16777215	0
+4380	let go of the tension in your jaw & face too	5	0	0	72	16777215	5
+4380	Back of the neck tight? You bet it is	5	0	0	72	16777215	12
+4380	Reach your head away from your body...	4	0	0	72	16777215	19
+4380	then relax that reach a little...	4	0	0	72	16777215	24
+4380	and tip your head down, eyes up	4	0	0	72	16777215	29
+4380	As you let each bit of unproductive tension go...	5	0	0	72	16777215	35
+4380	draw a couple fuller breaths as you do it	5	0	0	72	16777215	41
+4380	Your breaths are probably coming pretty rapidly...	5	0	0	72	16777215	48
+4380	but that needn't prevent them from being full ones	5	0	0	72	16777215	54
+4380	Pooch the belly, narrow the belly, repeat	5	0	0	72	16777215	61
+4500	2 more minutes of patience...	4	0	0	72	16777215	0
+4500	and fluid grace	3	0	0	72	16777215	5
+4500	Make it look easy, make it look "pretty"...	4	0	0	72	16777215	10
+4500	and do it without sacrificing an ounce of Power or form	5	0	0	72	16777215	15
+4500	30 more seconds of focus	4	0	0	72	16777215	30
+4500	Low shoulders, loose grip	4	0	0	72	16777215	36
+4500	Another 30 seconds of seemingly effortless Power	5	0	0	72	16777215	60
+4500	Head down, eyes up...	3	0	0	72	16777215	67
+4500	sit-bones firmly & evenly weighted	4	0	0	72	16777215	71
+4500	Final 30 seconds of a calm upper body...	4	0	0	72	16777215	90
+4500	and those fluid pedaling mechanics	4	0	0	72	16777215	95
+4620	Excellent, spin off the accumulation...	4	0	0	72	16777215	0
+4620	backward or forward	4	0	0	72	16777215	5
+4620	Spinning forward, back up above 85rpm	5	0	0	72	16777215	40
+4620	Only 10 minutes between you...	4	0	0	72	16777215	47
+4620	and a deep sense of self-satisfaction	4	0	0	72	16777215	52
+4680	As you settle in...	3	0	0	72	16777215	0
+4680	keep your body as relaxed as when you were recovering	5	0	0	72	16777215	4
+4680	Let's pass the time with some drills...	4	0	0	72	16777215	11
+4680	optional as always...	3	0	0	72	16777215	16
+4680	and as simple as necessary considering this late stage	5	0	0	72	16777215	20
+4680	Focus on your kick for 30 seconds...	4	0	0	72	16777215	30
+4680	but don't neglect the rest of your pedalstroke	4	0	0	72	16777215	35
+4680	Just keep that top quadrant active...	4	0	0	72	16777215	41
+4680	with the lightest of forward kicks	4	0	0	72	16777215	46
+4680	Now focus on your pull for 30 seconds	5	0	0	72	16777215	60
+4680	Just a light drag of each heel...	4	0	0	72	16777215	67
+4680	as you pull your feet very lightly backward	5	0	0	72	16777215	72
+4800	Put the 2 together for a minute...	4	0	0	72	16777215	0
+4800	with just a touch more effort	4	0	0	72	16777215	5
+4800	Find this 5% bump with your kick & pull...	5	0	0	72	16777215	11
+4800	and a greater level of fluidity - no dead spots	5	0	0	72	16777215	17
+4800	Keep that kick & pull active...	4	0	0	72	16777215	30
+4800	for about 30 more seconds	4	0	0	72	16777215	35
+4800	See if you can incorporate the upstroke...	4	0	0	72	16777215	60
+4800	by lightly lifting each knee...	4	0	0	72	16777215	65
+4800	at the end of each pull	4	0	0	72	16777215	70
+4800	Kick, pull, lift...	3	0	0	72	16777215	86
+4800	for 30 more seconds	3	0	0	72	16777215	90
+4920	Last time on this top step!	4	0	0	72	16777215	0
+4920	Be tough and remember...	3	0	0	72	16777215	6
+4920	pain is all in your head, literally	4	0	0	72	16777215	10
+4920	And it's not strong enough to keep you...	4	0	0	72	16777215	16
+4920	from riding out these 2 suprathreshold minutes...	4	0	0	72	16777215	21
+4920	with on-Target power...	3	0	0	72	16777215	26
+4920	and pedaling so fluid it looks effortless	4	0	0	72	16777215	30
+4920	Home stretch!	3	0	0	72	16777215	60
+4920	All you have to do from here on out...	4	0	0	72	16777215	65
+4920	is survive...	3	0	0	72	16777215	70
+4920	but it has to be pretty or it doesn't count	4	0	0	72	16777215	74
+4920	But seriously, no sense in riding wastefully now...	4	0	0	72	16777215	80
+4920	and undoing the last 80 minutes of attention to form	5	0	0	72	16777215	85
+4920	Teach those tired muscles how to pedal well!	5	0	0	72	16777215	92
+5040	On the way down...	3	0	0	72	16777215	0
+5040	and the fatigue is at its highest...	4	0	0	72	16777215	4
+5040	which means your focus has to be equally as high	5	0	0	72	16777215	10
+5040	Don't let your mind wander...	4	0	0	72	16777215	17
+5040	and compromise the quality of these closing minutes	5	0	0	72	16777215	22
+5040	For 30 seconds at a time...	3	0	0	72	16777215	30
+5040	ride as well as you know how	4	0	0	72	16777215	34
+5040	Relaxed, fluid, powerful	3	0	0	72	16777215	40
+5040	Another 30 seconds!	3	0	0	72	16777215	60
+5040	-I can do this	3	0	0	72	16777215	65
+5040	Next 30 seconds!	3	0	0	72	16777215	90
+5040	-I've got this	3	0	0	72	16777215	95
+5160	Push through it...	3	0	0	72	16777215	0
+5160	30 seconds of focus at a time	4	0	0	72	16777215	4
+5160	Be patient, let the burn clear gradually	5	0	0	72	16777215	10
+5160	30 more seconds, the burn is subsiding...	5	0	0	72	16777215	30
+5160	and you're breathing fully...	3	0	0	72	16777215	36
+5160	actively using your breathing muscles	4	0	0	72	16777215	40
+5160	Another 30 seconds of composure...	4	0	0	72	16777215	60
+5160	and Power as close to your Target as possible	4	0	0	72	16777215	65
+5160	Final 30 seconds!	3	0	0	72	16777215	90
+5160	Don't check out early	3	0	0	72	16777215	95
+5160	Final 10 seconds, no bailing early!	4	0	0	72	16777215	110
+5160	Keep it!	2	0	0	72	16777215	116
+5280	Job done!	3	0	0	72	16777215	0
+5280	You've just survived one of the toughest workouts in the catalog	5	0	0	72	16777215	5
+5280	So take your time warming down...	4	0	0	72	16777215	12
+5280	probably longer than the 2 minutes allotted...	4	0	0	72	16777215	17
+5280	and turn your thoughts to your recovery nutrition	4	0	0	72	16777215	22
+5280	We'll see you next time	5	0	0	72	16777215	28
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+0	420	Endurance 1
+420	480	Sweet Spot 1
+480	540	Threshold 1
+540	600	Threshold 2
+900	1020	Sweet Spot 2
+1020	1140	Threshold 3
+1140	1260	Threshold 4
+1260	1380	Threshold 5
+1380	1500	Sweet Spot 3
+1560	1680	Sweet Spot 4
+1680	1800	Threshold 6
+1800	1920	Threshold 7
+1920	2040	Threshold 8
+2040	2160	Sweet Spot 5
+2460	2580	Sweet Spot 6
+2580	2700	Threshold 9
+2700	2820	Threshold 10
+2820	2940	Threshold 11
+2940	3060	Sweet Spot 7
+3120	3240	Sweet Spot 8
+3240	3360	Threshold 12
+3360	3480	Threshold 13
+3480	3600	Threshold 14
+3600	3720	Sweet Spot 9
+4020	4140	Sweet Spot 10
+4140	4260	Threshold 15
+4260	4380	Threshold 16
+4380	4500	Threshold 17
+4500	4620	Sweet Spot 11
+4680	4800	Sweet Spot 12
+4800	4920	Threshold 18
+4920	5040	Threshold 19
+5040	5160	Threshold 20
+5160	5280	Sweet Spot 13
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

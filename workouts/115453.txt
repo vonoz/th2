@@ -1,0 +1,241 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Carillon 45,83,51. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	65
+3	88
+5	88
+5	95
+5.5	95
+5.5	40
+8	40
+8	88
+10	88
+10	92
+10.5	92
+10.5	90
+12.5	90
+12.5	95
+13	95
+13	90
+15	90
+15	92
+15.5	92
+15.5	40
+16.5	40
+16.5	88
+18.5	88
+18.5	92
+19	92
+19	90
+21	90
+21	95
+21.5	95
+21.5	88
+23.5	88
+23.5	95
+24	95
+24	40
+27	40
+27	88
+29	88
+29	92
+29.5	92
+29.5	88
+31.5	88
+31.5	95
+32	95
+32	90
+34	90
+34	92
+34.5	92
+34.5	40
+35.5	40
+35.5	88
+37.5	88
+37.5	92
+38	92
+38	90
+40	90
+40	95
+40.5	95
+40.5	88
+42.5	88
+42.5	95
+43	95
+43	40
+45	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Criss-Cross intervals are just another form of Over-Unders...	8	0	0	72	16777215	60
+0	so if you've faced over-unders before, you know what's in store	8	0	0	72	16777215	70
+0	The primary difference with today's intervals though...	8	0	0	72	16777215	80
+0	is that they aren't true Over-Unders since this is all Sweet Spot work	8	0	0	72	16777215	90
+0	So rather than going over/under FTP...	8	0	0	72	16777215	100
+0	you'll simply span the bounds of the Sweet Spot power range	8	0	0	72	16777215	110
+0	More on this later...	8	0	0	72	16777215	120
+0	for now, keep your spin quick & light	8	0	0	72	16777215	130
+180	Keep your spin quick during this brief warmup Criss-Cross effort	8	0	0	72	16777215	0
+300	Pedal a little quicker for this last 30 seconds	8	0	0	72	16777215	0
+330	Good, take a minute to catch your breath	8	0	0	72	16777215	0
+330	Today's over-under-esque intervals are really just a way...	8	0	0	72	16777215	60
+330	to enliven a 2x20-minute set of Sweet Spot intervals	8	0	0	72	16777215	70
+330	The slight changes in intensity present a mildly greater challenge...	8	0	0	72	16777215	80
+330	but they also provide clear markers to begin and end form & skill drills	8	0	0	72	16777215	90
+330	So while today's primary goal is to improve muscle endurance...	8	0	0	72	16777215	100
+330	or your ability to push the pedals harder for longer...	8	0	0	72	16777215	110
+330	we'll also provide options for improving other aspects of your riding	8	0	0	72	16777215	120
+330	For now, settle into a cadence above 85rpm and just continue warming	8	0	0	72	16777215	130
+330	If 85rpm is too quick for you, this might be an area for improvement	8	0	0	72	16777215	140
+480	Settle in, adjust to the workload	8	0	0	72	16777215	10
+600	Pick things up slightly, stay seated	8	0	0	72	16777215	0
+630	Good, back off just a little bit	8	0	0	72	16777215	0
+630	Today's minor changes in intensity can be accomplished a couple ways	8	0	0	72	16777215	30
+630	You can either increase your cadence...	8	0	0	72	16777215	40
+630	shift up or down 1, maybe 2 gears...	8	0	0	72	16777215	50
+630	or if you're riding an electronic trainer in Erg mode...	8	0	0	72	16777215	60
+630	you can choose to remain steady or make minor cadence changes	8	0	0	72	16777215	70
+630	These load-restricted trainers will handle the wattage changes for you...	8	0	0	72	16777215	80
+630	but that doesn't mean you're stuck with one cadence all workout	8	0	0	72	16777215	90
+750	Pick things up just a little more than last time	8	0	0	72	16777215	0
+780	Good, back off a little bit	8	0	0	72	16777215	0
+900	One last little increase in effort, seated or standing	8	0	0	72	16777215	0
+930	Keep your legs moving, this is just a quick minute's recovery	8	0	0	72	16777215	0
+990	Back at it, 85rpm or higher	8	0	0	72	16777215	0
+990	This round, let's spend every lower-intensity "valley" seated...	8	0	0	72	16777215	10
+990	and every higher-intensity "peak" out of the saddle (OTS)	8	0	0	72	16777215	20
+990	For your seated cadence, challenge your natural cadence...	8	0	0	72	16777215	30
+990	by spinning 5rpm quicker than you typically would	8	0	0	72	16777215	40
+990	So if you usually settle at 85rpm, try 90rpm...	8	0	0	72	16777215	50
+990	Settle at 95rpm? Try 100rpm	8	0	0	72	16777215	60
+990	For your standing cadence, try adding that same 5rpm...	8	0	0	72	16777215	90
+990	and try to keep things above 65rpm	8	0	0	72	16777215	100
+990	Slow your spin, pick a bigger gear... both?	8	0	0	72	16777215	110
+1110	And come on up	8	0	0	72	16777215	0
+1110	Shoot for the whole 30 seconds...	5	0	0	72	16777215	10
+1110	but sit sooner if you feel sloppy	4	0	0	72	16777215	16
+1140	Excellent, get your leg speed back up to that +5rpm spin	8	0	0	72	16777215	0
+1140	And relax - the quicker you spin, the more relaxed you need to be...	8	0	0	72	16777215	10
+1140	in order to prevent bouncing due to wasted muscle tension	8	0	0	72	16777215	20
+1140	Get ready to stand...	8	0	0	72	16777215	110
+1260	and come on up, 65rpm or higher	8	0	0	72	16777215	0
+1260	Ride a little outside of your comfort zone on all of these...	8	0	0	72	16777215	10
+1260	but don't sacrifice your control just to be quick	8	0	0	72	16777215	20
+1290	Gently have a seat and rekindle that quick spin	8	0	0	72	16777215	0
+1290	Staying loose?	5	0	0	72	16777215	60
+1290	Low shoulders, soft elbows, loose grip	5	0	0	72	16777215	70
+1290	Stable hips too, feel your sit bones on the wings of your saddle	8	0	0	72	16777215	80
+1290	Get ready to stand...	3	0	0	72	16777215	115
+1410	with lots of control	3	0	0	72	16777215	0
+1410	Do your best to avoid lunging forward....	5	0	0	72	16777215	10
+1410	because on the road, this throws your bike backward	8	0	0	72	16777215	16
+1440	Well done! Halfway through this one	8	0	0	72	16777215	0
+1440	Take a few minutes to clear any heaviness...	8	0	0	72	16777215	10
+1440	and drop your breathing & HR back to near-normal	8	0	0	72	16777215	20
+1440	This next set is very similar to the first...	8	0	0	72	16777215	90
+1440	but we'll change the drills and try to keep things interesting	8	0	0	72	16777215	100
+1440	During the first round of intervals, let's try some Quadrant Drills...	8	0	0	72	16777215	110
+1440	then during the second interval, we'll dress things up with aero drills	8	0	0	72	16777215	120
+1440	During the valleys, we'll focus on 1 segment of your pedalstroke...	8	0	0	72	16777215	130
+1440	and then use the peaks to work on leg speed	8	0	0	72	16777215	140
+1440	Aim for a spin higher than 85rpm during the valleys...	8	0	0	72	16777215	150
+1440	then shoot for something higher than 100rpm during the peaks	8	0	0	72	16777215	160
+1440	Modify as necessary depending on the speeds you can control	8	0	0	72	16777215	170
+1620	Set your spin, adjust to the workload	8	0	0	72	16777215	0
+1620	For this next 90 seconds, target the top quadrant of your pedalstroke...	8	0	0	72	16777215	30
+1620	by lightly kicking your toes forward over the top of each pedalstroke	8	0	0	72	16777215	40
+1620	Simply focus on kicking with enough effort to carry the opposite leg...	8	0	0	72	16777215	50
+1620	through the bottom of its pedalstroke	8	0	0	72	16777215	60
+1620	But don't kick so hard that you aggravate your knees	8	0	0	72	16777215	70
+1620	Get ready to spin more quickly...	8	0	0	72	16777215	80
+1740	No quadrant drills, just pedal quickly	8	0	0	72	16777215	0
+1740	100rpm or higher if you can control it...	8	0	0	72	16777215	10
+1740	and recover quickly from it	5	0	0	72	16777215	20
+1770	And settle back in above 85rpm	8	0	0	72	16777215	0
+1770	This time we'll target the upstroke	8	0	0	72	16777215	10
+1770	Almost as though you're doggy-paddling in the watter...	8	0	0	72	16777215	20
+1770	actively chug your knees upward each pedalstroke	8	0	0	72	16777215	30
+1770	Focus on quickly lifting each knee...	8	0	0	72	16777215	40
+1770	and let this carry your opposite leg downward	8	0	0	72	16777215	50
+1770	Actually learn to relax one leg while the other works	8	0	0	72	16777215	60
+1770	Get ready to ditch the drill & pedal quickly	8	0	0	72	16777215	110
+1890	100rpm or quicker	5	0	0	72	16777215	0
+1890	Light, quick legs with tons of control, no bouncing...	8	0	0	72	16777215	10
+1890	and no knee wobble, especially at the top of each pedalstroke	8	0	0	72	16777215	20
+1920	Back to your slightly less quick spin	8	0	0	72	16777215	0
+1920	Now target the bottom quadrant...	8	0	0	72	16777215	10
+1920	by lightly dragging your feet backward...	5	0	0	72	16777215	20
+1920	at the bottom of each pedalstroke	5	0	0	72	16777215	26
+1920	Just a light pull using your hamstrings and calf muscles	8	0	0	72	16777215	40
+1920	But nothing excessive or strenuous - fluid pulls	8	0	0	72	16777215	50
+2040	Last quick 30!	8	0	0	72	16777215	0
+2070	Well done, slow things down but keep pedaling	8	0	0	72	16777215	0
+2070	We'll incorporate some body positioning into this last interval	8	0	0	72	16777215	30
+2070	Specifically, aero positioning	8	0	0	72	16777215	40
+2070	Only during the valleys though	8	0	0	72	16777215	50
+2130	Settle in, 85rpm or higher, full breaths	8	0	0	72	16777215	0
+2130	As soon as you can, get aero	8	0	0	72	16777215	10
+2130	How aero? That's up to you, your events, your goals	8	0	0	72	16777215	20
+2130	Climbers can simply soften their elbows a bit...	8	0	0	72	16777215	30
+2130	criterium racers need to be fast in their drops...	8	0	0	72	16777215	40
+2130	time trialists need to be powerful in their aero bars...	8	0	0	72	16777215	50
+2130	and purely recreational riders just want to cut a smaller hole	8	0	0	72	16777215	60
+2130	Choose your position modification & stick with it	8	0	0	72	16777215	70
+2130	For 2 minutes at a time if possible	8	0	0	72	16777215	80
+2250	Back to a comfortable position, little more power	8	0	0	72	16777215	0
+2280	Effort comes down a bit, so does your body	8	0	0	72	16777215	0
+2280	Get as low as you can...	8	0	0	72	16777215	10
+2280	keeping your personal objectives in mind...	8	0	0	72	16777215	20
+2280	and keeping all of your power	8	0	0	72	16777215	30
+2400	Comfy position, slightly more effort	8	0	0	72	16777215	0
+2430	Ease up a bit & get back down there	8	0	0	72	16777215	0
+2430	Take quick breaks from your position when necessary...	8	0	0	72	16777215	10
+2430	but try to stay aero for most/all of these 2-minute valleys	8	0	0	72	16777215	20
+2550	Sit tall, reach your head out, stretch your spine...	8	0	0	72	16777215	0
+2550	and of course, work a little harder	8	0	0	72	16777215	10
+2580	Great job!	8	0	0	72	16777215	0
+2580	30 minutes of Sweet Spot never went so quickly, right?	8	0	0	72	16777215	10
+2580	Until next time...	4	0	0	72	16777215	20
+2580	train smart, ride fast, have fun	5	0	0	72	16777215	25
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	2700	Workout
+180	300	Sweet Spot 1
+300	330	Sweet Spot 2
+480	600	Sweet Spot 3
+600	630	Sweet Spot 4
+630	750	Sweet Spot 5
+750	780	Sweet Spot 6
+780	900	Sweet Spot 7
+900	930	Sweet Spot 8
+990	1110	Sweet Spot 9
+1110	1140	Sweet Spot 10
+1140	1260	Sweet Spot 11
+1260	1290	Sweet Spot 12
+1290	1410	Sweet Spot 13
+1410	1440	Sweet Spot 14
+1620	1740	Sweet Spot 15
+1740	1770	Sweet Spot 16
+1770	1890	Sweet Spot 17
+1890	1920	Sweet Spot 18
+1920	2040	Sweet Spot 19
+2040	2070	Sweet Spot 20
+2130	2250	Sweet Spot 21
+2250	2280	Sweet Spot 22
+2280	2400	Sweet Spot 23
+2400	2430	Sweet Spot 24
+2430	2550	Sweet Spot 25
+2550	2580	Sweet Spot 26
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<TrainingCenterDatabase xmlns="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2 http://www.garmin.com/xmlschemas/TrainingCenterDatabasev2.xsd http://www.garmin.com/xmlschemas/WorkoutExtension/v1 http://www.garmin.com/xmlschemas/WorkoutExtensionv1.xsd">
+
+  <Workouts>
+
+    {% for workout in workouts %}
+
+    <Workout Sport="Biking">
+      <Name>{{workout.workoutName}}</Name>
+
+      {% for step in workout.steps %}
+      <Step xsi:type="Step_t">
+        <StepId>{{step.id}}</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>{{step.duration}}</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+      {% endfor %}
+
+      <ScheduledOn>{{workout.scheduledOn}}</ScheduledOn>
+
+      <Extensions>
+        <Steps xmlns="http://www.garmin.com/xmlschemas/WorkoutExtension/v1">
+          {% for step in workout.steps %}
+
+          <Step>
+            <StepId>{{step.id}}</StepId>
+            <Name>Interval {{step.id}}</Name>
+            <Duration xsi:type="Time_t">
+              <Seconds>{{step.duration}}</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerInWatts_t">
+                  <Value>{{step.minPower}}</Value>
+                </Low>
+                <High xsi:type="PowerInWatts_t">
+                  <Value>{{step.maxPower}}</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+
+          {% endfor %}
+
+
+        </Steps>
+      </Extensions>
+
+    </Workout>
+
+    {% endfor %}
+
+  </Workouts>
+
+  <Author xsi:type="Application_t">
+    <Name>Training Hills</Name>
+
+  </Author>
+
+</TrainingCenterDatabase>

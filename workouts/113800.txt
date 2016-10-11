@@ -1,0 +1,175 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Goethe -1,92,84. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	65
+5	95
+8	100
+8	40
+12	40
+12	100
+22	100
+22	40
+24	40
+24	100
+34	100
+34	40
+36	40
+36	100
+46	100
+46	39
+48	39
+48	100
+58	100
+58	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	The intervals comprising Goethe -1 are multipurpose	8	0	0	72	16777215	10
+0	If you've recently assessed your FTP...	8	0	0	72	16777215	20
+0	these intervals can serve as a confirmation of the test results	8	0	0	72	16777215	30
+0	If you haven't assessed formally or simply don't want to...	8	0	0	72	16777215	40
+0	these intervals can be used to determine your FTP	8	0	0	72	16777215	50
+0	By performing an effort at your highest sustainable power output...	8	0	0	72	16777215	60
+0	and then repeating it 3 more times with very little rest...	8	0	0	72	16777215	70
+0	you can gain an arguably fairer depiction of your true FTP	8	0	0	72	16777215	80
+0	No need to reduce the results by 5% either	8	0	0	72	16777215	90
+0	Instead, use the average power from all 4 intervals to adjust your FTP	8	0	0	72	16777215	100
+0	Other options aside, this workout can be used simply as a Threshold workout	8	0	0	72	16777215	110
+0	In any case, let's spin easy for the next few minutes	8	0	0	72	16777215	120
+300	Use this 3-minute clearing effort to establish your cadence	8	0	0	72	16777215	0
+300	Spin lightly & quickly to continue warming your legs	8	0	0	72	16777215	10
+300	Also, check your position on the saddle	8	0	0	72	16777215	20
+300	If your sit bones are not on the wings of the saddle...	8	0	0	72	16777215	30
+300	tilt your hips back & forth until you feel them anchor on the seat	8	0	0	72	16777215	40
+300	Always best to establish proper saddle position BEFORE the hard work starts	8	0	0	72	16777215	50
+480	Good, legs ought to be gradually warming up	8	0	0	72	16777215	0
+480	If you've recently done an FTP test...	8	0	0	72	16777215	10
+480	this will be a good opportunity to see if you under-performed a bit	8	0	0	72	16777215	20
+480	If the following intervals don't seem difficult for you...	8	0	0	72	16777215	30
+480	there's a good chance your sustainable power has been underestimated	8	0	0	72	16777215	40
+480	If you're using this as an FTP test on an electronic trainer...	8	0	0	72	16777215	50
+480	it's best to switch your trainer to ERG mode for the intervals	8	0	0	72	16777215	60
+480	But if you're simply using this as a workout, enjoy!	8	0	0	72	16777215	70
+480	Regardless of your reason for being here...	8	0	0	72	16777215	80
+480	make sure you don't go out too hard on this first interval	8	0	0	72	16777215	90
+480	If you don't feel as though you've sufficiently warmed up...	8	0	0	72	16777215	100
+480	drop the Workout Intensity by 5%...	8	0	0	72	16777215	110
+480	and then gradually lift it over the course of this first interval	8	0	0	72	16777215	120
+480	Time to do some work - get focused but stay relaxed	5	0	0	72	16777215	230
+720	Ideally, you'll spin somewhere in the 85-95rpm range	8	0	0	72	16777215	0
+720	If you know from experience that your cadence will fall outside of this range...	8	0	0	72	16777215	10
+720	then do what's worked best for you in the past	8	0	0	72	16777215	20
+720	Settle in & embrace the mild burn, today it's unavoidable	8	0	0	72	16777215	30
+720	You're halfway through, check your cadence & saddle positioning	8	0	0	72	16777215	300
+720	Still spinning between 85-95rpm?	8	0	0	72	16777215	310
+720	If that's not a cadence you can maintain, don't worry	8	0	0	72	16777215	320
+720	Either recognize that it's something you need to work on...	8	0	0	72	16777215	330
+720	or simply disregard further cadence recommendations	8	0	0	72	16777215	340
+720	Almost there, one minute to keep your spin light & quick	8	0	0	72	16777215	540
+1320	Nicely done! First one in the bag	5	0	0	72	16777215	2
+1320	Take just a couple of minutes to spin out the fatigue	8	0	0	72	16777215	10
+1320	The next interval is an exact repeat of that last interval	8	0	0	72	16777215	60
+1320	No need to be intimidated though...	8	0	0	72	16777215	70
+1320	since you're now plenty warmed up & know what you're up against	8	0	0	72	16777215	80
+1320	If you haven't yet returned the Workout Intensity to 100%, now's the time	8	0	0	72	16777215	90
+1320	Full power or probably don't consider this workout a fair FTP assessment	8	0	0	72	16777215	100
+1320	Next interval in 10, establish your cadence...	8	0	0	72	16777215	110
+1440	and do your best to keep it steady throughout this interval	8	0	0	72	16777215	0
+1440	Find your cadence & saddle position right away	8	0	0	72	16777215	10
+1440	Make sure your sit bones are against the wings of your saddle	8	0	0	72	16777215	20
+1440	45 seconds in, time to settle into your rhythm	8	0	0	72	16777215	45
+1440	Find a breathing rhythm you can focus on using full, steady breaths	8	0	0	72	16777215	115
+1440	Halfway through, make sure you're light on your pedals	8	0	0	72	16777215	300
+1440	Do your best to avoid mashing the pedals downward	8	0	0	72	16777215	310
+1440	Couple minutes to go, keep your spin light & quick	8	0	0	72	16777215	480
+1440	Make sure you're not needlessly tightening your upper body	8	0	0	72	16777215	490
+1440	Start by relaxing your shoulders & softening your elbows	8	0	0	72	16777215	500
+1440	Then loosen your grip on the bars, relax your neck & jaw	8	0	0	72	16777215	510
+1440	Ditch any tension that's not helping you turn those pedals	8	0	0	72	16777215	520
+1440	One minute to go!	5	0	0	72	16777215	540
+1440	Hang onto your smooth, relaxed form	8	0	0	72	16777215	547
+2040	That's two down, so far so good!	5	0	0	72	16777215	2
+2040	Take some deep breaths & enjoy the recovery	8	0	0	72	16777215	10
+2040	Lightly spin your legs, even consider backpedaling for a minute	8	0	0	72	16777215	20
+2040	No surprises with this next interval, it's just like the first couple	8	0	0	72	16777215	90
+2040	Get relaxed during these final seconds of recovery...	8	0	0	72	16777215	100
+2040	then carry that smooth, relaxed spin into this third interval	8	0	0	72	16777215	110
+2160	Draw full breaths & help yourself relax	8	0	0	72	16777215	0
+2160	Take the first 45 seconds to settle in before making any judgements	8	0	0	72	16777215	10
+2160	Find your cadence & position yourself stably on the saddle	8	0	0	72	16777215	20
+2160	As you settle in, start to feel out the effort level	8	0	0	72	16777215	45
+2160	If your legs are already welling up, burning pretty noticeably...	8	0	0	72	16777215	55
+2160	it might be best to drop the Workout Intensity just a bit	8	0	0	72	16777215	65
+2160	But if you're clearing pretty well, not feeling TOO much discomfort...	8	0	0	72	16777215	75
+2160	just hang in there & take things minute by minute	8	0	0	72	16777215	85
+2160	One good thing about these longer intervals...	8	0	0	72	16777215	300
+2160	is they give you plenty of time to focus on a few things	8	0	0	72	16777215	310
+2160	Are you staying relaxed? Making it look easy?	8	0	0	72	16777215	320
+2160	Are you gripping the bars too hard? Wasting energy?	8	0	0	72	16777215	330
+2160	Do your sit bones FEEL the wings of your saddle?	8	0	0	72	16777215	340
+2160	Focusing on form can take your mind off the discomfort...	8	0	0	72	16777215	350
+2160	and ultimately make you a smoother, less wasteful cyclist	8	0	0	72	16777215	360
+2160	Three minutes to go! Legs still clearing?	8	0	0	72	16777215	420
+2160	You'll know they aren't if you're forced to slow your spin...	8	0	0	72	16777215	430
+2160	or if your power is falling and you can't do anything to raise it	8	0	0	72	16777215	440
+2160	If either is the case, consider a quick, 10-second backspin	8	0	0	72	16777215	450
+2160	Just long enough to clear off some accumulation, grab 2-3 big breaths...	8	0	0	72	16777215	460
+2160	and wind it back up for the final stretch	8	0	0	72	16777215	470
+2760	Well done! Deep breaths, exhale completely	5	0	0	72	16777215	2
+2760	If you're feeling the need to backpedal frequently during the intervals...	8	0	0	72	16777215	10
+2760	more than once during each of these longer efforts...	8	0	0	72	16777215	20
+2760	consider dropping the Workout Intensity a little bit	8	0	0	72	16777215	30
+2760	This will keep you very close to your FTP without blowing you up	8	0	0	72	16777215	40
+2760	Something you'll need to recognize readily out on the road	8	0	0	72	16777215	50
+2760	The smallest of reductions in effort can be the difference...	8	0	0	72	16777215	60
+2760	between finishing a time trial strongly and hobbling to the line	8	0	0	72	16777215	70
+2760	Last round right at Threshold coming up...	8	0	0	72	16777215	100
+2760	settle into your goal cacence & relax	8	0	0	72	16777215	110
+2880	Annnnnd we're off, anchor those sit bones and again...	5	0	0	72	16777215	0
+2880	take this first 45 seconds to find your rhythm & adjust to the workload	8	0	0	72	16777215	8
+2880	Time to focus on anything but the clock	8	0	0	72	16777215	45
+2880	Give yourself something more productive to key in on	8	0	0	72	16777215	55
+2880	Are your breaths reasonably full & belly-driven?	5	0	0	72	16777215	65
+2880	Are you mashing your pedals down or keeping things more fluid?	5	0	0	72	16777215	72
+2880	Is your upper body a ball of tension or properly relaxed?	5	0	0	72	16777215	79
+2880	Whatever you choose to address, pick one thing at a time...	5	0	0	72	16777215	96
+2880	and don't let your power stray off-target	5	0	0	72	16777215	103
+2880	Not much longer and this will all be a memory, so hang in there	10	0	0	72	16777215	420
+2880	And just because you're towards the end of a difficult workout...	8	0	0	72	16777215	432
+2880	doesn't mean you get to throw proper form & positioning out the window	8	0	0	72	16777215	440
+2880	Ride so well you look as though you're not working hard at all	8	0	0	72	16777215	450
+2880	You're in the home stretch now, just gut it out!	8	0	0	72	16777215	540
+3480	Very well done! Take it easy & cool down	8	0	0	72	16777215	0
+3480	If you've recently completed an FTP test...	8	0	0	72	16777215	10
+3480	and this workout was difficult but doable...	8	0	0	72	16777215	18
+3480	that's a good indication your FTP is set pretty accurately	8	0	0	72	16777215	28
+3480	If this workout was only moderately difficult for you...	8	0	0	72	16777215	38
+3480	you might consider raising your FTP 2-3%	5	0	0	72	16777215	46
+3480	Finally, if you feel that these 4 efforts...	5	0	0	72	16777215	53
+3480	were about as hard as you can ride without popping...	5	0	0	72	16777215	60
+3480	and there was a reasonably high level of consistency between them...	8	0	0	72	16777215	67
+3480	use the average power from all 4 to up-adjust your FTP	8	0	0	72	16777215	76
+3480	Don't hesitate to continue cooling down after the workout clock runs down...	8	0	0	72	16777215	86
+3480	and we'll see you next time	5	0	0	72	16777215	96
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+300	480	Threshold 1
+720	1320	Threshold 2
+1440	2040	Threshold 3
+2160	2760	Threshold 4
+2880	3480	Threshold 5
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

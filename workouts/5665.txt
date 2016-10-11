@@ -1,0 +1,316 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Power Test - 12s and 1 min,82,68. Created by 44054.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	65
+6	75
+7	75
+7	60
+8	60
+8	75
+10	75
+10	50
+15	50
+15	250
+15.2	250
+15.2	50
+19	50
+19	250
+19.2	250
+19.2	50
+23	50
+23	250
+23.2	250
+23.2	50
+27	50
+27	150
+28	150
+28	50
+33	50
+33	150
+34	150
+34	50
+39	50
+39	250
+39.2	250
+39.2	50
+43	50
+43	250
+43.2	250
+43.2	50
+47	50
+47	250
+47.2	250
+47.2	50
+51	50
+51	150
+52	150
+52	50
+57	50
+57	150
+58	150
+58	50
+60	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Today is a chance to gain a sense of your current sprint power and short anaerobic power	8	0	0	72	16777215	10
+0	The warmup on the clock is 15 minutes, but you're welcome and encouraged...	8	0	0	72	16777215	20
+0	To pause the workout now if you'd like to spin for an extra 10-15 minutes	8	0	0	72	16777215	30
+0	Keep your spin light & quick and gradually work slightly harder	8	0	0	72	16777215	120
+0	This is just a warmup though, so keep your power on target	8	0	0	72	16777215	130
+0	No need to cook your muscles...yet	8	0	0	72	16777215	140
+0	Coming up on the first of 2 quick spinning intervals	8	0	0	72	16777215	300
+0	Both intervals are about leg SPEED, not power	8	0	0	72	16777215	310
+0	Remember, speed is one half of the power equation, force being the other	8	0	0	72	16777215	320
+0	But all we need right now is quick legs without much force	8	0	0	72	16777215	330
+0	So think low watts & very high RPM	8	0	0	72	16777215	340
+0	Quick spinning minus any bouncing, get ready!	8	0	0	72	16777215	350
+360	Pick it up, nice & quick	8	0	0	72	16777215	-1
+360	Keep those watts low and shift as necessary - quick legs, low watts	8	0	0	72	16777215	10
+360	Halfway there, time to spin more quickly as long as you look fluid and controlled	8	0	0	72	16777215	30
+360	In other words, stay relaxed and don't bounce around in the saddle	8	0	0	72	16777215	40
+360	10 seconds!	8	0	0	72	16777215	50
+420	Good, now take a minute to calm your breathing and heart rate	8	0	0	72	16777215	-1
+420	Then we'll do another quick spinning effort	8	0	0	72	16777215	10
+420	Only this one will be twice as long	8	0	0	72	16777215	20
+420	Get ready to do it again...	8	0	0	72	16777215	50
+480	Go! Keep the watts low and the leg speed high	8	0	0	72	16777215	-1
+480	Choosing whichever gearing makes that possible	8	0	0	72	16777215	10
+480	And relax - we're just looking to wake things up, not wear them out	8	0	0	72	16777215	20
+480	30 seconds in. If you think you can control more speed then pick it up	8	0	0	72	16777215	30
+480	Halfway! Relax and make sure your breathing is full & steady	8	0	0	72	16777215	60
+480	30 seconds! One last chance to ramp it up if you think you can control more speed	8	0	0	72	16777215	90
+480	But keep the watts on target	8	0	0	72	16777215	100
+480	10!	8	0	0	72	16777215	110
+600	Excellent, now relax and spin lightly for 5 minutes	8	0	0	72	16777215	-1
+600	In a few minutes, you'll have your first crack at measuring your "sprint" capabilities	8	0	0	72	16777215	120
+600	There's a reason I used quotes to describe these first 3 efforts...	8	0	0	72	16777215	130
+600	We're on trainers	8	0	0	72	16777215	140
+600	Sprinting while locked in to a trainer can be problematic when it comes to jumping explosively	8	0	0	72	16777215	150
+600	So rather than measuring 5-second power we're going to extend the effort a bit...	8	0	0	72	16777215	160
+600	In an effort to keep your bike (and furniture) intact & undamaged	8	0	0	72	16777215	170
+600	A 12-second effort can still be a good measure of your NM capabilities	8	0	0	72	16777215	180
+600	Neuromuscular power draws on very particular energy stores...	8	0	0	72	16777215	190
+600	And is highly dependent on how well your brain-to-muscle communication lines are functioning	8	0	0	72	16777215	200
+600	But just like any other power duration, if you don't train it then it's probably not top-notch	8	0	0	72	16777215	210
+600	And this may or may not be an issue depending on the type of rider you are...	8	0	0	72	16777215	220
+600	And the types of events in which you take part	8	0	0	72	16777215	230
+600	More on this later. For now, find your starting gear	8	0	0	72	16777215	240
+600	This is a gear you can accelerate quickly but one that won't require much shifting	8	0	0	72	16777215	250
+600	And this IS your first sprint out of 6 opportunities to measure your best 12-second power	8	0	0	72	16777215	260
+600	So hold back a bit and get a feel for what an all-out, 12-second effort is like	8	0	0	72	16777215	270
+600	Find that gear? Don't worry, you'll have other chances if this isn't the best gear combination	8	0	0	72	16777215	280
+600	Stay seated for this 1st one...get ready!	8	0	0	72	16777215	290
+900	GO!	8	0	0	72	16777215	-1
+900	Get ready to back off...	4	0	0	72	16777215	8
+912	Good! Now spin really easy for a the remainder of this 4 minutes	8	0	0	72	16777215	-1
+912	How'd that first effort feel in terms of gear selection?	8	0	0	72	16777215	18
+912	Did you have to stomp most of the 12 seconds? If so, choose a lower gear next time	8	0	0	72	16777215	28
+912	Did you spin out so quickly that you had to shift more than once? Choose a higher gear next time	8	0	0	72	16777215	38
+912	You're looking for a gear that you can get on top of in 3-5 seconds...	8	0	0	72	16777215	48
+912	And then accelerate your spin all the way to the 12-second mark	8	0	0	72	16777215	58
+912	Some riders may choose to shift once, but any more than that & you really need some speed work	8	0	0	72	16777215	68
+912	Sprinting is a combination of high force and high speed...	8	0	0	72	16777215	78
+912	And neither are meant to last very long	8	0	0	72	16777215	88
+912	This is the extreme end of things and maybe something you'll never apply as a rider	8	0	0	72	16777215	98
+912	Triathletes don't often (ever?) need to jump explosively...	8	0	0	72	16777215	108
+912	But that is NOT to say that they can't benefit from teaching their muscles...	8	0	0	72	16777215	118
+912	How to wake up quickly and how to really drive those pedals	8	0	0	72	16777215	128
+912	The more active muscle, the greater your work capacity	8	0	0	72	16777215	138
+912	So while some riders may not train this type of power often...	8	0	0	72	16777215	148
+912	It's worth visiting from time to time if only to know it's there should you need it	8	0	0	72	16777215	158
+912	Okay, start fishing for that starting gear	8	0	0	72	16777215	168
+912	And this time you have the option of standing, so decide now since it might affect your gearing	8	0	0	72	16777215	178
+912	This time, focus more closely on getting your power quickly	8	0	0	72	16777215	188
+912	Try to top out in the first 3-5 seconds and then hold on as best you can	8	0	0	72	16777215	198
+912	Build high watts really fast & then limit your losses for the rest of the sprint	8	0	0	72	16777215	208
+912	Get ready!	8	0	0	72	16777215	218
+1140	GO!	8	0	0	72	16777215	-1
+1140	Almost done - DON'T QUIT!	4	0	0	72	16777215	8
+1152	Nice job! Go easy	8	0	0	72	16777215	-1
+1152	Did you nail the gearing that time? If not, make note of what you're going to change	8	0	0	72	16777215	18
+1152	1 more chance to get it right, and the 3rd effort is commonly a rider's best	8	0	0	72	16777215	28
+1152	Gearing aside, how well did you get & sustain your power?	8	0	0	72	16777215	48
+1152	Some riders are so explosive they can't sustain the power	8	0	0	72	16777215	58
+1152	Some riders lack explosiveness but build all the way through the 12-seconds	8	0	0	72	16777215	68
+1152	Today we're simply trying to muster the highest 12-second average possible	8	0	0	72	16777215	78
+1152	So if one of the aforementioned approaches seems to suit you, use it	8	0	0	72	16777215	88
+1152	Explode & hang on OR go out really hard & ramp to the finish	8	0	0	72	16777215	98
+1152	One more time - choose seated or standing...	8	0	0	72	16777215	168
+1152	And select your gear combination accordingly	8	0	0	72	16777215	178
+1152	These are rolling starts, so you can carry as much or as little speed into them as you like	8	0	0	72	16777215	188
+1152	But don't bomb into this at 30mph and wonder why you only last for 8 seconds ;-)	8	0	0	72	16777215	198
+1152	In 20 - relax and get a couple big breaths in	8	0	0	72	16777215	208
+1152	Get ready!	8	0	0	72	16777215	218
+1380	GO!	8	0	0	72	16777215	-1
+1380	Hang onto it!	4	0	0	72	16777215	8
+1392	Great job!	8	0	0	72	16777215	-1
+1392	Keep things light for the rest of these 4 minutes	8	0	0	72	16777215	18
+1392	Up next, 1-minute power!	8	0	0	72	16777215	108
+1392	You get a total of 4 cracks at this power duration...	8	0	0	72	16777215	118
+1392	So decide how well you think you can pace for a 1-minute effort	8	0	0	72	16777215	128
+1392	Riders familiar with a 1-minute, all-out push might only need this first effort	8	0	0	72	16777215	138
+1392	Less 1-minute savvy riders may need this first effort to get a sense of proper pacing	8	0	0	72	16777215	148
+1392	In that case, try building power for the first 30 seconds...	8	0	0	72	16777215	158
+1392	And then holding power for the remaining 30 seconds	8	0	0	72	16777215	168
+1392	So you'll go out hard but knowingly holding back a little bit	8	0	0	72	16777215	178
+1392	Then every 5 or 10 seconds you can notch the effort up	8	0	0	72	16777215	188
+1392	By the time you hit 30 seconds, ALL your focus will go toward holding onto your power	8	0	0	72	16777215	198
+1392	Find a gear you can get on top of pretty quickly, but don't worry about being explosive	8	0	0	72	16777215	208
+1392	Get ready!	8	0	0	72	16777215	218
+1620	GO!	8	0	0	72	16777215	-1
+1620	You're either building or you're already stabilized and very focused	8	0	0	72	16777215	10
+1620	Build or focus!	8	0	0	72	16777215	20
+1620	Now HANG ON!	8	0	0	72	16777215	30
+1620	You can do this, keep drilling it!	8	0	0	72	16777215	40
+1620	Don't fade yet!	8	0	0	72	16777215	50
+1680	Nice!	8	0	0	72	16777215	-1
+1680	If you weren't looking for a bucket, it's safe to say that you didn't go all-out	8	0	0	72	16777215	30
+1680	And that's okay! A lot of trial & error goes into assessing maximum power	8	0	0	72	16777215	40
+1680	Over ANY duration	8	0	0	72	16777215	50
+1680	And you don't need me to tell you that 1 minute lasts a LONG time when you're all-out	8	0	0	72	16777215	60
+1680	So take a minute to consider how that first one went	8	0	0	72	16777215	70
+1680	If you feel strongly that you're not going to improve upon it...	8	0	0	72	16777215	80
+1680	Then go hard but maybe not quite all-out this time, just work out	8	0	0	72	16777215	90
+1680	If, however, you think there's ANY chance you can raise that 1-minute average...	8	0	0	72	16777215	100
+1680	Then consider how you're going to approach this second effort	8	0	0	72	16777215	110
+1680	Did you peak early and blow up inside of 1 minute? Then hold back a bit this time	8	0	0	72	16777215	120
+1680	Did you have enough energy to almost sprint during the final 10 seconds?	8	0	0	72	16777215	130
+1680	Then be a little more aggressive during this next effort...	8	0	0	72	16777215	140
+1680	By ramping things up a little earlier in the first 30 seconds...	8	0	0	72	16777215	150
+1680	And then really attacking the final 30 seconds	8	0	0	72	16777215	160
+1680	And if you feel you paced really well, shoot for a small handful of extra watts this time	8	0	0	72	16777215	170
+1680	2 more minutes of recovery - keep it very easy and breathe fully	8	0	0	72	16777215	180
+1680	Going again in 1 minute so get that game face on	8	0	0	72	16777215	240
+1680	A full minute requires tremendous focus	8	0	0	72	16777215	250
+1680	Yep, it's only a minute but cyclists know very well how badly ANY length of time can hurt...	8	0	0	72	16777215	260
+1680	When we give it everything we have	8	0	0	72	16777215	270
+1680	Get your starting gear and don't hesitate to shift during the interval if you feel the need	8	0	0	72	16777215	280
+1680	Your highest average watts is what your after, get ready!	8	0	0	72	16777215	290
+1980	GO!	8	0	0	72	16777215	-1
+1980	Building or holding!	8	0	0	72	16777215	10
+1980	Building a little more or already leveled out	8	0	0	72	16777215	20
+1980	Now hang on!	8	0	0	72	16777215	30
+1980	Keep hanging on!	8	0	0	72	16777215	40
+1980	Final 10 - DRILL IT!	8	0	0	72	16777215	50
+2040	Excellent!	8	0	0	72	16777215	-1
+2040	Time for some soul-searching, some honest self-assessment	8	0	0	72	16777215	60
+2040	CAN you possibly eek out a better 12-second and/or 1-minute effort?	8	0	0	72	16777215	70
+2040	If you're convince that you can't...	8	0	0	72	16777215	80
+2040	Keep recovering for a few minutes and ask yourself again later ;-)	8	0	0	72	16777215	90
+2040	You're tired right now and you probably don't relish the idea of 2 more rounds of work	8	0	0	72	16777215	100
+2040	But many riders outperform their first sets for a few reasons...	8	0	0	72	16777215	110
+2040	1 - The initial pressure is off & now it's time to take this less seriously, have fun with it	8	0	0	72	16777215	120
+2040	2 - Now you're TRULY warmed up and ready to really challenge yourself	8	0	0	72	16777215	130
+2040	3 - You've gotten a much better handle on gearing & pacing	8	0	0	72	16777215	140
+2040	Regardless of the reason, don't accept that your best effort is behind you	8	0	0	72	16777215	150
+2040	You may be surprised!	8	0	0	72	16777215	160
+2040	In any case, are you really done working out? Already!?	8	0	0	72	16777215	170
+2040	2 minutes out, keep things very easy and really relax	8	0	0	72	16777215	180
+2040	OK, gonna do this again. Remember your gearing?	8	0	0	72	16777215	240
+2040	Find it now and choose your approach - seated or standing	8	0	0	72	16777215	250
+2040	If you haven't stood yet, don't feel it's a requirement	8	0	0	72	16777215	260
+2040	Err on the side of caution, both for your body AND your bike	8	0	0	72	16777215	270
+2040	Rolling start, so keep those legs turning...	8	0	0	72	16777215	280
+2040	And get ready...	8	0	0	72	16777215	290
+2340	GO!	8	0	0	72	16777215	-1
+2340	Hold on!	4	0	0	72	16777215	8
+2352	Excellent!	8	0	0	72	16777215	-1
+2352	Well? Was that surprisingly strong?	8	0	0	72	16777215	48
+2352	Wouldn't surprise me if it was because by now EVERYTHING is primed & firing	8	0	0	72	16777215	58
+2352	Who knows, maybe you can even milk the next sprint for a few extra watts!	8	0	0	72	16777215	68
+2352	2-minute warning - relax, breathe, smile	8	0	0	72	16777215	108
+2352	OK, time to commit or just work out	8	0	0	72	16777215	168
+2352	Either commit to an all-out sprint or just go for a solid, high-end sprint effort	8	0	0	72	16777215	178
+2352	Either way, you're here...might as well do some work	8	0	0	72	16777215	188
+2352	Find your gear, seated or standing...	8	0	0	72	16777215	208
+2352	And get ready...	8	0	0	72	16777215	218
+2580	GO!	8	0	0	72	16777215	-1
+2580	Keep it!	4	0	0	72	16777215	8
+2592	Excellent! Spin easy & flush your muscles	8	0	0	72	16777215	-1
+2592	One more chance at a PR or simply another hard effort	8	0	0	72	16777215	48
+2592	In either case, keep it easy by just lifting your knees & letting your feet fall	8	0	0	72	16777215	58
+2592	2-minute warning...	8	0	0	72	16777215	108
+2592	And an invitation to mix things up a bit	8	0	0	72	16777215	118
+2592	If you haven't experimented with a different gear/cadence yet...	8	0	0	72	16777215	128
+2592	I encourage you to do so during this last sprint	8	0	0	72	16777215	138
+2592	Experimentation, trial & error - both are fundamental when it comes to testing limits...	8	0	0	72	16777215	148
+2592	And then expanding them	8	0	0	72	16777215	158
+2592	One more! Get your gear, set your speed...	8	0	0	72	16777215	198
+2592	And choose your position	8	0	0	72	16777215	208
+2592	Get ready...	8	0	0	72	16777215	218
+2820	GO!	8	0	0	72	16777215	-1
+2820	Hold on!	4	0	0	72	16777215	8
+2832	Done!	8	0	0	72	16777215	-1
+2832	,,,with the sprinting portion of the workout anyway	8	0	0	72	16777215	8
+2832	Alrighty, same things to consider	8	0	0	72	16777215	28
+2832	Have you already fairly measured your current, maximum 1-minute power?	8	0	0	72	16777215	38
+2832	Or perhaps you learned something during the first round that might benefit this second set	8	0	0	72	16777215	48
+2832	In either case, there's only 2 minutes' worth of work left in this workout	8	0	0	72	16777215	58
+2832	So keep your head in the game and make the most out of both minutes	8	0	0	72	16777215	68
+2832	One minute out, start to figure out your gearing	8	0	0	72	16777215	128
+2832	And choose your strategy...	8	0	0	72	16777215	138
+2832	Ramp & hold OR get it quickly & hang on	8	0	0	72	16777215	148
+2832	Either strategy is valid, but again, don't hesitate to mix things up a bit	8	0	0	72	16777215	158
+2832	The opportunity to mix things up is a big advantage of multiple efforts	8	0	0	72	16777215	168
+2832	So don't marry yourself to the same approach every time	8	0	0	72	16777215	178
+2832	With that said, if you've done enough 1-minute efforts to know what works best for you...	8	0	0	72	16777215	188
+2832	Then just do what you do best	8	0	0	72	16777215	198
+2832	Again, you want the highest average you can generate regardless of how you do it	8	0	0	72	16777215	208
+2832	Find your gear, set your speed...	8	0	0	72	16777215	218
+3060	GO!	8	0	0	72	16777215	-1
+3060	Building or holding...	8	0	0	72	16777215	10
+3060	Still building...still holding...	8	0	0	72	16777215	20
+3060	Now keep it!	8	0	0	72	16777215	30
+3060	Keeeeeep it!	8	0	0	72	16777215	40
+3060	Don't fade!	8	0	0	72	16777215	50
+3120	NICE! 5 full minutes of recovery	8	0	0	72	16777215	-1
+3120	One last chance to see if you can better your earlier 1-minute attempts	8	0	0	72	16777215	180
+3120	Or simply one last solid, anaerobic capacity effort lasting a minute	8	0	0	72	16777215	190
+3120	In either case, really go for it knowing that you're done once it's over	8	0	0	72	16777215	200
+3120	1 minute's rest...	8	0	0	72	16777215	240
+3120	And then it's on! Briefly!	8	0	0	72	16777215	250
+3120	So get excited, think positive, motivating thoughts	8	0	0	72	16777215	260
+3120	After all, you ARE riding your bike	8	0	0	72	16777215	270
+3120	Get your gear, set your speed	8	0	0	72	16777215	280
+3120	Get ready...	8	0	0	72	16777215	290
+3420	GO!	8	0	0	72	16777215	-1
+3420	Build or hold	8	0	0	72	16777215	10
+3420	Build some more or keep holding	8	0	0	72	16777215	20
+3420	OK! Gut it out!	8	0	0	72	16777215	30
+3420	20 to go! Don't quit!	8	0	0	72	16777215	40
+3420	Excellent! Kill it for 10!	8	0	0	72	16777215	50
+3480	Niiiiiiiice job	8	0	0	72	16777215	-1
+3480	Consider yourself assessed	8	0	0	72	16777215	10
+3480	Cool down and then pore over your numbers	8	0	0	72	16777215	20
+3480	Do a little bragging, a little goal review, maybe a little cussing...	8	0	0	72	16777215	30
+3480	And we'll see you next time	8	0	0	72	16777215	40
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+360	420	Endurance 1
+420	480	Endurance 2
+480	600	Endurance 3
+900	912	Sprint 1
+1140	1152	Sprint 2
+1380	1392	Sprint 3
+1620	1680	Anaerobic Capacity 1
+1980	2040	Anaerobic Capacity 2
+2340	2352	Sprint 4
+2580	2592	Sprint 5
+2820	2832	Sprint 6
+3060	3120	Anaerobic Capacity 3
+3420	3480	Anaerobic Capacity 4
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

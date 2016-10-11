@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<TrainingCenterDatabase xmlns="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2 http://www.garmin.com/xmlschemas/TrainingCenterDatabasev2.xsd http://www.garmin.com/xmlschemas/WorkoutExtension/v1 http://www.garmin.com/xmlschemas/WorkoutExtensionv1.xsd">
+
+  <Folders>
+    <Workouts>
+      <Running Name="Running"/>
+      <Biking Name="Biking"/>
+      <Other Name="My Workouts">
+        <WorkoutNameRef>
+          <Id>w1</Id>
+        </WorkoutNameRef>
+        <WorkoutNameRef>
+          <Id>w2</Id>
+        </WorkoutNameRef>
+      </Other>
+    </Workouts>
+  </Folders>
+
+  <Workouts>
+    <Workout Sport="Biking">
+      <Name>w1</Name>
+      <Step xsi:type="Step_t">
+        <StepId>1</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>300</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+      <Step xsi:type="Step_t">
+        <StepId>2</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>300</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+      <ScheduledOn>2016-06-20</ScheduledOn>
+      <Notes>sdfsdfs</Notes>
+      <Creator xsi:type="Application_t">
+        <Name>Garmin Training Center(r)</Name>
+        <Build>
+          <Version>
+            <VersionMajor>3</VersionMajor>
+            <VersionMinor>6</VersionMinor>
+            <BuildMajor>5</BuildMajor>
+            <BuildMinor>0</BuildMinor>
+          </Version>
+          <Type>Release</Type>
+          <Time>Aug 17 2011, 11:13:24</Time>
+          <Builder>sqa</Builder>
+        </Build>
+        <LangID>EN</LangID>
+        <PartNumber>006-A0119-00</PartNumber>
+      </Creator>
+      <Extensions>
+        <Steps xmlns="http://www.garmin.com/xmlschemas/WorkoutExtension/v1">
+          <Step>
+            <StepId>1</StepId>
+            <Duration xsi:type="Time_t">
+              <Seconds>300</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerInWatts_t">
+                  <Value>150</Value>
+                </Low>
+                <High xsi:type="PowerInWatts_t">
+                  <Value>200</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+          <Step>
+            <StepId>2</StepId>
+            <Duration xsi:type="Time_t">
+              <Seconds>300</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerInWatts_t">
+                  <Value>300</Value>
+                </Low>
+                <High xsi:type="PowerInWatts_t">
+                  <Value>350</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+        </Steps>
+      </Extensions>
+    </Workout>
+    <Workout Sport="Biking">
+      <Name>w2</Name>
+      <Step xsi:type="Step_t">
+        <StepId>1</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>300</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+      <Step xsi:type="Step_t">
+        <StepId>2</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>300</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+      <ScheduledOn>2016-06-21</ScheduledOn>
+      <Notes>sdfsdfs</Notes>
+      <Creator xsi:type="Application_t">
+        <Name>Garmin Training Center(r)</Name>
+        <Build>
+          <Version>
+            <VersionMajor>3</VersionMajor>
+            <VersionMinor>6</VersionMinor>
+            <BuildMajor>5</BuildMajor>
+            <BuildMinor>0</BuildMinor>
+          </Version>
+          <Type>Release</Type>
+          <Time>Aug 17 2011, 11:13:24</Time>
+          <Builder>sqa</Builder>
+        </Build>
+        <LangID>EN</LangID>
+        <PartNumber>006-A0119-00</PartNumber>
+      </Creator>
+      <Extensions>
+        <Steps xmlns="http://www.garmin.com/xmlschemas/WorkoutExtension/v1">
+          <Step>
+            <StepId>1</StepId>
+            <Duration xsi:type="Time_t">
+              <Seconds>300</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerInWatts_t">
+                  <Value>150</Value>
+                </Low>
+                <High xsi:type="PowerInWatts_t">
+                  <Value>200</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+          <Step>
+            <StepId>2</StepId>
+            <Duration xsi:type="Time_t">
+              <Seconds>300</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerInWatts_t">
+                  <Value>300</Value>
+                </Low>
+                <High xsi:type="PowerInWatts_t">
+                  <Value>350</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+        </Steps>
+      </Extensions>
+    </Workout>
+  </Workouts>
+
+  <Author xsi:type="Application_t">
+    <Name>Garmin Training Center(r)</Name>
+    <Build>
+      <Version>
+        <VersionMajor>3</VersionMajor>
+        <VersionMinor>6</VersionMinor>
+        <BuildMajor>5</BuildMajor>
+        <BuildMinor>0</BuildMinor>
+      </Version>
+      <Type>Release</Type>
+      <Time>Aug 17 2011, 11:13:24</Time>
+      <Builder>sqa</Builder>
+    </Build>
+    <LangID>EN</LangID>
+    <PartNumber>006-A0119-00</PartNumber>
+  </Author>
+
+</TrainingCenterDatabase>

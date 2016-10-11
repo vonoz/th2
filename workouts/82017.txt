@@ -1,0 +1,200 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Huffaker TC,90,40. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+2.5	60
+2.5	110
+3	110
+3	40
+3.5	40
+3.5	120
+4	120
+4	40
+5	40
+5	90
+5.5	110
+5.5	110
+7	110
+7	40
+9	40
+9	90
+9.5	115
+9.5	115
+11	115
+11	40
+13	40
+13	90
+13.5	120
+13.5	120
+15	120
+15	40
+19	40
+19	90
+19.5	120
+19.5	120
+21	120
+21	40
+23	40
+23	90
+23.5	115
+23.5	115
+25	115
+25	40
+27	40
+27	90
+27.5	110
+27.5	110
+29	110
+29	40
+30	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Keep your spin quick but easy for these first couple minutes	8	0	0	72	16777215	10
+0	Shoot for somewhere in the 90-100rpm range, no bouncing	8	0	0	72	16777215	20
+0	Get ready for a set of progressive warm-up efforts, only 30 seconds each	8	0	0	72	16777215	130
+0	Try to keep your cadence high even during the brief recovery valley	8	0	0	72	16777215	140
+150	Keep using that quicker-than-usual spin	8	0	0	72	16777215	0
+150	20 seconds, drop your shoulders & relax	8	0	0	72	16777215	10
+180	Take 'er easy for a few seconds	5	0	0	72	16777215	0
+180	Last one, might hurt a bit but it'll get you ready for what's to come	8	0	0	72	16777215	50
+210	Stay relaxed and keep that spin high, 30 seconds	8	0	0	72	16777215	0
+210	10 seconds, spin just a little quicker without bouncing	8	0	0	72	16777215	20
+240	Great, now a quick minute's rest to recharge before we begin the real work	8	0	0	72	16777215	0
+240	Today's efforts are short, sweet & potentially super productive	8	0	0	72	16777215	10
+240	And yes, productive usually means painful...but it's a good pain	8	0	0	72	16777215	20
+240	Working at this effort level the first few times can be quite an eye-opener...	8	0	0	72	16777215	30
+240	but VO2max efforts separate the really fit riders from the rest...	8	0	0	72	16777215	40
+240	and they benefit riders of all types & all levels, recreational to highly competitive	8	0	0	72	16777215	50
+300	Keep your spin quick & steady as you ramp into your first interval	8	0	0	72	16777215	-1
+330	Now just settle in & keep those legs moving quickly	8	0	0	72	16777215	-1
+330	1 minute down! Keep things loose and draw full belly-breaths	8	0	0	72	16777215	30
+330	Halfway there, make sure you don't overgrip your bars	8	0	0	72	16777215	60
+330	Hang in there, only 20 seconds to go	8	0	0	72	16777215	70
+330	Downshift if you need to but keep those legs quick!	8	0	0	72	16777215	80
+420	Excellent! That wasn't so bad, right?	8	0	0	72	16777215	-1
+420	Today's recoveries match the work efforts	8	0	0	72	16777215	30
+420	So if you work for 2 minutes, you get to rest for 2 minutes	8	0	0	72	16777215	40
+420	Also referred to as a 1:1 work-to-rest ratio	5	0	0	72	16777215	50
+420	Keep things easy for another minute but keep turning the pedals	8	0	0	72	16777215	60
+420	Round 2 approaches, just a little more demanding than that first one	8	0	0	72	16777215	90
+420	Remember, no matter how fatigued you get, your legs have to stay quick	8	0	0	72	16777215	100
+420	So downshift when/if necessary	5	0	0	72	16777215	170
+540	30 seconds to build up to that high work level	8	0	0	72	16777215	-1
+570	You're there, now just do your best to stay there	8	0	0	72	16777215	-1
+570	1 minute down! Breeeeeeathe	5	0	0	72	16777215	30
+570	30 to go, downshift if you're under 90rpm	8	0	0	72	16777215	60
+570	10 seconds left!	3	0	0	72	16777215	80
+660	Nicely done, just lift those knees & let them fall for a little while	8	0	0	72	16777215	0
+660	2 minutes to contemplate your cadence	8	0	0	72	16777215	10
+660	Are you finishing at about the same cadence you start with?	8	0	0	72	16777215	20
+660	If not, don't be afraid to shift	5	0	0	72	16777215	30
+660	We're training the heart & lungs here, and a quick spin is helpful...	8	0	0	72	16777215	37
+660	it shifts some of the demand from the muscles onto the heart & lungs	8	0	0	72	16777215	44
+660	So really strive to keep your cadence higher than 90rpm	8	0	0	72	16777215	54
+660	Probably better if you can hold it above 100rpm, but don't blow yourself up with leg speed	8	0	0	72	16777215	64
+660	OK, get your game face on 'cuz this one's gonna hurt	8	0	0	72	16777215	90
+660	Really, it's not much tougher than that last one, so be positive!	8	0	0	72	16777215	100
+660	In 10, get ready...	3	0	0	72	16777215	110
+780	Same steady ramp up, keep your legs quick	8	0	0	72	16777215	-1
+810	Now just take it 30 seconds at a time	5	0	0	72	16777215	-1
+810	1 minute down!	5	0	0	72	16777215	30
+810	You can finish strongly if you make yourself	5	0	0	72	16777215	60
+810	The work won't change & you have enough gas in the tank	5	0	0	72	16777215	70
+810	Final 10, don't bail out!	3	0	0	72	16777215	80
+810	3...Don't quit!	1	0	0	72	16777215	87
+810	2	1	0	0	72	16777215	88
+810	1	1	0	0	72	16777215	89
+900	Great job! Now where's that bucket? ;-)	8	0	0	72	16777215	-1
+900	Time for a long break, so just keep it easy and bring your heart rate down	8	0	0	72	16777215	10
+900	VO2max can be a tough thing to improve, especially if you're already pretty fit	8	0	0	72	16777215	60
+900	So while your VO2max might not change much, maybe not at all...	8	0	0	72	16777215	70
+900	how long you can sustain high percentages of your peak output will!	8	0	0	72	16777215	80
+900	So it's increases in your power at VO2 Max that we're after with intervals like these	8	0	0	72	16777215	90
+900	Efforts like these are about spending as much time as possible...	8	0	0	72	16777215	100
+900	at a really high percentage of your aerobic capacity (VO2 Max)	8	0	0	72	16777215	110
+900	So for most riders, this workout is less about improving your VO2 Max...	8	0	0	72	16777215	120
+900	and more about improving your ability to spend time really close to your VO2 Max	8	0	0	72	16777215	130
+900	Put another way, your engine is about as big as it's going to get...	8	0	0	72	16777215	140
+900	so we're going to learn how to get the most out of it, over & over again	8	0	0	72	16777215	150
+900	During this 2nd set, if the fatigue grows to where you simply can't finish the interval...	8	0	0	72	16777215	160
+900	consider reducing the Workout Intenstiy slightly so you can last for the entire 2 minutes	8	0	0	72	16777215	170
+900	It's a waste of time & training to fake your way through a workout like this one...	8	0	0	72	16777215	180
+900	so learn to recognize when you need a extra recovery in order to perform these as prescribed	8	0	0	72	16777215	190
+900	That could mean pausing the workout, it could mean shuffling your workouts	8	0	0	72	16777215	200
+900	In any case, you ought to feel rested & motivated heading into a VO2 Max workout	8	0	0	72	16777215	210
+900	Start to drive up your spin, work toward 100rpm and do you best to hold it	8	0	0	72	16777215	220
+900	Establish your cadence now & get ready	5	0	0	72	16777215	233
+1140	Maintain that spin & stay relaxed as the work ramps up	8	0	0	72	16777215	-1
+1170	Now just hang in there, 30 seconds at a time	8	0	0	72	16777215	-1
+1170	1 minute down, no problem	8	0	0	72	16777215	30
+1170	Another 30 behind you, take it 10 seconds at a time now!	8	0	0	72	16777215	60
+1170	Another 10 seconds of smooth power!	5	0	0	72	16777215	70
+1170	Final 10, don't fade!	5	0	0	72	16777215	80
+1170	3	1	0	0	72	16777215	87
+1170	2	1	0	0	72	16777215	88
+1170	1	1	0	0	72	16777215	89
+1260	Great job! 2 easy minutes to get things under control	8	0	0	72	16777215	-1
+1260	Efforts as intense as these bring about big performance gains in very little time	8	0	0	72	16777215	10
+1260	So try to see EACH of them as an opportunity to get stronger...	8	0	0	72	16777215	20
+1260	because each one of them can indeed improve your fitness	8	0	0	72	16777215	30
+1260	Assuming you take your recovery as seriously as your workouts	8	0	0	72	16777215	40
+1260	Becaues in case you haven't heard, rest is where adaptation happens ;-)	8	0	0	72	16777215	50
+1260	Get ready to go again, not quite as intense as that last one	8	0	0	72	16777215	90
+1260	Settle into a cadence you're gonna try to hold	8	0	0	72	16777215	100
+1260	2 minutes worth of focus - get ready!	5	0	0	72	16777215	113
+1380	Stay as relaxed as possible as you ramp up	8	0	0	72	16777215	-1
+1410	Now settle in & make it look easy	5	0	0	72	16777215	-1
+1410	1 minute down, loosen your grip, bend your elbows	5	0	0	72	16777215	30
+1410	Hang on for another 10 seconds!	5	0	0	72	16777215	60
+1410	Do it again, 10 seconds!	5	0	0	72	16777215	70
+1410	Gut it out for 10 final seconds!	5	0	0	72	16777215	80
+1410	3	1	0	0	72	16777215	87
+1410	2	1	0	0	72	16777215	88
+1410	1	1	0	0	72	16777215	89
+1500	Excellent! Lightly spin & breathe through the nausea	8	0	0	72	16777215	-1
+1500	Only one left & there's nothing keeping you from lasting the entire 2 minutes	8	0	0	72	16777215	90
+1500	Scary thought, I know, but commit to the entire interval now	8	0	0	72	16777215	100
+1500	Don't even entertain the idea of quitting	5	0	0	72	16777215	110
+1620	Last ramp of the day, relax	5	0	0	72	16777215	-1
+1650	30 seconds at a time, stay focused & relaxed	5	0	0	72	16777215	-1
+1650	1 minute behind ya!	5	0	0	72	16777215	30
+1650	Another 30, need to shift to keep your legs quick?	5	0	0	72	16777215	60
+1650	Last 20, you've got this!	5	0	0	72	16777215	70
+1650	10 seconds, hang on!	5	0	0	72	16777215	80
+1650	3	1	0	0	72	16777215	87
+1650	2	1	0	0	72	16777215	88
+1650	1	1	0	0	72	16777215	89
+1740	DONE! Come back to reality, the pain's over	8	0	0	72	16777215	-1
+1740	Lightly spin while you warm down...	8	0	0	72	16777215	10
+1740	and think about your recovery nutrition	8	0	0	72	16777215	20
+1740	We'll see you next time	5	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	1800	Workout
+150	180	VO2 Max 1
+210	240	VO2 Max 2
+300	330	Threshold 1
+330	420	VO2 Max 3
+540	570	Threshold 2
+570	660	VO2 Max 4
+780	810	Threshold 3
+810	900	VO2 Max 5
+1140	1170	Threshold 4
+1170	1260	VO2 Max 6
+1380	1410	Threshold 5
+1410	1500	VO2 Max 7
+1620	1650	Threshold 6
+1650	1740	VO2 Max 8
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

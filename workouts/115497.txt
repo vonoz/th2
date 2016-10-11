@@ -1,0 +1,394 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Mills 45,93,64. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	60
+3	120
+3.5	120
+3.5	40
+4	40
+4	130
+4.5	130
+4.5	40
+6	40
+6	120
+6.75	120
+6.75	120
+8	110
+8	40
+10	40
+10	120
+10.75	120
+10.75	120
+12	110
+12	40
+14	40
+14	120
+14.75	120
+14.75	120
+16	110
+16	40
+20	40
+20	120
+21	120
+21	120
+22	110
+22	40
+24	40
+24	120
+25	120
+25	120
+26	110
+26	39
+28	39
+28	120
+29	120
+29	120
+30	110
+30	40
+34	40
+34	120
+34.75	120
+34.75	120
+36	110
+36	40
+38	40
+38	120
+38.75	120
+38.75	120
+40	110
+40	40
+42	40
+42	120
+42.75	120
+42.75	120
+44	110
+44	40
+45	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Short & sweet is the name of the game today...	5	0	0	72	16777215	10
+0	short, sweet & painful	3	0	0	72	16777215	16
+0	But as usual, pain translates into improved capacity	5	0	0	72	16777215	21
+0	Specific to today's workout, improved aerobic capacity	5	0	0	72	16777215	28
+0	Assuming you recover properly, of course	5	0	0	72	16777215	35
+0	More on this improvement later...	3	0	0	72	16777215	42
+0	for now, spin lightly & quickly	3	0	0	72	16777215	46
+0	Get ready for a short warming effort	5	0	0	72	16777215	165
+0	Comfortably quick cadence	3	0	0	72	16777215	172
+180	30 seconds...	2	0	0	72	16777215	0
+180	quick legs, relaxed upper body	4	0	0	72	16777215	3
+210	Slow things down again...	3	0	0	72	16777215	2
+210	and draw a few big, belly breaths	4	0	0	72	16777215	6
+210	Make your midsection thick, then thin	5	0	0	72	16777215	11
+210	Pick up your spin again	3	0	0	72	16777215	22
+240	Last 30 seconds of quick legs	3	0	0	72	16777215	0
+270	Slow things down again & clear any heaviness	5	0	0	72	16777215	2
+270	Drop the Workout Intensity on this first one...	5	0	0	72	16777215	60
+270	by 10% if you don't feel warm yet	5	0	0	72	16777215	66
+270	Better safe than overcooked...	3	0	0	72	16777215	73
+270	after only a single interval	3	0	0	72	16777215	77
+270	Quick, controlled spin	3	0	0	72	16777215	82
+360	Go out fast...	3	0	0	72	16777215	0
+360	then try to keep your cadence above 100rpm	5	0	0	72	16777215	4
+360	A quick spin is especially important today...	5	0	0	72	16777215	10
+360	since we're trying to really tax...	3	0	0	72	16777215	16
+360	your heart & lungs...	3	0	0	72	16777215	20
+360	and de-emphasize your muscles a bit	5	0	0	72	16777215	24
+405	Your Target Power has started to descend...	5	0	0	72	16777215	0
+405	but only a little bit, and very gradually	4	0	0	72	16777215	6
+405	It's not going to feel "better" exactly...	4	0	0	72	16777215	11
+405	but it should keep you hanging in there...	5	0	0	72	16777215	16
+405	especially with a quick spin	3	0	0	72	16777215	22
+405	Keep your power on Target...	3	0	0	72	16777215	40
+405	and keep your spin fluid & quick	4	0	0	72	16777215	44
+405	Only 15 seconds to go, don't ease up!	4	0	0	72	16777215	60
+480	Nicely done, take it easy for a couple minutes	5	0	0	72	16777215	2
+480	Next interval coming up...	3	0	0	72	16777215	60
+480	raise your Workout Intensity if you dropped it	5	0	0	72	16777215	64
+480	Either 5% or the full 10%...	3	0	0	72	16777215	71
+480	assuming you finished that first interval	5	0	0	72	16777215	75
+480	If you bailed early though...	3	0	0	72	16777215	82
+480	leave the Workout Intensity alone	3	0	0	72	16777215	86
+480	The goal is to complete each 2-minute interval...	5	0	0	72	16777215	91
+480	with your power on target...	3	0	0	72	16777215	96
+480	and your spin steadily above 100rpm	5	0	0	72	16777215	100
+480	Get ready to go fast	3	0	0	72	16777215	115
+600	45 seconds of hard work...	3	0	0	72	16777215	0
+600	quick & steady	3	0	0	72	16777215	4
+600	Hold your power & leg speed!	3	0	0	72	16777215	30
+645	Keep your leg speed even if you have to downshift...	5	0	0	72	16777215	0
+645	and if you're on an electronic trainer in Ergo mode...	5	0	0	72	16777215	7
+645	they'll handle the power reductions for you	5	0	0	72	16777215	13
+645	so no need to downshift in that case	5	0	0	72	16777215	19
+645	Otherwise, very slightly lower your power output...	5	0	0	72	16777215	30
+645	over this 75 seconds	3	0	0	72	16777215	36
+645	This may be the only way...	3	0	0	72	16777215	40
+645	to keep your cadence steady	3	0	0	72	16777215	44
+645	So downshift as necessary...	3	0	0	72	16777215	48
+645	to keep your power on Target with quick legs	5	0	0	72	16777215	51
+645	Takes a bit of practice...	3	0	0	72	16777215	58
+645	but lucky for you...	3	0	0	72	16777215	62
+645	there's plenty of work still ahead! ;-)	5	0	0	72	16777215	66
+720	Well done, spin out the heaviness	5	0	0	72	16777215	2
+720	Final interval in this first set is up next	5	0	0	72	16777215	60
+720	Return the Workout Intensity to normal...	3	0	0	72	16777215	67
+720	if necessary/possible	3	0	0	72	16777215	71
+720	You have the gist of this by now...	3	0	0	72	16777215	80
+720	45 seconds of high effort...	3	0	0	72	16777215	84
+720	and 75 seconds of survival...	3	0	0	72	16777215	88
+720	with excellent form & quick legs	5	0	0	72	16777215	92
+720	The quick spin is vital...	3	0	0	72	16777215	98
+720	so don't raise the intensity if you're bogging down	5	0	0	72	16777215	102
+720	Get ready!	2	0	0	72	16777215	115
+840	Quick legs!	2	0	0	72	16777215	0
+840	100rpm or higher if you can control it	5	0	0	72	16777215	3
+840	Relax your upper body...	3	0	0	72	16777215	10
+840	relax your lower legs	3	0	0	72	16777215	14
+840	See your knees as pistons in an engine...	4	0	0	72	16777215	18
+840	a high-revving engine...	3	0	0	72	16777215	23
+840	that doesn't slow down...	3	0	0	72	16777215	27
+840	doesn't get sloppy	3	0	0	72	16777215	31
+885	You can start to ease up SLIGHTLY...	3	0	0	72	16777215	0
+885	but not enough to actually feel it	4	0	0	72	16777215	4
+885	If you start feeling better...	3	0	0	72	16777215	10
+885	you've probably fallen off Target	3	0	0	72	16777215	14
+885	At no point during these 2-minute efforts...	4	0	0	72	16777215	20
+885	should you feel comfortable	3	0	0	72	16777215	25
+885	Make these efforts hurt!	3	0	0	72	16777215	30
+885	20 seconds to keep your cadence...	3	0	0	72	16777215	55
+885	and hold your Target Power	3	0	0	72	16777215	59
+885	10! Don't let off the gas	3	0	0	72	16777215	65
+960	Well done, much longer break this time	5	0	0	72	16777215	2
+960	Keep your legs turning for a couple minutes at least	5	0	0	72	16777215	10
+960	You can backpedal or take a break...	3	0	0	72	16777215	20
+960	after you've cleared your muscles a bit	5	0	0	72	16777215	24
+960	With a full set behind you...	3	0	0	72	16777215	60
+960	you can now make some informed decisions	4	0	0	72	16777215	64
+960	Decisions to help you get the most out of each interval	5	0	0	72	16777215	69
+960	First, did you finish each of those 3 intervals?	5	0	0	72	16777215	76
+960	If not, consider an intensity reduction of 5-10%	5	0	0	72	16777215	83
+960	But you should be able to start each of these...	5	0	0	72	16777215	90
+960	at 110% FTP or higher	3	0	0	72	16777215	97
+960	If you barely finished each one...	3	0	0	72	16777215	102
+960	leave the intensity alone	3	0	0	72	16777215	106
+960	If you finished with plenty of gas still in the tank...	5	0	0	72	16777215	111
+960	try a 5% increase in Workout Intensity...	3	0	0	72	16777215	117
+960	for this next round of intervals	3	0	0	72	16777215	121
+960	Second, did you maintain your leg speed?	4	0	0	72	16777215	126
+960	If not, try harder	3	0	0	72	16777215	132
+960	Try harder to stay above 100rpm...	4	0	0	72	16777215	137
+960	and consider that same 5-10% drop in intensity	5	0	0	72	16777215	142
+960	Your spin needs to be quick...	3	0	0	72	16777215	149
+960	or this workout shifts its focus	4	0	0	72	16777215	154
+960	Take 30 seconds to settle in...	3	0	0	72	16777215	210
+960	to a comfortably quick spin	3	0	0	72	16777215	214
+960	90rpm is a good place to start	5	0	0	72	16777215	218
+960	Use this final 10 seconds...	3	0	0	72	16777215	230
+960	to come up to 100rpm or higher	3	0	0	72	16777215	234
+1200	Quick but controlled...	3	0	0	72	16777215	0
+1200	60 seconds this time!	3	0	0	72	16777215	4
+1200	A quick spin means quick, aerobic muscle contractions...	5	0	0	72	16777215	10
+1200	ones that use more oxygen than sugar...	5	0	0	72	16777215	16
+1200	ones that won't fry your muscles nearly as quickly	5	0	0	72	16777215	22
+1200	20 more seconds...	2	0	0	72	16777215	40
+1200	then things ease up ever so slightly	4	0	0	72	16777215	43
+1260	Only 1 minute left now	3	0	0	72	16777215	0
+1260	Gradually ease off the gas...	3	0	0	72	16777215	5
+1260	but not very much...	3	0	0	72	16777215	9
+1260	and not very quickly	3	0	0	72	16777215	13
+1260	30 seconds, hang in there...	3	0	0	72	16777215	30
+1260	and breeeeeathe!	3	0	0	72	16777215	34
+1260	Big, deep, belly-breaths...	3	0	0	72	16777215	40
+1260	thick adbomen, thin abdomen	5	0	0	72	16777215	44
+1320	Excellent, keep your legs turning	5	0	0	72	16777215	2
+1320	This middle round asks you to hold...	4	0	0	72	16777215	30
+1320	that peak power longer...	3	0	0	72	16777215	35
+1320	but fades over 60 seconds instead of 75	4	0	0	72	16777215	39
+1320	The objectives are still the same though:	5	0	0	72	16777215	45
+1320	Power on target for 2 minutes...	3	0	0	72	16777215	51
+1320	Quick legs for 2 minutes	3	0	0	72	16777215	55
+1320	If either becomes impossible...	3	0	0	72	16777215	60
+1320	reduce the intensity a bit...	3	0	0	72	16777215	64
+1320	but try to keep the initial 60 seconds...	4	0	0	72	16777215	68
+1320	at 110% FTP or higher	3	0	0	72	16777215	73
+1320	Any lower and the workout becomes something unintended	5	0	0	72	16777215	78
+1320	Start to bring up your cadence	3	0	0	72	16777215	100
+1320	Now try to reach and hold...	3	0	0	72	16777215	110
+1320	100rpm or higher for the next 2 minutes	4	0	0	72	16777215	114
+1440	Hold right here for 1 minute...	3	0	0	72	16777215	0
+1440	with quick legs & belly-breathing	4	0	0	72	16777215	4
+1440	For 30 seconds...	3	0	0	72	16777215	30
+1440	think about your kick & pull	3	0	0	72	16777215	34
+1440	Kick foward, pull back...	3	0	0	72	16777215	40
+1440	and give your quads a tiny bit of relief	5	0	0	72	16777215	43
+1500	1 more minute of trying to hold full power	5	0	0	72	16777215	0
+1500	Some decline in power is likely...	3	0	0	72	16777215	7
+1500	but don't intentionally ease up	3	0	0	72	16777215	11
+1500	Unless your spin is slowing...	4	0	0	72	16777215	15
+1500	in which case, downshift & stay quick	5	0	0	72	16777215	20
+1500	30 seconds!	3	0	0	72	16777215	30
+1500	20 seconds, keep that quick spin	3	0	0	72	16777215	40
+1500	10! Not one second less	3	0	0	72	16777215	50
+1560	Nicely done, catch your breath...	3	0	0	72	16777215	2
+1560	while we talk muscle fibers	4	0	0	72	16777215	6
+1560	Different effort levels...	3	0	0	72	16777215	12
+1560	mean different types of muscle contribution	5	0	0	72	16777215	16
+1560	In today's case...	3	0	0	72	16777215	23
+1560	we're targeting "blended" muscle fibers	4	0	0	72	16777215	27
+1560	It's these intermediate fibers...	3	0	0	72	16777215	33
+1560	which are often called upon during hard efforts	5	0	0	72	16777215	37
+1560	Think of these as your make-or-break fibers...	5	0	0	72	16777215	44
+1560	since slow-twitch fibers can only handle lighter workloads...	5	0	0	72	16777215	51
+1560	and fast-twitch fibers can only work for short periods of time	5	0	0	72	16777215	58
+1560	But your intermediate fibers...	3	0	0	72	16777215	65
+1560	can work hard AND for longer durations	5	0	0	72	16777215	69
+1560	They rely upon both oxygen & sugar...	3	0	0	72	16777215	76
+1560	to fuel their power output...	3	0	0	72	16777215	80
+1560	which is why breathing really well...	3	0	0	72	16777215	84
+1560	is SO important at this effort level	4	0	0	72	16777215	88
+1560	We're trying to grow your aerobic capabilities...	5	0	0	72	16777215	94
+1560	by increasing your power at VO2max...	3	0	0	72	16777215	100
+1560	or the amount of time you can spend there	4	0	0	72	16777215	104
+1560	And in doing so you'll grow other capabilities	5	0	0	72	16777215	110
+1680	Wind things up again...	3	0	0	72	16777215	0
+1680	100rpm or higher if possible	4	0	0	72	16777215	4
+1680	And start those full, belly breaths right away...	5	0	0	72	16777215	10
+1680	so you stay in front of your body's oxygen demand...	5	0	0	72	16777215	16
+1680	for as long as possible	3	0	0	72	16777215	22
+1680	The second you exceed that demand...	4	0	0	72	16777215	30
+1680	and you will...	3	0	0	72	16777215	35
+1680	your sugar utilization skyrockets	3	0	0	72	16777215	39
+1680	So think of breathing...	3	0	0	72	16777215	44
+1680	as a way to stave off sugar usage	5	0	0	72	16777215	48
+1680	Or at least reduce it	3	0	0	72	16777215	55
+1740	1 minute, hang onto your leg speed!	5	0	0	72	16777215	0
+1740	Anytime your quads load up, do 2 things...	5	0	0	72	16777215	7
+1740	1 - breathe more fully, with your belly	5	0	0	72	16777215	13
+1740	2 - focus on your kick & pull	5	0	0	72	16777215	20
+1740	You know, the top & bottom quadrants of your pedalstroke	5	0	0	72	16777215	27
+1740	Kicking & pulling shares the workload...	3	0	0	72	16777215	34
+1740	and can spare your quads just slightly...	4	0	0	72	16777215	37
+1740	while still allowing you to do a heck of a lot of work	5	0	0	72	16777215	42
+1800	Improving your aerobic/oxygen-reliant capabilities...	5	0	0	72	16777215	2
+1800	means increased power from oxygen instead of sugar...	5	0	0	72	16777215	8
+1800	increased lactate processing capabilities too!	5	0	0	72	16777215	14
+1800	Lactate is more predominant...	3	0	0	72	16777215	21
+1800	when you outstrip your aerobic resources	4	0	0	72	16777215	25
+1800	So when you can't muster the power aerobically...	5	0	0	72	16777215	31
+1800	your anaerobic systems kicks into high gear...	5	0	0	72	16777215	38
+1800	producing more lactate - MUCH more at times	5	0	0	72	16777215	45
+1800	Lactate is a fuel source, plain & simple, but too much of it...	5	0	0	72	16777215	52
+1800	and its accumulation with other metabolic byproducuts...	5	0	0	72	16777215	62
+1800	limits your work capacity	3	0	0	72	16777215	68
+1800	But a strong aerobic system...	3	0	0	72	16777215	73
+1800	can process higher amounts of lactate...	4	0	0	72	16777215	77
+1800	thus raising the amount of power...	3	0	0	72	16777215	82
+1800	that you can sustain without overdoing it	4	0	0	72	16777215	86
+1800	So greater aerobic capacity raises your FTP!	5	0	0	72	16777215	92
+1800	So as you get better at working at 110, 115, 120% FTP...	5	0	0	72	16777215	99
+1800	your FTP climbs	3	0	0	72	16777215	105
+1800	All of this is to say...	3	0	0	72	16777215	110
+1800	these hurt but they're well worth the discomfort	5	0	0	72	16777215	114
+1800	Especially when you only have a few hours a week to train	5	0	0	72	16777215	121
+1800	But even with many weekly training hours...	5	0	0	72	16777215	128
+1800	VO2 Max work still plays an important role	5	0	0	72	16777215	134
+1800	Going again in 30 seconds...	3	0	0	72	16777215	210
+1800	decide on any intensity changes now...	3	0	0	72	16777215	214
+1800	and modify the Workout Intensity	3	0	0	72	16777215	218
+1800	Finish each of these final 3 intervals...	4	0	0	72	16777215	223
+1800	and with high leg speed	3	0	0	72	16777215	228
+1800	Pick it up!	3	0	0	72	16777215	233
+2040	Back to the 45-second initial effort...	5	0	0	72	16777215	0
+2040	followed by a 75-second, mild decline...	3	0	0	72	16777215	6
+2040	to allow you to hold your cadence	4	0	0	72	16777215	10
+2040	15 more seconds...	3	0	0	72	16777215	30
+2040	at 100rpm or higher	3	0	0	72	16777215	34
+2085	Now do your best...	3	0	0	72	16777215	0
+2085	to keep your cadence for 75 seconds	5	0	0	72	16777215	4
+2085	Even if that means a slight drop in power output	5	0	0	72	16777215	10
+2085	30 seconds, legs stay quick!	3	0	0	72	16777215	45
+2085	Breathing stays deep & belly-driven	3	0	0	72	16777215	55
+2085	10!	2	0	0	72	16777215	65
+2160	Well done!	5	0	0	72	16777215	2
+2160	This late in the game...	3	0	0	72	16777215	69
+2160	don't hesitate to drop 5-10% Workout Intensity...	5	0	0	72	16777215	73
+2160	if it keeps the interval quality high	3	0	0	72	16777215	79
+2160	Or if it helps keep you at 110% FTP or higher...	5	0	0	72	16777215	84
+2160	during the initial 45 seconds	3	0	0	72	16777215	90
+2160	And if you're feeling particularly ambitious...	4	0	0	72	16777215	100
+2160	try a 5-10% increase	3	0	0	72	16777215	105
+2160	But only if you can keep things together...	3	0	0	72	16777215	110
+2160	for the entire 2 minutes, all 3 times	4	0	0	72	16777215	114
+2280	Pick it up!	3	0	0	72	16777215	0
+2280	15 seconds until the drop, hang on!	3	0	0	72	16777215	30
+2325	By now you know that "the drop" isn't much of a drop	5	0	0	72	16777215	0
+2325	It's only there to mitigate your loss of leg speed...	5	0	0	72	16777215	8
+2325	so don't expect any real relief...	3	0	0	72	16777215	14
+2325	until each interval ends	3	0	0	72	16777215	18
+2325	30 seconds, still above 100rpm!	3	0	0	72	16777215	45
+2325	20, kick & pull!	3	0	0	72	16777215	55
+2325	10 seconds, don't bail early!	3	0	0	72	16777215	65
+2400	Excellent, clear the burn	5	0	0	72	16777215	2
+2400	Quick, soft pedalstrokes...	3	0	0	72	16777215	10
+2400	and big, belly-breaths	3	0	0	72	16777215	14
+2400	Final effort is nearly upon you	3	0	0	72	16777215	60
+2400	Almost time to push yourself a bit more...	4	0	0	72	16777215	65
+2400	IF you've completed every interval so far	4	0	0	72	16777215	70
+2400	If not...	3	0	0	72	16777215	76
+2400	just survive with excellent form & quick legs	5	0	0	72	16777215	80
+2400	But if you haven't really struggled...	3	0	0	72	16777215	90
+2400	to get through those closing seconds yet...	4	0	0	72	16777215	94
+2400	try a 5% increase in intensity this time	5	0	0	72	16777215	99
+2400	It's only 2 minutes ;-)	3	0	0	72	16777215	106
+2400	Quick legs...	2	0	0	72	16777215	111
+2400	relaxed body...	2	0	0	72	16777215	114
+2400	belly-breaths	2	0	0	72	16777215	117
+2520	Go fast!	3	0	0	72	16777215	0
+2520	Keep it quick, drop's approaching!	5	0	0	72	16777215	35
+2565	Use the gradual drop...	3	0	0	72	16777215	0
+2565	to keep your leg speed high	3	0	0	72	16777215	4
+2565	Final 30 seconds of the workout!	3	0	0	72	16777215	45
+2565	20 seconds, no slip in cadence!	3	0	0	72	16777215	55
+2565	10 seconds, keep it!	3	0	0	72	16777215	65
+2565	5 seconds!	2	0	0	72	16777215	70
+2640	Nicely done!	5	0	0	72	16777215	2
+2640	This foray into VO2max work is behind you...	5	0	0	72	16777215	10
+2640	so get some proper nutrition into your spent muscles...	5	0	0	72	16777215	16
+2640	and we'll see you next time	5	0	0	72	16777215	22
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	2700	Workout
+180	210	VO2 Max 1
+240	270	Sprint 1
+360	405	VO2 Max 2
+405	480	VO2 Max 3
+600	645	VO2 Max 4
+645	720	VO2 Max 5
+840	885	VO2 Max 6
+885	960	VO2 Max 7
+1200	1260	VO2 Max 8
+1260	1320	VO2 Max 9
+1440	1500	VO2 Max 10
+1500	1560	VO2 Max 11
+1680	1740	VO2 Max 12
+1740	1800	VO2 Max 13
+2040	2085	VO2 Max 14
+2085	2160	VO2 Max 15
+2280	2325	VO2 Max 16
+2325	2400	VO2 Max 17
+2520	2565	VO2 Max 18
+2565	2640	VO2 Max 19
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

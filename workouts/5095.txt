@@ -1,0 +1,283 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Triple Divide,89,119. Created by 42270.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	90
+7	90
+7	40
+8	40
+8	100
+9	100
+9	40
+10	40
+10	110
+11	110
+11	40
+12	40
+12	120
+13	120
+13	50
+18	50
+18	90
+18.5	120
+18.5	120
+21	120
+21	40
+24	40
+24	90
+24.5	120
+24.5	120
+27	120
+27	40
+30	40
+30	90
+30.5	120
+30.5	120
+33	120
+33	50
+43	50
+43	90
+43.5	120
+43.5	120
+46	120
+46	40
+49	40
+49	90
+49.5	120
+49.5	120
+52	120
+52	40
+55	40
+55	90
+55.5	120
+55.5	120
+58	120
+58	50
+68	50
+68	90
+68.5	120
+68.5	120
+71	120
+71	40
+74	40
+74	95
+74.5	120
+74.5	120
+77	120
+77	40
+80	40
+80	90
+80.5	120
+80.5	120
+83	120
+83	50
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Triple Divide!	8	0	0	72	16777215	10
+0	Today's workout consists of 3 sets of three VO2max repeats	8	0	0	72	16777215	20
+0	Each repeat should be done between 110-120% FTP	8	0	0	72	16777215	30
+0	You'll have 3 minutes of recovery between each interval...	8	0	0	72	16777215	40
+0	and a full 10 minutes of recovery between sets of intervals	8	0	0	72	16777215	50
+0	After the warm up, you'll notice that each interval...	8	0	0	72	16777215	60
+0	is set alllll the way up to 120% FTP	6	0	0	72	16777215	70
+0	Completing this workout just as it's prescribed is ambitious...	8	0	0	72	16777215	78
+0	but doable depending on where your fitness is	8	0	0	72	16777215	88
+0	Your goal should be to find a repeatable power output...	8	0	0	72	16777215	98
+0	that allows you to BARELY finish each interval	8	0	0	72	16777215	108
+0	This may require some trial & error, but you'll have plenty of opportunities today ;)	8	0	0	72	16777215	118
+0	You want to make each interval count...	8	0	0	72	16777215	128
+0	so if you can't sustain 120% for 3 minutes AND then repeat it...	8	0	0	72	16777215	138
+0	lower the Workout Intensity by a few percentage points	8	0	0	72	16777215	148
+0	You'll soon find a very difficult but repeatable level	8	0	0	72	16777215	158
+0	Ideally, this will fall somewhere between 110-120% FTP	8	0	0	72	16777215	168
+0	Use these upcoming clearing efforts to help you...	8	0	0	72	16777215	178
+0	begin to get an idea of what you're capable of today	8	0	0	72	16777215	188
+0	When/If the time comes to adjust the workout's intensity...	8	0	0	72	16777215	198
+0	you can do so by using the intensity-adjustor arrows...	8	0	0	72	16777215	208
+0	located in the lower, left-hand corner of your workout window	8	0	0	72	16777215	218
+0	Four 1-minute clearing efforts coming up in about 30 seconds	8	0	0	72	16777215	330
+0	Do your best to keep your spin quick during each of these efforts...	8	0	0	72	16777215	340
+0	ideally, somewhere in the 100-120rpm range	8	0	0	72	16777215	350
+360	Quick spin, lots of control...	8	0	0	72	16777215	0
+360	which is a nice way of saying, no bouncing in the saddle	8	0	0	72	16777215	10
+420	Settle back into a comfortable spin	8	0	0	72	16777215	0
+420	Wind things back up again, nice & quick	8	0	0	72	16777215	50
+480	Hold that quick spin for the entire minute...	8	0	0	72	16777215	0
+480	and stay relaxed	5	0	0	72	16777215	10
+540	Slow things down again, catch your breath	8	0	0	72	16777215	0
+540	Bring your cadence up again, 100+rpm	8	0	0	72	16777215	50
+600	Quick legs, quiet upper body, full breaths	8	0	0	72	16777215	0
+660	Good, ease off a bit & slow your breathing	8	0	0	72	16777215	0
+660	Last time, quick but controllable spin	8	0	0	72	16777215	50
+720	1 minute, full intensity, get a feel for it	8	0	0	72	16777215	0
+780	Excellent, shut it down and spin comfortably	8	0	0	72	16777215	0
+780	You should be feeling reasonably warmed up by now...	8	0	0	72	16777215	10
+780	but feel free to start the first interval at 110% FTP...	8	0	0	72	16777215	20
+780	if you're not feeling sufficiently warm by the end of this 5-minute period	8	0	0	72	16777215	30
+780	You can then work your way up from 110% FTP...	8	0	0	72	16777215	40
+780	topping out at 120% FTP if at all possible	8	0	0	72	16777215	50
+780	First interval in about 30 seconds	8	0	0	72	16777215	270
+780	You'll want to maintain a high cadence for these	8	0	0	72	16777215	280
+780	Shoot for at least 95, but 110rpm is ideal	8	0	0	72	16777215	290
+1080	30-second ramp into your first interval	8	0	0	72	16777215	0
+1110	Settle in for the next 2:30 with quick & controlled legs	8	0	0	72	16777215	0
+1110	If you're experiencing any bouncing in the saddle...	8	0	0	72	16777215	10
+1110	ease up on the cadence	8	0	0	72	16777215	20
+1260	1 down! Take it easy for 3 minutes	8	0	0	72	16777215	0
+1260	If you did reduce the intensity for that first interval...	8	0	0	72	16777215	10
+1260	think about how it went. Could you bring the watts up 3-5%?	8	0	0	72	16777215	20
+1260	Remember, these intervals are meant to push you - both mentally & physically	8	0	0	72	16777215	30
+1260	Next set is fast approaching, start finding your cadence	8	0	0	72	16777215	170
+1440	30 seconds to settle into a quick spin	8	0	0	72	16777215	0
+1470	Strive for quick yet controlled legs	8	0	0	72	16777215	0
+1470	Again, no bouncing in the saddle	8	0	0	72	16777215	10
+1470	To further improve upon your form, focus on...	8	0	0	72	16777215	20
+1470	keeping your upper body relaxed	8	0	0	72	16777215	30
+1470	Ditch any tension that isn't contributing to your pedalstroke	8	0	0	72	16777215	40
+1470	The shoulders are a common area to carry tension, so make sure they're relaxed	8	0	0	72	16777215	50
+1470	Also, focus on your placement on the saddle	8	0	0	72	16777215	60
+1470	Make sure your sit bones are firmly planted on the saddle wings	8	0	0	72	16777215	70
+1470	Leaning forward onto your pubic bone is not only poor form...	8	0	0	72	16777215	80
+1470	but can lead to skin irritation & even saddle sores	8	0	0	72	16777215	90
+1470	Stay tough for less than a minute!	8	0	0	72	16777215	100
+1620	And relax! Try to avoid backpedaling for at least 30 seconds	8	0	0	72	16777215	0
+1620	This will help your legs clear the junk and recover faster	8	0	0	72	16777215	10
+1620	One more interval & you get to enjoy a 10-minute recovery!	8	0	0	72	16777215	150
+1620	So, make sure you make this next interval count/hurt	8	0	0	72	16777215	160
+1800	Pick things up again, nice quick legs	8	0	0	72	16777215	0
+1830	Make this last interval the best one yet	8	0	0	72	16777215	0
+1830	Keep your upper body relaxed & "quiet" - no excess movement	8	0	0	72	16777215	10
+1830	Final minute! Gut it out!	8	0	0	72	16777215	90
+1830	If you feel your form start to fade, FOCUS	8	0	0	72	16777215	100
+1830	Usually it's just a matter of attention...or lack thereof	8	0	0	72	16777215	110
+1830	Final 30 seconds, don't fade!	8	0	0	72	16777215	120
+1980	Great job! One set down	8	0	0	72	16777215	3
+1980	Enjoy 10 minutes of well-earned recovery	8	0	0	72	16777215	15
+1980	You may be wondering what benefits you reap from this sort of intervals...	8	0	0	72	16777215	30
+1980	which is a valid question considering how difficult they are	8	0	0	72	16777215	40
+1980	Not only can VO2max repeats increase VO2max itself (but seldom & slightly)...	8	0	0	72	16777215	50
+1980	but they can have positive effects on muscle endurance	8	0	0	72	16777215	60
+1980	Most importantly, your aerobic endurance capabilities get a big boost	8	0	0	72	16777215	70
+1980	In other words, you're checking off a lot of boxes with a single workout	8	0	0	72	16777215	80
+1980	VO2max intervals are arguably one of the more efficient ways to train...	8	0	0	72	16777215	90
+1980	especially if you're training on a limited amount of hours per week	8	0	0	72	16777215	100
+1980	The low time/high stress nature of VO2max repeats can stir elicit training adaptation	8	0	0	72	16777215	110
+1980	Set #2 in about 30 seconds	8	0	0	72	16777215	570
+2580	Gradually settle into a quick spin over this 30 seconds	8	0	0	72	16777215	0
+2610	As you adjust to the work, make sure those sit bones are anchored	8	0	0	72	16777215	0
+2610	These usually break down in the same way...	8	0	0	72	16777215	30
+2610	The first minute flies by, the second minute becomes downright difficult...	8	0	0	72	16777215	40
+2610	but it's that third minute that really matters	8	0	0	72	16777215	50
+2610	Final minute! Here's where the work becomes REALLY valuable...	8	0	0	72	16777215	90
+2610	so hang on!	5	0	0	72	16777215	100
+2760	Well done! Try to keep pedaling forward for 30 seconds	8	0	0	72	16777215	0
+2760	Once the 30 seconds are up, THEN determine if any backpedaling is needed	8	0	0	72	16777215	10
+2940	Use this 30 second ramp to find the cadence you'll hold for the rest of the interval	8	0	0	72	16777215	0
+2970	Focus on keeping your watts & cadence steady...	8	0	0	72	16777215	30
+2970	rather than looking at the clock	8	0	0	72	16777215	40
+2970	Distract yourself with something more useful...	8	0	0	72	16777215	50
+2970	such as maintaining a beautiful pedalstroke...	8	0	0	72	16777215	60
+2970	so your watts & cadence display very little fluctuation	8	0	0	72	16777215	70
+3120	Nice job! Keep the pedals turning forward for at least another 30 seconds	8	0	0	72	16777215	0
+3120	As you're no doubt painfully aware of by now...	8	0	0	72	16777215	10
+3120	VO2max intervals tax you both physically & mentally	8	0	0	72	16777215	20
+3120	At the beginning of a rider's cycling career or training season...	8	0	0	72	16777215	30
+3120	physical gains tend to come quickly with structured training	8	0	0	72	16777215	40
+3120	However, as the cyclist's season and overall career progress...	8	0	0	72	16777215	50
+3120	they begin to experience diminishing returns in fitness gains	8	0	0	72	16777215	60
+3120	Oftentimes, improving one's mental capacity to handle hard work...	8	0	0	72	16777215	70
+3120	can offset any physical plateaus a cyclist might experience at the high end of their fitness	8	0	0	72	16777215	80
+3120	In other words, you can train your brain to put up with the discomfort associated with working hard	8	0	0	72	16777215	90
+3120	This will allow you to throw down hard efforts time & time again...	8	0	0	72	16777215	100
+3120	and with decreasing amounts rest	8	0	0	72	16777215	110
+3120	The next interval starts in about a minute	8	0	0	72	16777215	120
+3120	Actually focus on remaining mentally tough	8	0	0	72	16777215	130
+3120	And if you've found a repeatable yet difficult % of FTP...	8	0	0	72	16777215	140
+3120	and have made it this far into this brutal workout...	6	0	0	72	16777215	150
+3120	your body is fully capable of completing this set	6	0	0	72	16777215	158
+3300	Wind it up and find your quick spin	8	0	0	72	16777215	0
+3330	Remind yourself, mental strength unlocks physical strength	8	0	0	72	16777215	0
+3330	So as you become tougher, you'll become fitter...	8	0	0	72	16777215	10
+3330	and as you become fitter, it's partly because you've become tougher	8	0	0	72	16777215	20
+3330	Next minute, just focus on this 60 seconds	8	0	0	72	16777215	30
+3330	Final minute, make it as smooth as possible...	8	0	0	72	16777215	90
+3330	and minimize how far your watts fluctuate above/below your Target Power	8	0	0	72	16777215	100
+3480	Great job! Keep 'em turning for at least another 30 seconds	8	0	0	72	16777215	0
+3480	Final set starts in 30 seconds	8	0	0	72	16777215	570
+4080	Here we go! Try to picture the final 3 intervals...	8	0	0	72	16777215	0
+4080	in the context of a race or competitive group ride	8	0	0	72	16777215	10
+4080	Each VO2max repeat is akin to a short but tough climb...	8	0	0	72	16777215	20
+4110	and each provides you with an opportunity to break away from the pack	8	0	0	72	16777215	0
+4110	Of course, breakaways are tough, but so are you...	8	0	0	72	16777215	10
+4110	and you're tenacious enough to work hard again & again...	8	0	0	72	16777215	30
+4110	until you taste success	8	0	0	72	16777215	40
+4110	Settle in for another 90 or so seconds...	8	0	0	72	16777215	50
+4110	as you come over the top of the first brutal, little climb	8	0	0	72	16777215	60
+4260	Here's the descent! Try to keep your cadence above 80rpm	8	0	0	72	16777215	0
+4440	And go! 30 seconds to start moving away from the group!	8	0	0	72	16777215	0
+4470	Nicely done. You're alone now, the other riders have fallen behind	8	0	0	72	16777215	0
+4470	That doesn't mean you can relax though	8	0	0	72	16777215	10
+4470	Now's the time to do your best to grow the gap...	8	0	0	72	16777215	20
+4470	and school the others on the definition of "toughness"	8	0	0	72	16777215	30
+4470	Almost at the top, Do...Not...Give...Up!	8	0	0	72	16777215	90
+4620	Whew! You're over the penultimate climb	8	0	0	72	16777215	0
+4620	Make sure you make the most out of this descent...	8	0	0	72	16777215	10
+4620	by keeping the backpedaling to a minimum & your spin above 80rpm	8	0	0	72	16777215	20
+4800	Looks like the pack caught you just before the final climb	8	0	0	72	16777215	0
+4800	But you're not worried & you can see them cracking...	8	0	0	72	16777215	10
+4800	...and you're more capable of dealing with pain	8	0	0	72	16777215	20
+4830	You've opened a solid gap!	8	0	0	72	16777215	0
+4830	Embrace the burn, and settle in	8	0	0	72	16777215	10
+4830	Remember, mental strength unlocks physical strength!	8	0	0	72	16777215	20
+4830	You can see the finish ahead!	8	0	0	72	16777215	90
+4830	And when you look back, you can see the chase coming fast	8	0	0	72	16777215	100
+4830	You're going to need to give it everything you have left	8	0	0	72	16777215	110
+4830	The race is yours if you hold this pace for 30 seconds longer!	8	0	0	72	16777215	120
+4980	Great job, way to gut it out!	8	0	0	72	16777215	0
+4980	In reality, those ARE the kind of efforts that are needed to win a race	8	0	0	72	16777215	10
+4980	The most successful riders know how to unlock that mental fortitude...	8	0	0	72	16777215	20
+4980	to attack over & over & over...	8	0	0	72	16777215	30
+4980	until everyone else cracks	8	0	0	72	16777215	40
+4980	Take at least the next 6 minutes to cool down...	8	0	0	72	16777215	50
+4980	and feel free to open a Free Ride for a more thorough cool-down	8	0	0	72	16777215	60
+4980	See you next time!	8	0	0	72	16777215	70
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+360	420	Sweet Spot 1
+480	540	Threshold 1
+600	660	VO2 Max 1
+720	780	VO2 Max 2
+1080	1110	Threshold 2
+1110	1260	VO2 Max 3
+1440	1470	Threshold 3
+1470	1620	VO2 Max 4
+1800	1830	Threshold 4
+1830	1980	VO2 Max 5
+2580	2610	Threshold 5
+2610	2760	VO2 Max 6
+2940	2970	Threshold 6
+2970	3120	VO2 Max 7
+3300	3330	Threshold 7
+3330	3480	VO2 Max 8
+4080	4110	Threshold 8
+4110	4260	VO2 Max 9
+4440	4470	VO2 Max 10
+4470	4620	VO2 Max 11
+4800	4830	Threshold 9
+4830	4980	VO2 Max 12
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

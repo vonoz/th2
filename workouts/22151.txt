@@ -1,0 +1,155 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Carrigain,82,67. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+9	70
+9	70
+13	70
+13	70
+13.5	100
+13.5	100
+16.5	100
+16.5	50
+19.5	50
+19.5	50
+20	105
+20	105
+23	105
+23	50
+26	50
+26	50
+26.5	110
+26.5	110
+29.5	110
+29.5	50
+32.5	50
+32.5	50
+33	75
+33	75
+37	75
+37	75
+37.5	70
+37.5	70
+39.5	70
+39.5	180
+39.66	180
+39.66	20
+40.5	70
+40.5	70
+42.5	70
+42.5	70
+43	75
+43	75
+45	75
+45	180
+45.16	180
+45.16	20
+46	75
+46	75
+48	75
+48	75
+48.5	80
+48.5	80
+50.5	80
+50.5	180
+50.66	180
+50.66	20
+51.5	80
+51.5	80
+53.5	80
+53.5	80
+54	75
+54	75
+57	75
+57	75
+57.5	50
+57.5	50
+60	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+780	Use this 30 seconds to lower your cadence	8	0	0	72	16777215	0
+780	The goal is 50-60rpm but this depends on your knee health	8	0	0	72	16777215	10
+780	It also depends on how well you can hold Target Power	8	0	0	72	16777215	20
+810	If you can't steady your watts, spin slightly quicker	8	0	0	72	16777215	0
+810	These drills are all about muscle control & joint integrity	8	0	0	72	16777215	10
+810	So watch your knees and try to eliminate ANY wobble	8	0	0	72	16777215	20
+810	Slow spins are great for seeing how well you pedal	8	0	0	72	16777215	30
+810	And they're excellent for conditioning your joint tissues	8	0	0	72	16777215	40
+990	Bring your spin back up to 85-95rpm & recover	8	0	0	72	16777215	0
+1170	Just like last time, use this 30 seconds to slow your spin	8	0	0	72	16777215	0
+1170	50-60rpm is the goal, but it might take time to get there	8	0	0	72	16777215	10
+1170	Just practice going steadily slower each workout	8	0	0	72	16777215	20
+1200	Stay seated & grind it out like you're on a STEEP climb	8	0	0	72	16777215	0
+1380	Bring your spin back up to 85-95rpm and relax for a minute	8	0	0	72	16777215	0
+1560	Once more...	8	0	0	72	16777215	0
+1560	Shooting for 50-60rpm eventually	8	0	0	72	16777215	10
+1590	Highest power yet, slowest spin you can control	8	0	0	72	16777215	0
+1770	Excellent. Spin back up to 85-95rpm...	8	0	0	72	16777215	0
+1770	Higher if you can do it without burning yourself out	8	0	0	72	16777215	10
+2250	In a couple minutes, you'll perform your first Strength Sprint	8	0	0	72	16777215	0
+2250	These are best done from a standing start	8	0	0	72	16777215	10
+2250	But this assumes your knees can handle the stress	8	0	0	72	16777215	20
+2250	If not, just use a flying start at 50-60rpm	8	0	0	72	16777215	30
+2250	You'll try to turn over the biggest gear you can control	8	0	0	72	16777215	40
+2250	So big that you can't reach 90rpm before the sprint ends	8	0	0	72	16777215	50
+2250	Your hands belong in the drops and your body will be low	8	0	0	72	16777215	60
+2250	The idea is to generate a LOT of force & use a LOT of muscle	8	0	0	72	16777215	70
+2250	So you'll pull on the bars & stomp on the pedals...	8	0	0	72	16777215	80
+2250	But be kind to your bike!	8	0	0	72	16777215	90
+2250	Slow things down...	8	0	0	72	16777215	100
+2250	Even slower or come to a full stop...	8	0	0	72	16777215	110
+2370	Stand & Hammer!	10	0	0	72	16777215	0
+2380	One down! Did you reach 90rpm?	8	0	0	72	16777215	5
+2380	If you did, try an even bigger gear next time	8	0	0	72	16777215	15
+2380	Assuming you experienced ZERO knee discomfort	8	0	0	72	16777215	25
+2580	Another sprint in 2 minutes	8	0	0	72	16777215	0
+2580	Plan your gearing & if you're using a CompuTrainer or KICKR...	8	0	0	72	16777215	10
+2580	Consider switching over to Slope Mode for some/all of these	8	0	0	72	16777215	20
+2580	Especially if you can sprint harder than 180% FTP	8	0	0	72	16777215	30
+2580	Get ready...	8	0	0	72	16777215	110
+2700	Stand & Stomp!	10	0	0	72	16777215	0
+2710	Two down! Did you get on top of it?	8	0	0	72	16777215	5
+2710	If so, bigger gear next time!	8	0	0	72	16777215	15
+2910	2 minutes out from another Strength Sprint	8	0	0	72	16777215	0
+2910	Try to utilize the form you learned during your Form Sprints	8	0	0	72	16777215	10
+2910	Only in slow motion, but just as pretty	8	0	0	72	16777215	20
+2910	Start to slow things down	8	0	0	72	16777215	100
+2910	In 10...get ready!	8	0	0	72	16777215	110
+3030	Stand & drive your feet down!	10	0	0	72	16777215	0
+3040	That's 3. Take your time working back up to speed	8	0	0	72	16777215	5
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+540	780	Endurance 1
+780	810	Sweet Spot 1
+810	990	Threshold 1
+1200	1380	Threshold 2
+1590	1770	VO2 Max 1
+1980	2220	Endurance 2
+2220	2250	Endurance 3
+2250	2370	Endurance 4
+2370	2380	Sprint 1
+2430	2550	Endurance 5
+2550	2580	Endurance 6
+2580	2700	Endurance 7
+2700	2710	Sprint 2
+2760	2880	Endurance 8
+2880	2910	Tempo 1
+2910	3030	Tempo 2
+3030	3040	Sprint 3
+3090	3210	Tempo 3
+3210	3240	Tempo 4
+3240	3420	Endurance 9
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

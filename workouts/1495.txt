@@ -1,0 +1,412 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Keeler Needle,84,71. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	60
+5	60
+10	115
+10	40
+13	40
+13	40
+15	130
+15	70
+15.5	70
+15.5	70
+17	130
+17	70
+17.5	70
+17.5	70
+19	130
+19	70
+19.5	70
+19.5	70
+21	130
+21	40
+23	40
+23	40
+26	140
+26	50
+28	50
+28	50
+31	140
+31	50
+33	50
+33	50
+36	140
+36	40
+38	40
+38	40
+39	150
+39	60
+40	60
+40	60
+41	150
+41	60
+42	60
+42	60
+43	150
+43	60
+44	60
+44	60
+45	150
+45	60
+46	60
+46	60
+47	150
+47	40
+50	40
+50	40
+55	130
+55	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Keeler Needle...	5	0	0	72	16777215	10
+0	and something a little out of the ordinary...	4	0	0	72	16777215	16
+0	Force Ramps!	3	0	0	72	16777215	21
+0	Ramps are a "fun" way...	3	0	0	72	16777215	50
+0	to dress up Force work	3	0	0	72	16777215	54
+0	They're also a potentially effective way...	4	0	0	72	16777215	59
+0	to increase on-the-bike strength	3	0	0	72	16777215	64
+0	And strength/force concerns aside...	3	0	0	72	16777215	69
+0	ramps are a great way to reinforce...	4	0	0	72	16777215	73
+0	not only your pedaling action in slow motion...	5	0	0	72	16777215	78
+0	but to also test your joint stability...	4	0	0	72	16777215	84
+0	while simultaneously improving both	3	0	0	72	16777215	89
+0	Given proper recovery, of course	3	0	0	72	16777215	94
+0	Before we start, be clear on one thing:	4	0	0	72	16777215	100
+0	Nowhere is it mandated...	3	0	0	72	16777215	105
+0	that these be low-cadence drills	4	0	0	72	16777215	109
+0	While you CAN choose...	3	0	0	72	16777215	114
+0	to ride your ramps with a slow spin...	4	0	0	72	16777215	118
+0	understand that the potential for joint irritation...	5	0	0	72	16777215	123
+0	or even serious injury...	3	0	0	72	16777215	129
+0	grows quickly with lower & lower cadences	5	0	0	72	16777215	133
+0	So during this first ramp...	3	0	0	72	16777215	140
+0	get a sense of the spin you might utilize	5	0	0	72	16777215	144
+0	If your goal events require...	3	0	0	72	16777215	152
+0	high-force pedaling at low speeds...	3	0	0	72	16777215	156
+0	mountain biking, cyclocross, even road racing for examples...	5	0	0	72	16777215	160
+0	then try using a similar cadence...	3	0	0	72	16777215	166
+0	during SOME of today's ramps	3	0	0	72	16777215	170
+0	But even with low-cadence goals...	3	0	0	72	16777215	175
+0	pedaling really slowly requires high levels of muscle control...	5	0	0	72	16777215	179
+0	to effectively keep your power on Target	4	0	0	72	16777215	185
+0	So today's priorities are as follows:	4	0	0	72	16777215	216
+0	Priority 1: No joint pain, EVER	5	0	0	72	16777215	221
+0	Priority 2: Smooth & steadily increasing power	5	0	0	72	16777215	228
+0	These are ramps...	3	0	0	72	16777215	235
+0	so your power should ONLY rise until the ramp ends	5	0	0	72	16777215	239
+0	Priority 3: Personal cadence goals	5	0	0	72	16777215	246
+0	As long as the first 2 priorities are upheld	5	0	0	72	16777215	253
+300	Time for a warm-up ramp	3	0	0	72	16777215	0
+300	And much like all of the ramps ahead...	4	0	0	72	16777215	5
+300	they'll start out very easy...	3	0	0	72	16777215	10
+300	very manageable	2	0	0	72	16777215	14
+300	But don't be too eager to raise your Workout Intensity	5	0	0	72	16777215	17
+300	Wait until you get through a few ramps...	4	0	0	72	16777215	22
+300	before making that call	3	0	0	72	16777215	27
+300	1 minute into this first ramp, be relaxed	5	0	0	72	16777215	60
+300	As you ascend...	3	0	0	72	16777215	67
+300	do your best to hold your spin steady	4	0	0	72	16777215	71
+300	Piece of cake on an electronic trainer in Erg mode...	4	0	0	72	16777215	76
+300	but a little more difficult on a regular trainer...	4	0	0	72	16777215	81
+300	since you'll need to shift	3	0	0	72	16777215	86
+300	You may find that a single gear works for a while...	5	0	0	72	16777215	91
+300	if you adjust your cadence	3	0	0	72	16777215	97
+300	So try starting with a reasonably quick spin..	5	0	0	72	16777215	102
+300	and finishing with a slightly slower cadence...	4	0	0	72	16777215	108
+300	maybe 5-10rpm lower	3	0	0	72	16777215	113
+300	This will reduce your need to shift quite so often...	5	0	0	72	16777215	118
+300	but still keep the power climbing...	3	0	0	72	16777215	124
+300	as you ascend each ramp	3	0	0	72	16777215	128
+300	And if you don't have any cadence goals in mind...	5	0	0	72	16777215	133
+300	try to keep your spin between 85-95rpm	5	0	0	72	16777215	139
+300	This would mean starting each ramp at 95rpm...	4	0	0	72	16777215	146
+300	then downshifting when you reach 85rpm	4	0	0	72	16777215	151
+300	2 minutes left...	3	0	0	72	16777215	180
+300	and things will get progressively more challenging	5	0	0	72	16777215	184
+300	Do your best...	3	0	0	72	16777215	191
+300	to keep gradually increasing your power output	5	0	0	72	16777215	195
+300	Final minute, hang onto it!	3	0	0	72	16777215	240
+300	As the challenge rises...	3	0	0	72	16777215	245
+300	so too does the benefit	3	0	0	72	16777215	249
+300	So as you near the end of each ramp...	4	0	0	72	16777215	260
+300	REALLY focus	3	0	0	72	16777215	265
+300	And don't bail out...	3	0	0	72	16777215	270
+300	unless you're way off track	3	0	0	72	16777215	274
+300	Or your joints hurt	3	0	0	72	16777215	278
+300	10 seconds!	2	0	0	72	16777215	290
+600	Nicely done	3	0	0	72	16777215	2
+600	As you just experienced...	3	0	0	72	16777215	7
+600	when a ramp ends, it really ends	4	0	0	72	16777215	11
+600	You'll immediately drop...	3	0	0	72	16777215	17
+600	from high watts to very low watts	4	0	0	72	16777215	21
+600	So brace for that...	3	0	0	72	16777215	27
+600	especially if you're on an electronic trainer	4	0	0	72	16777215	31
+600	And use this knowledge as motivation...	4	0	0	72	16777215	36
+600	to hang on during those final seconds	4	0	0	72	16777215	41
+600	Just knowing that you get true rest...	3	0	0	72	16777215	70
+600	albeit short...	2	0	0	72	16777215	74
+600	can be the carrot that keeps you focused & motivated...	4	0	0	72	16777215	77
+600	during those demanding closing seconds	4	0	0	72	16777215	82
+780	Now let's try a tightly knit cluster	4	0	0	72	16777215	0
+780	Settle into a cadence that suits your goals...	4	0	0	72	16777215	6
+780	85-95rpm otherwise	3	0	0	72	16777215	11
+780	Then do your best to hold it steady...	3	0	0	72	16777215	16
+780	ALL the way up this first short ramp	4	0	0	72	16777215	20
+780	90 more seconds...	2	0	0	72	16777215	30
+780	of steadily rising power output	3	0	0	72	16777215	33
+780	And stay seated for most, if not all...	4	0	0	72	16777215	40
+780	of the ramps ahead	3	0	0	72	16777215	45
+780	If it suits your needs...	3	0	0	72	16777215	50
+780	you can ride a few of these standing	4	0	0	72	16777215	54
+780	But don't rely on rising out of the saddle...	4	0	0	72	16777215	60
+780	as your only means of generating big power	4	0	0	72	16777215	65
+780	Seated power is KING	5	0	0	72	16777215	70
+780	30 seconds, hang in there!	3	0	0	72	16777215	90
+780	10 to go, hold on!	3	0	0	72	16777215	110
+900	Nice, ease up & spin quickly	3	0	0	72	16777215	2
+900	These aren't the friendliest recoveries...	4	0	0	72	16777215	7
+900	but these aren't the UN-friendliest ramps either	4	0	0	72	16777215	12
+930	Time to go again...	3	0	0	72	16777215	0
+930	starting at 70% this time though	4	0	0	72	16777215	4
+930	These will get tougher more quickly...	3	0	0	72	16777215	10
+930	but they'll also end a bit sooner	3	0	0	72	16777215	14
+930	1 more minute, watts only go up	4	0	0	72	16777215	30
+930	30 seconds!	2	0	0	72	16777215	60
+930	Hold your spin as steady as you can	3	0	0	72	16777215	63
+930	10 seconds!	2	0	0	72	16777215	80
+1020	Another quick "rest"	3	0	0	72	16777215	2
+1020	Keep your legs light & quick...	3	0	0	72	16777215	7
+1020	and get in a few strong exhales	4	0	0	72	16777215	11
+1020	Really clear that used air	3	0	0	72	16777215	16
+1050	Again! This time though...	3	0	0	72	16777215	0
+1050	focus on staying as relaxed as you can	4	0	0	72	16777215	4
+1050	Start with a loose grip on the bars...	4	0	0	72	16777215	10
+1050	soften your elbows...	3	0	0	72	16777215	15
+1050	and let your shoulders fall away from your ears	4	0	0	72	16777215	19
+1050	No tension in your neck	3	0	0	72	16777215	24
+1050	30 seconds of rising power!	3	0	0	72	16777215	60
+1050	Final 10!	2	0	0	72	16777215	80
+1140	Excellent, catch your breath	3	0	0	72	16777215	2
+1140	One to go...	3	0	0	72	16777215	7
+1140	and this will be your prettiest ramp yet	4	0	0	72	16777215	11
+1140	So pretty, so relaxed...	3	0	0	72	16777215	16
+1140	that it looks like you aren't even working hard	5	0	0	72	16777215	20
+1170	Set your spin...	3	0	0	72	16777215	0
+1170	then keep it steady for 90 seconds	3	0	0	72	16777215	4
+1170	Last one of these...	3	0	0	72	16777215	10
+1170	and try to stay seated if possible	3	0	0	72	16777215	14
+1170	30 seconds, power only rises	3	0	0	72	16777215	30
+1170	10!	2	0	0	72	16777215	50
+1260	Well done	3	0	0	72	16777215	2
+1260	First set of ramps is in your legs...	4	0	0	72	16777215	7
+1260	so spin easy & try to clear some fatigue	5	0	0	72	16777215	12
+1380	Round 2, ding ding ding	3	0	0	72	16777215	0
+1380	These are arguably the hardest ramps...	3	0	0	72	16777215	5
+1380	Keeler Needle has to offer	3	0	0	72	16777215	9
+1380	Not only are they 3 minutes long...	3	0	0	72	16777215	14
+1380	but they rise to 140% FTP	3	0	0	72	16777215	18
+1380	So be smart & use your previous set of ramps...	5	0	0	72	16777215	30
+1380	to inform your approach	3	0	0	72	16777215	35
+1380	If you dealt with ANY joint pain...	3	0	0	72	16777215	40
+1380	during that set of 4 shorter ramps...	4	0	0	72	16777215	44
+1380	then consider knocking down the Workout Intensity	4	0	0	72	16777215	49
+1380	Probably 5-10%	3	0	0	72	16777215	54
+1380	And if you couldn't hold your spin...	3	0	0	72	16777215	60
+1380	or your power became erratic...	3	0	0	72	16777215	64
+1380	then focus more intently...	3	0	0	72	16777215	68
+1380	or try different gears...	3	0	0	72	16777215	72
+1380	or drop the Workout Intensity 5-10%	3	0	0	72	16777215	76
+1380	90 seconds to go	3	0	0	72	16777215	90
+1380	Should be starting to feel this one	3	0	0	72	16777215	95
+1380	1 more minute!	3	0	0	72	16777215	120
+1380	Probably the most productive minute so far...	5	0	0	72	16777215	125
+1380	so stay relaxed, fluid & on Target	4	0	0	72	16777215	131
+1380	Take a quick look at your knees	3	0	0	72	16777215	140
+1380	Piston-like?	2	0	0	72	16777215	144
+1380	If not, squash that wobble immediately	4	0	0	72	16777215	148
+1380	20 seconds, don't quit!	3	0	0	72	16777215	160
+1380	10 to go, keep it rising!	3	0	0	72	16777215	170
+1560	Nicely done, spin it out	4	0	0	72	16777215	2
+1560	These recoveries are necessarily more forgiving	5	0	0	72	16777215	8
+1560	They're short, but at only half of your FTP	5	0	0	72	16777215	15
+1560	Try to keep your spin above 85rpm...	4	0	0	72	16777215	22
+1560	and easy enough to calm your breathing	4	0	0	72	16777215	27
+1680	Time to hit it again	3	0	0	72	16777215	0
+1680	3-minute ramp to 140% FTP	3	0	0	72	16777215	5
+1680	Halfway there...	2	0	0	72	16777215	90
+1680	time to start hurting a bit	3	0	0	72	16777215	93
+1680	Ramps can be interesting...	3	0	0	72	16777215	98
+1680	in the way they allow you to feel certain things	5	0	0	72	16777215	102
+1680	For example...	2	0	0	72	16777215	109
+1680	you might notice the VERY moment...	4	0	0	72	16777215	112
+1680	that your muscles flood & start to sear	4	0	0	72	16777215	117
+1680	You might later notice...	3	0	0	72	16777215	123
+1680	how this point comes earlier in subsequent ramps	4	0	0	72	16777215	127
+1680	Thanks, muscle fatigue!	3	0	0	72	16777215	133
+1680	But you'll also notice that you can gut these out...	4	0	0	72	16777215	138
+1680	with some focus & outright toughness	4	0	0	72	16777215	143
+1680	30 seconds, don't fade	3	0	0	72	16777215	150
+1680	20, still on Target?	3	0	0	72	16777215	160
+1680	10 seconds, keep building!	3	0	0	72	16777215	170
+1860	Annnnnnd ease up	3	0	0	72	16777215	2
+1860	2 minutes to clear the heaviness...	3	0	0	72	16777215	7
+1860	and slow your HR & breathing	4	0	0	72	16777215	11
+1980	Once more, no surprises here	3	0	0	72	16777215	0
+1980	If you've made it up & over the first 2 ramps...	5	0	0	72	16777215	5
+1980	do it again	3	0	0	72	16777215	11
+1980	If you've had to bail though...	3	0	0	72	16777215	16
+1980	drop your Workout Intensity 5 or 10%	5	0	0	72	16777215	20
+1980	Try to endure continuous muscle stress...	4	0	0	72	16777215	27
+1980	for these entire durations	3	0	0	72	16777215	32
+1980	If that means a little less power output...	4	0	0	72	16777215	37
+1980	so be it	2	0	0	72	16777215	42
+1980	Halfway, time to do some work	4	0	0	72	16777215	90
+1980	Do your best...	3	0	0	72	16777215	96
+1980	to fight the temptation to sway	3	0	0	72	16777215	100
+1980	If you look like you're wrestling your bike...	4	0	0	72	16777215	105
+1980	you're probably wasting energy	3	0	0	72	16777215	120
+1980	Under a minute, make it look easy	5	0	0	72	16777215	125
+1980	Final 30 before you rest, hang on!	3	0	0	72	16777215	150
+1980	20 to go, loosen your grip	3	0	0	72	16777215	160
+1980	10 seconds, stay seated if you can!	3	0	0	72	16777215	170
+2160	Excellent!	3	0	0	72	16777215	2
+2160	Take it really easy for a couple minutes	4	0	0	72	16777215	7
+2160	This penultimate round might look nasty...	5	0	0	72	16777215	80
+2160	but it's actually more forgiving...	3	0	0	72	16777215	86
+2160	than the set you just endured	3	0	0	72	16777215	90
+2160	You'll take 1 minute to rise to 150% FTP...	4	0	0	72	16777215	95
+2160	but then you'll rest for a full minute...	4	0	0	72	16777215	100
+2160	before doing it again...	3	0	0	72	16777215	105
+2160	and again...	2	0	0	72	16777215	109
+2160	annnnnd again...	2	0	0	72	16777215	112
+2160	and again ;-)	2	0	0	72	16777215	115
+2280	Here goes, set your spin...	3	0	0	72	16777215	0
+2280	and consider a slightly quicker spin...	3	0	0	72	16777215	4
+2280	than you've used so far	3	0	0	72	16777215	8
+2280	Maybe 100-110rpm	3	0	0	72	16777215	20
+2280	unless you're doing these "slow-force style"	4	0	0	72	16777215	24
+2280	30 seconds to go!	3	0	0	72	16777215	30
+2280	Best 10 seconds yet!	3	0	0	72	16777215	50
+2340	Well done, one down	3	0	0	72	16777215	2
+2340	Ramps are exceptional...	3	0	0	72	16777215	7
+2340	when it comes to enhancing muscle fiber recruitment	5	0	0	72	16777215	11
+2340	By gradually increasing the strength requirement...	5	0	0	72	16777215	18
+2340	you gradually increase the number of muscle fibers at work	5	0	0	72	16777215	24
+2340	This paves the way...	3	0	0	72	16777215	31
+2340	for better communication with these muscles	4	0	0	72	16777215	35
+2340	And that's something that can benefit ALL cyclists	5	0	0	72	16777215	41
+2340	It's basically more strength...	3	0	0	72	16777215	48
+2340	from the same muscle mass	3	0	0	72	16777215	52
+2400	Again! Set your spin	3	0	0	72	16777215	0
+2400	Already halfway there...	3	0	0	72	16777215	30
+2400	so take a look at your knees	3	0	0	72	16777215	34
+2400	No wobble at the top...	3	0	0	72	16777215	40
+2400	while they move like pistons	3	0	0	72	16777215	44
+2400	Straight up, straight down, 10 seconds!	3	0	0	72	16777215	50
+2460	Good, spin out the heaviness...	3	0	0	72	16777215	2
+2460	even if that means backpedaling	4	0	0	72	16777215	6
+2460	But keep your legs moving in any case	5	0	0	72	16777215	12
+2520	Ready to go again?	3	0	0	72	16777215	0
+2520	Quick but sustainable spin...	3	0	0	72	16777215	5
+2520	Ideally 100+ rpm	3	0	0	72	16777215	9
+2520	Halfway! Relax	3	0	0	72	16777215	30
+2520	Keep your upper body still...	3	0	0	72	16777215	35
+2520	and stay seated if you can	3	0	0	72	16777215	39
+2520	10 seconds, don't bail!	3	0	0	72	16777215	50
+2580	Nice, breathe fully & keep spinning	5	0	0	72	16777215	2
+2640	Much more to come...	3	0	0	72	16777215	0
+2640	but THIS one's the ONLY one...	3	0	0	72	16777215	4
+2640	that you care about right now	3	0	0	72	16777215	8
+2640	40 seconds of focus	3	0	0	72	16777215	20
+2640	30 seconds of smoothly rising Power	3	0	0	72	16777215	30
+2640	20 seconds of making it look easy	3	0	0	72	16777215	40
+2640	Final 10 seconds of near-perfection!	3	0	0	72	16777215	50
+2700	Great job, almost there	3	0	0	72	16777215	2
+2760	Last one of these little nasties	4	0	0	72	16777215	0
+2760	No reason you can't make it your best one yet	4	0	0	72	16777215	6
+2760	As long as you ignore...	3	0	0	72	16777215	12
+2760	that the growing ache in your quads	3	0	0	72	16777215	16
+2760	30 seconds, don't quit!	3	0	0	72	16777215	30
+2760	20 seconds, light grip...	3	0	0	72	16777215	40
+2760	don't quit	3	0	0	72	16777215	43
+2760	10!	2	0	0	72	16777215	50
+2760	DON'T QUIT!	3	0	0	72	16777215	55
+2820	Nice job!	3	0	0	72	16777215	2
+2820	Take a well earned 5 easy minutes	3	0	0	72	16777215	7
+2820	But the rest is only 3 minutes, you say?	4	0	0	72	16777215	12
+2820	True, but the first couple minutes of your final ramp...	5	0	0	72	16777215	17
+2820	will be a breeze	3	0	0	72	16777215	23
+2820	A warm, summer breeze...	3	0	0	72	16777215	28
+2820	on a quiet, sunny morning	3	0	0	72	16777215	32
+2820	Ahhhhhhhhh	3	0	0	72	16777215	37
+3000	Alright, last one	3	0	0	72	16777215	0
+3000	But again, you won't even begin working...	4	0	0	72	16777215	5
+3000	until about halfway up	3	0	0	72	16777215	10
+3000	So stay relaxed...	3	0	0	72	16777215	15
+3000	stay fluid...	2	0	0	72	16777215	19
+3000	stay positive	2	0	0	72	16777215	22
+3000	You can ignore some pretty hefty fatigue...	4	0	0	72	16777215	30
+3000	for a minute or two	3	0	0	72	16777215	35
+3000	2 minutes into this bad boy	3	0	0	72	16777215	120
+3000	See to it that you've settled on the cadence...	4	0	0	72	16777215	125
+3000	that you'll try to hold onto	3	0	0	72	16777215	130
+3000	Give or take a few rpm...	3	0	0	72	16777215	135
+3000	to account for the ever-increasing workload	5	0	0	72	16777215	139
+3000	Halfway, still fluid?	3	0	0	72	16777215	150
+3000	Still positive?	3	0	0	72	16777215	154
+3000	This one only hits 130% FTP...	3	0	0	72	16777215	180
+3000	but it takes some time getting there	4	0	0	72	16777215	184
+3000	This prolonged rise in effort will feel noticeably different	5	0	0	72	16777215	190
+3000	It also has a slightly different effect on your muscles	5	0	0	72	16777215	197
+3000	The strength demand...	3	0	0	72	16777215	204
+3000	becomes more of a strength-endurance one	4	0	0	72	16777215	208
+3000	Tremendously useful, especially for endurance riders...	5	0	0	72	16777215	214
+3000	which is what all of us predominantly are...	4	0	0	72	16777215	220
+3000	even most trackies & "pure" sprinters	3	0	0	72	16777215	225
+3000	Final minute, stick with it...	3	0	0	72	16777215	240
+3000	and maintain your piston-like pedalstrokes	4	0	0	72	16777215	244
+3000	Final 30 seconds, no bailing now!	3	0	0	72	16777215	270
+3000	20 seconds! Draw big, belly-breaths	4	0	0	72	16777215	280
+3000	Final 10 seconds of the workout!	3	0	0	72	16777215	290
+3000	Pretty!	2	0	0	72	16777215	295
+3300	Job done!	3	0	0	72	16777215	2
+3300	Really well done!	3	0	0	72	16777215	6
+3300	Reclaim any form you might have lost...	4	0	0	72	16777215	11
+3300	during that final minute	3	0	0	72	16777215	16
+3300	And start your post-workout nutrition...	4	0	0	72	16777215	21
+3300	as soon as you can	3	0	0	72	16777215	26
+3300	We'll see you next time	5	0	0	72	16777215	31
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+300	600	Sweet Spot 1
+900	930	Endurance 1
+930	1020	Threshold 1
+1020	1050	Endurance 2
+1050	1140	Threshold 2
+1140	1170	Endurance 3
+1170	1260	Threshold 3
+2340	2400	Endurance 4
+2400	2460	Threshold 4
+2460	2520	Endurance 5
+2520	2580	Threshold 5
+2580	2640	Endurance 6
+2640	2700	Threshold 6
+2700	2760	Endurance 7
+2760	2820	Threshold 7
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

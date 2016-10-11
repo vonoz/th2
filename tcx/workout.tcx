@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<TrainingCenterDatabase xmlns="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2 http://www.garmin.com/xmlschemas/TrainingCenterDatabasev2.xsd http://www.garmin.com/xmlschemas/WorkoutExtension/v1 http://www.garmin.com/xmlschemas/WorkoutExtensionv1.xsd">
+
+  <Workouts>
+    <Workout Sport="Biking">
+      <Name>workou</Name>
+
+    
+      <Step xsi:type="Step_t">
+        <StepId>1</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>300</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+      
+      <Step xsi:type="Step_t">
+        <StepId>2</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>300</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+      
+
+      <Extensions>
+        <Steps xmlns="http://www.garmin.com/xmlschemas/WorkoutExtension/v1">
+          
+
+          <Step>
+            <StepId>1</StepId>
+            <Name>Interval 1</Name>
+            <Duration xsi:type="Time_t">
+              <Seconds>300</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerAsPercentOfFTP_t">
+                  <Value>75</Value>
+                </Low>
+                <High xsi:type="PowerAsPercentOfFTP_t">
+                  <Value>95</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+
+          
+
+          <Step>
+            <StepId>2</StepId>
+            <Name>Interval 2</Name>
+            <Duration xsi:type="Time_t">
+              <Seconds>300</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerAsPercentOfFTP_t">
+                  <Value>45</Value>
+                </Low>
+                <High xsi:type="PowerAsPercentOfFTP_t">
+                  <Value>55</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+
+          
+
+
+        </Steps>
+      </Extensions>
+
+    </Workout>
+
+
+  </Workouts>
+
+  <Author xsi:type="Application_t">
+    <Name>Training Hills</Name>
+
+  </Author>
+
+</TrainingCenterDatabase>

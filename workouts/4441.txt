@@ -1,0 +1,190 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Vandever,90,61. Created by 42270.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	95
+6	95
+6	40
+8	40
+8	112
+9	112
+9	40
+10	40
+10	114
+11	114
+11	40
+15	40
+15	112
+19	112
+19	40
+23	40
+23	114
+27	114
+27	40
+31	40
+31	112
+35	112
+35	40
+39	40
+39	114
+43	114
+43	40
+45	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Keep your legs light & quick for this first 4 minutes	8	0	0	72	16777215	10
+0	Use a quick - but comfortable - spin & stay relaxed	8	0	0	72	16777215	20
+0	Get ready for a 2-minute clearing effort pretty close to your threshold	8	0	0	72	16777215	210
+0	Situate your hips on the saddle and anchor both sitbones as you pedal	8	0	0	72	16777215	220
+0	And keep your spin just a little quicker than your natural cadence	8	0	0	72	16777215	230
+360	Great. Now slow your spin to a comfortable speed and catch your breath	8	0	0	72	16777215	-1
+360	Up next, a couple 1-minute efforts to prep you for today's intervals	8	0	0	72	16777215	90
+360	Again, shoot for a spin that's just a little quicker than your usual cadence	8	0	0	72	16777215	110
+480	Keep your legs quick and your sit bones anchored	8	0	0	72	16777215	-1
+480	30 more seconds - still spinning quickly?	8	0	0	72	16777215	30
+540	Good, now take it really easy for a minute	8	0	0	72	16777215	-1
+540	Get ready for one more, this one's just a little tougher than that last one	8	0	0	72	16777215	40
+540	Quick spin, sit bones down, try to stay relaxed	8	0	0	72	16777215	50
+600	Excellent. Take it easy for a minute then we'll cover some workout details	8	0	0	72	16777215	-1
+660	Today we're going to see just how aerobically fit you are by working at/near your aerobic capacity	8	0	0	72	16777215	-1
+660	Also known as VO2max, or the greatest amount of oxygen you can consume during exercise	8	0	0	72	16777215	10
+660	So breathing, and breathing very well at that, is the name of today's game	8	0	0	72	16777215	20
+660	For reasonably conditioned athletes, VO2max isn't something that will change very much - if at all	8	0	0	72	16777215	30
+660	And detrained or untrained athletes are lucky to see pretty small improvements, and thus...	8	0	0	72	16777215	40
+660	Our "aerobic ceilings" are largely genetically predetermined - blame your parents	8	0	0	72	16777215	50
+660	But while that ceiling may not rise, we can learn to ride closer and closer to it via training	8	0	0	72	16777215	60
+660	And that's exactly the type of training we're going to do today	8	0	0	72	16777215	70
+660	By spending 4 minutes at a time close - very close for some - to our aerobic ceilings...	8	0	0	72	16777215	80
+660	We'll effectively kick off a whole number of physiological adaptations assuming 2 things:	8	0	0	72	16777215	90
+660	1 - We recover adequately (rest AND nutrition)	8	0	0	72	16777215	100
+660	2 - We repeat this sort of workout with a certain level of consistency	8	0	0	72	16777215	110
+660	To sum it up, we have to stress our bodies pretty specifically, follow it up with proper recovery...	8	0	0	72	16777215	120
+660	And then do it again...and again...and again if we plan to improve our capabilities	8	0	0	72	16777215	130
+660	In the case of today's workout, we'll work well above our thresholds...	8	0	0	72	16777215	140
+660	In order to send a very clear message to our heart, lungs, and muscles	8	0	0	72	16777215	150
+660	And that message is: I want to be stronger within my current genetic limits...	8	0	0	72	16777215	160
+660	I want to be faster and I want to hold that speed longer...	8	0	0	72	16777215	170
+660	And I'm going to repeatedly show you just how hard & fast I want to be able to go	8	0	0	72	16777215	180
+660	So pay attention, heart, lungs, & muscles, because there will be a test	8	0	0	72	16777215	190
+660	Enough silliness, settle into a gear that suits your capabilities...	8	0	0	72	16777215	200
+660	Or settle into a spin that's slightly closer to your desired capability...	8	0	0	72	16777215	210
+660	And then spin a little quicker	8	0	0	72	16777215	220
+660	Get ready to hold that quicker-than-you-like spin for 4 minutes	8	0	0	72	16777215	230
+900	Go!	8	0	0	72	16777215	-1
+900	Take a minute to find a rhythm while staying relaxed and pedaling fluidly	8	0	0	72	16777215	10
+900	Check your breathing and make those breaths FULL ones	8	0	0	72	16777215	60
+900	Check your pedaling and avoiding mashing downward and frying your quads	8	0	0	72	16777215	70
+900	Breathe really well, pedal full circles	8	0	0	72	16777215	80
+900	Halfway there - how's your breathing?	8	0	0	72	16777215	120
+900	There's a reason these are called AEROBIC capacity efforts	8	0	0	72	16777215	130
+900	The goal is to tax our hearts and lungs rather harshly	8	0	0	72	16777215	140
+900	And we do that by pedaling quickly and breathing fully	8	0	0	72	16777215	150
+900	1 minute to go!	8	0	0	72	16777215	180
+900	Keep those legs quick and keep those deep breaths coming	8	0	0	72	16777215	200
+900	Final 30!	8	0	0	72	16777215	210
+900	Relax and make this look easy for 20 seconds	8	0	0	72	16777215	220
+1140	Nicely done!	8	0	0	72	16777215	-1
+1140	Use these first 2 minutes to rein in your breathing and slow your heart rate	8	0	0	72	16777215	10
+1140	If you took a break, get your legs moving again	8	0	0	72	16777215	120
+1140	We're going to do that same thing with a very slight increase in effort	8	0	0	72	16777215	130
+1140	But this time we'll pick apart the pedalstroke a little bit in hopes of making this seem more tolerable	8	0	0	72	16777215	140
+1140	In particular, we'll focus on the top & bottom of the pedalstroke	8	0	0	72	16777215	150
+1140	Or as I like to call it, the kick & pull	8	0	0	72	16777215	160
+1140	By increasing our emphasis on these two quadrants of our pedalstrokes...	8	0	0	72	16777215	170
+1140	We can reduce some the of strain on the more obvious movers, our quads	8	0	0	72	16777215	180
+1140	Even a slight reduction in their workload can make a big difference in how long they'll last	8	0	0	72	16777215	190
+1140	So think less of stomping downward and more of pedaling forward and backward - kicking & pulling	8	0	0	72	16777215	200
+1140	Round 2 comin' up...	8	0	0	72	16777215	230
+1380	Ding ding!	8	0	0	72	16777215	-1
+1380	Settle in and start to employ that kick & pull immediately	8	0	0	72	16777215	10
+1380	Why wait until your quads are barking before throwing them a bone?	8	0	0	72	16777215	20
+1380	First minute down - how are your quads?	8	0	0	72	16777215	60
+1380	If they're on fire already, first check the quality of your breathing	8	0	0	72	16777215	70
+1380	Draw full breaths by pooching out your abdomen, then clear your lungs using your belly, your diaphragm	8	0	0	72	16777215	80
+1380	Quads still on fire? Then ease up on your downstroke by kicking your toes into the fronts of your shoes...	8	0	0	72	16777215	100
+1380	And pulling your heels into the backs of your shoes	8	0	0	72	16777215	110
+1380	Almost as though you're pedaling on eggshells	8	0	0	72	16777215	120
+1380	A little over halfway!	8	0	0	72	16777215	130
+1380	If your quads are still on fire but you're not slowing down, then KEEP PUSHING	8	0	0	72	16777215	150
+1380	It's the latter half of these intervals where we really send those messages	8	0	0	72	16777215	160
+1380	It's the latter half of these efforts where we push boundaries	8	0	0	72	16777215	170
+1380	So be tough! 1 minute to go	8	0	0	72	16777215	180
+1380	If you've made it this far, you can handle another 30 seconds - FOCUS	8	0	0	72	16777215	210
+1380	Breath well, make it look easy	8	0	0	72	16777215	220
+1380	10!	8	0	0	72	16777215	230
+1620	Great...job!	8	0	0	72	16777215	-1
+1620	Spin really, really easy for a minute and do it with excellent form	8	0	0	72	16777215	10
+1620	Every recovery is an opportunity to show tired muscles how to behave properly	8	0	0	72	16777215	20
+1620	Fatigue is never an excuse for poor form	8	0	0	72	16777215	30
+1620	OK, we're going to drop the workload ever so slightly for this 3rd interval	8	0	0	72	16777215	120
+1620	But don't expect it to feel noticeably less difficult	8	0	0	72	16777215	130
+1620	VO2max efforts hurt - every time - so get clear on that now and don't let that fact intimidate you	8	0	0	72	16777215	140
+1620	If you've done 2 of these, you can do another one	8	0	0	72	16777215	150
+1620	Settle back into your natural cadence or slightly higher	8	0	0	72	16777215	180
+1620	But leave some room to grow because VO2max efforts are all about leg speed	8	0	0	72	16777215	190
+1620	Not excessive leg speed, but enough speed to keep the heart & lungs really active	8	0	0	72	16777215	200
+1620	Remember, this workout is more about the heart & lungs than anything else	8	0	0	72	16777215	210
+1620	So keep your spin quick and muscle contractions short	8	0	0	72	16777215	220
+1620	Get ready!	8	0	0	72	16777215	230
+1860	1 minute to settle in	8	0	0	72	16777215	-1
+1860	Check your position on the saddle	8	0	0	72	16777215	30
+1860	It's really hard to kick & pull if you're teetering on your pubic bone	8	0	0	72	16777215	40
+1860	Get those big, obvious sit bones down onto the wings of your saddle	8	0	0	72	16777215	50
+1860	Give your pedaling muscles and strong, steady base to work from	8	0	0	72	16777215	60
+1860	If you're not drawing full, deep breaths already then start NOW	8	0	0	72	16777215	90
+1860	No sense in accumulating any more oxygen debt than necessary	8	0	0	72	16777215	100
+1860	Halfway! Relax - drop your shoulders and soften your elbows	8	0	0	72	16777215	120
+1860	Try not to overgrip the handlebars - just set your hands lightly on the bars	8	0	0	72	16777215	130
+1860	One more minute, so hang in there!	8	0	0	72	16777215	180
+1860	This is the good stuff, this is how you get stronger	8	0	0	72	16777215	190
+1860	You can do this! Just 10 seconds at a time	8	0	0	72	16777215	210
+1860	10 more!	8	0	0	72	16777215	220
+1860	Final 10! Hang on!	8	0	0	72	16777215	230
+2100	Excellent! Take it easy for a couple minutes	8	0	0	72	16777215	-1
+2100	By now, you've surely seen just how crucial your breathing is during efforts like these	8	0	0	72	16777215	120
+2100	Your muscles need a lot of fuel to work this hard, and much of that fuel comes from oxygen	8	0	0	72	16777215	130
+2100	So keep that in mind as your legs start to well up, and breathe really well	8	0	0	72	16777215	140
+2100	Not only do you stand a better chance of meeting the oxygen demand you're creating...	8	0	0	72	16777215	150
+2100	But focusing more on your breathing means focusing less on your discomfort	8	0	0	72	16777215	160
+2100	Final round in 1 minute	8	0	0	72	16777215	180
+2100	Get ready to ramp up that spin a bit	8	0	0	72	16777215	210
+2100	Ride just a little quicker, but nowhere near so fast that you bounce	8	0	0	72	16777215	220
+2100	And if your calves have cramped in earlier intervals, you're spinning too quickly	8	0	0	72	16777215	230
+2340	Last one! Settle in	8	0	0	72	16777215	-1
+2340	Breathe deeply, already	8	0	0	72	16777215	30
+2340	Check your sit bones	8	0	0	72	16777215	60
+2340	Check your kick & pull	8	0	0	72	16777215	90
+2340	Halfway there, and here's where the work begins	8	0	0	72	16777215	120
+2340	Just remind yourself that every second matters	10	0	0	72	16777215	130
+2340	Shoot for 30 seconds of "effortless" pedaling	10	0	0	72	16777215	150
+2340	1 minute left! Take it 20 seconds at a time	10	0	0	72	16777215	180
+2340	Nice! 20 more	10	0	0	72	16777215	200
+2340	Final 20! Breeeeeeathe	10	0	0	72	16777215	220
+2340	10 seconds! Make it look easy!	10	0	0	72	16777215	230
+2580	Very nice job. Those hurt!	10	0	0	72	16777215	-1
+2580	Spin out the heaviness, keep your form while you do it...	10	0	0	72	16777215	30
+2580	And we'll see you next time	10	0	0	72	16777215	40
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	2700	Workout
+240	360	Sweet Spot 1
+480	540	VO2 Max 1
+600	660	VO2 Max 2
+900	1140	VO2 Max 3
+1380	1620	VO2 Max 4
+1860	2100	VO2 Max 5
+2340	2580	VO2 Max 6
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

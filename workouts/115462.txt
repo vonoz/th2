@@ -1,0 +1,339 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Striped 45,95,68. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	65
+3	140
+3.25	140
+3.25	40
+3.75	40
+3.75	150
+4	150
+4	40
+4.5	40
+4.5	160
+4.75	160
+4.75	40
+7.25	40
+7.25	160
+7.5	160
+7.5	40
+8	40
+8	153
+8.5	153
+8.5	40
+9.5	40
+9.5	147
+10.25	147
+10.25	40
+11.75	40
+11.75	140
+12.75	140
+12.75	40
+14.75	40
+14.75	147
+15.5	147
+15.5	40
+17	40
+17	153
+17.5	153
+17.5	40
+18.5	40
+18.5	160
+18.75	160
+18.75	40
+19.25	40
+19.25	160
+19.5	160
+19.5	40
+20	40
+20	153
+20.5	153
+20.5	40
+21.5	40
+21.5	147
+22.25	147
+22.25	40
+23.75	40
+23.75	140
+24.75	140
+24.75	40
+26.75	40
+26.75	147
+27.5	147
+27.5	40
+29	40
+29	153
+29.5	153
+29.5	40
+30.5	40
+30.5	160
+30.75	160
+30.75	40
+31.25	40
+31.25	160
+31.5	160
+31.5	40
+32	40
+32	153
+32.5	153
+32.5	40
+33.5	40
+33.5	147
+34.25	147
+34.25	40
+35.75	40
+35.75	140
+36.75	140
+36.75	40
+38.75	40
+38.75	147
+39.5	147
+39.5	40
+41	40
+41	153
+41.5	153
+41.5	40
+42.5	40
+42.5	160
+42.75	160
+42.75	40
+45	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	The goal of today's workout is to build your Anaerobic capacity	8	0	0	72	16777215	10
+0	We'll make this happen through a series of high-intensity intervals	8	0	0	72	16777215	20
+0	These will last from 15-60 seconds at 140-160% FTP	8	0	0	72	16777215	30
+0	And then each recovery is 2 times the interval length	8	0	0	72	16777215	40
+0	This will increase your power output over short durations...	8	0	0	72	16777215	50
+0	and increase your lactate production/consumption efficiency	8	0	0	72	16777215	60
+0	What all of this means is...	8	0	0	72	16777215	70
+0	you'll be able to put out repeated high-intensity efforts...	8	0	0	72	16777215	80
+0	without popping off the back of the pack	5	0	0	72	16777215	90
+0	We're still warming up, but here comes your first of 3 clearing efforts	8	0	0	72	16777215	160
+0	Keep your spin light & quick during these efforts & recoveries	8	0	0	72	16777215	170
+180	Go fast!	5	0	0	72	16777215	0
+195	Take deep breaths and exhale strongly from your diaphragm	8	0	0	72	16777215	0
+225	Again, spin as quickly as you can control	5	0	0	72	16777215	0
+240	Last one, keep those legs spinning quickly	5	0	0	72	16777215	0
+270	Highest intensity you'll face today, be quick!	5	0	0	72	16777215	0
+285	Good start, keep spinning the pedals while you recover	8	0	0	72	16777215	0
+285	During rest intervals like these, focus on your technique	8	0	0	72	16777215	30
+285	Is your cadence too low or too high?	8	0	0	72	16777215	40
+285	Generally 85-95rpmp is the ideal range for recovery, however...	8	0	0	72	16777215	50
+285	during high-intensity/short-duration efforts like these...	8	0	0	72	16777215	60
+285	it's important to keep your cadence high	5	0	0	72	16777215	70
+285	This will allow you to shift the workload away from your legs...	8	0	0	72	16777215	80
+285	and more toward your heart & lungs	5	0	0	72	16777215	90
+285	Knowing this can be a big help during long efforts	8	0	0	72	16777215	100
+285	If your legs are feeling cooked, try an easier gear & quicker spin	8	0	0	72	16777215	110
+285	Here comes your first interval	5	0	0	72	16777215	120
+285	Stay in the saddle during most, if not all efforts and...	8	0	0	72	16777215	130
+285	remember to keep your cadence high, technique smooth	8	0	0	72	16777215	140
+435	Go!	3	0	0	72	16777215	0
+450	Keep your cadence high in between these efforts	8	0	0	72	16777215	0
+450	A little longer this time - remember, speed & form	8	0	0	72	16777215	20
+480	Lots of leg speed, LOTS of control	5	0	0	72	16777215	0
+510	A slightly longer break this time	5	0	0	72	16777215	0
+510	Take inventory of your cadence, breathing & form	8	0	0	72	16777215	10
+510	While each effort gets longer, they are also lower in intensity	8	0	0	72	16777215	20
+510	So put emphasis on proper form during the efforts	8	0	0	72	16777215	30
+510	Remember: smooth = fast	5	0	0	72	16777215	40
+510	Get ready for the next effort, take a few deep breaths	5	0	0	72	16777215	50
+570	Pick it up!	3	0	0	72	16777215	0
+570	High cadence, smooth pedalstrokes	5	0	0	72	16777215	20
+615	Well done!	3	0	0	72	16777215	2
+615	Remember to use this interval to evaluate yourself	8	0	0	72	16777215	10
+615	Are your toes pointed? Heels dropped?	8	0	0	72	16777215	20
+615	Make sure your ankles aren't locked up...	8	0	0	72	16777215	30
+615	and don't let their angle become too severe	8	0	0	72	16777215	40
+615	To do this, focus on pedaling through the whole stroke	8	0	0	72	16777215	50
+615	Think of your feet as paint brushes painting circles	8	0	0	72	16777215	60
+615	Smooth, clean & easy	5	0	0	72	16777215	70
+615	60-second effort coming up	5	0	0	72	16777215	80
+705	Ramp it up! Full minute this time	5	0	0	72	16777215	0
+705	Halfway through, you've got this!	5	0	0	72	16777215	30
+765	Awesome job!	3	0	0	72	16777215	2
+765	Over halfway through the first set	5	0	0	72	16777215	10
+765	We'll now do what we just did but in reverse order	8	0	0	72	16777215	20
+765	With efforts like these, it can be easy to get psyched out	8	0	0	72	16777215	30
+765	But don't let big efforts get in your head	5	0	0	72	16777215	40
+765	Instead of thinking "This is too hard" or "I can't do it"...	8	0	0	72	16777215	50
+765	remind yourself often, "I can do this"	5	0	0	72	16777215	60
+765	Many times our will gives up before our bodies	8	0	0	72	16777215	70
+765	Workouts like this are a great way to train your willpower as well as your body	8	0	0	72	16777215	80
+765	Just a little bit more rest before the next effort, be relaxed	8	0	0	72	16777215	120
+765	Make sure you are breathing deeply...	8	0	0	72	16777215	130
+765	keeping a fast & light cadence...	8	0	0	72	16777215	140
+765	and maintaining a smooth & calm pedaling technique	8	0	0	72	16777215	150
+885	Go!	3	0	0	72	16777215	0
+885	Smooth, powerful & fast	8	0	0	72	16777215	20
+885	15 seconds, don't fade!	5	0	0	72	16777215	30
+930	Nicely done	3	0	0	72	16777215	2
+930	In group rides or races, efforts like this will be common...	8	0	0	72	16777215	10
+930	attacks and counterattacks, on climbs or anywhere else	8	0	0	72	16777215	20
+930	When initiating or following these efforts, remember...	8	0	0	72	16777215	30
+930	just because it's hard doesn't mean you have to act like it	8	0	0	72	16777215	40
+930	Maintaining a quiet upper body will help you in a big way	8	0	0	72	16777215	50
+930	You'll be more aerodynamically efficient, won't waste nearly as much energy...	8	0	0	72	16777215	60
+930	Best of all? Your competition will worry that this is easy for you!	8	0	0	72	16777215	69
+930	Get ready to again and keep that upper body quiet	8	0	0	72	16777215	80
+1020	Lots of speed!	3	0	0	72	16777215	0
+1020	Hold onto it, 10 seconds!	3	0	0	72	16777215	20
+1050	Nice job!	3	0	0	72	16777215	2
+1050	Take some time to relax before the next effort, but keep spinning	8	0	0	72	16777215	10
+1050	After this effort you'll have a very short break before the next effort	8	0	0	72	16777215	20
+1050	So make sure you keep your cool through the first effort	8	0	0	72	16777215	30
+1050	Just imagine you are in a race and the first effort is your attack...	8	0	0	72	16777215	40
+1050	while the second is a follow-up surge	5	0	0	72	16777215	50
+1110	Attack!	3	0	0	72	16777215	0
+1125	Good job, but good enough to break away?	8	0	0	72	16777215	2
+1125	Nope, they're catching back up, get ready for the counter!	8	0	0	72	16777215	20
+1155	There it is! Grab that wheel!	5	0	0	72	16777215	0
+1170	Nice work! Did they really think they could drop you? ;-)	8	0	0	72	16777215	2
+1170	We've started our second set now, so get focused	8	0	0	72	16777215	10
+1170	Next effort coming up, keep those legs quick	8	0	0	72	16777215	20
+1200	Build it up & stay loose	5	0	0	72	16777215	0
+1200	Halfway, relax!	5	0	0	72	16777215	15
+1230	Good job, rollin' right through this set	5	0	0	72	16777215	2
+1230	At this point in your workout, it's important to keep focused	8	0	0	72	16777215	10
+1230	Mentally breaking down the distance into chunks can help	8	0	0	72	16777215	20
+1230	Instead of focusing on being lost near the halfway point...	8	0	0	72	16777215	30
+1230	take each interval and rest in stride	5	0	0	72	16777215	40
+1230	You'll be done and stronger before you know it	8	0	0	72	16777215	50
+1290	Go!	3	0	0	72	16777215	0
+1290	30 seconds, keep it!	5	0	0	72	16777215	15
+1290	Final 15 seconds, don't fade!	5	0	0	72	16777215	30
+1335	Another one down!	3	0	0	72	16777215	2
+1335	During this rest, let's focus on your body position	8	0	0	72	16777215	10
+1335	Or more specifically, where your head is	8	0	0	72	16777215	20
+1335	A common tendency on trainers is to look down when digging deep	8	0	0	72	16777215	30
+1335	Try to fight this tendency and keep your eyes forward	5	0	0	72	16777215	40
+1335	When riding with others, staring at the wheel in front of you is dangerous	8	0	0	72	16777215	50
+1335	It narrows your focus too much & leads to surge-y riding	8	0	0	72	16777215	60
+1335	During the next interval, try looking in front of you...	8	0	0	72	16777215	70
+1335	about the level of the shoulders of the would-be person in front of you	8	0	0	72	16777215	80
+1425	60 seconds starts now!	5	0	0	72	16777215	0
+1425	Halfway through, where's your head at?	5	0	0	72	16777215	30
+1425	Keep your head up but don't strain your neck	5	0	0	72	16777215	37
+1425	Lift your head AND your eye-line	5	0	0	72	16777215	44
+1485	Great! Long rest period this time... well, relatively	8	0	0	72	16777215	2
+1485	Relax, spin quick & light	5	0	0	72	16777215	12
+1485	All rested? Good! Time to step out of this second set	8	0	0	72	16777215	110
+1605	Lots of speed, lots of control, lots of power	8	0	0	72	16777215	0
+1650	Nice push!	3	0	0	72	16777215	2
+1650	If you're feeling your legs fill up like balloons...	8	0	0	72	16777215	10
+1650	try focusing on your breathing	5	0	0	72	16777215	20
+1650	That feeling is commonly referred to as lactic acid build up...	8	0	0	72	16777215	30
+1650	because there's still a lot of confusion about this	8	0	0	72	16777215	40
+1650	Many athletes still see lactate as a "poison" or a performance inhibitor	8	0	0	72	16777215	50
+1650	Did you know your muscles feed off of lactate? It's FUEL!	8	0	0	72	16777215	60
+1650	Your body is amazingly efficient, and in this case...	8	0	0	72	16777215	70
+1650	your muscles reuse their "exhaust" for more fuel	8	0	0	72	16777215	80
+1740	Go!	3	0	0	72	16777215	0
+1740	10 seconds of smooth, relaxed pedaling	5	0	0	72	16777215	20
+1770	Well done!	3	0	0	72	16777215	2
+1770	You've got those 2 short efforts with minimal rest coming up	8	0	0	72	16777215	30
+1770	Remember to keep your cadence high in between these quick efforts	8	0	0	72	16777215	40
+1770	Nice quick spin, lots of control	5	0	0	72	16777215	50
+1830	Go for it!	3	0	0	72	16777215	0
+1845	Good job! Keep your spin light & fast	5	0	0	72	16777215	0
+1845	Next one coming up, stay quick	5	0	0	72	16777215	23
+1875	Hit it!	3	0	0	72	16777215	0
+1890	Nice!	3	0	0	72	16777215	2
+1890	Now fight the urge to slow your cadence or lose form	8	0	0	72	16777215	7
+1890	Stay focused, fluid & light on the pedals	5	0	0	72	16777215	17
+1890	Get ready for a slightly longer, 30-second push	8	0	0	72	16777215	20
+1920	Go!	3	0	0	72	16777215	0
+1920	10 seconds, keep it!	5	0	0	72	16777215	20
+1950	Good stuff! Take it easy	5	0	0	72	16777215	2
+1950	This is a slightly rest period, so take advantage and relax	8	0	0	72	16777215	10
+1950	But don't get sloppy	5	0	0	72	16777215	20
+1950	Next effort coming right up, try to relax	5	0	0	72	16777215	50
+2010	45 seconds, go hard!	5	0	0	72	16777215	0
+2010	15 seconds of hanging in there!	5	0	0	72	16777215	30
+2055	Good job	3	0	0	72	16777215	2
+2055	This next effort is 60 seconds long	5	0	0	72	16777215	10
+2055	Try breaking it into two halves, 3 thirds even	8	0	0	72	16777215	20
+2055	Focus on your cadence and breathing for the first segment...	8	0	0	72	16777215	30
+2055	then make sure you keep good body position for the remaining segment(s)	8	0	0	72	16777215	40
+2055	Get ready	3	0	0	72	16777215	85
+2145	Get after it!	3	0	0	72	16777215	0
+2145	Breathing & cadence	5	0	0	72	16777215	10
+2145	Half way through! How's your body positioning?	8	0	0	72	16777215	30
+2205	Great job!	3	0	0	72	16777215	2
+2205	This "big" rest is followed by your last 3 efforts, hang in there	8	0	0	72	16777215	10
+2205	Each one will get tougher, trying to tire an already tired body	8	0	0	72	16777215	20
+2205	As a result, it is very easy to lose proper form	8	0	0	72	16777215	30
+2205	So this time, focus on your position on the saddle	8	0	0	72	16777215	40
+2205	It's a natural tendency to lean forward on your saddle when tired	8	0	0	72	16777215	50
+2205	But this closes off your hip angle and shrinks your breathing cavity	8	0	0	72	16777215	60
+2205	This makes it hard to breathe efficiently, only tiring you more	8	0	0	72	16777215	70
+2205	So if you find that happening, reposition yourself...	8	0	0	72	16777215	80
+2205	look ahead & relax	5	0	0	72	16777215	90
+2205	If you feel like you need to lean forward for a hard effort...	8	0	0	72	16777215	100
+2205	try scooting ever so slightly towards the front of your saddle	8	0	0	72	16777215	110
+2325	Fast & light!	3	0	0	72	16777215	0
+2325	How's your body position? Sit bones anchored?	8	0	0	72	16777215	20
+2370	Nice work!	3	0	0	72	16777215	2
+2370	Last two efforts ahead, make each one count	5	0	0	72	16777215	10
+2370	And stay focused on proper form while resting	5	0	0	72	16777215	17
+2370	Alright, here comes the next effort, be quick	5	0	0	72	16777215	23
+2460	Go hard!	3	0	0	72	16777215	0
+2460	But stay controlled the entire time	5	0	0	72	16777215	5
+2490	Almost there! Don't fade now	5	0	0	72	16777215	2
+2490	Keep your cadence high during this rest...	5	0	0	72	16777215	10
+2490	and remember to keep a quiet upper body	5	0	0	72	16777215	16
+2490	Last one coming up! Be relaxed & ready	5	0	0	72	16777215	50
+2550	Go, go, go!	3	0	0	72	16777215	0
+2550	10 seconds of flawless form!	5	0	0	72	16777215	5
+2550	3...	1	0	0	72	16777215	12
+2550	3...	1	0	0	72	16777215	13
+2550	1...	1	0	0	72	16777215	14
+2565	Awesome job!	3	0	0	72	16777215	2
+2565	Use what we worked on today in your next group ride or race...	8	0	0	72	16777215	10
+2565	by focusing on technique while pushing hard...	8	0	0	72	16777215	20
+2565	such that you will not only build your power...	8	0	0	72	16777215	30
+2565	but you'll also build endurance and speed as well	8	0	0	72	16777215	40
+2565	We'll see you next time!	5	0	0	72	16777215	50
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	2700	Workout
+0	180	Endurance 1
+180	195	Sprint 1
+225	240	Sprint 2
+270	285	Sprint 3
+435	450	Sprint 4
+480	510	Sprint 5
+570	615	Anaerobic Capacity 1
+705	765	Anaerobic Capacity 2
+885	930	Anaerobic Capacity 3
+1020	1050	Sprint 6
+1110	1125	Sprint 7
+1155	1170	Sprint 8
+1200	1230	Sprint 9
+1290	1335	Anaerobic Capacity 4
+1425	1485	Anaerobic Capacity 5
+1605	1650	Anaerobic Capacity 6
+1740	1770	Sprint 10
+1830	1845	Sprint 11
+1875	1890	Sprint 12
+1920	1950	Sprint 13
+2010	2055	Anaerobic Capacity 7
+2145	2205	Anaerobic Capacity 8
+2325	2370	Anaerobic Capacity 9
+2460	2490	Sprint 14
+2550	2565	Sprint 15
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

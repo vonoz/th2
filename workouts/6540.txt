@@ -1,0 +1,379 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Gray,92,84. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	65
+5	95
+7	100
+7	40
+12	40
+12	100
+32	100
+32	40
+37	40
+37	100
+57	100
+57	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Gray...	5	0	0	72	16777215	10
+0	a straightforward muscle endurance workout right at your FTP	5	0	0	72	16777215	16
+0	Working at the height of your Functional Threshold...	5	0	0	72	16777215	23
+0	is a highly demanding & fatiguing output level...	4	0	0	72	16777215	29
+0	but also one that can bring tremendous benefit...	5	0	0	72	16777215	34
+0	by teaching both your mind & your muscles...	4	0	0	72	16777215	40
+0	to deal with the challenges of sustaining this type of power...	4	0	0	72	16777215	46
+0	for uncomfortably long durations	4	0	0	72	16777215	51
+0	Until then, keep your spin light & quick...	4	0	0	72	16777215	57
+0	and gradually warm your legs & lungs	4	0	0	72	16777215	62
+300	Settle in as the Target Power jumps up...	5	0	0	72	16777215	0
+300	and do your best to keep your spin above 85rpm	5	0	0	72	16777215	6
+300	1 more minutes, keep that spin reasonably quick...	5	0	0	72	16777215	60
+300	and try to stay relaxed while drawing full, belly-driven breaths	5	0	0	72	16777215	66
+300	Just 30 more seconds, keep things quick & fluid...	5	0	0	72	16777215	90
+300	and keep driving your breathing with your belly	4	0	0	72	16777215	96
+420	Ease off the gas but keep your legs spinning reasonably quickly...	5	0	0	72	16777215	9
+420	and we'll talk workout details in about a minute	5	0	0	72	16777215	15
+420	Today's primary objective is increased muscular endurance	5	0	0	72	16777215	60
+420	This particular training adaptation is also referred to as "strength endurance"...	5	0	0	72	16777215	67
+420	since it's the ability to maintain high levels of muscle activation...	5	0	0	72	16777215	73
+420	for relatively long durations	3	0	0	72	16777215	79
+420	So it's not only about your ability to push hard on the pedals...	5	0	0	72	16777215	84
+420	but also your ability to do it for along time	4	0	0	72	16777215	90
+420	This is particularly evident in long, steady-state efforts...	5	0	0	72	16777215	96
+420	like working your way up a sustained climb...	4	0	0	72	16777215	102
+420	riding a time trial where there's really no down time...	4	0	0	72	16777215	107
+420	pushing steadily through the bike leg of a triathlon or  duathlon...	5	0	0	72	16777215	112
+420	or any effort of that nature where your effort is continuous	5	0	0	72	16777215	118
+420	While a high level of aerobic endurance is the heart of endurance sports...	5	0	0	72	16777215	125
+420	think of muscle endurance as, well...	4	0	0	72	16777215	131
+420	the muscle driven with the blood pumped by that heart	4	0	0	72	16777215	136
+420	So while your aerobic fitness is largely about your heart & lungs...	4	0	0	72	16777215	142
+420	muscular endurance is more about your muscles themselves...	4	0	0	72	16777215	147
+420	in particular, their metabolic capabilities	4	0	0	72	16777215	152
+420	Which simply means that it's not necessarily their size which concerns us..	5	0	0	72	16777215	158
+420	so much as their ability to process fuel & output energy	5	0	0	72	16777215	164
+420	Or in our context, power	3	0	0	72	16777215	171
+420	So if you've been in a situation where you're powering along...	5	0	0	72	16777215	176
+420	but then the power starts to gradually fade...	4	0	0	72	16777215	182
+420	you're either running low on fuel/food...	4	0	0	72	16777215	187
+420	or you simply don't have the necessary muscle endurance...	4	0	0	72	16777215	192
+420	to sustain that amount of power for as long as you might like	5	0	0	72	16777215	197
+420	Just ahead, we'll address that very limitation	4	0	0	72	16777215	204
+420	Settle into a spin in the 85-95rpm range...	4	0	0	72	16777215	210
+420	or a bit quicker if it suits your goals or capabilities	4	0	0	72	16777215	215
+720	Try to keep your spin steadily above 85rpm...	5	0	0	72	16777215	0
+720	and take a couple minutes to settle in to this level of effort	5	0	0	72	16777215	6
+720	And if you feel like you need a few more minutes of warmup...	5	0	0	72	16777215	13
+720	Drop the Workout Intensity by 5-10%...	4	0	0	72	16777215	19
+720	and graually lift if back up to 100%...	3	0	0	72	16777215	24
+720	over the course of these opening 3-5 minutes	5	0	0	72	16777215	28
+720	These intervals are long ones, no lie...	5	0	0	72	16777215	120
+720	and they're right at the lactic tipping point too	4	0	0	72	16777215	126
+720	So if your FTP estimate is close to accurate...	3	0	0	72	16777215	132
+720	this will be a tough place to reside	3	0	0	72	16777215	136
+720	But there's no better indication of performance...	5	0	0	72	16777215	141
+720	than performance itself, and these 2 efforts...	4	0	0	72	16777215	147
+720	are basically back-to-back time trials...	4	0	0	72	16777215	152
+720	done right at your highest sustainable power	4	0	0	72	16777215	157
+720	Again, this is a tough place to hold steady...	4	0	0	72	16777215	163
+720	but it fosters excellent muscular endurance...	4	0	0	72	16777215	168
+720	as well as greater mental stamina	3	0	0	72	16777215	173
+720	So while this isn't a workout you'll repeat often...	4	0	0	72	16777215	178
+720	it's one that's potentially full of benefits	4	0	0	72	16777215	183
+720	One of which is raising your ability to hold "hour power"...	4	0	0	72	16777215	189
+720	to something closer to an actual hour	4	0	0	72	16777215	194
+720	Then every level of power below your FTP...	4	0	0	72	16777215	200
+720	becomes that much more manageable	4	0	0	72	16777215	205
+720	So for riders training for events that require...	5	0	0	72	16777215	240
+720	high levels of power ranging from slightly above FTP...	5	0	0	72	16777215	246
+720	to highly repeated, near-maximal efforts...	4	0	0	72	16777215	252
+720	Threshold work will accustom you to that sort of suffering	5	0	0	72	16777215	257
+720	So whether 90% of FTP is all the harder you'll ever ride...	5	0	0	72	16777215	264
+720	or you have to routinely bury yourself at 125% FTP for minutes at a time...	5	0	0	72	16777215	270
+720	lifting your ability to endure efforts like these...	4	0	0	72	16777215	276
+720	will pay dividends on both sides of your FTP...	4	0	0	72	16777215	281
+720	and combined with similar but suprethreshold intervals...	4	0	0	72	16777215	286
+720	actually raise that very FTP	3	0	0	72	16777215	291
+720	Given proper recovery, of course	4	0	0	72	16777215	296
+720	When you find yourself riding 20-minute intervals...	4	0	0	72	16777215	306
+720	it's likely you've laid the shorter-term infrastructure...	4	0	0	72	16777215	311
+720	with shorter, more manageable interval durations in the 6 to 12-minute range	5	0	0	72	16777215	316
+720	So it's very probable....	3	0	0	72	16777215	323
+720	you already have a substantial base of muscular endurance...	5	0	0	72	16777215	327
+720	making today a little more tolerable than it would be...	4	0	0	72	16777215	333
+720	for riders who haven't gradually progressed to a workout like this	5	0	0	72	16777215	338
+720	Well into this first, long interval...	5	0	0	72	16777215	360
+720	and perhaps time to make things a little more specific	5	0	0	72	16777215	366
+720	But any of the following suggestions...	4	0	0	72	16777215	373
+720	assume you're already managing the workload well	4	0	0	72	16777215	378
+720	If, however, just holding your power on Target...	4	0	0	72	16777215	384
+720	is already a tall order requiring all of your focus...	4	0	0	72	16777215	389
+720	then there's no need to make things tough to the point...	4	0	0	72	16777215	394
+720	that you dilute the primary aim of this workout	4	0	0	72	16777215	399
+720	But if you're doing well...	3	0	0	72	16777215	405
+720	and feeling capable of adding some more benefit to your workout...	5	0	0	72	16777215	409
+720	we'll start with your position on the bike...	3	0	0	72	16777215	415
+720	by first evaluating whether or not you can be more aerodynamic	5	0	0	72	16777215	419
+720	Because any time you can get just a little lower...	4	0	0	72	16777215	426
+720	or a little narrower...	3	0	0	72	16777215	431
+720	without sacrificing any power in the process...	4	0	0	72	16777215	435
+720	you're basically finding some "free speed"	4	0	0	72	16777215	440
+720	All by making yourself just a little smaller in the wind	5	0	0	72	16777215	446
+720	You can do this in a number of ways...	4	0	0	72	16777215	453
+720	but it's best that you don't make any drastic changes	4	0	0	72	16777215	458
+720	So consider your most utilized, comfortable, powerful riding position...	5	0	0	72	16777215	464
+720	and make it just a little more aero	4	0	0	72	16777215	470
+720	For example...	3	0	0	72	16777215	476
+720	if you typically ride with your hands on the brake hoods...	5	0	0	72	16777215	480
+720	try spending some time with your hands in the drops	5	0	0	72	16777215	486
+720	If you're used to riding in the drops...	4	0	0	72	16777215	493
+720	soften your elbows a bit more and bring your body closer to your bike	5	0	0	72	16777215	498
+720	And if you're on a tri/TT bike...	4	0	0	72	16777215	505
+720	Threshold intervals are probably the height of your aero efforts...	5	0	0	72	16777215	510
+720	which could require occasional, non-aero "breaks"	4	0	0	72	16777215	516
+720	So lay out on those aero bars for the longest durations you can tolerate...	5	0	0	72	16777215	522
+720	knowing you don't have to spend the entire interval there...	5	0	0	72	16777215	529
+720	rather, spend increasingly longer durations down low...	5	0	0	72	16777215	535
+720	but keep your Target Power at the forefront of your priorities	5	0	0	72	16777215	541
+720	How you long stay aero is up to you...	4	0	0	72	16777215	548
+720	but ALL riders can benefit from the practice	4	0	0	72	16777215	553
+720	So spend some time "in aero" now...	4	0	0	72	16777215	559
+720	whether it's 30 seconds or 10 minutes at a stretch	4	0	0	72	16777215	564
+720	We'll touch base again in a few minutes	5	0	0	72	16777215	570
+720	Still working in & out of your more aero position?	5	0	0	72	16777215	750
+720	Well feel free to continue doing so...	5	0	0	72	16777215	757
+720	or sit tall & comfortably while we talk about smooth power output	5	0	0	72	16777215	763
+720	During steady-state efforts...	3	0	0	72	16777215	770
+720	where there's seldom a need to drastically alter your power...	5	0	0	72	16777215	774
+720	riders can spare a fair amount of energy by avoiding "waste"	5	0	0	72	16777215	780
+720	Waste comes in many forms ranging from wobbly knees...	5	0	0	72	16777215	787
+720	flexibility issues that pit your muscles against one another...	5	0	0	72	16777215	793
+720	and excess bike movement to name only a few possible energy-sucks	5	0	0	72	16777215	799
+720	For the moment, let's focus on that last one...	4	0	0	72	16777215	806
+720	excess bike movement	3	0	0	72	16777215	811
+720	Whether you're trying to cheat the wind to the highest extent...	5	0	0	72	16777215	816
+720	during a 40k time trial going 31mph/50kph...	5	0	0	72	16777215	822
+720	or climbing a 10% grade at a fraction of that speed...	5	0	0	72	16777215	828
+720	any motion that doesn't power the bike forward...	4	0	0	72	16777215	834
+720	is wasted effort, energy you could be putting to better use	5	0	0	72	16777215	839
+720	But this is another highly trainable aspect of riding...	5	0	0	72	16777215	846
+720	where even minor improvements in form...	4	0	0	72	16777215	852
+720	can yield obvious increases in speed & finish times	4	0	0	72	16777215	857
+720	So let's start with the basis of a stable, controlled riding position...	5	0	0	72	16777215	863
+720	your position on the saddle	4	0	0	72	16777215	869
+720	This comes down to a few factors...	3	0	0	72	16777215	875
+720	the first of which is your ability to keep your "sit-bones" anchored	5	0	0	72	16777215	879
+720	By pushing the boney aspects of your butt into the saddle...	5	0	0	72	16777215	886
+720	you create a solid base of support from which to move your legs	5	0	0	72	16777215	892
+720	But far too many riders fail to ground their sit-bones on the saddle...	5	0	0	72	16777215	899
+720	the "wings" or wide part of the saddle...	3	0	0	72	16777215	905
+720	and therefore suffer a floating base of support	4	0	0	72	16777215	909
+720	So almost always translates to excess hip movement...	4	0	0	72	16777215	915
+720	poor power transfer from the legs to the pedals...	4	0	0	72	16777215	920
+720	and undue friction between your "undercarriage" and saddle	4	0	0	72	16777215	925
+720	Not awesome	3	0	0	72	16777215	931
+720	And 9 times out of 10...	3	0	0	72	16777215	936
+720	when a rider changes saddles due to "fit issues"...	4	0	0	72	16777215	940
+720	the real issue isn't the saddle but their position on it	4	0	0	72	16777215	945
+720	In fact, properly positioned riders can make nearly any saddle work for them	5	0	0	72	16777215	951
+720	How?	3	0	0	72	16777215	958
+720	By bearing most of their body's weight...	4	0	0	72	16777215	963
+720	on their bones, their skeleton, their structurally suitable foundation...	5	0	0	72	16777215	968
+720	instead of that tiny patch of soft tissue...	4	0	0	72	16777215	974
+720	between the pubic bones and their chamois	4	0	0	72	16777215	979
+720	It's all good & fine...	3	0	0	72	16777215	985
+720	to "ride the nose" of your saddle from time to time...	4	0	0	72	16777215	989
+720	but neither your saddle nor your body is designed...	4	0	0	72	16777215	994
+720	to spend extended periods of time turning the pedals...	4	0	0	72	16777215	999
+720	from this relatively unstable base of support	4	0	0	72	16777215	1004
+720	So tip your pelvis backwards a bit...	4	0	0	72	16777215	1010
+720	and level out your entire pelvic girdle, your HIPS...	4	0	0	72	16777215	1015
+720	until you feel modest pressure on both sit-bones	4	0	0	72	16777215	1020
+720	THIS is strong, stable base of support	4	0	0	72	16777215	1026
+720	THIS is where you stand a chance of sustaining high, steady power	5	0	0	72	16777215	1032
+720	THIS is your goal for the remaining 3 minutes of this interval...	5	0	0	72	16777215	1039
+720	as well as the entirety of the following interval	4	0	0	72	16777215	1045
+720	With only a couple minutes to go...	4	0	0	72	16777215	1080
+720	let's briefly address the balance between anchored sit-bones...	5	0	0	72	16777215	1085
+720	and a low, more aerodynamic position	4	0	0	72	16777215	1091
+720	Ride too low and your sit-bones float...	4	0	0	72	16777215	1097
+720	ride too high and you devote too much power to battling wind resistance	5	0	0	72	16777215	1102
+720	So a balance between being low & being anchored has to be struck	5	0	0	72	16777215	1109
+720	This is a process though...	3	0	0	72	16777215	1116
+720	and not one you'll move through in a single interval...	4	0	0	72	16777215	1120
+720	but you can get things started right here, right now...	4	0	0	72	16777215	1125
+720	by only riding as low as you can get...	4	0	0	72	16777215	1130
+720	before you feel that weight lift off of your sit-bones	5	0	0	72	16777215	1135
+720	Maintain that balance for 1 more minute	5	0	0	72	16777215	1142
+720	30 more seconds of riding low...	4	0	0	72	16777215	1170
+720	and keeping your sit-bones on the saddle	4	0	0	72	16777215	1175
+1920	Well done, time for some easy spinning	5	0	0	72	16777215	2
+1920	And if some of that spinning is done backwards, so be it	5	0	0	72	16777215	9
+1920	However you best recover over a short rest like this...	5	0	0	72	16777215	16
+1920	is your call, but it's our advice that you keep moving	5	0	0	72	16777215	22
+1920	Almost time to get rolling again...	5	0	0	72	16777215	270
+1920	even though you're legs are far from fully recovered	5	0	0	72	16777215	276
+1920	But even a short break is more of a break than you'd get...	5	0	0	72	16777215	283
+1920	in a competitive situation where letting off the gas carries a high price	5	0	0	72	16777215	289
+1920	So suck it up ;-)	3	0	0	72	16777215	296
+2220	Settle in to your 85-95rpm cadence...	4	0	0	72	16777215	1
+2220	and decide early if you might need to drop the Workout Intensity 2-3%	5	0	0	72	16777215	6
+2220	Better to err on the side of caution now...	4	0	0	72	16777215	13
+2220	than fall apart 8 minutes into a 20-minute effort	4	0	0	72	16777215	18
+2220	And if you think you can handle a subtle increase in intensity...	5	0	0	72	16777215	24
+2220	you're welcome to lift it now or wait until later in the interval...	5	0	0	72	16777215	30
+2220	when you have a better sense of how you're feeling...	4	0	0	72	16777215	36
+2220	with 20 minutes of Threshold work in your legs	4	0	0	72	16777215	41
+2220	Find your cadence & breathing rhythm...	4	0	0	72	16777215	47
+2220	and we'll add some drills in a little over a minute	5	0	0	72	16777215	52
+2220	Let's try to reduce the monotony...	4	0	0	72	16777215	120
+2220	and limit the intimidation of a long interval...	4	0	0	72	16777215	125
+2220	with some tried & true quadrant drills	4	0	0	72	16777215	130
+2220	It's pretty likely you've encountered these drills before...	5	0	0	72	16777215	136
+2220	but in case you haven't, we'll break your pedaling action into 4 parts...	5	0	0	72	16777215	142
+2220	and focus on improving your form in more focused ways...	5	0	0	72	16777215	148
+2220	starting with...	3	0	0	72	16777215	154
+2220	carrying power over the top of each pedal revolution	5	0	0	72	16777215	158
+2220	The top quadrant is often the most neglected...	4	0	0	72	16777215	165
+2220	and potentially the difference between a pedalstroke that's round...	5	0	0	72	16777215	170
+2220	and one that remains lumbering due to its "mashing" nature	5	0	0	72	16777215	176
+2220	So with a light but intentional kick...	4	0	0	72	16777215	183
+2220	over the top of each pedalstroke...	4	0	0	72	16777215	188
+2220	you can immediately start to see a difference...	4	0	0	72	16777215	193
+2220	in the smoothness of your power output	4	0	0	72	16777215	198
+2220	So as each foot rises upward...	3	0	0	72	16777215	204
+2220	lightly kick your toes forward...	3	0	0	72	16777215	208
+2220	as you cross the high point of each pedalstroke	4	0	0	72	16777215	212
+2220	Try this with both feet...	4	0	0	72	16777215	218
+2220	and keep your power right on Target	4	0	0	72	16777215	223
+2220	Keep that light kick going with both feet...	4	0	0	72	16777215	240
+2220	for one more minute	3	0	0	72	16777215	245
+2220	Good, let go of that particular emphasis for now...	5	0	0	72	16777215	300
+2220	and pedal smoothly for the rest of this minute	5	0	0	72	16777215	306
+2220	As you hold that cadence above 85rpm...	4	0	0	72	16777215	360
+2220	and keep your power on Target...	3	0	0	72	16777215	365
+2220	start to lightly pull your feet backward...	4	0	0	72	16777215	369
+2220	as they cross the bottom of each pedalstroke	4	0	0	72	16777215	374
+2220	Much like the kick over the top...	4	0	0	72	16777215	380
+2220	this pull across the bottom is subtle, not strong	4	0	0	72	16777215	385
+2220	And you can do it a number of ways...	4	0	0	72	16777215	391
+2220	including a motion like scraping mud off the bottoms of your shoes...	5	0	0	72	16777215	396
+2220	pulling your heels into the backs of your shoes...	4	0	0	72	16777215	402
+2220	or using the muscles in the backs of your legs...	4	0	0	72	16777215	407
+2220	to actively drive the pedals across that bottom quadrant	5	0	0	72	16777215	412
+2220	Whichever manner resonates...	3	0	0	72	16777215	419
+2220	employ it for another minute	4	0	0	72	16777215	423
+2220	30 more seconds of lightly pulling across the bottom	5	0	0	72	16777215	450
+2220	Excellent, pedal smoothly for a minute...	5	0	0	72	16777215	480
+2220	with no particular emphasis	3	0	0	72	16777215	486
+2220	Time to combine those kicking drills with the pulling ones	5	0	0	72	16777215	540
+2220	So as you kick over the top with one foot...	4	0	0	72	16777215	547
+2220	you'll lightly pull backward with the other	4	0	0	72	16777215	552
+2220	And it's a little easier to get this right...	3	0	0	72	16777215	558
+2220	when you focus on a single leg to start	4	0	0	72	16777215	562
+2220	So for 30 seconds...	3	0	0	72	16777215	568
+2220	focus on your left foot as it lighlty kicks & pulls	5	0	0	72	16777215	572
+2220	Switch your focus over to your right leg...	4	0	0	72	16777215	600
+2220	and gently kick your right foot over the top...	4	0	0	72	16777215	605
+2220	and then immediately pull it across the bottom	4	0	0	72	16777215	610
+2220	Switch back to your left foot's kick & pull	5	0	0	72	16777215	630
+2220	Once more, switch to your right foot's kick & pull	5	0	0	72	16777215	660
+2220	Good, take 30 seconds to clear your mind...	4	0	0	72	16777215	690
+2220	with no particular pedalstroke emphasis	4	0	0	72	16777215	695
+2220	For the better part of the next couple minutes...	5	0	0	72	16777215	720
+2220	try turning your focus to the BACK quadrant of each pedalstroke	5	0	0	72	16777215	726
+2220	So as each foot comes through the bottom of each revolution...	5	0	0	72	16777215	733
+2220	it enters this back quadrant just as it starts to rise upward	5	0	0	72	16777215	739
+2220	It's at this point that one of two things needs to take place...	5	0	0	72	16777215	746
+2220	in the interest of driving this drill home:	4	0	0	72	16777215	752
+2220	1) You consciously unweight your foot...	4	0	0	72	16777215	758
+2220	as it travels upward & toward its high point	4	0	0	72	16777215	763
+2220	2) You actively LIFT your knee instead of simply unweighting it	5	0	0	72	16777215	769
+2220	This would be more akin to juggling a soccer ball...	4	0	0	72	16777215	776
+2220	from knee to knee	3	0	0	72	16777215	781
+2220	In either case, your leg is no longer dead weight...	4	0	0	72	16777215	786
+2220	when it hits that back quadrant...	3	0	0	72	16777215	791
+2220	between the kick & pull quadrants	3	0	0	72	16777215	795
+2220	Keep this unweighting or lifting action going...	4	0	0	72	16777215	800
+2220	for about 30 more seconds	3	0	0	72	16777215	806
+2220	Enough drills for now...	3	0	0	72	16777215	840
+2220	and time to ride smoothly for a couple minutes	3	0	0	72	16777215	844
+2220	As you clear your mind & pedal fluidly...	4	0	0	72	16777215	849
+2220	try to rid your body of any excess tension that may have crept in...	5	0	0	72	16777215	854
+2220	when you emphasized particular pedalstroke quadrants	4	0	0	72	16777215	860
+2220	Often, this added bit of focus causes riders to bunch up...	4	0	0	72	16777215	866
+2220	or tip their bodies slightly to one side	4	0	0	72	16777215	871
+2220	Both result in unproductive tension & wasted energy...	4	0	0	72	16777215	877
+2220	not to mention altered pedaling mechanics	4	0	0	72	16777215	882
+2220	So from your forehead down through your toes...	4	0	0	72	16777215	888
+2220	scan your body and ditch that tension as you find it	5	0	0	72	16777215	893
+2220	Face goes slack, jaw hangs loosely...	4	0	0	72	16777215	900
+2220	air comes in through your nose, out through your mouth	4	0	0	72	16777215	905
+2220	Drop your shoulders, soften your elbow, loosen your grip	5	0	0	72	16777215	911
+2220	You get the idea - be relaxed where you can...	5	0	0	72	16777215	918
+2220	which is almost everywhere above the waist	4	0	0	72	16777215	924
+2220	Only the last few minutes of the workout remain...	5	0	0	72	16777215	960
+2220	so let's ride them out by combining a few quadrants...	5	0	0	72	16777215	966
+2220	into something that more closely resembles a complete pedalstroke	5	0	0	72	16777215	972
+2220	Start by giving your focus to a simultaneous kick & pull...	5	0	0	72	16777215	979
+2220	and actively kick one foot while pulling the other...	4	0	0	72	16777215	985
+2220	both feet at once	3	0	0	72	16777215	990
+2220	This manner of pedaling is more of a horizontal movement pattern...	5	0	0	72	16777215	995
+2220	than the more powerful, vertical mashing used when turning the pedals	5	0	0	72	16777215	1001
+2220	Which underscores where the power comes from...	4	0	0	72	16777215	1008
+2220	the downstroke...	3	0	0	72	16777215	1013
+2220	and where the fluidity comes from...	4	0	0	72	16777215	1017
+2220	the rest of the pedalstroke	3	0	0	72	16777215	1022
+2220	So the point of these drills isn't bent on deriving more power...	5	0	0	72	16777215	1027
+2220	from your pedastoke but rather an effort to make it more sustainable	6	0	0	72	16777215	1033
+2220	A more fluid pedaling motion equates to lower energy expenditure...	5	0	0	72	16777215	1041
+2220	which leaves more "gas in the tank" than a herky-jerky...	5	0	0	72	16777215	1047
+2220	lumbering mashing that does little more than overcooks your quads	5	0	0	72	16777215	1053
+2220	20 more seconds of kicking & pulling with both feet	5	0	0	72	16777215	1060
+2220	Try to retain your active pull across the bottom...	5	0	0	72	16777215	1080
+2220	and then blend that pull into your unweighting or lifting motion	5	0	0	72	16777215	1086
+2220	So now, you pull across the bottom...	4	0	0	72	16777215	1093
+2220	and then gently lift knee or unweight your foot...	4	0	0	72	16777215	1098
+2220	immediately afterward	3	0	0	72	16777215	1103
+2220	This combination of quadrants heavily emphasizes...	4	0	0	72	16777215	1108
+2220	the muscles in the backs of your legs...	4	0	0	72	16777215	1113
+2220	and those in the top/front of your hips	4	0	0	72	16777215	1118
+2220	So if it helps, think about your hamstrings (back of thigh)...	4	0	0	72	16777215	1124
+2220	your calf muscles (back of lower leg)...	4	0	0	72	16777215	1129
+2220	and your hip flexors (top/front of hips)...	4	0	0	72	16777215	1134
+2220	as active contributors that can make the difference...	4	0	0	72	16777215	1139
+2220	between a fluid pedaling style...	3	0	0	72	16777215	1144
+2220	and one lacking grace & control	3	0	0	72	16777215	1148
+2220	Pull & lift for 30 more seconds	5	0	0	72	16777215	1170
+3420	See! Drills make even the longest intervals fly by, right?	5	0	0	72	16777215	2
+3420	Nicely done, especially if you managed to gut out...	5	0	0	72	16777215	9
+3420	an entire 40 minutes right at your FTP	4	0	0	72	16777215	15
+3420	This is especially challening indoors and on a trainer/turbo...	5	0	0	72	16777215	21
+3420	considering the unrelenting nature of the resistance...	4	0	0	72	16777215	27
+3420	as well as the lack of motivation and probably effective cooling too	5	0	0	72	16777215	32
+3420	So don't be suprised when you head outdoors...	4	0	0	72	16777215	39
+3420	to find that time spent at FTP seems far more manageable	5	0	0	72	16777215	44
+3420	Our gift to you ;-)	4	0	0	72	16777215	51
+3420	Until next time, rest up, nourish well...	4	0	0	72	16777215	57
+3420	and we'll see you soon	4	0	0	72	16777215	62
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+300	420	Threshold 1
+720	1920	Threshold 2
+2220	3420	Threshold 3
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

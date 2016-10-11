@@ -1,0 +1,96 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Mount Alice,68,164. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+11	60
+11	60
+26	60
+26	60
+27	70
+27	70
+46	70
+46	70
+47	60
+47	60
+68	60
+68	60
+69	85
+69	85
+84	85
+84	85
+85	65
+85	65
+103	65
+103	65
+104	80
+104	80
+120	80
+120	80
+121	60
+121	61
+141	61
+141	60
+142	68
+142	68
+155.5	68
+155.5	68
+156.5	80
+156.5	80
+167.5	80
+167.5	80
+168.5	65
+168.5	65
+185	65
+185	65
+186	60
+186	60
+202	60
+202	60
+210	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+660	Warm up with 5-10 minutes of ILT, 30-60s per leg, switch often	8	0	0	72	16777215	-1
+1620	Over the course of this longer stretch, include 3-5 Form Sprints	8	0	0	72	16777215	-1
+2820	Here's a good stretch to focus on some 30 to 60-second ILT efforts	8	0	0	72	16777215	0
+4140	Use 5 of these 15 minutes for some Endurance Spinning	8	0	0	72	16777215	-1
+6240	Use another 5 of these 16 minutes for some Endurance Spinning	8	0	0	72	16777215	0
+7260	One more stretch to focus on some 30 to 60-second ILT efforts	8	0	0	72	16777215	0
+8520	If you're not totally shot, add 5 more minutes of ILT, 30-60s at a time	8	0	0	72	16777215	-1
+11160	Add 3-5 late-ride Form Sprints to see if your form's still hangin' on	8	0	0	72	16777215	0
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	12600	Workout
+660	1560	Endurance 1
+1560	1620	Endurance 2
+1620	2760	Endurance 3
+2760	2820	Endurance 4
+2820	4080	Endurance 5
+4080	4140	Endurance 6
+4140	5040	Sweet Spot 1
+5040	5100	Endurance 7
+5100	6180	Endurance 8
+6180	6240	Endurance 9
+6240	7200	Tempo 1
+7200	7260	Endurance 10
+7260	8460	Endurance 11
+8460	8520	Endurance 12
+8520	9330	Endurance 13
+9330	9390	Endurance 14
+9390	10050	Tempo 2
+10050	10110	Endurance 15
+10110	11100	Endurance 16
+11100	11160	Endurance 17
+11160	12120	Endurance 18
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

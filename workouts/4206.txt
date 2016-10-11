@@ -1,0 +1,309 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Pyramidal,83,69. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	65
+5	70
+5	75
+10	75
+10	85
+15	85
+15	95
+20	95
+20	85
+25	85
+25	70
+30	70
+30	95
+35	95
+35	85
+40	85
+40	95
+45	95
+45	85
+50	85
+50	75
+55	75
+55	50
+60	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Pyramidal	5	0	0	72	16777215	10
+0	Even though it's only an hour in duration...	5	0	0	72	16777215	17
+0	this workout will give you some insight into your levels of endurance...	5	0	0	72	16777215	23
+0	both in terms of aerobic endurance...	4	0	0	72	16777215	29
+0	as well as muscular endurance	4	0	0	72	16777215	34
+0	You'll also get a chance to experience how demanding...	5	0	0	72	16777215	40
+0	60 solid minutes of effort can be...	4	0	0	72	16777215	46
+0	even when all of that effort falls below your FTP	4	0	0	72	16777215	51
+0	Not to say you can't take an occasional break...	4	0	0	72	16777215	57
+0	or even backspin for 30 seconds here & there...	4	0	0	72	16777215	62
+0	but if you're looking to grow your ability to endure a steady workload...	5	0	0	72	16777215	67
+0	you've just embarked on that very opportunity	5	0	0	72	16777215	73
+0	Use the next few minutes to warm your legs & lungs...	5	0	0	72	16777215	80
+0	while keeping your cadence light & reasonably quick	5	0	0	72	16777215	86
+0	We recommend shooting for something above 90rpm...	5	0	0	72	16777215	93
+0	but spin as quickly as you're accustomed if 90rpm seems a little fast	5	0	0	72	16777215	99
+300	Over the course of this series of 5-minute intervals...	5	0	0	72	16777215	0
+300	we'll recommend cadence changes at the top of each stretch	5	0	0	72	16777215	6
+300	You can choose to ignore these recommendations...	5	0	0	72	16777215	13
+300	but if you're looking to broaden your cadence range...	5	0	0	72	16777215	19
+300	work done at these moderate & near-threshold effort levels...	5	0	0	72	16777215	25
+300	is quite a useful place to practice your ability to endure different spins	5	0	0	72	16777215	31
+300	And we'll start by picking things up slightly,...	5	0	0	72	16777215	38
+300	by adding 3-5rpm to your usual, self-selected cadence	5	0	0	72	16777215	44
+300	So if you typically gravitate toward an 85rpm spin...	5	0	0	72	16777215	51
+300	shoot for something closer to 90rpm	4	0	0	72	16777215	57
+300	No need to get carried away though...	4	0	0	72	16777215	63
+300	as this isn't a speed workout, just one with varied cadence	5	0	0	72	16777215	68
+300	A couple more minutes of holding that quicker-than-usual spin...	5	0	0	72	16777215	180
+300	and a good time to make sure you aren't carrying too much tension	5	0	0	72	16777215	186
+300	An indication that you're too bunched up, too tight...	5	0	0	72	16777215	193
+300	is a bit of bouncing in the saddle	4	0	0	72	16777215	199
+300	If you look or feel like you're pogoing around a little...	5	0	0	72	16777215	205
+300	start relaxing noncrucial muscles and reduce that bobble	5	0	0	72	16777215	211
+300	Relax the expression on your face & let your jaw go slack	5	0	0	72	16777215	218
+300	Then relax the muscles in your neck & let your shoulders sink	5	0	0	72	16777215	225
+300	How about your arms? Are your elbows locked out?	5	0	0	72	16777215	232
+300	Try to keep a soft bend in them	3	0	0	72	16777215	239
+300	How tightly are you gripping the bars?	5	0	0	72	16777215	244
+300	Even outdoors, the loosest of grips works much of the time...	5	0	0	72	16777215	251
+300	and you're fastened to a trainer! So loosen up ;-)	5	0	0	72	16777215	257
+600	Next 5 minutes, time to bring your spin up even higher	5	0	0	72	16777215	0
+600	This doesn't have to be a big change though...	4	0	0	72	16777215	7
+600	and even a 1-2rpm difference will suffice	4	0	0	72	16777215	12
+600	The main point is to build on the cadence from earlier...	5	0	0	72	16777215	18
+600	or at least maintain that same leg speed	5	0	0	72	16777215	24
+600	Whichever you choose, we'll continue...	4	0	0	72	16777215	31
+600	to seek out & rid you of any excess muscle tension...	4	0	0	72	16777215	36
+600	that may cause you to bounce around when spinning quickly	5	0	0	72	16777215	41
+600	Having ditched the tension in your upper body...	5	0	0	72	16777215	60
+600	let's consider your placement on the saddle	4	0	0	72	16777215	66
+600	At any point while seated...	4	0	0	72	16777215	72
+600	you should be able to feel the bones in your rear end...	5	0	0	72	16777215	77
+600	in contact with the padding in your saddle	4	0	0	72	16777215	83
+600	If you can't, try rolling your hips backward a bit...	4	0	0	72	16777215	89
+600	making contact & giving yourself a better pedaling platform	5	0	0	72	16777215	94
+600	Anytime you feel this contact drift away...	4	0	0	72	16777215	101
+600	remind yourself to anchor those sit-bones...	4	0	0	72	16777215	106
+600	and over time this will become habit	4	0	0	72	16777215	111
+600	Just 2 more minutes of quick spinning...	5	0	0	72	16777215	180
+600	so let's keep moving down the body...	4	0	0	72	16777215	186
+600	and relaxing any muscles that don't need to carry tension	5	0	0	72	16777215	191
+600	Clearly, your quads are intermittently active...	4	0	0	72	16777215	198
+600	but "intermittent" is the key word here	4	0	0	72	16777215	203
+600	In theory & in practice...	3	0	0	72	16777215	209
+600	you should be able to relax your quadriceps (thigh muscles)...	5	0	0	72	16777215	213
+600	every single pedalstroke	3	0	0	72	16777215	219
+600	Everytime they fire and drive the pedal forward & down...	5	0	0	72	16777215	224
+600	they immediately have a brief but consistent chance...	5	0	0	72	16777215	230
+600	to shut off & relax	3	0	0	72	16777215	236
+600	Deny them this opportunity and you're not only wasting energy...	5	0	0	72	16777215	241
+600	but you're resisting your own efforts	4	0	0	72	16777215	247
+600	So learn to push then relax...	4	0	0	72	16777215	253
+600	push then relax... push, relax	4	0	0	72	16777215	258
+600	Finally, the lower legs	4	0	0	72	16777215	264
+600	Do your best to let go of any tension in your calf muscles...	5	0	0	72	16777215	270
+600	your ankles & your feet	4	0	0	72	16777215	276
+600	This is actually quite important and key to a smooth pedalstroke...	5	0	0	72	16777215	282
+600	especially at high cadences	3	0	0	72	16777215	288
+900	Time to back things down a bit...	5	0	0	72	16777215	0
+900	at least in terms of your cadence ;-)	4	0	0	72	16777215	6
+900	Gradually slow down, shift a gear or two if necessary...	5	0	0	72	16777215	12
+900	and lower your spin to a seated climbing rate...	4	0	0	72	16777215	18
+900	in the neighborhood of 75-85rpm	4	0	0	72	16777215	23
+900	As you do this, make sure that your power remains on Target	5	0	0	72	16777215	29
+900	Particularly easy if you're on an electronic trainer in Erg mode...	5	0	0	72	16777215	36
+900	because all you have to do is slow down - no shifting required	5	0	0	72	16777215	42
+900	But if you're on a more traditional turbo/trainer...	5	0	0	72	16777215	49
+900	you'll probably have to give yourself an extra gear or two...	5	0	0	72	16777215	55
+900	in order to keep your power at 95% of your FTP	4	0	0	72	16777215	61
+900	Having settled into that slower spin for a couple minutes...	5	0	0	72	16777215	120
+900	it's important to recognize that climbing cadences...	4	0	0	72	16777215	126
+900	exert higher levels of stress on your joints	4	0	0	72	16777215	131
+900	This is of special interest to riders with joint issues...	5	0	0	72	16777215	137
+900	but to all riders in general	3	0	0	72	16777215	143
+900	Even riders with perfectly healthly knees need to exercise caution...	5	0	0	72	16777215	148
+900	because poor form during higher-force pedaling...	4	0	0	72	16777215	154
+900	can see to it that those healthy knees start to wear down...	5	0	0	72	16777215	159
+900	well before their time	3	0	0	72	16777215	163
+900	So as you pedal more slowly, watch how your knees "track"	5	0	0	72	16777215	168
+900	Ideally, they move straight up & straight down	5	0	0	72	16777215	175
+900	But if they have a bit of wobble, some lateral movement...	5	0	0	72	16777215	182
+900	do your best to limit this side-to-side motion	5	0	0	72	16777215	188
+900	Keep that slower spin for another minute...	5	0	0	72	16777215	240
+900	and do your best to stay relaxed...	4	0	0	72	16777215	246
+900	sit-bones anchored, knees tracking nicely	4	0	0	72	16777215	251
+1200	With this reduction in Target power...	5	0	0	72	16777215	0
+1200	and knees that aren't aggravated or aching...	5	0	0	72	16777215	6
+1200	bring your spin DOWN as much as 5rpm	5	0	0	72	16777215	12
+1200	But if at any point there's a hint of joint pain...	5	0	0	72	16777215	19
+1200	lift your cadence back to the point where there's none	5	0	0	72	16777215	25
+1200	2 minutes into this even slower climbing cadence...	5	0	0	72	16777215	120
+1200	and time to revisit your saddle position & knee tracking	5	0	0	72	16777215	126
+1200	Tilt your hips backward until you feel your sit-bones...	5	0	0	72	16777215	133
+1200	and then have a look at both of your knees...	5	0	0	72	16777215	139
+1200	each time they reach the highest point in your pedalstroke	5	0	0	72	16777215	145
+1200	Minimize or eliminate any side-to-side...	4	0	0	72	16777215	152
+1200	and feel even pressure on both of your sit-bones...	4	0	0	72	16777215	157
+1200	throughout the duration of each leg's pedalstrokes	4	0	0	72	16777215	162
+1200	Put another way...	3	0	0	72	16777215	168
+1200	avoid rocking your body as you pedal	3	0	0	72	16777215	172
+1200	Two more minutes of graceful, controlled...	4	0	0	72	16777215	180
+1200	slow-motion riding at a high percentage of your FTP	4	0	0	72	16777215	185
+1500	Time to shed any heaviness brought on by that slow cadence...	5	0	0	72	16777215	0
+1500	by returning your cadence to your usual spin rate	5	0	0	72	16777215	6
+1500	This assumes you're spinning above 85rpm	5	0	0	72	16777215	13
+1500	This is an ideal time to run from forehead to toes...	5	0	0	72	16777215	20
+1500	and get rid of any unnecessary tension	4	0	0	72	16777215	26
+1500	Actually start with your forehead...	4	0	0	72	16777215	32
+1500	and finish with your toes, for real	4	0	0	72	16777215	37
+1500	By the time you make it all the way down there...	4	0	0	72	16777215	43
+1500	see to it that you can wiggle them in your shoes	5	0	0	72	16777215	48
+1500	2 more minutes of easy sailing...	5	0	0	72	16777215	180
+1500	and then you'll face your harshest transition of the workout	5	0	0	72	16777215	186
+1500	But nothing TOO severe, still a bit below FTP	5	0	0	72	16777215	193
+1500	When the power jumps back up in a few seconds...	5	0	0	72	16777215	280
+1500	stay seated and treat this 5-minute stretch as a gentle grade...	5	0	0	72	16777215	286
+1500	or a mild climb that allows an 80-85rpm cadence	5	0	0	72	16777215	293
+1800	Find that cadence now...	3	0	0	72	16777215	0
+1800	and establish your breathing rhythm over the next minute	5	0	0	72	16777215	4
+1800	This time, you have the option of breaking things up...	5	0	0	72	16777215	60
+1800	with some more standing efforts...	3	0	0	72	16777215	66
+1800	but these will be short, high-cadence affairs...	4	0	0	72	16777215	70
+1800	where every 30 seconds you'll rise quickly...	4	0	0	72	16777215	75
+1800	and count out 10, quick pedalstrokes...	4	0	0	72	16777215	80
+1800	at your current, reasonably quick cadence	4	0	0	72	16777215	85
+1800	Come up! Count your right knee	4	0	0	72	16777215	90
+1800	As soon as you hit that tenth count...	4	0	0	72	16777215	96
+1800	return to the saddle and keep that same cadence	5	0	0	72	16777215	101
+1800	Get ready to rise again, same spin	4	0	0	72	16777215	114
+1800	Up! Count 10 on your left knee	4	0	0	72	16777215	120
+1800	Hit 10 and sit with no change in your cadence	5	0	0	72	16777215	126
+1800	If you can do this every 30 seconds, terrific...	4	0	0	72	16777215	133
+1800	but if your form falters or the fatigue ramps up too high...	5	0	0	72	16777215	138
+1800	cherrypick your standing efforts	3	0	0	72	16777215	144
+1800	Up! Count your right foot	4	0	0	72	16777215	150
+1800	Done just right...	3	0	0	72	16777215	160
+1800	you'll see very little change in your cadence...	5	0	0	72	16777215	164
+1800	regardless of your standing or seated position	4	0	0	72	16777215	170
+1800	Get ready to rise	2	0	0	72	16777215	176
+1800	Up again! Count your left foot	4	0	0	72	16777215	180
+1800	Up to 3 more of these, based on how well they're going	5	0	0	72	16777215	190
+1800	Only rise if you can do it gracefully, fluidly...	4	0	0	72	16777215	197
+1800	with power on Target, cadence near 85rpm	4	0	0	72	16777215	202
+1800	Come up, count your left heel pulling back	4	0	0	72	16777215	210
+1800	Get ready...	3	0	0	72	16777215	235
+1800	and come up, count your right heel	4	0	0	72	16777215	240
+1800	Excellent, only one left!	3	0	0	72	16777215	250
+1800	Last time, get ready	3	0	0	72	16777215	265
+1800	Come up, crank out 10 quick revolutions	4	0	0	72	16777215	270
+1800	Seated with a quick climbing cadence for 20 seconds	5	0	0	72	16777215	280
+2100	Settle back into your normal, flat-road cadence...	5	0	0	72	16777215	0
+2100	and try to level out your HR & breathing...	4	0	0	72	16777215	6
+2100	while your legs shed any burning buildup brought on by standing	5	0	0	72	16777215	11
+2100	Four minutes hanging right here...	5	0	0	72	16777215	60
+2100	with firmly grounded sit-bones...	4	0	0	72	16777215	66
+2100	a relaxed upper body...	3	0	0	72	16777215	71
+2100	quiet, stable hips...	3	0	0	72	16777215	75
+2100	and a calm, effortless looking riding style	4	0	0	72	16777215	79
+2100	One more tough stretch on the horizon...	5	0	0	72	16777215	285
+2100	but it's the last one spent really close to threshold	5	0	0	72	16777215	291
+2400	Imagine you just took a hard right turn...	5	0	0	72	16777215	0
+2400	into a WALL of a climb	3	0	0	72	16777215	6
+2400	Put yourself in the lowest gear you can muscle...	5	0	0	72	16777215	11
+2400	without any hint of joint pain...	4	0	0	72	16777215	17
+2400	and with power that strays very little from your Target	5	0	0	72	16777215	22
+2400	This cadence is one you'd use...	3	0	0	72	16777215	29
+2400	during slow-force efforts...	3	0	0	72	16777215	33
+2400	and typically range from 55-65rpm	4	0	0	72	16777215	37
+2400	Some riders can get away with slower spins...	4	0	0	72	16777215	43
+2400	but again...	3	0	0	72	16777215	48
+2400	this requires pain-free knees & on-Target power	5	0	0	72	16777215	52
+2400	3 more minutes of muscling...	4	0	0	72	16777215	120
+2400	up a climb so steep...	3	0	0	72	16777215	125
+2400	that you have no choice but to grind out a slow spin	5	0	0	72	16777215	129
+2400	Two minutes...	3	0	0	72	16777215	180
+2400	with power on Target...	3	0	0	72	16777215	184
+2400	the slowest cadence you can manage...	3	0	0	72	16777215	188
+2400	anchored sit-bones that don't rock...	3	0	0	72	16777215	192
+2400	and a relaxed upper body, but maybe one...	4	0	0	72	16777215	196
+2400	that includes a slightly firmer grip on the bars	5	0	0	72	16777215	201
+2400	Final minute...	3	0	0	72	16777215	240
+2400	of making it look easy...	3	0	0	72	16777215	244
+2400	even though you're turning a big gear	4	0	0	72	16777215	248
+2700	Well done, time to pick it back up...	5	0	0	72	16777215	0
+2700	and find a spin that's a little quicker than your usual one	5	0	0	72	16777215	6
+2700	Shoot for something that's around 5rpm higher...	5	0	0	72	16777215	13
+2700	than your typical, self-selected spin rate	4	0	0	72	16777215	19
+2700	Transitioning from such a slow, forceful spin...	5	0	0	72	16777215	25
+2700	to a much lighter, quicker spin...	4	0	0	72	16777215	31
+2700	can be a big challenge in terms of muscle control	5	0	0	72	16777215	36
+2700	But this ability to exploit a wide range of cadences...	5	0	0	72	16777215	43
+2700	is valuable regardless of the type of rider you are	5	0	0	72	16777215	49
+2700	So get that spin back up there...	4	0	0	72	16777215	56
+2700	and do it with the same relaxed form you've maintained so far	5	0	0	72	16777215	61
+2700	3 more minutes of quick legs...	5	0	0	72	16777215	120
+2700	and a relaxed upper body	3	0	0	72	16777215	126
+2700	Almost drape your upper body on your handlebars...	5	0	0	72	16777215	131
+2700	making sure to keep your sit-bones anchored...	5	0	0	72	16777215	137
+2700	and your midsection supportive & stable	5	0	0	72	16777215	143
+2700	Try to find your stability on the bike...	5	0	0	72	16777215	150
+2700	stemming through your midsection & hips...	5	0	0	72	16777215	156
+2700	rather than your hands & arms	3	0	0	72	16777215	162
+2700	Two minutes, quick & relaxed	5	0	0	72	16777215	180
+2700	Final minute, hold that steady speed...	5	0	0	72	16777215	240
+2700	but don't lift it	3	0	0	72	16777215	246
+2700	You'll get that opportunity during the next segment	5	0	0	72	16777215	251
+3000	Last stretch & relatively low watts required...	5	0	0	72	16777215	0
+3000	so let's compensate for this lack of power...	5	0	0	72	16777215	6
+3000	with one final bump up in leg speed	5	0	0	72	16777215	12
+3000	How quick is up to you...	3	0	0	72	16777215	19
+3000	but try to elevate it past the cadence used a minute ago	5	0	0	72	16777215	23
+3000	If you can control it & keep your power on Target...	5	0	0	72	16777215	60
+3000	lift your leg speed slightly	4	0	0	72	16777215	66
+3000	Same deal...	3	0	0	72	16777215	120
+3000	if you can keep from bouncing or looking sloppy...	4	0	0	72	16777215	124
+3000	and keep your power on Target...	3	0	0	72	16777215	129
+3000	spin slightly quicker	3	0	0	72	16777215	133
+3000	You know the deal, a little quicker...	4	0	0	72	16777215	180
+3000	if you can do it well with proper power	4	0	0	72	16777215	185
+3000	Final minute, quickest spin yet...	4	0	0	72	16777215	240
+3000	as long as everything else is on track	4	0	0	72	16777215	245
+3000	30 really quick, very fluid seconds!	5	0	0	72	16777215	270
+3300	Shut it down!	3	0	0	72	16777215	0
+3300	Very nicely done	3	0	0	72	16777215	5
+3300	Take a few easy minutes to warm down...	5	0	0	72	16777215	10
+3300	while giving some thought to your post-workout nutrition	5	0	0	72	16777215	16
+3300	Also consider your fatigue...	3	0	0	72	16777215	23
+3300	and if a full hour of VERY steady riding...	4	0	0	72	16777215	27
+3300	and some fairly demanding power output...	4	0	0	72	16777215	32
+3300	took its due toll on your legs...	3	0	0	72	16777215	37
+3300	try to take it easy for the next day or so	4	0	0	72	16777215	41
+3300	We'll see you next time	5	0	0	72	16777215	47
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+0	300	Endurance 1
+300	600	Endurance 2
+600	900	Sweet Spot 1
+900	1200	Sweet Spot 2
+1200	1500	Sweet Spot 3
+1500	1800	Endurance 3
+1800	2100	Sweet Spot 4
+2100	2400	Sweet Spot 5
+2400	2700	Sweet Spot 6
+2700	3000	Sweet Spot 7
+3000	3300	Endurance 4
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

@@ -1,0 +1,323 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = North Maggie,87,113. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	90
+10	100
+10	40
+14.8	40
+14.8	40
+15	96
+15	96
+20	96
+20	98
+21	98
+21	100
+22	100
+22	102
+23	102
+23	104
+24	104
+24	106
+25	106
+25	40
+29.8	40
+29.8	40
+30	94
+30	94
+35	94
+35	97
+36	97
+36	100
+37	100
+37	103
+38	103
+38	106
+39	106
+39	109
+40	109
+40	40
+44.8	40
+44.8	40
+45	92
+45	92
+50	92
+50	94
+50.5	94
+50.5	96
+51	96
+51	98
+51.5	98
+51.5	100
+52	100
+52	102
+52.5	102
+52.5	104
+53	104
+53	106
+53.5	106
+53.5	108
+54	108
+54	110
+54.5	110
+54.5	112
+55	112
+55	40
+59.8	40
+59.8	40
+60	96
+60	96
+65	96
+65	98
+66	98
+66	100
+67	100
+67	102
+68	102
+68	104
+69	104
+69	106
+70	106
+70	40
+74.8	40
+74.8	40
+75	94
+75	94
+80	94
+80	97
+81	97
+81	100
+82	100
+82	103
+83	103
+83	106
+84	106
+84	109
+85	109
+85	40
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to North Maggie	8	0	0	72	16777215	10
+0	You have five 10-minute Power-Step intervals ahead of you today	8	0	0	72	16777215	20
+0	Each 10-minute interval begins with 5 minutes between 92-96% FTP...	8	0	0	72	16777215	30
+0	followed immediately by 5 minutes of 2-3% FTP steps	8	0	0	72	16777215	40
+0	These steps will top out as high as 112% FTP	8	0	0	72	16777215	50
+0	This might sound grueling to repeat 5 times...	8	0	0	72	16777215	60
+0	but you have a reasonably lengthy 5 minutes of rest between intervals	8	0	0	72	16777215	70
+0	We'll continue warming up at an easy pace for about another 5 minutes...	8	0	0	72	16777215	80
+0	followed by a 4-minute clearing effort to get you primed & ready	8	0	0	72	16777215	90
+0	4-minute clearing ramp from 90-100% FTP	8	0	0	72	16777215	350
+360	Quick spin in the 85-95rpm range	8	0	0	72	16777215	0
+600	The upcoming intervals target 3 improvements...	8	0	0	72	16777215	30
+600	The first is muscular endurance...	8	0	0	72	16777215	40
+600	which will be challenged by the amount of time spent near Threshold...	8	0	0	72	16777215	50
+600	and will be especially taxed during the stepping portion of each interval	8	0	0	72	16777215	60
+600	The second target is muscular strength...	8	0	0	72	16777215	70
+600	which will be tested as a result of the increasing muscular demand...	8	0	0	72	16777215	80
+600	imposed by the incrementally-increasing steps	8	0	0	72	16777215	90
+600	Most riders' natural inclination will be to let their cadence fall...	8	0	0	72	16777215	220
+600	...as the steps increase in intensity	8	0	0	72	16777215	230
+600	The third goal is to improve upon your aerodynamic position	8	0	0	72	16777215	240
+600	It's one thing to be able to put out a lot of power...	8	0	0	72	16777215	250
+600	but it's another to be able to output that power in an aero position	8	0	0	72	16777215	260
+600	We'll save the aero work for after this first interval though	8	0	0	72	16777215	270
+888	Use this ramp to settle into a cadence between 85-95rpm	8	0	0	72	16777215	0
+900	This first 5 minutes will be spent at 96% FTP, but feel free to drop...	8	0	0	72	16777215	0
+900	the Workout Intensity by 5% if you're not sufficiently warm yet	8	0	0	72	16777215	10
+900	Once you've locked your cadence in, do your best to keep it steady	8	0	0	72	16777215	20
+900	This upcoming first set of steps is pretty mild...	8	0	0	72	16777215	270
+900	increasing at a rate of only 2% each minute	8	0	0	72	16777215	280
+900	The greatest challenge over the course of these mild but persistent increases...	8	0	0	72	16777215	290
+900	is to hold your cadence steady all the way to the top	8	0	0	72	16777215	300
+1200	Steady spin, 1 minute of slightly more work	8	0	0	72	16777215	0
+1260	Hold your spin, work just a little bit harder	8	0	0	72	16777215	0
+1320	JUST above FTP now, hold your spin steady	8	0	0	72	16777215	0
+1320	Ideally, you're still turning your legs over 85 times each minute...	8	0	0	72	16777215	10
+1320	closer to 95rpm if you can control your hips	8	0	0	72	16777215	20
+1380	Legs might load up a bit, but resist the urge to slow your spin...	8	0	0	72	16777215	0
+1380	because chances are, that will only work against you	8	0	0	72	16777215	10
+1440	Final minute, fight to keep your leg speed	8	0	0	72	16777215	0
+1500	That's one down, nice!	8	0	0	72	16777215	5
+1500	Next interval puts you at a steady 94% FTP for the first 5 minutes	8	0	0	72	16777215	255
+1500	During this first 5 minutes, try to hold your power as steady as possible...	8	0	0	72	16777215	265
+1500	and establish the cadence you'll hold throughout the upward steps	8	0	0	72	16777215	275
+1788	Establish the spin you'll try to hold, at least 85rpm...	8	0	0	72	16777215	0
+1800	and get as relaxed as possible while you're fresh	8	0	0	72	16777215	0
+1800	Then, as the workload increases & fatigue creeps into your muscles...	8	0	0	72	16777215	10
+1800	maintain this same smooth, relaxed form	8	0	0	72	16777215	20
+1800	Even though the next steps look more intense than the last set...	8	0	0	72	16777215	210
+1800	these ones only increase by 1% more last set's steps	8	0	0	72	16777215	220
+1800	To break things up a bit, let's spend every other step up in the aero position	8	0	0	72	16777215	230
+1800	On the 35-minute mark, get in either your drops or your aero bars	8	0	0	72	16777215	240
+1800	This will change the angle at which you're riding...	8	0	0	72	16777215	250
+1800	but it won't affect your ability to keep the pedals turning between 85-95rpm	8	0	0	72	16777215	260
+1800	Find that aero position now	5	0	0	72	16777215	290
+2100	1 minute in the drops or aero bars IF you can hold your cadence & power	8	0	0	72	16777215	0
+2100	Make sure your sit bones are the main point of contact with your saddle	8	0	0	72	16777215	10
+2160	And back out of the aero position, sit tall & comfortably	8	0	0	72	16777215	0
+2160	Get ready to return to aero...	5	0	0	72	16777215	50
+2220	3 minutes of supra-Threshold work left in the interval, get aero if you can	8	0	0	72	16777215	0
+2220	And it doesn't have to be "full" aero, you can simply soften your elbows a little	8	0	0	72	16777215	10
+2220	Just think of cutting a smaller hole in the wind...	8	0	0	72	16777215	20
+2220	how much smaller is entirely up to you	8	0	0	72	16777215	30
+2280	And back to a comfortable position, rekindle your cadence if it faded	8	0	0	72	16777215	0
+2340	Final minute of aero work!	5	0	0	72	16777215	0
+2340	Even though you're working just above FTP it may feel more difficult...	8	0	0	72	16777215	10
+2340	since you're turning the pedals in a lower position than usual	8	0	0	72	16777215	20
+2340	But stay tough, you're almost done!	8	0	0	72	16777215	30
+2340	10 seconds, don't back off even a little!	8	0	0	72	16777215	50
+2400	Way to work through the discomfort!	8	0	0	72	16777215	5
+2400	These intervals mimic the pain we so often experience on the road or trail...	8	0	0	72	16777215	15
+2400	whether it's in a race or competitive group ride	8	0	0	72	16777215	25
+2400	We're often tasked with already difficult efforts followed by...	8	0	0	72	16777215	35
+2400	more efforts of increasing intensity, and often they're not very big increases	8	0	0	72	16777215	45
+2400	The difference here is that you're well aware of what you're up against	8	0	0	72	16777215	55
+2400	This can be a good and a bad thing	8	0	0	72	16777215	65
+2400	It is a good thing in the sense that your work is very structured...	8	0	0	72	16777215	75
+2400	which means you're optimizing your training efficiency	8	0	0	72	16777215	85
+2400	The downside to knowing exactly what you're up against...	8	0	0	72	16777215	95
+2400	is that you can psych yourself out	8	0	0	72	16777215	105
+2400	But if you can learn to remain mentally strong indoors...	8	0	0	72	16777215	115
+2400	you'll be well-prepared to handle the spontaneity of outdoor rides & races	8	0	0	72	16777215	125
+2400	5 minutes at 92% FTP fast approaching	8	0	0	72	16777215	270
+2688	Settle into your 85-95rpm range as you ramp up...	8	0	0	72	16777215	0
+2700	into 5 minutes well below FTP	8	0	0	72	16777215	0
+2700	Make sure your sit bones are planted on the widest part of your saddle...	8	0	0	72	16777215	10
+2700	relax your shoulders, soften your elbows, loosen your grip	8	0	0	72	16777215	20
+2700	and settle into a slightly lower position than usual	6	0	0	72	16777215	30
+2700	30-second steps coming up	5	0	0	72	16777215	270
+2700	Each step will bring you up 2% FTP	8	0	0	72	16777215	280
+2700	If you can swing it, insert a couple aero steps here & there	8	0	0	72	16777215	290
+3000	Aero for 1 minute or until your form fails or watts drop	8	0	0	72	16777215	0
+3000	And do your best to keep the cadence between 85-95rpm	8	0	0	72	16777215	10
+3030	Keeping those watts on Target should be prioritized over aero positioning though	8	0	0	72	16777215	0
+3030	So come out of the aero position anytime your watts start to slip	8	0	0	72	16777215	10
+3030	Also, stay upright if you can't keep your cadence above 85rpm	8	0	0	72	16777215	20
+3060	Sit up for a minute, out of the aero position	8	0	0	72	16777215	0
+3090	We'll get aero again in about 10 seconds IF you can manage...	8	0	0	72	16777215	20
+3120	To keep your watts stable & spin above 85rpm	8	0	0	72	16777215	0
+3120	Get aero for another minute & make sure...	8	0	0	72	16777215	10
+3120	your indoor aero position is the same as your outdoor aero position	8	0	0	72	16777215	20
+3150	We want to avoid reinforcing a position that feels comfortable indoors...	8	0	0	72	16777215	0
+3150	...but isn't usable outdoors	5	0	0	72	16777215	10
+3180	And back out of the aero position, ride tall & breathe comfortably	8	0	0	72	16777215	0
+3210	Final minute of aero work coming up!	5	0	0	72	16777215	20
+3240	Decide to be tough, it really is a conscious decision	8	0	0	72	16777215	0
+3240	Do your best to not let yourself off the hook...	8	0	0	72	16777215	10
+3240	when it comes to proper form as your watts ratchet up	8	0	0	72	16777215	20
+3270	Final 30 seconds, you got this!	8	0	0	72	16777215	0
+3270	Just keep your cadence &  hold on for 20 seconds	8	0	0	72	16777215	10
+3270	Final 10 seconds, hang in there!	8	0	0	72	16777215	20
+3300	Good! That was the highest wattage you'll put out for the rest of the workout	8	0	0	72	16777215	0
+3300	Take full, deep breaths to bring that heart rate down...	8	0	0	72	16777215	10
+3300	and try to keep your cadence at least 80rpm	8	0	0	72	16777215	20
+3300	Start finding your cadence for the next round, 85-95rpm is recommended	8	0	0	72	16777215	270
+3300	Establish quick legs right from the start	8	0	0	72	16777215	280
+3588	Ramp into your fourth interval while staying relaxed	8	0	0	72	16777215	0
+3600	You may want to prioritize your goals as your fatigue grows	8	0	0	72	16777215	210
+3600	First, focus on maintaining proper form	8	0	0	72	16777215	220
+3600	Breaking bad habits later can be very difficult...	8	0	0	72	16777215	230
+3600	so it's best to never let your form slip when the workout gets tough	8	0	0	72	16777215	240
+3600	Second, focus on your watts	8	0	0	72	16777215	250
+3600	Make sure they're not fluctuating too much or simply dropping	8	0	0	72	16777215	260
+3600	If either is the case, consider a 10-second backpedal or a 5% reduction in Workout Intensity	8	0	0	72	16777215	270
+3600	Third, do your best to hold the aero position if you want to increase the challenge	8	0	0	72	16777215	280
+3600	But sit up & regain your composure if anything slips before a minute is up	8	0	0	72	16777215	290
+3900	Here we go! Make yourself just a little more aerodynamic for a minute	8	0	0	72	16777215	0
+3900	These steps are 1-minute long and bump up 2% FTP each time	8	0	0	72	16777215	10
+3960	Annnd back out out the aero position while maintaining your spin	8	0	0	72	16777215	0
+3960	Again, do your best to keep the cadence between 85-95rpm...	8	0	0	72	16777215	10
+3960	and consider skipping the aero drills if your cadence falls below 85rpm	8	0	0	72	16777215	20
+3960	Aero again in 10 seconds if you can swing it	8	0	0	72	16777215	50
+4020	Small changes in position can make big differences on the road	8	0	0	72	16777215	0
+4020	Even bringing your body slightly closer to your bike can save you some work...	8	0	0	72	16777215	10
+4020	or make you just a little bit faster for the same effort	8	0	0	72	16777215	20
+4020	So "aero" doesn't have to be severe - even small changes can make a difference	8	0	0	72	16777215	30
+4080	Come on up, out of the aero position	8	0	0	72	16777215	0
+4080	Final minute of the interval in 10 seconds, get aero if you're up to the task	8	0	0	72	16777215	50
+4140	If you get low, make sure you have room to breathe	8	0	0	72	16777215	0
+4140	Keep your sit bones glued to the saddle, and hollow out your abdomen	8	0	0	72	16777215	10
+4140	Create a deep breathing cavity so your belly can freely move	8	0	0	72	16777215	20
+4140	30 seconds! Sit up if necessary	5	0	0	72	16777215	30
+4140	20 seconds of keeping your cadence above 85rpm	8	0	0	72	16777215	40
+4140	Final 10, don't quit!	5	0	0	72	16777215	50
+4140	3...	1	0	0	72	16777215	57
+4140	2...	1	0	0	72	16777215	58
+4140	1...	1	0	0	72	16777215	59
+4200	Nicely done! Spin out the heaviness...	8	0	0	72	16777215	0
+4200	and feel free to backpedal for a minute or two if you'd like	8	0	0	72	16777215	10
+4200	Final round in about 15 seconds	5	0	0	72	16777215	270
+4488	Establish your spin, 85-95rpm range	8	0	0	72	16777215	0
+4500	Let's shift the aero work to the sustained section this time	8	0	0	72	16777215	0
+4500	When you feel up to it, ease down into your lower position...	8	0	0	72	16777215	10
+4500	and try to stay there for as much of this 5 minutes as you can	8	0	0	72	16777215	20
+4500	Briefly rise into an upright position for 20-30 seconds whenever you feel the need	8	0	0	72	16777215	30
+4800	1-minute steps with 3% jumps this time, stay steady	8	0	0	72	16777215	0
+4860	No need to get aero during this last set of steps...	8	0	0	72	16777215	0
+4860	unless you're feeling a bit under-challenged or just want some variety	8	0	0	72	16777215	10
+4920	Last of three, 1-minute steps but all your focus is right here...	8	0	0	72	16777215	0
+4920	on this minute ONLY	5	0	0	72	16777215	10
+4980	Next minute, don't let your cadence fall!	5	0	0	72	16777215	0
+5040	Final minute, make it so smooth it looks easy	8	0	0	72	16777215	0
+5040	Final 30 seconds, no bailing now!	8	0	0	72	16777215	30
+5040	20 seconds, don't let your spin slip!	8	0	0	72	16777215	40
+5040	Final 10, you got this!	5	0	0	72	16777215	50
+5100	Aaaand relax! Really well done	8	0	0	72	16777215	0
+5100	Cool down a bit and start thinking post-workout nutrition	8	0	0	72	16777215	10
+5100	And always feel free to insert some of the aero techniques from today	8	0	0	72	16777215	20
+5100	out on the road where it really counts	8	0	0	72	16777215	30
+5100	We'll see you next time	5	0	0	72	16777215	40
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+360	600	Sweet Spot 1
+900	1200	Threshold 1
+1200	1260	Threshold 2
+1260	1320	Threshold 3
+1320	1380	Threshold 4
+1380	1440	Threshold 5
+1440	1500	VO2 Max 1
+1800	2100	Sweet Spot 2
+2100	2160	Threshold 6
+2160	2220	Threshold 7
+2220	2280	Threshold 8
+2280	2340	VO2 Max 2
+2340	2400	VO2 Max 3
+2700	3000	Sweet Spot 3
+3000	3030	Sweet Spot 4
+3030	3060	Threshold 9
+3060	3090	Threshold 10
+3090	3120	Threshold 11
+3120	3150	Threshold 12
+3150	3180	Threshold 13
+3180	3210	VO2 Max 4
+3210	3240	VO2 Max 5
+3240	3270	VO2 Max 6
+3270	3300	VO2 Max 7
+3600	3900	Threshold 14
+3900	3960	Threshold 15
+3960	4020	Threshold 16
+4020	4080	Threshold 17
+4080	4140	Threshold 18
+4140	4200	VO2 Max 8
+4500	4800	Sweet Spot 5
+4800	4860	Threshold 19
+4860	4920	Threshold 20
+4920	4980	Threshold 21
+4980	5040	VO2 Max 9
+5040	5100	VO2 Max 10
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

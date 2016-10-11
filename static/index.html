@@ -1,0 +1,197 @@
+<!doctype html>
+<html ng-app="mainModule" ng-controller="mainCtrl">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <title>Training Hills</title>
+  <link href="static/css/bootstrap.min.css" rel="stylesheet" />
+  <!-- <link href="static/css/fonts.css" rel="stylesheet" /> -->
+  <link href="static/css/custom.css" rel="stylesheet" />
+  <link href="static/css/loading-bar.min.css" rel="stylesheet" />
+  <link href="static/css/toaster.min.css" rel="stylesheet" />
+  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+      <![endif]-->
+</head>
+
+<body>
+  <div class="clearfix"></div>
+
+  <div id="main">
+    <div class="row">
+
+      <div class="col-sm-5">
+        Plan Seçiniz
+        <select class="form-control" id="selectedPlanID" ng-model="selectedPlanID" ng-change="getPlanDetail()">
+          <option ng-repeat="p in plans" value="{{p.PlanID}}">{{p.PlanName}}</option>
+        </select>
+      </div>
+
+
+        <div class="col-sm-2">
+          İlk hafta başlangıcı :
+          <input type="date" class="form-control" ng-model="scheduleStart" ng-change="buildCalendar()" style="width:150px"></input>
+        </div>
+
+
+      <div class="col-sm-2">
+        FTP :
+        <input type="text" class="form-control" ng-model="myFTP" ng-change="buildCalendar()" ></input>
+      </div>
+
+      <div class="col-sm-2">
+        <br>
+        <button class="btn btn-danger" ng-click="downloadCalendarClicked()">Takvimi indir</button>
+
+      </div>
+
+
+    </div>
+    <br/>
+
+    <br/>
+
+    <div class="row">
+
+      <div class="col-sm-12">
+        <table class="table">
+
+          <tr>
+            <th width="7%">Hafta</th>
+            <th width="13%">Pazartesi</th>
+            <th width="13%">Salı</th>
+            <th width="13%">Çarşamba</th>
+            <th width="13%">Perşembe</th>
+            <th width="13%">Cuma</th>
+            <th width="13%">Cumartesi</th>
+            <th width="13%">Pazar</th>
+          </tr>
+
+          <tr ng-repeat="c in calendar">
+
+            <td>{{$index + 1}} <br>
+              tTSS: {{(c[0].TSS + c[1].TSS+ c[2].TSS+ c[3].TSS+ c[4].TSS+ c[5].TSS+ c[6].TSS)}} <br>
+              {{(c[0].Duration + c[1].Duration+ c[2].Duration+ c[3].Duration+ c[4].Duration+ c[5].Duration+ c[6].Duration)  | fixMinute}}
+            </td>
+            <!--td ng-repeat="i in [0,1,2,3,4,5,6]" ng-bind-html="c[i].CalendarHtml"-->
+            <td ng-repeat="i in [0,1,2,3,4,5,6]">
+              <span ng-if="c[i].Name">
+                   {{ c[i].targetDate | date : 'dd.MM.yyyy'}} <br> {{c[i].Name}} <br>TSS: {{c[i].TSS}}, Süre: {{c[i].Duration}}'<br>
+                    <a href="#"  ng-click="showWorkoutDetail(c[i].WorkoutFileID)">Detaylar</a>
+                    <br>
+                </span>
+            </td>
+
+          </tr>
+        </table>
+
+
+      </div>
+    </div>
+  </div>
+
+
+
+  <div class="modal fade" id="workoutdetail" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="mymodal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+          <h4 class="modal-title">{{selectedWorkout.details.Name}}</h4>
+        </div>
+
+        <div class="modal-body">
+          <div class="well">
+            <div class="row">
+              <div class="col-sm-12 small" ng-bind-html="selectedWorkout.details.Description">
+              </div>
+
+
+            </div>
+            <div class="row">
+              <div class="col-sm-12">
+                <a href="#" ng-click="workoutdetailViewMode = 1">Interval'ler</a> | <a href="#" ng-click="workoutdetailViewMode = 2">Açıklama</a>
+              </div>
+            </div>
+<br>
+            <div class="row">
+
+              <table class="table small table-striped table-condensed table-hover" ng-show="workoutdetailViewMode == 1">
+
+                <tr>
+                  <th width="10%">#</th>
+                  <th width="25%">Zaman</th>
+                  <th width="25%">Süre'</th>
+                  <th width="25%">Hedef FTP%</th>
+                  <th width="20%">Hedef W</th>
+                </tr>
+
+                <tr ng-repeat="w in selectedWorkout.steps">
+                  <td>{{$index + 1}}</td>
+                  <td>{{w.beginTime | fixMinute}} - {{w.endTime | fixMinute}} </td>
+                  <td>{{w.duration / 60 | fixMinute}}</td>
+                  <td>{{w.percOfFTP}}</td>
+                  <td>{{(myFTP * w.percOfFTP / 100) -7 | number : 0 }} - {{(myFTP * w.percOfFTP / 100) + 7 | number : 0}}</td>
+                </tr>
+              </table>
+
+
+              <div class="row" ng-show="workoutdetailViewMode == 1">
+                <div class="col-xs-1">
+                  FTP W
+                </div>
+                <div class="col-xs-11">
+                  <input type="text" class="form-control" ng-model="myFTP"></input>
+                </div>
+              </div>
+            </div>
+
+          </div>
+
+
+          <div class="well" ng-show="workoutdetailViewMode == 2" ng-bind-html="selectedWorkout.details.Goals"></div>
+        </div>
+
+        <div class="modal-footer">
+          <div class="pull-right">
+
+            <button class="btn btn-primary" ng-click="downloadButtonClicked(selectedWorkout.WorkoutFileID)">Download</button>
+            <button class="btn btn-info" ng-click="" data-dismiss="modal">Tamam</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+  <script src="static/lib/jquery.js"></script>
+  <script src="static/lib/jquery-ui.js"></script>
+  <script src="static/lib/angular.min.js"></script>
+  <script src="static/lib/angular-animate.min.js"></script>
+  <script src="static/lib/angular-sanitize.min.js"></script>
+  <script src="static/lib/angular-locale_tr.js"></script>
+  <script src="static/lib/bootstrap.min.js"></script>
+  <script src="static/lib/ui-bootstrap-tpls.min.js"></script>
+  <script src="static/lib/highcharts.src.js"></script>
+  <script src="static/lib/highcharts-more.js"></script>
+  <script src="static/lib/highcharts-data.js"></script>
+  <script src="static/lib/highcharts-exporting.js"></script>
+  <script src="static/lib/solid-gauge.js"></script>
+  <script src="static/lib/loading-bar.min.js"></script>
+  <script src="static/lib/toaster.min.js"></script>
+
+  <script src="static/js/app.js"></script>
+  <script src="static/js/controllers/mainCtrl.js"></script>
+
+</body>
+
+</html>

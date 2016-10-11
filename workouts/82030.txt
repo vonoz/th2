@@ -1,0 +1,196 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Huxley TC,97,47. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+2	60
+2	95
+3.5	95
+3.5	40
+4.5	40
+4.5	150
+4.75	150
+4.75	40
+5.25	40
+5.25	180
+5.5	180
+5.5	40
+7.5	40
+7.5	95
+9.5	95
+9.5	135
+10	135
+10	40
+10.75	40
+10.75	100
+12.25	100
+12.25	125
+13.5	125
+13.5	40
+14.25	40
+14.25	105
+15.25	105
+15.25	150
+15.5	150
+15.5	115
+16.5	115
+16.5	181
+16.75	181
+16.75	40
+19.75	40
+19.75	95
+21.75	95
+21.75	135
+22.25	135
+22.25	40
+23	40
+23	100
+24.5	100
+24.5	125
+25.75	125
+25.75	40
+26.5	40
+26.5	105
+27.5	105
+27.5	150
+27.75	150
+27.75	115
+28.75	115
+28.75	181
+29	181
+29	40
+30	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	If you've ever ridden with a really fast group...	8	0	0	72	16777215	10
+0	or a fast and well experienced pack in a criterium...	8	0	0	72	16777215	20
+0	then this workout will be painfully familiar!	8	0	0	72	16777215	30
+0	Attack & Recover intervals (A&Rs) build truly functional cycling fitness...	8	0	0	72	16777215	40
+0	making you fast when it counts	5	0	0	72	16777215	50
+0	Having big power is near useless in a group ride or race...	8	0	0	72	16777215	60
+0	if you can't put that power down repeatedly & authoritatively	8	0	0	72	16777215	70
+0	So today's workout aims to make you fast & dynamic, all at once	8	0	0	72	16777215	80
+0	But for now, let's get you warmed up	5	0	0	72	16777215	90
+120	Go ahead and ramp things up, 85rpm or higher	8	0	0	72	16777215	0
+210	Ease off the gas but keep your legs moving fairly quickly	8	0	0	72	16777215	0
+210	These are aimed at engaging rarely used muscle fibers...	8	0	0	72	16777215	20
+210	Up next, a few high-intensity clearing efforts	8	0	0	72	16777215	30
+210	Keep your cadence quick & your breathing controlled	8	0	0	72	16777215	40
+210	thereby increasing your muscle activity for the work ahead	8	0	0	72	16777215	50
+270	Hit this one hard, lots of leg speed!	5	0	0	72	16777215	0
+285	Keep spinning & slow your breathing	5	0	0	72	16777215	0
+315	Short and strong, go fast!	5	0	0	72	16777215	0
+330	Great job! Now spin those legs out & breathe easy	8	0	0	72	16777215	0
+330	Keep things light & quick and let's look at our first set	8	0	0	72	16777215	10
+330	These intervals will come fast & strong...	8	0	0	72	16777215	20
+330	with only 30-second recoveries between intervals	8	0	0	72	16777215	30
+330	Each interval brings you close to your FTP, similar to building towards a sprint	8	0	0	72	16777215	40
+330	Then an "attack" effort will put you at 125-180% FTP for a brief but demanding 15-30 seconds	8	0	0	72	16777215	50
+330	These sprints can be done seated or standing, so feel free to mix them up	8	0	0	72	16777215	60
+330	It's important to keep a fast cadence and stay loose & relaxed	8	0	0	72	16777215	70
+330	This will help you save some fuel for the last, vicious interval in each set	8	0	0	72	16777215	80
+330	Between each set, do everything you can to relax & recover	8	0	0	72	16777215	90
+330	Breathe deeply and get relaxed ASAP, even backpedal for 5 seconds if you need to...	8	0	0	72	16777215	100
+330	just do whatever it takes to recover in time to go again	8	0	0	72	16777215	110
+450	And here we go, best of luck ;-)	5	0	0	72	16777215	0
+450	Find a good cadence around 90rpm and settle in	8	0	0	72	16777215	10
+450	Get ready, first of many attacks coming up	5	0	0	72	16777215	110
+570	30 seconds, lots of power!	5	0	0	72	16777215	0
+600	Great! Now breathe easy and spin lightly	5	0	0	72	16777215	0
+645	Let's go! 90 seconds of steady, smooth power	5	0	0	72	16777215	0
+645	A little longer, but a little less intense this time	5	0	0	72	16777215	80
+735	Hit it harder, 75 seconds!	5	0	0	72	16777215	0
+810	Good! Recover, recover, recover	5	0	0	72	16777215	0
+855	Lte's do it again, keep those legs quick	5	0	0	72	16777215	0
+855	Tricky attack coming up - spin fast, stay calm	8	0	0	72	16777215	50
+915	Drill it!	3	0	0	72	16777215	0
+930	Good! Keep your cadence high - this is manageable	5	0	0	72	16777215	0
+990	Big attack! Lots of speed & power!	5	0	0	72	16777215	0
+1005	Cool as a cucumber, well done	5	0	0	72	16777215	0
+1005	Just one left now, so let's drum up an interesting scenario	8	0	0	72	16777215	10
+1005	Whether at a sprint point, KOM, finish line or positioning in a field...	8	0	0	72	16777215	20
+1005	riders are bound to make attacks, even in group rides	8	0	0	72	16777215	30
+1005	If a counterattack doesn't directly follow an attack...	8	0	0	72	16777215	40
+1005	you can typically expect a short reduction in pace	8	0	0	72	16777215	50
+1005	But when things get slow, an attack should be expected	8	0	0	72	16777215	60
+1005	Matching or launching these attacks in repeated fashion...	8	0	0	72	16777215	70
+1005	builds your ability to recover while still doing a bit of work	8	0	0	72	16777215	80
+1005	This is a key component of aerobic power - repeatability	8	0	0	72	16777215	90
+1005	So in the scenario laid out for this final set...	8	0	0	72	16777215	100
+1005	we've got a short but intense attack followed by a quick recovery...	8	0	0	72	16777215	110
+1005	and then a strong increase in pace with a longer but less intense attack	8	0	0	72	16777215	120
+1005	After chasing this down, you've got the tricky third interval...	8	0	0	72	16777215	130
+1005	where you mark and discourage the first attack...	8	0	0	72	16777215	140
+1005	and then stick with the pack to launch an attack of your own!	8	0	0	72	16777215	150
+1005	So during this set, entertain yourself by visualizing this scenario	8	0	0	72	16777215	160
+1005	Time to roll, make sure you're spinning quickly & ready to work	8	0	0	72	16777215	170
+1185	Bring it up to match the pack's pace, spinning lightly & quickly	8	0	0	72	16777215	0
+1185	Things are a little too slow...	5	0	0	72	16777215	133
+1185	so use your peripheral vision to watch for attacks	8	0	0	72	16777215	140
+1305	There it goes!	3	0	0	72	16777215	0
+1305	You've got this one, reel 'em in	5	0	0	72	16777215	20
+1335	Good! No way that one was getting away	5	0	0	72	16777215	0
+1380	Looks like somebody else wants to give it a shot...	8	0	0	72	16777215	0
+1380	and this rider's got a few teammates along, uh oh	8	0	0	72	16777215	10
+1380	Mark the rider hanging onto the back of their wheels	8	0	0	72	16777215	20
+1380	Hmm, still nothing...	5	0	0	72	16777215	40
+1380	but there's a little hill coming up, something's bound to happen	8	0	0	72	16777215	50
+1380	Hold that wheel and be ready for something aggressive	8	0	0	72	16777215	60
+1380	Hill is almost here, stay on that wheel...	8	0	0	72	16777215	70
+1380	and match that pace so no one can break after the hill	8	0	0	72	16777215	80
+1470	The attack came early, chase it down!	5	0	0	72	16777215	0
+1470	Almost on that wheel, don't back off!	5	0	0	72	16777215	55
+1470	Got it! Now stay on that wheel	5	0	0	72	16777215	65
+1545	Nice! This one doesn't want to take you to the line...	8	0	0	72	16777215	0
+1545	after you shut things down so effectively ;-)	5	0	0	72	16777215	10
+1545	The pack has almost caught back up to you guys now...	5	0	0	72	16777215	38
+1590	so it's time to get back on it, settle in but stay towards the front	8	0	0	72	16777215	0
+1590	Looks like we have a few new faces on the front	8	0	0	72	16777215	10
+1590	Take a look around and evaluate the newcomers	8	0	0	72	16777215	20
+1590	You've got a lot of threats up here now, fresh ones too...	8	0	0	72	16777215	40
+1590	so keep the pace high and stay vigilant	5	0	0	72	16777215	50
+1650	There goes a really organized attack!	5	0	0	72	16777215	0
+1665	Looks like this team's sprinter didn't have the legs...	8	0	0	72	16777215	0
+1665	so don't let the pace drop or their sprinter might come back	8	0	0	72	16777215	10
+1665	This pace is hurting them so get ready to launch!	8	0	0	72	16777215	55
+1665	They're starting to drop like flies, get ready!	5	0	0	72	16777215	68
+1725	Everything you've got!	3	0	0	72	16777215	0
+1740	Nice work! And pretty fun too, yeah?	8	0	0	72	16777215	0
+1740	Strong, controlled breaths, try to corral that breathing...	8	0	0	72	16777215	10
+1740	and spin lightly while you do it	5	0	0	72	16777215	20
+1740	Time for some recovery nutrition, plenty of fluid, bit of rest	8	0	0	72	16777215	30
+1740	We'll see you next time	5	0	0	72	16777215	40
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	1800	Workout
+120	210	Sweet Spot 1
+270	285	Sprint 1
+315	330	Sprint 2
+450	570	Sweet Spot 2
+570	600	Sprint 3
+645	735	Threshold 1
+735	810	Anaerobic Capacity 1
+855	915	Threshold 2
+915	930	Sprint 4
+930	990	VO2 Max 1
+990	1005	Sprint 5
+1185	1305	Sweet Spot 3
+1305	1335	Sprint 6
+1380	1470	Threshold 3
+1470	1545	Anaerobic Capacity 2
+1590	1650	Threshold 4
+1650	1665	Sprint 7
+1665	1725	VO2 Max 2
+1725	1740	Sprint 8
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

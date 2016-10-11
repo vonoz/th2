@@ -1,0 +1,206 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Pickering,91,82. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	95
+6	95
+6	38
+10	38
+10	100
+15	100
+15	90
+15.5	90
+15.5	100
+20	100
+20	90
+20.5	90
+20.5	100
+25	100
+25	90
+25.5	90
+25.5	100
+30	100
+30	40
+35	40
+35	100
+39	100
+39	40
+40	40
+40	100
+44	100
+44	40
+45	40
+45	100
+49	100
+49	40
+50	40
+50	100
+54	100
+54	40
+55	40
+55	100
+59	100
+59	40
+60	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Pickering!	8	0	0	72	16777215	10
+0	Today's workout consists of a 20-minute effort...	8	0	0	72	16777215	20
+0	followed by five 4-minute intervals with 1 minute of rest between them	8	0	0	72	16777215	30
+0	All said and done, we'll be spending a total of about 40 minutes...	8	0	0	72	16777215	50
+0	right at Threshold power!	5	0	0	72	16777215	60
+0	The goal of today's workout is to increase both time spent at FTP...	8	0	0	72	16777215	70
+0	as well as your FTP itself	5	0	0	72	16777215	80
+0	2-minute clearing effort coming up in about 30 seconds...	8	0	0	72	16777215	210
+0	so start to work your cadence into the 85-95rpm range	8	0	0	72	16777215	220
+240	2 minutes at 95% FTP, find your cadence & pedal smoothly	8	0	0	72	16777215	0
+240	Don't worry if this early effort doesn't feel great...	8	0	0	72	16777215	10
+240	because you're still warming up	8	0	0	72	16777215	20
+360	Let's talk a bit about the 20-minute interval ahead...	8	0	0	72	16777215	0
+360	while you continue warming for another 4 minutes	8	0	0	72	16777215	10
+360	20-minutes at FTP may sound pretty daunting...	8	0	0	72	16777215	20
+360	but keep in mind that you can theoretically hold your FTP for an entire hour	8	0	0	72	16777215	30
+360	Additionally, you'll get a few 30-second intervals of respite during this 20 minutes	8	0	0	72	16777215	40
+360	Each 30-second rest period is at 90% FTP...	8	0	0	72	16777215	50
+360	so it won't exactly be satisfying rest...	8	0	0	72	16777215	60
+360	but will allow you ease up just enough...	8	0	0	72	16777215	70
+360	to psychologically handle the rest of the interval	8	0	0	72	16777215	80
+360	We'll get started in about 30 seconds...	8	0	0	72	16777215	210
+360	where you'll again shoot for a cadence between 85-95rpm	8	0	0	72	16777215	220
+600	And we're off! Break this interval into 5-minute sections	8	0	0	72	16777215	0
+600	Halfway through the first 5-minute section	8	0	0	72	16777215	150
+600	Check your position on the saddle	8	0	0	72	16777215	160
+600	Are your sit bones properly positioned on your saddle wings?	8	0	0	72	16777215	170
+600	Is your upper body relaxed? Shoulders down low with no tension?	8	0	0	72	16777215	180
+600	Make sure you're not carrying any tension there by letting them drop	8	0	0	72	16777215	190
+600	First break coming up, keep your spin steady	8	0	0	72	16777215	270
+900	Just a slight reduction in watts for the next 30 seconds	8	0	0	72	16777215	0
+900	Hold your spin steady & try to slow your breathing a bit	8	0	0	72	16777215	10
+930	And back up to 100% FTP	8	0	0	72	16777215	0
+930	Make sure you're spinning as efficiently as possible	8	0	0	72	16777215	10
+930	Try to let go of any tension in your calves & feet	8	0	0	72	16777215	20
+930	Now, focus on "kicking" over the top of your pedalstroke	8	0	0	72	16777215	60
+930	Lead the stroke with just a light kick of your toes	8	0	0	72	16777215	70
+930	Now, focus on pulling through the bottom of your stroke	8	0	0	72	16777215	90
+930	Almost as though you're scraping mud of the bottoms of your shoes...	8	0	0	72	16777215	100
+930	pull through the bottom of each pedalstroke with your hamstrings	8	0	0	72	16777215	110
+930	Finally, focus on the upstroke of your pedalstroke, knees toward the sky	8	0	0	72	16777215	140
+930	And make sure your knees are not wobbling about at the top of each pedalstroke	8	0	0	72	16777215	150
+1200	If your watts and/or cadence are dropping significantly...	8	0	0	72	16777215	0
+1200	take 10-20 seconds to backpedal during this 30 seconds...	8	0	0	72	16777215	10
+1200	but only if you NEED the break; otherwise, keep spinning	8	0	0	72	16777215	20
+1230	And we're back at it!	5	0	0	72	16777215	0
+1230	If you can, spend some time in your drops/aero position...	8	0	0	72	16777215	10
+1230	during the next 5 minutes	5	0	0	72	16777215	20
+1230	When you're in this lower, more aerodynamic position...	8	0	0	72	16777215	30
+1230	make sure you continue to maintain a well-formed pedalstroke	8	0	0	72	16777215	40
+1230	Spend as much time as you can in the aero position...	8	0	0	72	16777215	150
+1230	but feel free to sit up if you feel your form starting to fail...	8	0	0	72	16777215	160
+1230	...or if your cadence or watts are dropping off	8	0	0	72	16777215	170
+1500	Good job, go ahead and sit back up	8	0	0	72	16777215	0
+1530	Final 5-minute section!	5	0	0	72	16777215	0
+1530	Again, see how much time you can spend in the aero position...	8	0	0	72	16777215	10
+1530	as long as it doesn't compromise your form, cadence or power	8	0	0	72	16777215	20
+1800	Great job! Enjoy 5 minutes of proper recovery	8	0	0	72	16777215	0
+1800	We basically have another 20-minute effort at Threshold ahead...	8	0	0	72	16777215	240
+1800	but this effort is broken into more manageable 4-minute intervals	8	0	0	72	16777215	250
+1800	Each is followed by a full minute of proper rest	8	0	0	72	16777215	260
+1800	As per usual, try to keep your cadence in the 85-95rpm range	8	0	0	72	16777215	270
+2100	Here we go! 4 minutes up at full Threshold power	8	0	0	72	16777215	0
+2100	If you find yourself taking breaks inside of each 4-minute interval...	8	0	0	72	16777215	120
+2100	drop the Workout Intensity 3-5% and hang on for 4 minutes at a stretch	8	0	0	72	16777215	130
+2340	1 easy minute, get that breathing under control as soon as you can	8	0	0	72	16777215	0
+2340	How did that first interval go?	5	0	0	72	16777215	10
+2340	Were you able to hang on?	5	0	0	72	16777215	17
+2340	If so, let's try a bit of standing work during the next interval	8	0	0	72	16777215	24
+2340	Sustaining your Functional Threshold Power (FTP) is one thing...	8	0	0	72	16777215	40
+2340	but standing at FTP is very much another	8	0	0	72	16777215	50
+2400	Take the first minute to adjust to the workload while seated	8	0	0	72	16777215	0
+2400	We'll stand for up to 30 seconds on the 41-minute mark	8	0	0	72	16777215	10
+2400	Get ready to stand, probably slow your cadence a bit	8	0	0	72	16777215	40
+2400	Make sure your transition out of the saddle is smooth	8	0	0	72	16777215	50
+2400	And up! Sit down if you start to feel your form failing	8	0	0	72	16777215	60
+2400	If you haven't already done so, sit back down	8	0	0	72	16777215	90
+2400	We'll stand again in about 20 seconds	8	0	0	72	16777215	100
+2400	Get ready...	3	0	0	72	16777215	115
+2400	Come on up!	5	0	0	72	16777215	120
+2400	Make sure you're light on your handlebars...	8	0	0	72	16777215	130
+2400	and you're not lumbering from side to side	8	0	0	72	16777215	140
+2400	Annnnd back down	5	0	0	72	16777215	150
+2400	Standing again in 10 seconds, slow your spin a bit	8	0	0	72	16777215	170
+2400	Up!	3	0	0	72	16777215	180
+2400	If you lose your good form, if you FEEL sloppy at all...	8	0	0	72	16777215	190
+2400	sit down early, no sense in practicing bad form	8	0	0	72	16777215	200
+2400	And back down for the rest of the interval, 85-95rpm	8	0	0	72	16777215	210
+2640	Good job! Take it easy for a minute	8	0	0	72	16777215	0
+2640	We'll do the next interval all in the saddle	8	0	0	72	16777215	10
+2700	Feel free to play around with your position in the saddle	8	0	0	72	16777215	0
+2700	Try something called "saddle shifting"	8	0	0	72	16777215	10
+2700	Make sure your sit bones are properly anchored on the wings of your saddle...	8	0	0	72	16777215	20
+2700	then slide (don't lean) forward on the saddle to create more power	8	0	0	72	16777215	30
+2700	This will put you in a more direct position over the pedals...	8	0	0	72	16777215	40
+2700	which effectively puts you in a slightly more powerful position	8	0	0	72	16777215	50
+2700	While you won't actually be trying for more power today...	8	0	0	72	16777215	60
+2700	you can shift back & forth between this position & your normal position...	8	0	0	72	16777215	70
+2700	in order to feel the difference between the two positions	8	0	0	72	16777215	80
+2940	1 easy minute! Try to keep spinning forward...	8	0	0	72	16777215	0
+2940	but backpedal for 20-30 seconds if you need to	8	0	0	72	16777215	10
+2940	We'll spend some more time out of the saddle during the next interval	8	0	0	72	16777215	30
+3000	Take the first minute to settle in while seated	8	0	0	72	16777215	0
+3000	We'll stand for up to 30 seconds on the 51-minute mark	8	0	0	72	16777215	10
+3000	Get ready to stand, slow your spin a bit	8	0	0	72	16777215	40
+3000	Make sure your transition out of the saddle is smooth	8	0	0	72	16777215	50
+3000	And up! Sit early if your form fails	8	0	0	72	16777215	60
+3000	If you haven't already, sit back down	8	0	0	72	16777215	90
+3000	We'll stand again in about 20 seconds	8	0	0	72	16777215	100
+3000	Get ready...	3	0	0	72	16777215	115
+3000	And up!	8	0	0	72	16777215	120
+3000	Make sure you're light on your handlebars, on your hands	2	0	0	72	16777215	130
+3000	And you're not lumbering from side to side	8	0	0	72	16777215	140
+3000	And back down	5	0	0	72	16777215	150
+3000	Standing again in 10 seconds, adjust your spin	8	0	0	72	16777215	170
+3000	Up!	3	0	0	72	16777215	180
+3000	If you feel your form slipping at all...	8	0	0	72	16777215	190
+3000	sit down early & keep your spin quick & light	8	0	0	72	16777215	200
+3000	And have a seat for the rest of the interval	8	0	0	72	16777215	210
+3240	Well done! Spin out the heaviness	8	0	0	72	16777215	0
+3300	Final 4-minute interval! 85-95rpm	8	0	0	72	16777215	0
+3300	Do your best to work on some more out-of-the-saddle drills...	8	0	0	72	16777215	10
+3300	and even some saddle shifting to break up this last stretch	8	0	0	72	16777215	20
+3300	Just 2 minutes to go, keep it together...	8	0	0	72	16777215	120
+3300	by riding smoothly & in a relaxed manner	8	0	0	72	16777215	130
+3300	Final minute, no falling apart now! ;-)	8	0	0	72	16777215	180
+3540	Very well done! You just accumulated 40 minutes right at FTP	8	0	0	72	16777215	0
+3540	Make sure you continue to cool down for a couple of minutes...	8	0	0	72	16777215	10
+3540	and start planning your recovery nutrition	8	0	0	72	16777215	20
+3540	We'll see you next time	8	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+240	360	Sweet Spot 1
+600	900	Threshold 1
+900	930	Sweet Spot 2
+930	1200	Threshold 2
+1200	1230	Sweet Spot 3
+1230	1500	Threshold 3
+1500	1530	Sweet Spot 4
+1530	1800	Threshold 4
+2100	2340	Threshold 5
+2400	2640	Threshold 6
+2700	2940	Threshold 7
+3000	3240	Threshold 8
+3300	3540	Threshold 9
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

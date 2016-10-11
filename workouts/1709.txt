@@ -1,0 +1,359 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Black Giant,82,67. Created by 44401.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	50
+8	80
+8	80
+10	80
+10	120
+10.3	120
+10.3	80
+11.5	80
+11.5	120
+11.8	120
+11.8	80
+13	80
+13	120
+13.3	120
+13.3	80
+14.5	80
+14.5	120
+14.8	120
+14.8	80
+16	80
+16	120
+16.3	120
+16.3	80
+17.5	80
+17.5	120
+17.8	120
+17.8	60
+20.8	60
+20.8	130
+21.1	130
+21.1	71
+22	71
+22	130
+22.3	130
+22.3	70
+23.2	70
+23.2	130
+23.5	130
+23.5	70
+24.4	70
+24.4	130
+24.7	130
+24.7	70
+25.6	70
+25.6	130
+25.9	130
+25.9	70
+26.8	70
+26.8	130
+27.1	130
+27.1	60
+30.1	60
+30.1	140
+30.5	140
+30.5	50
+31.7	50
+31.7	140
+32.1	140
+32.1	50
+33.3	50
+33.3	140
+33.7	140
+33.7	50
+34.9	50
+34.9	140
+35.3	140
+35.3	50
+36.5	50
+36.5	140
+36.9	140
+36.9	50
+39.9	50
+39.9	150
+40.3	150
+40.3	70
+41.9	70
+41.9	152
+42.3	152
+42.3	70
+43.9	70
+43.9	150
+44.3	150
+44.3	60
+45.9	60
+45.9	150
+46.3	150
+46.3	60
+47.9	60
+47.9	150
+48.3	150
+48.3	50
+49.9	50
+49.9	150
+50.3	150
+50.3	50
+51.9	50
+51.9	150
+52.3	150
+52.3	50
+53.9	50
+53.9	150
+54.3	150
+54.3	41
+60	41
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Black Giant is comprised of 4 sets of Anaerobic power repeats	8	0	0	72	16777215	10
+0	Each set of repeats ranges from 120-150% FTP	8	0	0	72	16777215	20
+0	Each interval lasts either 18 or 24 seconds with 1-1.5 minutes of rest between intervals...	8	0	0	72	16777215	30
+0	and you'll have about 3 minutes of rest between sets	8	0	0	72	16777215	40
+0	The goal of today's workout is to help you improve...	8	0	0	72	16777215	50
+0	...your ability to generate & use lactate as your predominant fuel source	8	0	0	72	16777215	60
+0	This fosters an ability to work really hard when the time comes	8	0	0	72	16777215	70
+0	This workout's intervals are purposely placed close together...	8	0	0	72	16777215	80
+0	to improve your ability to utilize existing work capacity over & over	8	0	0	72	16777215	90
+0	Most riders can ride for 20 or so seconds at 140% FTP with little problem...	8	0	0	72	16777215	100
+0	...but how many times they can repeat such efforts is another story	8	0	0	72	16777215	110
+0	This workout serves to make hard efforts more repeatable. Good stuff, right!?	8	0	0	72	16777215	120
+300	3-minute ramp up to 80% FTP	8	0	0	72	16777215	0
+300	Then, we'll do a set of 18-second clearing intervals at 120%	8	0	0	72	16777215	10
+300	You should be sufficiently warm following this early round of repeats	8	0	0	72	16777215	20
+480	Settle into a cadence between 85-95rpm during the valleys	8	0	0	72	16777215	0
+480	Couple more minutes until the Anaerobic power repeats start	8	0	0	72	16777215	10
+480	30 seconds to go, perform this first interval in the saddle	8	0	0	72	16777215	90
+480	Make sure you have a high cadence, 100rpm or higher ideally	8	0	0	72	16777215	100
+480	Start bringing that cadence up now...	8	0	0	72	16777215	110
+600	fast legs, 18 seconds!	5	0	0	72	16777215	0
+618	And back down to a cadence between 85-95rpm, comfortably quick	8	0	0	72	16777215	0
+618	Next one in 15 seconds, start bringing that cadence up	8	0	0	72	16777215	57
+690	Quick legs, over 100rpm if you can control it	8	0	0	72	16777215	0
+708	Stay seated for this one too, quick legs	8	0	0	72	16777215	62
+780	Try to keep you upper body as still as possible	8	0	0	72	16777215	0
+798	3 down, 3 to go	8	0	0	72	16777215	0
+798	Let's try this next one out of the saddle if you feel up to it	8	0	0	72	16777215	10
+798	Try to rise smoothly when you come out of the saddle	8	0	0	72	16777215	20
+798	That means starting to find your cadence BEFORE the interval starts	8	0	0	72	16777215	30
+798	Shoot for a standing cadence of at least 75rpm	8	0	0	72	16777215	40
+798	10 seconds, start finding your cadence...	8	0	0	72	16777215	62
+870	and come on up!	5	0	0	72	16777215	0
+888	Nicely done, have a seat & spin comfortably	8	0	0	72	16777215	0
+888	Stay in the saddle for the next interval, 100rpm or higher	8	0	0	72	16777215	62
+960	Quick legs, quiet upper body, breathe the entire time	8	0	0	72	16777215	0
+978	Slow your cadence & calm your breathing	8	0	0	72	16777215	0
+978	Might sound funny to remind riders to breathe...	8	0	0	72	16777215	10
+978	but many riders will hold their breath during part or all of a sprint	8	0	0	72	16777215	20
+978	Let's stand again for this last one & shoot for 75rpm or higher	8	0	0	72	16777215	57
+1050	And up! Be smooth, be light on the handlebars	8	0	0	72	16777215	0
+1068	That's the first set out of the way!	8	0	0	72	16777215	0
+1068	Take 3 minutes to spin above 85rpm & clear any heaviness	8	0	0	72	16777215	10
+1068	Next set starts in about 45 seconds...	8	0	0	72	16777215	132
+1068	and those upcoming intervals are at 130% FTP	8	0	0	72	16777215	142
+1068	We'll do the first few in the saddle...	8	0	0	72	16777215	152
+1068	With a cadence above 100rpm during each interval	8	0	0	72	16777215	162
+1248	Here we go! Keep that fast cadence for the entire 18 seconds	8	0	0	72	16777215	0
+1266	It's a good idea to set your cadence BEFORE the interval starts...	8	0	0	72	16777215	-20
+1266	And back to a comfortable leg speed	8	0	0	72	16777215	0
+1266	especially if you're using an electronic trainer like a KICKR or CompuTrainer	8	0	0	72	16777215	10
+1320	Quick legs, quiet upper body	8	0	0	72	16777215	0
+1338	Nice, back things off again	8	0	0	72	16777215	0
+1338	If you're not on an electronic trainer though...	8	0	0	72	16777215	10
+1338	you're welcome to get your cadence just as the interval starts	8	0	0	72	16777215	20
+1338	This probably means shifting up a couple gears & jumping hard	8	0	0	72	16777215	30
+1338	Whichever approach you take, try to get your leg speed all at once	8	0	0	72	16777215	40
+1392	Go! Lots of speed as quickly as you can get it	8	0	0	72	16777215	0
+1410	Halfway! We'll stand for the next interval if you're "up" for it ;-)	8	0	0	72	16777215	0
+1410	Again, spin at 75rpm or higher, lots of control	8	0	0	72	16777215	10
+1410	Also, make sure you're not lumbering from side to side - be fluid	8	0	0	72	16777215	20
+1410	Get ready to stand, start finding your gearing/cadence now	8	0	0	72	16777215	40
+1464	And up! 18 seconds	8	0	0	72	16777215	0
+1482	Have a seat as smoothly as you can	8	0	0	72	16777215	0
+1482	Let's stay seated for this next interval	8	0	0	72	16777215	38
+1536	Seated power is king, so learn to generate speed while seated	8	0	0	72	16777215	0
+1554	Well done! Ease up & draw big, full breaths with your belly	8	0	0	72	16777215	21
+1554	We'll stand for this last one if you feel you can control it	8	0	0	72	16777215	31
+1608	Up! Lots of speed all at once	8	0	0	72	16777215	0
+1626	Annnnd back down, 3 minutes of recovery	8	0	0	72	16777215	0
+1626	Next set consists of 24-second intervals at 140% FTP	8	0	0	72	16777215	114
+1626	Not to worry though, you should be plenty warm enough to take these on	8	0	0	72	16777215	124
+1626	We'll start off seated again, but with a small tweak this time	8	0	0	72	16777215	134
+1626	Try "saddle shifting" to get a bit of extra power	8	0	0	72	16777215	144
+1626	Plant your sit bones on the wings of your saddle...	8	0	0	72	16777215	154
+1626	then slide (don't lean) forward a bit towards the nose of your saddle	8	0	0	72	16777215	164
+1626	Get ready!	3	0	0	72	16777215	174
+1806	Longer pushes this time & higher watts	8	0	0	72	16777215	0
+1806	Hold your leg speed & try not to get sloppy	8	0	0	72	16777215	10
+1830	Excellent, slow your spin & decide if that interval went well	8	0	0	72	16777215	0
+1830	If you try to turn too big of a gear, you'll bog down	8	0	0	72	16777215	10
+1830	On an electronic trainer? Too slow a spin will bog you down	8	0	0	72	16777215	20
+1830	Moral of both stories? Don't bog down ;-)	8	0	0	72	16777215	30
+1830	This means plenty of leg speed, hence the 100+rpm recommendation	8	0	0	72	16777215	40
+1830	Find your gear and/or cadence...	8	0	0	72	16777215	50
+1830	We'll stay seated for the next one as well. 100+ RPM	8	0	0	72	16777215	60
+1902	and hit it! Lots of speed all at once	8	0	0	72	16777215	0
+1902	Try to maintain your cadence for the entire interval	8	0	0	72	16777215	10
+1926	If you find your watts or cadence dropping during the intervals...	8	0	0	72	16777215	0
+1926	take 10-20 seconds to backpedal during the recoveries	8	0	0	72	16777215	10
+1926	There's no harm & plenty of potential gain to be had...	8	0	0	72	16777215	20
+1926	from just a little extra recovery done backpedaling	8	0	0	72	16777215	30
+1926	Consider doing this next one out of the saddle	8	0	0	72	16777215	44
+1926	Shoot for a cadence of at least 75rpm when standing	8	0	0	72	16777215	54
+1998	And up! Relax your grip on the handlebars	8	0	0	72	16777215	0
+1998	Hold your Target Power, hold your leg speed!	8	0	0	72	16777215	10
+1998	3 seconds!	2	0	0	72	16777215	21
+2022	Good job, bring your heart rate down as soon as you can...	8	0	0	72	16777215	0
+2022	...by taking deep & full breaths using your belly/navel	8	0	0	72	16777215	10
+2022	The easiest way to do this is to focus on exhaling completely	8	0	0	72	16777215	20
+2022	We'll do this next one seated, get ready	8	0	0	72	16777215	58
+2094	High leg speed from start to finish!	8	0	0	72	16777215	0
+2094	Creep forward on the saddle if you start to fade	8	0	0	72	16777215	10
+2094	3 seconds!	2	0	0	72	16777215	21
+2118	Well done, back things off for a minute, backpedal if necessary	8	0	0	72	16777215	0
+2118	Once again, we'll try getting out of the saddle for this last one	8	0	0	72	16777215	32
+2118	When you stand, hover not far above your saddle...	8	0	0	72	16777215	42
+2118	to prevent you from leaning on your handlebars too much	8	0	0	72	16777215	52
+2190	Rise out of the saddle in a smooth & powerful motion...	8	0	0	72	16777215	0
+2190	and try to keep control of your upper body	8	0	0	72	16777215	10
+2190	3...	1	0	0	72	16777215	21
+2190	2...	1	0	0	72	16777215	22
+2190	1...	1	0	0	72	16777215	23
+2214	Well done! Have a seat & clear the heaviness	6	0	0	72	16777215	2
+2214	Take the next 3 minutes to clear the legs by staying moving	6	0	0	72	16777215	10
+2214	backward or forward, whichever helps you recover quickly	8	0	0	72	16777215	20
+2214	The final set looks daunting, but don't let it psych you out	8	0	0	72	16777215	126
+2214	Break the set down into smaller sets, perhaps 2 sprints at a time...	8	0	0	72	16777215	136
+2214	without getting too far ahead of yourself	5	0	0	72	16777215	146
+2214	These are still 24 seconds long but jump up to 150% FTP	8	0	0	72	16777215	156
+2214	Get ready, and we'll stay seated for now	5	0	0	72	16777215	171
+2394	Go! Quick legs, LOTS of power!	5	0	0	72	16777215	0
+2394	Try to keep your spin above 100rpm if possible	8	0	0	72	16777215	8
+2394	Power this high, that high leg speed is VITAL	5	0	0	72	16777215	18
+2418	Do your best to keep the pedals turning forward but backpedal if necessary	8	0	0	72	16777215	0
+2418	Your muscles will slowly start to recover, even at 70% FTP	8	0	0	72	16777215	10
+2418	Just be patient & keep spinning, forward preferably	8	0	0	72	16777215	20
+2418	Based on how that last one went, make any necessary adjustments...	8	0	0	72	16777215	76
+2418	to your gearing and/or your cadence	8	0	0	72	16777215	86
+2514	High-speed legs, low upper body movement	8	0	0	72	16777215	0
+2514	Make this look controlled despite the serious amount of work	8	0	0	72	16777215	10
+2514	3 seconds!	2	0	0	72	16777215	21
+2538	Try to keep 'em turning forward for a few seconds before you resort to backpedaling	8	0	0	72	16777215	0
+2538	As soon as you get through this next effort...	8	0	0	72	16777215	72
+2538	you'll be rewarded with rest at a lower % of FTP	8	0	0	72	16777215	82
+2538	Get ready!	3	0	0	72	16777215	92
+2634	Hit it! LOTS of power	5	0	0	72	16777215	0
+2634	Hang on to your cadence & your form	8	0	0	72	16777215	10
+2634	3 seconds!	2	0	0	72	16777215	21
+2658	Pedal forward if possible, your legs should start to clear if you're patient	8	0	0	72	16777215	0
+2658	Again, make any necessary adjustments to gearing and/or your spin	8	0	0	72	16777215	76
+2658	Anything that helps you survive the entire 24 seconds with control	8	0	0	72	16777215	86
+2754	Wind it up & stay on top of it!	8	0	0	72	16777215	0
+2754	Just 12 more seconds!	3	0	0	72	16777215	10
+2754	Keep your power!	3	0	0	72	16777215	15
+2754	3...	1	0	0	72	16777215	21
+2754	2...	1	0	0	72	16777215	22
+2754	1...	1	0	0	72	16777215	23
+2778	Good! Were you able to maintain for the ENTIRE interval?	8	0	0	72	16777215	2
+2778	If not, consider backpedaling a portion of your recovery valleys	8	0	0	72	16777215	12
+2778	While you might burn more calories pedaling foward...	8	0	0	72	16777215	22
+2778	a bit of backpedaling here and there is far preferable to skipping intervals	8	0	0	72	16777215	32
+2778	If you're feeling up to it, do the next interval out of the saddle	8	0	0	72	16777215	72
+2778	This could mean a couple more gears and definitely means a slower spin	8	0	0	72	16777215	82
+2778	75rpm-ish	3	0	0	72	16777215	92
+2874	Up! Make this look smooth & controlled the whole time	8	0	0	72	16777215	0
+2874	If you start to fall apart, have a seat but keep your power	8	0	0	72	16777215	10
+2874	3 seconds!	2	0	0	72	16777215	21
+2898	Nice! We'll ease up a bit more during the rest intervals	8	0	0	72	16777215	0
+2898	With only three intervals left in the workout, any urge to cut an interval short...	8	0	0	72	16777215	10
+2898	...should be quelled by the reminder that you're so close to the end	8	0	0	72	16777215	20
+2898	You've come too far to start taking shortcuts now	8	0	0	72	16777215	30
+2898	We'll stay seated for this one, start finding your cadence	8	0	0	72	16777215	82
+2898	Get ready...	3	0	0	72	16777215	92
+2994	Go! High speed & power as quickly as possible	8	0	0	72	16777215	0
+2994	Hold that leg speed!	5	0	0	72	16777215	10
+2994	Stay strong! Don't let that cadence drop!	5	0	0	72	16777215	17
+3018	Well done, over 90 seconds to recover	8	0	0	72	16777215	0
+3018	Exhale completely to really clear that junk from your blood stream	8	0	0	72	16777215	10
+3018	Prepare for the penultimate interval, seated or standing, rider's choice	8	0	0	72	16777215	72
+3018	Either way, don't let your form slip - fatigue NEVER excuses poor form	8	0	0	72	16777215	82
+3018	Get ready!	3	0	0	72	16777215	92
+3114	Go! Hammer the pedals & hold your hips steady	8	0	0	72	16777215	0
+3114	Hang on to it!	3	0	0	72	16777215	10
+3114	Be. Tough. No quitting early	4	0	0	72	16777215	16
+3114	3...	1	0	0	72	16777215	21
+3114	2...	1	0	0	72	16777215	22
+3114	1...	1	0	0	72	16777215	23
+3138	Excellent! Only one interval left in the workout	8	0	0	72	16777215	0
+3138	Final interval, let's finish strongly & in the seated position	8	0	0	72	16777215	82
+3138	Ready annnnnnnd...	3	0	0	72	16777215	92
+3234	Go!!! Fast legs!	8	0	0	72	16777215	0
+3234	Don't let your cadence or watts drop! You're so close!	8	0	0	72	16777215	10
+3234	Final 3...	1	0	0	72	16777215	21
+3234	2...	1	0	0	72	16777215	22
+3234	1...	8	0	0	72	16777215	23
+3258	And that's it! You made it!	8	0	0	72	16777215	2
+3258	Take a solid 5 minutes to cool down & feel free to spin longer if you like	8	0	0	72	16777215	12
+3258	Get a jump on your post-workout nutrition if handy...	8	0	0	72	16777215	22
+3258	and we'll see you next time	5	0	0	72	16777215	32
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+480	600	Tempo 1
+600	618	VO2 Max 1
+618	690	Tempo 2
+690	708	VO2 Max 2
+708	780	Tempo 3
+780	798	VO2 Max 3
+798	870	Tempo 4
+870	888	VO2 Max 4
+888	960	Tempo 5
+960	978	VO2 Max 5
+978	1050	Tempo 6
+1050	1068	VO2 Max 6
+1068	1248	Endurance 1
+1248	1266	Sprint 1
+1266	1320	Endurance 2
+1320	1338	Sprint 2
+1338	1392	Endurance 3
+1392	1410	Sprint 3
+1410	1464	Endurance 4
+1464	1482	Sprint 4
+1482	1536	Endurance 5
+1536	1554	Sprint 5
+1554	1608	Endurance 6
+1608	1626	Sprint 6
+1626	1806	Endurance 7
+1806	1830	Sprint 7
+1902	1926	Sprint 8
+1998	2022	Sprint 9
+2094	2118	Sprint 10
+2190	2214	Sprint 11
+2394	2418	Sprint 12
+2418	2514	Endurance 8
+2514	2538	Sprint 13
+2538	2634	Endurance 9
+2634	2658	Sprint 14
+2658	2754	Endurance 10
+2754	2778	Sprint 15
+2778	2874	Endurance 11
+2874	2898	Sprint 16
+2994	3018	Sprint 17
+3114	3138	Sprint 18
+3234	3258	Sprint 19
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

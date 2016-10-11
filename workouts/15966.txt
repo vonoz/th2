@@ -1,0 +1,321 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = 8DC - Stage 2,94,106. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	51
+5	56
+5	75
+6	80
+6	90
+9.78	96
+9.78	103
+10.18	103
+10.18	68
+14.03	75
+14.03	75
+14.45	130
+14.45	180
+14.61	180
+14.61	20
+15.03	70
+15.03	70
+18.1	73
+18.1	73
+18.68	94
+18.68	94
+26.35	97
+26.35	97
+29.48	100
+29.48	100
+31.06	100
+31.06	100
+34.51	97
+34.51	97
+37.21	97
+37.21	97
+37.71	130
+37.71	145
+38.21	145
+38.21	40
+38.63	70
+38.63	70
+44.7	73
+44.7	75
+45.11	130
+45.11	180
+45.28	180
+45.28	20
+45.7	73
+45.7	73
+46.86	72
+46.86	72
+50.16	78
+50.16	78
+51.16	78
+51.16	78
+53.88	88
+53.88	120
+55.58	124
+55.58	90
+57	90
+57	110
+59.11	110
+59.11	98
+61.08	98
+61.08	115
+61.78	115
+61.78	92
+63	92
+63	101
+64.83	101
+64.83	115
+65.75	115
+65.75	98
+66.68	98
+66.68	120
+67.21	120
+67.21	120
+67.71	130
+67.71	144
+68.21	144
+68.21	40
+68.63	55
+68.63	55
+73	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Day 2, Team	8	0	0	72	16777215	30
+0	3 climbs on tap as we attempt to defend the leader's jersey	8	0	0	72	16777215	40
+0	There's a strong possibility of an early attack, so we'll do our best to include a rider	8	0	0	72	16777215	50
+0	For now, just continue to warm and we'll talk strategy	8	0	0	72	16777215	60
+0	It's going to be our job to try to control the pace on the climbs...	8	0	0	72	16777215	70
+0	...but that's a tall order considering the level of competition we face	8	0	0	72	16777215	80
+0	More than likely, we'll just do our best to hang with the danger riders...	8	0	0	72	16777215	90
+0	And there goes a break!	8	0	0	72	16777215	120
+0	We have a rider in it, as do most of the big teams	8	0	0	72	16777215	130
+0	Now we'll just have to wait to see if this one sticks	8	0	0	72	16777215	140
+0	It's looking good for the break, I think the field's letting them go!	8	0	0	72	16777215	210
+0	Time to focus on the first climb then	8	0	0	72	16777215	220
+0	With a break up the road & most of the big teams represented...	8	0	0	72	16777215	230
+0	...it's unlikely we'll see much action on this first, short climb	8	0	0	72	16777215	240
+0	So we'll just use it to further our warm-up, prep for what's ahead	8	0	0	72	16777215	250
+0	Here comes the foot of the climb...	8	0	0	72	16777215	280
+0	...pay attention and protect our leader at all times	8	0	0	72	16777215	290
+300	Find a good gear, one that let's you keep your spin light & quick	8	0	0	72	16777215	0
+360	Things are ramping up a bit, but still a nice controlled tempo	8	0	0	72	16777215	0
+360	Keep your legs light & quick, save your muscles for the big climbs	8	0	0	72	16777215	10
+360	Summit's just ahead, expect a little acceleration over the top	8	0	0	72	16777215	210
+587	Almost there, just a short kick over the top	8	0	0	72	16777215	0
+611	Alright, time for some downhill	8	0	0	72	16777215	0
+611	Keep your spin quick & light while you bring your breathing down...	8	0	0	72	16777215	10
+611	...and decide if you're chasing sprint points today	8	0	0	72	16777215	20
+611	No rider can do it all, so pick your poison	8	0	0	72	16777215	30
+611	Are you supporting your leader, chasing KOM's, chasing the sprint jersey?	8	0	0	72	16777215	40
+611	You know your strengths, make them work for you	8	0	0	72	16777215	50
+611	But be sensible, there are still 2 big climbs up ahead!	8	0	0	72	16777215	60
+611	The sprinters are starting to set up!	8	0	0	72	16777215	209
+611	Remember, it's a 25-second build & 10 seconds ALL-OUT	8	0	0	72	16777215	219
+611	Get ready...	2	0	0	72	16777215	228
+842	Start to build power...	5	0	0	72	16777215	0
+842	Keep building!	5	0	0	72	16777215	10
+842	Get ready...	5	0	0	72	16777215	17
+842	3	1	0	0	72	16777215	22
+842	2	1	0	0	72	16777215	23
+842	1	1	0	0	72	16777215	24
+867	GO!!!	3	0	0	72	16777215	0
+877	OK, shut it down...	5	0	0	72	16777215	0
+877	...and start to get your power back up there	8	0	0	72	16777215	8
+902	Just a few easy minutes and we hit that first climb	8	0	0	72	16777215	4
+902	Starting to second-guess your decision to sprint? ;-)	8	0	0	72	16777215	14
+902	Or maybe happy you skipped it?	8	0	0	72	16777215	24
+902	In either case, this next climb's fairly long so spin easy	8	0	0	72	16777215	34
+1086	Time to get back to work!	8	0	0	72	16777215	0
+1086	What's expected and what happens are often different things	8	0	0	72	16777215	10
+1086	But we EXPECT this ascent to be conservative...	5	0	0	72	16777215	20
+1086	...while the sparks will fly on the final climb to the finish	5	0	0	72	16777215	29
+1121	Here we go...	5	0	0	72	16777215	1
+1121	...let's settle in & keep a very short leash on the big dogs	8	0	0	72	16777215	8
+1121	Negative racing may not be glamorous...	8	0	0	72	16777215	19
+1121	But with our inexperience, or numbers & our competition...	8	0	0	72	16777215	29
+1121	...it's how we're going to try & hold our lead	8	0	0	72	16777215	39
+1121	So far so good...	5	0	0	72	16777215	199
+1121	...and the field must like the make-up of the breakaway...	8	0	0	72	16777215	206
+1121	...because the pace is reasonable with no attacks	8	0	0	72	16777215	216
+1121	Or maybe they're playing it smart like we are...	8	0	0	72	16777215	226
+1121	...and saving it for the climb that really matters	8	0	0	72	16777215	236
+1121	How are the legs?	5	0	0	72	16777215	349
+1121	If you aren't already, make sure you're staying light	8	0	0	72	16777215	356
+1121	Lightly kick over the top of your pedalstroke...	8	0	0	72	16777215	366
+1121	...lightly pull across the bottom	8	0	0	72	16777215	376
+1121	It may not seem like much help, but your quads will thank you later	8	0	0	72	16777215	386
+1581	The pace is creeping up a little...	8	0	0	72	16777215	9
+1581	...but nothing to worry about	8	0	0	72	16777215	19
+1581	So relax, draw big full breaths, clear them completely	8	0	0	72	16777215	29
+1581	Find a rhythm & tie your breathing to that rhythm	8	0	0	72	16777215	39
+1581	Steady efforts like these benefit a lot from 2 things:	8	0	0	72	16777215	49
+1581	Focus & Relaxation	8	0	0	72	16777215	59
+1769	Still focused? Still relaxed?	8	0	0	72	16777215	1
+1769	Your breathing gets the focus...	8	0	0	72	16777215	11
+1769	...and your upper body gets the relaxation	8	0	0	72	16777215	21
+1769	Let your shoulders fall, let your elbows soften...	8	0	0	72	16777215	31
+1769	...loosen your grip, your jaw, your face	8	0	0	72	16777215	41
+1864	Slight drop in the pace, pay attention...	8	0	0	72	16777215	26
+1864	...moves come when people get a little taste of recovery	8	0	0	72	16777215	36
+1864	Maybe not the SMART moves, but moves nonetheless	8	0	0	72	16777215	46
+2071	Alright, time to contemplate the KOM	8	0	0	72	16777215	29
+2071	Much like the sprints, these are optional	8	0	0	72	16777215	39
+2071	If you want to pursue some or all of the KOM's...	8	0	0	72	16777215	49
+2071	...here comes your first of many!	8	0	0	72	16777215	59
+2071	I anticipate a consistent format with the KOM's too ;-)	8	0	0	72	16777215	69
+2071	They will all begin with a 30-second build to 130% FTP...	8	0	0	72	16777215	79
+2071	...and wrap up with 30 seconds at 145% FTP	8	0	0	72	16777215	89
+2071	Say it with me...OUCH	8	0	0	72	16777215	99
+2071	So be sensible, if KOM's are going to crush you...	8	0	0	72	16777215	109
+2071	...skip them, do only a few, do them at lower power...	8	0	0	72	16777215	119
+2071	...but don't let them derail your tour	8	0	0	72	16777215	129
+2071	The team needs you!	8	0	0	72	16777215	139
+2071	Get ready...	5	0	0	72	16777215	154
+2233	Start working up those watts	8	0	0	72	16777215	0
+2233	Keep 'em climbing...	8	0	0	72	16777215	10
+2233	Almost time to kick!	5	0	0	72	16777215	20
+2233	3	1	0	0	72	16777215	27
+2233	2	1	0	0	72	16777215	28
+2233	1	1	0	0	72	16777215	29
+2263	30-second push to the top!	5	0	0	72	16777215	0
+2263	Stay with it!	5	0	0	72	16777215	10
+2263	10 more seconds!	5	0	0	72	16777215	20
+2293	Well done. Ease up then get back in there	8	0	0	72	16777215	0
+2318	Things are likely to stay easy leading up to the 2nd sprint	8	0	0	72	16777215	22
+2318	So relax, spin off the heaviness, and breeeeeeathe	8	0	0	72	16777215	32
+2318	Sprinters get ready!	8	0	0	72	16777215	322
+2318	25-second build, 10-second sprint	8	0	0	72	16777215	332
+2318	And nothing says you have to sprint out-of-the-saddle	8	0	0	72	16777215	342
+2318	Stay seated if you like	5	0	0	72	16777215	352
+2318	Get ready...	5	0	0	72	16777215	359
+2682	Build some big power...	5	0	0	72	16777215	0
+2682	Keep that wheel in front of you!	8	0	0	72	16777215	8
+2682	Gonna pounce in...	3	0	0	72	16777215	18
+2682	3	1	0	0	72	16777215	22
+2682	2	1	0	0	72	16777215	23
+2682	1	1	0	0	72	16777215	24
+2707	Sprint!!!	5	0	0	72	16777215	0
+2717	Cool those jets...	5	0	0	72	16777215	0
+2717	...and get back in there	8	0	0	72	16777215	7
+2812	We have just a little time to regroup...	8	0	0	72	16777215	8
+2812	...before the final climb of the day is under our tires	8	0	0	72	16777215	18
+2812	And you can bet...	5	0	0	72	16777215	28
+2812	...this is gonna be brutal	8	0	0	72	16777215	35
+3010	There it is, just ahead	5	0	0	72	16777215	0
+3010	So shake out those legs...	5	0	0	72	16777215	7
+3010	...grab a drink...	5	0	0	72	16777215	14
+3010	...and get ready to do some work!	8	0	0	72	16777215	19
+3010	We have a lead to preserve...	8	0	0	72	16777215	30
+3010	...and while we're not the biggest team...	8	0	0	72	16777215	40
+3010	...nor the deepest...	8	0	0	72	16777215	50
+3070	...we're going to fight like we're both	8	0	0	72	16777215	0
+3070	Just like yesterday, take our climber as far as you can...	8	0	0	72	16777215	70
+3070	...and know that you belong up front	8	0	0	72	16777215	80
+3070	You ARE that strong!	8	0	0	72	16777215	90
+3070	Stay awake, when it comes it'll come FAST	8	0	0	72	16777215	153
+3233	There it is! GO!!!	5	0	0	72	16777215	0
+3233	Getting a gap takes work...	5	0	0	72	16777215	7
+3233	...takes time	5	0	0	72	16777215	14
+3233	So hold that wheel in front of you!	8	0	0	72	16777215	22
+3233	Our climber's right on your wheel!	8	0	0	72	16777215	32
+3233	You've got a gap! A good one!	8	0	0	72	16777215	52
+3233	But don't ease up just yet	8	0	0	72	16777215	62
+3233	Make the gap big enough to discourage followers	8	0	0	72	16777215	72
+3335	I know that hurt, but 5 of you are away!	8	0	0	72	16777215	0
+3335	Catch your breath and stay vigilant...	8	0	0	72	16777215	10
+3335	...that won't be the only attack	8	0	0	72	16777215	20
+3420	Again! GO! GO! GO!	5	0	0	72	16777215	0
+3420	Not as much snap with this one	8	0	0	72	16777215	10
+3420	But they're testing us!	8	0	0	72	16777215	20
+3420	Show them they can't ditch us that easily	8	0	0	72	16777215	30
+3420	Hang in there, I know they're gonna pop soon!	8	0	0	72	16777215	110
+3420	Keep that wheel!	5	0	0	72	16777215	120
+3547	Way to protect our leader! Hang on	8	0	0	72	16777215	0
+3547	Stay vigilant, you can expect a couple more of those	8	0	0	72	16777215	93
+3665	There it goes!	5	0	0	72	16777215	0
+3665	Good! You're both on, now don't fall off	8	0	0	72	16777215	7
+3707	That was a shorty, expect another...	8	0	0	72	16777215	0
+3707	...maybe a couple	5	0	0	72	16777215	10
+3780	Something's setting up...	5	0	0	72	16777215	0
+3780	...stay right up front	5	0	0	72	16777215	7
+3780	Fragments of the break are the only riders up ahead	8	0	0	72	16777215	25
+3780	Looks like someone in our group's gonna take this stage!	8	0	0	72	16777215	35
+3780	So stay with it, you're as strong as anyone up here!	8	0	0	72	16777215	45
+3780	Watch the front...	5	0	0	72	16777215	103
+3890	There it goes! Close the gap NOW!	8	0	0	72	16777215	0
+3890	This race is almost over, don't quit now!	8	0	0	72	16777215	10
+3945	Catch your breath, the final kick is comin'	8	0	0	72	16777215	0
+3945	Uphill finishes are rough...	8	0	0	72	16777215	15
+3945	...but predictable	5	0	0	72	16777215	25
+3945	There's gonna be an attack you'll try to follow to the line...	8	0	0	72	16777215	32
+3945	...but it's looking like we could keep the jersey!	8	0	0	72	16777215	40
+3945	Let's just guess...3x30 seconds? ;-)	5	0	0	72	16777215	50
+4001	Here we go!	5	0	0	72	16777215	0
+4001	The lead is ours to lose, HOLD ON!	8	0	0	72	16777215	19
+4033	You're the strongest one up there...GO!!!	8	0	0	72	16777215	0
+4033	Don't quit! You're SO CLOSE!	8	0	0	72	16777215	17
+4063	30 seconds...	3	0	0	72	16777215	0
+4063	EVERYTHING YOU'VE GOT!	5	0	0	72	16777215	4
+4063	20 seconds!	5	0	0	72	16777215	10
+4063	10 seconds!	5	0	0	72	16777215	20
+4063	3	1	0	0	72	16777215	27
+4063	2	1	0	0	72	16777215	28
+4063	1	1	0	0	72	16777215	29
+4093	Stage win!?	5	0	0	72	16777215	0
+4093	How'd that happen??	5	0	0	72	16777215	7
+4118	Way to support the team...	8	0	0	72	16777215	0
+4118	...and outgun our own climber!	8	0	0	72	16777215	10
+4118	We keep the jersey another day...	5	0	0	72	16777215	22
+4118	...with our climber coming in just 5 seconds after you!	8	0	0	72	16777215	29
+4118	So cool down well, get a massage & rest up...	8	0	0	72	16777215	39
+4118	...tomorrow's another beast!	8	0	0	72	16777215	49
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	4380	Workout
+300	360	Tempo 1
+360	587	Sweet Spot 1
+587	611	Threshold 1
+842	867	Threshold 2
+867	877	Sprint 1
+1086	1121	Tempo 2
+1121	1581	Sweet Spot 2
+1581	1769	Threshold 3
+1769	1864	Threshold 4
+1864	2071	Threshold 5
+2071	2233	Threshold 6
+2233	2263	VO2 Max 1
+2263	2293	Sprint 2
+2682	2707	Threshold 7
+2707	2717	Sprint 3
+2742	2812	Endurance 1
+2812	3010	Endurance 2
+3010	3070	Tempo 3
+3070	3233	Tempo 4
+3233	3335	Anaerobic Capacity 1
+3335	3420	Sweet Spot 3
+3420	3547	VO2 Max 2
+3547	3665	Threshold 8
+3665	3707	VO2 Max 3
+3707	3780	Sweet Spot 4
+3780	3890	Threshold 9
+3890	3945	VO2 Max 4
+3945	4001	Threshold 10
+4001	4033	VO2 Max 5
+4033	4063	Sprint 4
+4063	4093	Sprint 5
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

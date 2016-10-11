@@ -1,0 +1,128 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Springer Mountain,72,104. Created by 54951.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+10	70
+10	70
+25	70
+25	55
+27	55
+27	75
+35	75
+35	55
+36	55
+36	80
+48	80
+48	55
+50	55
+50	75
+52	75
+52	180
+52.16	180
+52.16	20
+53	75
+53	75
+58	75
+58	180
+58.16	180
+58.16	20
+59	75
+59	75
+64	75
+64	180
+64.16	180
+64.16	20
+65	75
+65	75
+80	75
+80	55
+83	55
+83	70
+98	70
+98	55
+100	55
+100	80
+106	80
+106	55
+107	55
+107	75
+116	75
+116	75
+117	50
+117	50
+120	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+600	Over this opening 15 minutes, include a couple 5-minute Endurance Spins	8	0	0	72	16777215	-1
+1620	Use 6 of these minutes to alternate focus on a single leg, 1 minute at a time	8	0	0	72	16777215	-1
+2160	Perform a single 5-minute Endurance Spin during this 12 minutes	8	0	0	72	16777215	-1
+3000	In a couple minutes, you'll perform your first Strength Sprint	8	0	0	72	16777215	0
+3000	These are best done from a standing start	8	0	0	72	16777215	10
+3000	But this assumes your knees can handle the stress	8	0	0	72	16777215	20
+3000	If not, just use a flying start at 50-60rpm	8	0	0	72	16777215	30
+3000	You'll try to turn over the biggest gear you can control	8	0	0	72	16777215	40
+3000	So big that you can't reach 90rpm before the sprint ends	8	0	0	72	16777215	50
+3000	Your hands belong in the drops and your body will be low	8	0	0	72	16777215	60
+3000	The idea is to generate a LOT of force & use a LOT of muscle	8	0	0	72	16777215	70
+3000	So you'll pull on the bars & stomp on the pedals...	8	0	0	72	16777215	80
+3000	But be kind to your bike!	8	0	0	72	16777215	90
+3000	Slow things down...	8	0	0	72	16777215	100
+3000	Even slower or come to a full stop...	8	0	0	72	16777215	110
+3120	Stand & Hammer!	10	0	0	72	16777215	0
+3130	One down! Did you reach 90rpm?	8	0	0	72	16777215	5
+3130	If you did, try an even bigger gear next time	8	0	0	72	16777215	15
+3130	Assuming you experienced ZERO knee discomfort	8	0	0	72	16777215	25
+3180	Another sprint in 2 minutes	8	0	0	72	16777215	180
+3180	Plan your gearing & if you're using a CompuTrainer or KICKR...	8	0	0	72	16777215	190
+3180	Consider switching over to Slope Mode for some/all of these	8	0	0	72	16777215	200
+3180	Especially if you can sprint harder than 180% FTP	8	0	0	72	16777215	210
+3180	Get ready...	8	0	0	72	16777215	290
+3480	Stand & Stomp!	10	0	0	72	16777215	0
+3490	Two down! Did you get on top of it?	8	0	0	72	16777215	5
+3490	If so, bigger gear next time!	8	0	0	72	16777215	15
+3540	2 minutes out from another Strength Sprint	8	0	0	72	16777215	180
+3540	Try to utilize the form you learned during your Form Sprints	8	0	0	72	16777215	190
+3540	Only in slow motion, but just as pretty	8	0	0	72	16777215	200
+3540	Start to slow things down	8	0	0	72	16777215	280
+3540	In 10...get ready!	8	0	0	72	16777215	290
+3840	Stand & drive your feet down!	10	0	0	72	16777215	0
+3850	That's 3. Take your time working back up to speed	8	0	0	72	16777215	5
+3900	Settle back into a 85-95rpm spin, faster if it suits you & your goals	8	0	0	72	16777215	0
+4980	At some point, start to alternate leg focus, 1 minute at a time, 8 minutes total	8	0	0	72	16777215	-1
+6000	One last Endurance Spin, just 3 minutes this time	8	0	0	72	16777215	30
+6420	Use this last stretch to put it all together by staying relaxed & pedaling fluidly	8	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	7200	Workout
+600	1500	Endurance 1
+1500	1620	Endurance 2
+1620	2100	Endurance 3
+2100	2160	Endurance 4
+2160	2880	Tempo 1
+2880	3000	Endurance 5
+3000	3120	Endurance 6
+3120	3130	Sprint 1
+3180	3480	Endurance 7
+3480	3490	Sprint 2
+3540	3840	Endurance 8
+3840	3850	Sprint 3
+3900	4800	Endurance 9
+4800	4980	Endurance 10
+4980	5880	Endurance 11
+5880	6000	Endurance 12
+6000	6360	Tempo 2
+6360	6420	Endurance 13
+6420	6960	Endurance 14
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

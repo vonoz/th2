@@ -1,0 +1,594 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Dragon,90,122. Created by 42270.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	90
+4.75	90
+4.75	110
+5	110
+5	90
+5.75	90
+5.75	110
+6	110
+6	90
+6.75	90
+6.75	110
+7	110
+7	40
+11	40
+11	95
+11.75	95
+11.75	110
+12	110
+12	95
+12.75	95
+12.75	110
+13	110
+13	97
+13.75	97
+13.75	115
+14	115
+14	97
+14.75	97
+14.75	115
+15	115
+15	95
+15.75	95
+15.75	110
+16	110
+16	95
+16.75	95
+16.75	120
+17	120
+17	40
+20	40
+20	97
+20.75	97
+20.75	110
+21	110
+21	96
+21.75	96
+21.75	115
+22	115
+22	95
+22.75	95
+22.75	120
+23	120
+23	97
+23.75	97
+23.75	115
+24	115
+24	95
+24.75	95
+24.75	110
+25	110
+25	40
+28	40
+28	95
+28.75	95
+28.75	120
+29	120
+29	97
+29.75	97
+29.75	120
+30	120
+30	96
+30.75	96
+30.75	110
+31	110
+31	96
+31.75	96
+31.75	115
+32	115
+32	95
+32.75	95
+32.75	110
+33	110
+33	96
+33.75	96
+33.75	120
+34	120
+34	96
+34.75	96
+34.75	120
+35	120
+35	95
+35.75	95
+35.75	120
+36	120
+36	97
+36.75	97
+36.75	115
+37	115
+37	40
+40	40
+40	95
+40.75	95
+40.75	110
+41	110
+41	96
+41.75	96
+41.75	115
+42	115
+42	96
+42.75	96
+42.75	110
+43	110
+43	95
+43.75	95
+43.75	120
+44	120
+44	96
+44.75	96
+44.75	110
+45	110
+45	97
+45.75	97
+45.75	115
+46	115
+46	97
+46.75	97
+46.75	120
+47	120
+47	95
+47.75	95
+47.75	110
+48	110
+48	97
+48.75	97
+48.75	115
+49	115
+49	40
+52	40
+52	96
+52.75	96
+52.75	115
+53	115
+53	96
+53.75	96
+53.75	120
+54	120
+54	97
+54.75	97
+54.75	110
+55	110
+55	96
+55.75	96
+55.75	115
+56	115
+56	97
+56.75	97
+56.75	110
+57	110
+57	96
+57.75	96
+57.75	115
+58	115
+58	95
+58.75	95
+58.75	120
+59	120
+59	40
+62	40
+62	95
+62.75	95
+62.75	110
+63	110
+63	95
+63.75	95
+63.75	110
+64	110
+64	97
+64.75	97
+64.75	115
+65	115
+65	97
+65.75	97
+65.75	115
+66	115
+66	95
+66.75	95
+66.75	110
+67	110
+67	95
+67.75	95
+67.75	120
+68	120
+68	40
+71	40
+71	95
+71.75	95
+71.75	110
+72	110
+72	96
+72.75	96
+72.75	115
+73	115
+73	96
+73.75	96
+73.75	110
+74	110
+74	95
+74.75	95
+74.75	120
+75	120
+75	96
+75.75	96
+75.75	110
+76	110
+76	97
+76.75	97
+76.75	115
+77	115
+77	97
+77.75	97
+77.75	120
+78	120
+78	95
+78.75	95
+78.75	110
+79	110
+79	97
+79.75	97
+79.75	115
+80	115
+80	40
+83	40
+83	97
+83.75	97
+83.75	110
+84	110
+84	96
+84.75	96
+84.75	115
+85	115
+85	95
+85.75	95
+85.75	120
+86	120
+86	97
+86.75	97
+86.75	115
+87	115
+87	95
+87.75	95
+87.75	110
+88	110
+88	40
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Workouts with over-under interval sets like the ones found in Dragon...	8	0	0	72	16777215	10
+0	are very easily applied to real world scenarios	8	0	0	72	16777215	20
+0	But oftentimes, our over-under intervals are consistent or predictable	8	0	0	72	16777215	30
+0	Efforts in group rides or races are many things...	8	0	0	72	16777215	40
+0	but rarely are they consistent or predictable	8	0	0	72	16777215	50
+0	So we'll mix things up today!	5	0	0	72	16777215	60
+0	But that's later. For now, focus on getting in a good warmup	8	0	0	72	16777215	70
+240	Try to keep your spin in the 85-95rpm range	8	0	0	72	16777215	0
+285	Now pick things up to 100rpm or higher...	8	0	0	72	16777215	0
+285	but only if you can do it without bouncing in the saddle	8	0	0	72	16777215	10
+300	Back to 85-95rpm	5	0	0	72	16777215	0
+345	100 rpm or higher if you can control it	8	0	0	72	16777215	0
+360	Slow it down a little	5	0	0	72	16777215	0
+405	Last time, you know the drill ;-)	8	0	0	72	16777215	0
+420	Each of the 8 sets consist of 45-second steady-state valleys  at 95-97% FTP...	8	0	0	72	16777215	140
+420	followed by 15-second surges between 110-120% FTP	8	0	0	72	16777215	150
+420	Some sets have as little as 5 surges, while the longest ones have 9	8	0	0	72	16777215	160
+420	To make sure you get 100% benefit from today's workout...	8	0	0	72	16777215	170
+420	put the workout window in horizontal mode...	8	0	0	72	16777215	180
+420	and focus on the zoomed in view only	8	0	0	72	16777215	190
+420	Don't worry about what's coming up, just focus on the moment at hand	8	0	0	72	16777215	200
+420	Try to keep your cadence between 85-95rpm during the rests...	8	0	0	72	16777215	210
+420	and +100 RPM during the surges	5	0	0	72	16777215	220
+420	10 seconds to go, get ready to do some work	8	0	0	72	16777215	230
+660	Pick it up, 85-95rpm	5	0	0	72	16777215	0
+705	Hit it! +100 RPM	5	0	0	72	16777215	0
+825	A little higher now, quick spin	5	0	0	72	16777215	0
+900	The intensity has eased off, but don't let your cadence drop too far	8	0	0	72	16777215	0
+1005	Last one!	8	0	0	72	16777215	0
+1020	Well done! Recovery time	8	0	0	72	16777215	0
+1020	We've got a shorter set this time, but let's make the most of it	8	0	0	72	16777215	120
+1020	With each change of pace, change your position on the bike	8	0	0	72	16777215	130
+1020	By change of position, we mean hand position this time	8	0	0	72	16777215	140
+1020	For example, every time the pace changes...	8	0	0	72	16777215	150
+1020	change from the tops to your hoods...	8	0	0	72	16777215	160
+1020	or from your hoods to your drops	5	0	0	72	16777215	170
+1200	Time to go! 85rpm or higher	5	0	0	72	16777215	0
+1200	Alright, if they are not there already, go to your hoods	8	0	0	72	16777215	10
+1200	Or in other words, grab just above your shift/brake levers	8	0	0	72	16777215	20
+1200	Stay in this position until the pace changes	8	0	0	72	16777215	30
+1245	Go down to your drops (lower hooks of your bars)	8	0	0	72	16777215	0
+1260	Alright, now grab the tops (center part of your bars)	8	0	0	72	16777215	0
+1260	This is the most relaxed position to ride in	8	0	0	72	16777215	10
+1260	It's good for recovery and is also commonly used when climbing	8	0	0	72	16777215	20
+1305	Go to your hoods!	8	0	0	72	16777215	0
+1320	Now go down to your drops	5	0	0	72	16777215	0
+1320	Riding in the drops is arguably the most aerodynamic choice	8	0	0	72	16777215	10
+1320	Although it may feel like you aren't as powerful...	8	0	0	72	16777215	20
+1320	you are more aerodynamically efficient, so it can be a trade-off	8	0	0	72	16777215	30
+1365	To the tops! Imagine you're climbing	8	0	0	72	16777215	0
+1380	Now to your hoods	5	0	0	72	16777215	0
+1380	Riding on your hoods is often the most common position	8	0	0	72	16777215	10
+1380	You have more control than when on the tops...	8	0	0	72	16777215	20
+1380	and the position is a little more comfortable than the drops	8	0	0	72	16777215	30
+1425	Down to the drops!	8	0	0	72	16777215	0
+1440	Back up to the tops	5	0	0	72	16777215	0
+1440	There is a common temptation in this position you should be aware of...	8	0	0	72	16777215	10
+1440	Whenever possible, keep your thumbs wrapped around the bars	8	0	0	72	16777215	20
+1440	Many crashes can be avoided by having a better grip on the bars	8	0	0	72	16777215	30
+1485	To the hoods!	5	0	0	72	16777215	0
+1500	Spin lightly & breathe deeply	8	0	0	72	16777215	0
+1500	Alright, now that we've tested out the different positions...	8	0	0	72	16777215	150
+1500	we'll spend more time in each, and learn more about them individually	8	0	0	72	16777215	160
+1500	First up, we'll spend this next set on the hoods	8	0	0	72	16777215	170
+1680	Spin it up for this long set	8	0	0	72	16777215	0
+1740	Riding on the hoods can be deceiving	8	0	0	72	16777215	0
+1740	Although it feels comfortable and in control...	8	0	0	72	16777215	10
+1740	you are actually more vulnerable than while in the drops	8	0	0	72	16777215	20
+1740	If you hit a bump while on the hoods...	8	0	0	72	16777215	30
+1740	it is relatively easy for your hands to slip off	8	0	0	72	16777215	40
+1800	A good way to increase your leverage on the bars...	8	0	0	72	16777215	0
+1800	is to wrap your little/ring fingers in between the bars & levers	8	0	0	72	16777215	10
+1800	By wrapping more of your hand around the hoods...	8	0	0	72	16777215	20
+1800	you won't be as susceptible to losing your grip	8	0	0	72	16777215	30
+1980	Another thing to watch out for in this position is wasting energy	8	0	0	72	16777215	0
+1980	With so much leverage on the bars, it's easy to grip too hard...	8	0	0	72	16777215	10
+1980	or use that leverage to move your body with each pedalstroke	8	0	0	72	16777215	20
+1980	Keep a solid but relaxed grip, and don't use it to pull your body	8	0	0	72	16777215	30
+2205	Last one! Quick, relaxed spin	5	0	0	72	16777215	0
+2220	Take a few minutes to recover	8	0	0	72	16777215	0
+2220	Now it's time to work on riding from the tops	8	0	0	72	16777215	90
+2220	As previously mentioned, this is commonly used for climbing	8	0	0	72	16777215	100
+2220	But it's good for relaxing as well	5	0	0	72	16777215	110
+2220	If you are a mountain bike rider, this position is valuable as well	8	0	0	72	16777215	120
+2220	In each of these 3 positions, you tax your muscles slightly differently...	8	0	0	72	16777215	130
+2220	so varying your position during training like this is important	8	0	0	72	16777215	140
+2220	Almost time to go, start out relaxed	8	0	0	72	16777215	170
+2400	And if it helps, imagine you are climbing during this effort	8	0	0	72	16777215	0
+2580	A concern when in this position is your pedalstroke	8	0	0	72	16777215	0
+2580	With such an upright position, it is easy to mash the pedals	8	0	0	72	16777215	10
+2580	This is never a good idea, but it's especially likely in this position	8	0	0	72	16777215	20
+2580	Mashing will manifest in a bobbing & unstable torso	8	0	0	72	16777215	30
+2760	While in this position, make sure you're comfortable on the saddle	8	0	0	72	16777215	0
+2760	Don't roll your hips forward & avoid sliding to the nose	8	0	0	72	16777215	10
+2760	Make sure your sit bones carry your weight on the saddle	8	0	0	72	16777215	20
+2880	Almost there, stay strong yet relaxed!	8	0	0	72	16777215	0
+2925	Last kick, make it look effortless	5	0	0	72	16777215	0
+2940	Well done! Catch that breath	8	0	0	72	16777215	0
+2940	This next one is slightly shorter, so let's work in the drops	8	0	0	72	16777215	120
+2940	For some, this is the most infrequently used position	8	0	0	72	16777215	130
+2940	But if trained correctly, it can save a lot of energy you'd use battling the wind	8	0	0	72	16777215	140
+2940	10 seconds to go, start to drop into position	8	0	0	72	16777215	170
+3120	Make this first acceleration from the drops	8	0	0	72	16777215	35
+3165	Stay low, but not so low you can hit Target Power	8	0	0	72	16777215	0
+3240	An improper bike fit can be made evident while riding in the drops	8	0	0	72	16777215	0
+3240	But many confuse a lack of flexibility for a poor fit	8	0	0	72	16777215	10
+3240	Both are related, but remember...	8	0	0	72	16777215	20
+3240	it takes practice to be smooth & efficient while in the drops	8	0	0	72	16777215	30
+3360	Don't be afraid to experiment with hand position too	8	0	0	72	16777215	0
+3360	Slight changes in hand position can relieve discomfort...	8	0	0	72	16777215	10
+3360	and positively affect power output & stability	8	0	0	72	16777215	20
+3480	Don't let your cadence slow while in the drops	8	0	0	72	16777215	0
+3480	It can be hard to maintain a fast cadence, so focus!	8	0	0	72	16777215	10
+3540	Nicely done!	5	0	0	72	16777215	0
+3540	With those 3 positions out of the way, we only have 3 sets left!	8	0	0	72	16777215	10
+3540	During these final 3 sets, work on any position you wish...	8	0	0	72	16777215	120
+3540	but work on being more efficient, less wasteful	8	0	0	72	16777215	130
+3540	Drop your head & torso lower toward your bike...	8	0	0	72	16777215	140
+3540	relax and calm your torso as you pedal...	8	0	0	72	16777215	150
+3540	and smooth your pedalstroke as much as you can	8	0	0	72	16777215	160
+3720	Round 6, pick it up!	5	0	0	72	16777215	0
+3840	Remember, efficient is fast and anything you can do...	8	0	0	72	16777215	0
+3840	to save a little energy here & there...	8	0	0	72	16777215	10
+3840	can really add up over the course of a workout, outdoor ride or race	8	0	0	72	16777215	20
+3960	Smooth is fast, try to ditch any unnecessary tension	8	0	0	72	16777215	0
+4065	Last push! Make it look eeeeeasy	8	0	0	72	16777215	0
+4080	Spin those legs out and catch your breath	8	0	0	72	16777215	0
+4080	This is a tough set coming up so we'll take a different approach	8	0	0	72	16777215	60
+4080	While working on the position of your choice...	8	0	0	72	16777215	70
+4080	imagine you are in a rotating paceline with a few other riders	8	0	0	72	16777215	80
+4080	We'll focus on how to make a paceline faster during the set	8	0	0	72	16777215	150
+4080	While doing so, remember to stay in your position of choice	8	0	0	72	16777215	160
+4080	Oh, this time let's shoot for a steady 85-95rpm throughout	8	0	0	72	16777215	170
+4260	Pick it up!	5	0	0	72	16777215	0
+4260	It's you and 3 other riders in the paceline	8	0	0	72	16777215	10
+4260	This is a good number of riders if all of you are working together	8	0	0	72	16777215	20
+4260	Looks like we're getting close to your turn at the front	8	0	0	72	16777215	30
+4305	Your turn! Make sure you're in the drops	8	0	0	72	16777215	0
+4320	Good, now fall back in line	5	0	0	72	16777215	0
+4320	Remember that when it's your turn...	8	0	0	72	16777215	10
+4320	your goal shouldn't be to increase the pace	8	0	0	72	16777215	20
+4320	Instead, maintain the same speed despite greater wind resistance...	8	0	0	72	16777215	30
+4320	by holding your cadence steady	5	0	0	72	16777215	40
+4365	You're up! Same cadence, more power	8	0	0	72	16777215	0
+4380	Nice pull, slide to the back of the line now	8	0	0	72	16777215	0
+4380	When falling back, stay as close as possible to the other riders	8	0	0	72	16777215	10
+4380	Their draft extends laterally as well, so use every bit	8	0	0	72	16777215	20
+4425	Pull!	3	0	0	72	16777215	0
+4440	Stay close while falling back into line...	8	0	0	72	16777215	0
+4440	and make sure you are doing all you can to recover	8	0	0	72	16777215	10
+4440	Relax all unnecessary muscles, take deep breaths...	8	0	0	72	16777215	20
+4440	and maintain a quick cadence	5	0	0	72	16777215	30
+4485	Hard pull into the wind!	5	0	0	72	16777215	0
+4500	Slide to the back	5	0	0	72	16777215	0
+4500	When moving to the back, do so at a controlled rate	8	0	0	72	16777215	10
+4500	Don't hit your brakes but don't keep pushing a hard pace	8	0	0	72	16777215	20
+4500	Everybody needs to maintain the same rhythm	8	0	0	72	16777215	30
+4545	Your pull! Don't drop your breakmates	8	0	0	72	16777215	0
+4560	Work your way to the back	5	0	0	72	16777215	0
+4560	Once you're back in line, make sure your cadence is high	8	0	0	72	16777215	10
+4560	Not so high that you are unstable, but high enough to recover	8	0	0	72	16777215	20
+4605	Go!	3	0	0	72	16777215	0
+4620	Move to the back	5	0	0	72	16777215	0
+4620	Stay as close as is comfortable to the wheel in front of you	8	0	0	72	16777215	10
+4620	But if the rider is surging, keep a slight buffer to smooth the pace	8	0	0	72	16777215	20
+4620	Remember, smooth is fast and smooth is KEY to a paceline	8	0	0	72	16777215	30
+4665	Pick it up!	5	0	0	72	16777215	0
+4680	Drift to the back again	5	0	0	72	16777215	0
+4680	If you have a rider that is struggling in front of you...	8	0	0	72	16777215	10
+4680	encourage them to pull off and stay at the back to recover	8	0	0	72	16777215	20
+4680	Nothing is gained by having a paceline rider exhaust himself	8	0	0	72	16777215	30
+4725	Easier pull this time	5	0	0	72	16777215	0
+4740	Slide to the back	5	0	0	72	16777215	0
+4740	If you are the rider that needs to skip a few pulls...	8	0	0	72	16777215	10
+4740	let the riders who are going to the back of the line...	8	0	0	72	16777215	20
+4740	slide into position just in front of you	8	0	0	72	16777215	30
+4785	Last pull!	3	0	0	72	16777215	0
+4800	Very well done!	5	0	0	72	16777215	0
+4800	Take some time to breathe and spin easily	8	0	0	72	16777215	10
+4800	Here's our last set and it's a short one	8	0	0	72	16777215	150
+4800	Work on the position/technique of your choice	8	0	0	72	16777215	160
+4800	We'll be here to encourage you	5	0	0	72	16777215	170
+4980	Ramp it up!	5	0	0	72	16777215	0
+5025	Push!	3	0	0	72	16777215	0
+5040	Back it down	5	0	0	72	16777215	0
+5085	And pick it up again!	5	0	0	72	16777215	0
+5100	Remember, you've done this over 10 times today...	8	0	0	72	16777215	0
+5100	no problem handling just a few more	5	0	0	72	16777215	10
+5145	Big pull!	3	0	0	72	16777215	0
+5160	Hit your Target Power & maintain	5	0	0	72	16777215	0
+5160	Keep it up, almost done!	5	0	0	72	16777215	25
+5205	Just two surges left!	5	0	0	72	16777215	0
+5220	Strong, smooth & fast	5	0	0	72	16777215	0
+5220	Only one surge left, stay relaxed	5	0	0	72	16777215	25
+5265	Make it look easy!	5	0	0	72	16777215	0
+5280	Awesome job! Spin out the junk & slow your breathing	8	0	0	72	16777215	0
+5280	Big stress and lots of intensity today...	8	0	0	72	16777215	10
+5280	so make sure to cool down & get some recovery nutrition in you ASAP	8	0	0	72	16777215	20
+5280	We'll see you next time	8	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+240	285	Sweet Spot 1
+285	300	VO2 Max 1
+300	345	Sweet Spot 2
+345	360	VO2 Max 2
+360	405	Sweet Spot 3
+405	420	VO2 Max 3
+660	705	Sweet Spot 4
+705	720	VO2 Max 4
+720	765	Sweet Spot 5
+765	780	VO2 Max 5
+780	825	Threshold 1
+825	840	VO2 Max 6
+840	885	Threshold 2
+885	900	VO2 Max 7
+900	945	Sweet Spot 6
+945	960	VO2 Max 8
+960	1005	Sweet Spot 7
+1005	1020	VO2 Max 9
+1200	1245	Threshold 3
+1245	1260	VO2 Max 10
+1260	1305	Threshold 4
+1305	1320	VO2 Max 11
+1320	1365	Sweet Spot 8
+1365	1380	VO2 Max 12
+1380	1425	Threshold 5
+1425	1440	VO2 Max 13
+1440	1485	Sweet Spot 9
+1485	1500	VO2 Max 14
+1680	1725	Sweet Spot 10
+1725	1740	VO2 Max 15
+1740	1785	Threshold 6
+1785	1800	VO2 Max 16
+1800	1845	Threshold 7
+1845	1860	VO2 Max 17
+1860	1905	Threshold 8
+1905	1920	VO2 Max 18
+1920	1965	Sweet Spot 11
+1965	1980	VO2 Max 19
+1980	2025	Threshold 9
+2025	2040	VO2 Max 20
+2040	2085	Threshold 10
+2085	2100	VO2 Max 21
+2100	2145	Sweet Spot 12
+2145	2160	VO2 Max 22
+2160	2205	Threshold 11
+2205	2220	VO2 Max 23
+2400	2445	Sweet Spot 13
+2445	2460	VO2 Max 24
+2460	2505	Threshold 12
+2505	2520	VO2 Max 25
+2520	2565	Threshold 13
+2565	2580	VO2 Max 26
+2580	2625	Sweet Spot 14
+2625	2640	VO2 Max 27
+2640	2685	Threshold 14
+2685	2700	VO2 Max 28
+2700	2745	Threshold 15
+2745	2760	VO2 Max 29
+2760	2805	Threshold 16
+2805	2820	VO2 Max 30
+2820	2865	Sweet Spot 15
+2865	2880	VO2 Max 31
+2880	2925	Threshold 17
+2925	2940	VO2 Max 32
+3120	3165	Threshold 18
+3165	3180	VO2 Max 33
+3180	3225	Threshold 19
+3225	3240	VO2 Max 34
+3240	3285	Threshold 20
+3285	3300	VO2 Max 35
+3300	3345	Threshold 21
+3345	3360	VO2 Max 36
+3360	3405	Threshold 22
+3405	3420	VO2 Max 37
+3420	3465	Threshold 23
+3465	3480	VO2 Max 38
+3480	3525	Sweet Spot 16
+3525	3540	VO2 Max 39
+3720	3765	Sweet Spot 17
+3765	3780	VO2 Max 40
+3780	3825	Sweet Spot 18
+3825	3840	VO2 Max 41
+3840	3885	Threshold 24
+3885	3900	VO2 Max 42
+3900	3945	Threshold 25
+3945	3960	VO2 Max 43
+3960	4005	Sweet Spot 19
+4005	4020	VO2 Max 44
+4020	4065	Sweet Spot 20
+4065	4080	VO2 Max 45
+4260	4305	Sweet Spot 21
+4305	4320	VO2 Max 46
+4320	4365	Threshold 26
+4365	4380	VO2 Max 47
+4380	4425	Threshold 27
+4425	4440	VO2 Max 48
+4440	4485	Sweet Spot 22
+4485	4500	VO2 Max 49
+4500	4545	Threshold 28
+4545	4560	VO2 Max 50
+4560	4605	Threshold 29
+4605	4620	VO2 Max 51
+4620	4665	Threshold 30
+4665	4680	VO2 Max 52
+4680	4725	Sweet Spot 23
+4725	4740	VO2 Max 53
+4740	4785	Threshold 31
+4785	4800	VO2 Max 54
+4980	5025	Threshold 32
+5025	5040	VO2 Max 55
+5040	5085	Threshold 33
+5085	5100	VO2 Max 56
+5100	5145	Sweet Spot 24
+5145	5160	VO2 Max 57
+5160	5205	Threshold 34
+5205	5220	VO2 Max 58
+5220	5265	Sweet Spot 25
+5265	5280	VO2 Max 59
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

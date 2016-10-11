@@ -1,0 +1,271 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Picket Guard,92,126. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	95
+5.25	95
+5.25	105
+5.75	105
+5.75	95
+6.5	95
+6.5	105
+7	105
+7	40
+12	40
+12	95
+14	95
+14	105
+16	105
+16	95
+18	95
+18	105
+20	105
+20	95
+22	95
+22	105
+24	105
+24	40
+28	40
+28	95
+30	95
+30	105
+32	105
+32	95
+34	95
+34	105
+36	105
+36	95
+38	95
+38	105
+40	105
+40	40
+44	40
+44	95
+46	95
+46	105
+48	105
+48	95
+50	95
+50	105
+52	105
+52	95
+54	95
+54	105
+56	105
+56	40
+60	40
+60	95
+62	95
+62	105
+64	105
+64	95
+66	95
+66	105
+68	105
+68	95
+70	95
+70	105
+72	105
+72	40
+76	40
+76	95
+78	95
+78	105
+80	105
+80	95
+82	95
+82	105
+84	105
+84	95
+86	95
+86	105
+88	105
+88	40
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Today's workout consists of Over-Under intervals	8	0	0	72	16777215	10
+0	As the name implies, we'll be working slightly over & slightly under FTP	8	0	0	72	16777215	20
+0	Over-Unders put you in an uncomfortable place...	8	0	0	72	16777215	30
+0	in hopes of increasing both your ability to work near & above Threshold...	8	0	0	72	16777215	40
+0	as well as increasing your FTP itself	8	0	0	72	16777215	50
+0	You have five 12-minute Over-Under intervals ahead of you...	8	0	0	72	16777215	60
+0	and you'll alternate between 95 and 105% FTP every 2 minutes	8	0	0	72	16777215	70
+0	You'll then have 4 full minutes of recovery between each Over-Under	8	0	0	72	16777215	80
+0	3-minute clearing effort coming up in 30 seconds...	8	0	0	72	16777215	210
+0	make sure you're spinning in the 85-95rpm range	8	0	0	72	16777215	220
+315	During each warmup Over-segment, try to hold your cadence steady	8	0	0	72	16777215	0
+345	Less work, same fairly quick spin	8	0	0	72	16777215	0
+390	Last time, work a bit harder but hold your spin steady	8	0	0	72	16777215	0
+420	The objective of Over-Under intervals is to hone your ability...	8	0	0	72	16777215	10
+420	to handle changes in pace when you're already working hard	8	0	0	72	16777215	20
+420	The Over-segments will cause your legs to start flooding...	8	0	0	72	16777215	30
+420	but the Under-segments will allow you to barely clear the flooding	8	0	0	72	16777215	40
+420	Keep in mind that the Under-segments won't feel like recovery...	8	0	0	72	16777215	50
+420	so this will be a great opportunity to improve on working through the burn	8	0	0	72	16777215	60
+420	First 12-minute interval in 30 seconds	8	0	0	72	16777215	270
+420	Make sure your cadence is relatively high, between 85-95rpm	8	0	0	72	16777215	280
+720	And we're off! Take the first 45 seconds to find your cadence & settle in	8	0	0	72	16777215	0
+720	In 10 seconds, you'll head up to 105% FTP for 2 minutes	8	0	0	72	16777215	110
+840	Check to see if your cadence is still between 85-95rpm	8	0	0	72	16777215	60
+840	Shoot for a cadence more towards 95rpm than 85 if at all possible	8	0	0	72	16777215	70
+960	Back down to 95% FTP	8	0	0	72	16777215	0
+960	Your legs won't feel great, but they will slowly start to recover	8	0	0	72	16777215	10
+1080	2 more minutes at 105% FTP	8	0	0	72	16777215	0
+1080	Keep your upper body relaxed...	8	0	0	72	16777215	10
+1080	and focus on maintaining a proper pedalstroke	8	0	0	72	16777215	20
+1080	Kick & pull across the top and bottom of the stroke...	8	0	0	72	16777215	30
+1080	and don't let your heel drop on the downstroke	8	0	0	72	16777215	40
+1320	Stay strong for this final 2 minute Over-segment	8	0	0	72	16777215	0
+1320	You'll be able to enjoy a complete, 4-minute recovery soon!	8	0	0	72	16777215	10
+1440	One down! 4 easy minutes	8	0	0	72	16777215	3
+1440	We'll work on a bit of out-of-the saddle work during the next interval...	8	0	0	72	16777215	210
+1440	...but take the first couple of minutes to settle in while seated	8	0	0	72	16777215	220
+1680	Alright, let's get ready to make a smooth transition out of the saddle soon	8	0	0	72	16777215	90
+1680	We'll do it on the 30-minute mark	5	0	0	72	16777215	100
+1680	Either slow your spin if you're on an electronic trainer...	8	0	0	72	16777215	110
+1800	or shift up a couple gears & rise	8	0	0	72	16777215	0
+1800	Stand as long as you're able but sit before your form breaks down	8	0	0	72	16777215	10
+1800	You'll know your form is failing...	8	0	0	72	16777215	20
+1800	when your watts start to fluctuate more than usual	8	0	0	72	16777215	30
+1800	If you're too heavy on your handlebars...	8	0	0	72	16777215	40
+1800	and maybe you're "lumbering" from side to side...	8	0	0	72	16777215	50
+1800	it's time to correct the issue or return to the saddle	8	0	0	72	16777215	60
+1800	Anytime your form slips, you're welcome to sit down for a bit...	8	0	0	72	16777215	70
+1800	and stand back up when you're confident & ready	8	0	0	72	16777215	80
+1920	Nice! Back in the saddle for 2 minutes	8	0	0	72	16777215	0
+2040	Stand up!	8	0	0	72	16777215	0
+2040	Make sure your cadence isn't dropping below 65 RPM	8	0	0	72	16777215	10
+2040	Remember to sit down and regain your form if/when it slips	8	0	0	72	16777215	20
+2040	If you FEEL sloppy, you probably ARE sloppy - have a seat ;-)	8	0	0	72	16777215	30
+2160	And back in the saddle again	8	0	0	72	16777215	0
+2280	Last 2 minutes! Go ahead and stand if you feel you can do it well	8	0	0	72	16777215	0
+2400	Well done! 4 minutes to rest	8	0	0	72	16777215	3
+2400	We'll work on a few cadence drills during the final interval	8	0	0	72	16777215	270
+2400	But take the first 2 minutes to settle in between 85-95rpm	8	0	0	72	16777215	280
+2640	We'll work on a slightly higher-than-usual cadence for this first Over-segment	8	0	0	72	16777215	90
+2640	Shoot for an rpm increase of 5-10rpm, but don't get crazy...	8	0	0	72	16777215	100
+2640	just bring it up above what you consider a comfortable spin	8	0	0	72	16777215	110
+2760	Find a faster-than-usual spin that you can maintain for 2 minutes...	8	0	0	72	16777215	0
+2760	...but also a cadence that you can easily control	8	0	0	72	16777215	10
+2760	Make sure you're not bouncing in the saddle	8	0	0	72	16777215	20
+2760	One more minute of quick legs	8	0	0	72	16777215	60
+2880	Ease up on the cadence, find your comfortable spin	8	0	0	72	16777215	0
+2880	We'll do some slow-cadence work on the 52-minute mark	8	0	0	72	16777215	90
+2880	Shoot for something below 80rpm....	8	0	0	72	16777215	100
+2880	...as long as you don't experience ANY knee pain	8	0	0	72	16777215	110
+3000	Find your gearing and bring the cadence down...	8	0	0	72	16777215	0
+3000	as low you can manage without losing your form or Target Power	8	0	0	72	16777215	10
+3000	30 more seconds of slow-cadence work	8	0	0	72	16777215	90
+3120	And back to a comfortable cadence	8	0	0	72	16777215	0
+3120	We'll break this final 2 minutes into both...	8	0	0	72	16777215	90
+3120	...a fast-cadence portion & a slow-cadence portion	8	0	0	72	16777215	100
+3240	We'll start with a higher-than-usual cadence	8	0	0	72	16777215	0
+3240	100+rpm is ideal...	8	0	0	72	16777215	10
+3240	but simply pedaling out of your comfort zone is beneficial	8	0	0	72	16777215	20
+3240	Begin slowing your cadence down...	8	0	0	72	16777215	50
+3240	and settle into a slower cadence for the final minute...	8	0	0	72	16777215	60
+3240	as long as you're able to maintain pain-free form	8	0	0	72	16777215	70
+3360	Excellent job! 4, easy minutes	8	0	0	72	16777215	0
+3360	We'll work on more out-of-the saddle drills during the next interval...	8	0	0	72	16777215	210
+3360	but once again, spend the first 2 minutes seated	8	0	0	72	16777215	220
+3600	Let's stand in about 30 seconds	8	0	0	72	16777215	90
+3600	Make sure that when you make the transition out of the saddle...	8	0	0	72	16777215	100
+3600	...that you don't shift all of your weight from your saddle to your hands	8	0	0	72	16777215	110
+3720	Slowly rise out of the saddle...	8	0	0	72	16777215	0
+3720	making sure you're "floating" just an inch or two above your saddle	8	0	0	72	16777215	10
+3720	Floating just above your saddle...	6	0	0	72	16777215	20
+3720	will ensure that you're more balanced & not too heavy on your hands	8	0	0	72	16777215	28
+3720	Start brining your cadence up in preparation for sitting down	8	0	0	72	16777215	110
+3840	And gently sit back down, we'll stay here for 2 minutes	8	0	0	72	16777215	0
+3840	We'll stand again in about 30 seconds	8	0	0	72	16777215	90
+3840	Start finding your standing cadence, probably between 65-85rpm	8	0	0	72	16777215	100
+3840	then make your most seamless transition up	8	0	0	72	16777215	110
+3960	Smoothly rise out of the saddle	8	0	0	72	16777215	0
+3960	Don't forget to sit down for 10-30 seconds if/when your form fails or watts drop	8	0	0	72	16777215	60
+4080	Gently back down	8	0	0	72	16777215	0
+4080	Final standing segment  coming up	8	0	0	72	16777215	100
+4080	Find your standing cadence...	8	0	0	72	16777215	110
+4200	and come on up!	6	0	0	72	16777215	0
+4320	Well done! Do your best to keep the pedals turning forward for at least another 30 seconds	8	0	0	72	16777215	0
+4320	We'll do more cadence manipulation during the final interval	8	0	0	72	16777215	210
+4560	Let's work on a slightly higher-than-usual cadence for this first Over-segment	8	0	0	72	16777215	90
+4560	Shoot for a cadence increase of 5-10rpm...	8	0	0	72	16777215	100
+4560	just above what is normally a comfortable spin	8	0	0	72	16777215	110
+4680	Find a quicker-than-usual cadence that you can maintain for 2 minutes...	8	0	0	72	16777215	0
+4680	...and a cadence that you can easily control	8	0	0	72	16777215	10
+4680	Make sure you're not bouncing in the saddle	8	0	0	72	16777215	20
+4680	One more minute of quick legs	8	0	0	72	16777215	60
+4800	Ease up on the cadence & find your comfortable spin	8	0	0	72	16777215	0
+4800	We'll do some slow-cadence work on the 52-minute mark	8	0	0	72	16777215	90
+4800	Shoot for something below 80rpm...	8	0	0	72	16777215	100
+4800	as long as there's NO sign of knee pain	8	0	0	72	16777215	110
+4920	Find your gearing, and bring the cadence down...	8	0	0	72	16777215	0
+4920	as low you can manage without losing your form or power	8	0	0	72	16777215	10
+4920	30 more seconds of slow-cadence work	8	0	0	72	16777215	90
+5040	Annnd back to a comfortable cadence	8	0	0	72	16777215	0
+5040	We'll break this final 2 minutes into both...	8	0	0	72	16777215	90
+5040	...a fast-cadence portion & a slow-cadence portion	8	0	0	72	16777215	100
+5160	Start with a higher-than-usual cadence	8	0	0	72	16777215	0
+5160	100+rpm is a good goal...	8	0	0	72	16777215	10
+5160	but simply pedaling out of your comfort zone is beneficial	8	0	0	72	16777215	20
+5160	Begin slowing your cadence down	8	0	0	72	16777215	50
+5160	Settle into a slower cadence for the final minute...	8	0	0	72	16777215	60
+5160	as long as you're able to maintain pain-free form	8	0	0	72	16777215	70
+5280	Excellent job!	8	0	0	72	16777215	0
+5280	There's only 2 minutes of cool down on the clock...	8	0	0	72	16777215	10
+5280	which may not be enough for some riders	8	0	0	72	16777215	20
+5280	Feel free to continue to spin after the clock runs down...	8	0	0	72	16777215	30
+5280	or even open up a Free Ride & clear those legs for another 10-30 minutes	8	0	0	72	16777215	40
+5280	We'll see you next time	8	0	0	72	16777215	50
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+240	315	Sweet Spot 1
+315	345	Threshold 1
+345	390	Sweet Spot 2
+390	420	Threshold 2
+720	840	Sweet Spot 3
+840	960	Threshold 3
+960	1080	Sweet Spot 4
+1080	1200	Threshold 4
+1200	1320	Sweet Spot 5
+1320	1440	Threshold 5
+1680	1800	Sweet Spot 6
+1800	1920	Threshold 6
+1920	2040	Sweet Spot 7
+2040	2160	Threshold 7
+2160	2280	Sweet Spot 8
+2280	2400	Threshold 8
+2640	2760	Sweet Spot 9
+2760	2880	Threshold 9
+2880	3000	Sweet Spot 10
+3000	3120	Threshold 10
+3120	3240	Sweet Spot 11
+3240	3360	Threshold 11
+3600	3720	Sweet Spot 12
+3720	3840	Threshold 12
+3840	3960	Sweet Spot 13
+3960	4080	Threshold 13
+4080	4200	Sweet Spot 14
+4200	4320	Threshold 14
+4560	4680	Sweet Spot 15
+4680	4800	Threshold 15
+4800	4920	Sweet Spot 16
+4920	5040	Threshold 16
+5040	5160	Sweet Spot 17
+5160	5280	Threshold 17
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

@@ -1,0 +1,116 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Passadumkeag,81,98. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+8	70
+8	70
+13	70
+13	180
+13.16	180
+13.16	20
+14	60
+14	60
+19	60
+19	190
+19.16	190
+19.16	20
+20	65
+20	65
+25	65
+25	200
+25.16	200
+25.16	20
+26	55
+26	55
+31	55
+31	55
+31.5	85
+31.5	85
+47.5	85
+47.5	85
+48	65
+48	65
+53	65
+53	65
+53.5	95
+53.5	95
+65.5	95
+65.5	95
+66	55
+66	55
+71	55
+71	55
+71.5	85
+71.5	85
+85.5	85
+85.5	85
+86	40
+86	40
+90	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+480	In a couple minutes, you'll perform your first Strength Sprint	8	0	0	72	16777215	180
+480	These are best done from a standing start	8	0	0	72	16777215	190
+480	But this assumes your knees can handle the stress	8	0	0	72	16777215	200
+480	If not, just use a flying start at 50-60rpm	8	0	0	72	16777215	210
+480	You'll try to turn over the biggest gear you can control	8	0	0	72	16777215	220
+480	So big that you can't reach 90rpm before the sprint ends	8	0	0	72	16777215	230
+480	Your hands belong in the drops and your body will be low	8	0	0	72	16777215	240
+480	The idea is to generate a LOT of force & use a LOT of muscle	8	0	0	72	16777215	250
+480	So you'll pull on the bars & stomp on the pedals...	8	0	0	72	16777215	260
+480	But be kind to your bike!	8	0	0	72	16777215	270
+480	Slow things down...	8	0	0	72	16777215	280
+480	Even slower or come to a full stop...	8	0	0	72	16777215	290
+780	Stand & Hammer!	10	0	0	72	16777215	0
+790	One down! Did you reach 90rpm?	8	0	0	72	16777215	5
+790	If you did, try an even bigger gear next time	8	0	0	72	16777215	15
+790	Assuming you experienced ZERO knee discomfort	8	0	0	72	16777215	25
+840	Another sprint in 2 minutes	8	0	0	72	16777215	180
+840	Plan your gearing & if you're using a CompuTrainer or KICKR...	8	0	0	72	16777215	190
+840	Consider switching over to Slope Mode for some/all of these	8	0	0	72	16777215	200
+840	Especially if you can sprint harder than 180% FTP	8	0	0	72	16777215	210
+840	Get ready...	8	0	0	72	16777215	290
+1140	Stand & Stomp!	10	0	0	72	16777215	0
+1150	Two down! Did you get on top of it?	8	0	0	72	16777215	5
+1150	If so, bigger gear next time!	8	0	0	72	16777215	15
+1200	2 minutes out from another Strength Sprint	8	0	0	72	16777215	180
+1200	Try to utilize the form you learned during your Form Sprints	8	0	0	72	16777215	190
+1200	Only in slow motion, but just as pretty	8	0	0	72	16777215	200
+1200	Start to slow things down	8	0	0	72	16777215	280
+1200	In 10...get ready!	8	0	0	72	16777215	290
+1500	Stand & drive your feet down!	10	0	0	72	16777215	0
+1510	That's 3. Take your time working back up to speed	8	0	0	72	16777215	5
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+0	480	Endurance 1
+480	780	Endurance 2
+780	790	Sprint 1
+840	1140	Endurance 3
+1140	1150	Sprint 2
+1200	1500	Endurance 4
+1500	1510	Sprint 3
+1560	1860	Endurance 5
+1860	1890	Endurance 6
+1890	2850	Sweet Spot 1
+2850	2880	Endurance 7
+2880	3180	Endurance 8
+3180	3210	Tempo 1
+3210	3930	Sweet Spot 2
+3930	3960	Endurance 9
+3960	4260	Endurance 10
+4260	4290	Endurance 11
+4290	5130	Sweet Spot 3
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

@@ -1,0 +1,421 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Powell,95,137. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+7	50
+7	90
+10	100
+10	40
+13	40
+13	110
+14	110
+14	40
+15	40
+15	120
+16	120
+16	40
+20	40
+20	105
+23	105
+23	40
+27	40
+27	110
+30	110
+30	40
+32	40
+32	110
+35	110
+35	40
+37	40
+37	110
+40	110
+40	40
+42	40
+42	115
+45	115
+45	40
+47	40
+47	115
+50	115
+50	40
+52	40
+52	115
+55	115
+55	40
+57	40
+57	120
+60	120
+60	41
+62	41
+62	120
+65	120
+65	40
+67	40
+67	120
+70	120
+70	40
+72	40
+72	125
+75	125
+75	40
+77	40
+77	125
+80	125
+80	40
+82	40
+82	125
+85	125
+85	40
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Fun workout on tap today!	8	0	0	72	16777215	60
+0	Fun if you enjoy suffering...	8	0	0	72	16777215	70
+0	but suffering with a purpose	8	0	0	72	16777215	80
+0	and consequently being fast enough to make others suffer	8	0	0	72	16777215	90
+0	If this is you, and I suspect it is...	8	0	0	72	16777215	100
+0	get ready for some highly aerobic, 3-minute forays into discomfort	8	0	0	72	16777215	110
+0	More on these later, for now just continue warming	8	0	0	72	16777215	120
+0	Today's warmup is thorough which usually indicates good stuff awaits	8	0	0	72	16777215	360
+0	In today's case, high intensity stuff	8	0	0	72	16777215	370
+0	Specifically, High Intensity Interval Training...	8	0	0	72	16777215	380
+0	also referred to as HIIT or simply HIT	8	0	0	72	16777215	390
+0	Most of today's work will be high-cadence...	8	0	0	72	16777215	400
+0	and the warmup is no exception, pick it up	8	0	0	72	16777215	410
+420	Try to keep your spin quick & light...	8	0	0	72	16777215	0
+420	but not so quick you cook your legs with speed	8	0	0	72	16777215	10
+420	Shoot for 90rpm or higher, but if you're not used to spinning that quick...	8	0	0	72	16777215	20
+420	just spin as quickly as you can control for a couple more minutes	8	0	0	72	16777215	30
+600	Slow your spin a bit & settle into something that feels natural...	8	0	0	72	16777215	0
+600	but keep your legs moving while you lower your breathing	8	0	0	72	16777215	10
+600	A couple slightly tougher, more specific warmup efforts up next	8	0	0	72	16777215	120
+600	These are right in line with the sort of watts you'll shoot for today	8	0	0	72	16777215	130
+600	And with a quick spin they'll be in line with the cadences we're looking for	8	0	0	72	16777215	140
+600	If possible, spin above 100rpm for the rest of today's intervals	8	0	0	72	16777215	150
+600	But this has to be a reasonable cadence for you...	8	0	0	72	16777215	160
+600	one that's sustainable, repeatable & doesn't include bouncing	8	0	0	72	16777215	170
+780	Nice & quick	8	0	0	72	16777215	0
+840	Excellent, slow your spin but keep pedaling	8	0	0	72	16777215	0
+840	That was 1 minute at today's lowest intensity	8	0	0	72	16777215	10
+840	Up next is 1 minute at today's highest power output...	8	0	0	72	16777215	20
+840	but there's wiggle room if neither of these effort levels work	8	0	0	72	16777215	30
+840	Bring your spin up again, 100+rpm	8	0	0	72	16777215	50
+900	Keep that quick spin, stay relaxed	8	0	0	72	16777215	0
+900	30 more seconds, smooth & relaxed	8	0	0	72	16777215	30
+960	Nicely done, spin out the heaviness...	8	0	0	72	16777215	0
+960	and draw big, full, belly breaths	8	0	0	72	16777215	10
+960	Establish this habit now because it's going to be vital later	8	0	0	72	16777215	20
+960	Aerobic Capacity work, or VO2max efforts...	8	0	0	72	16777215	30
+960	live up to their name in that they'll challenge your breathing capacity...	8	0	0	72	16777215	40
+960	and they could even lead to improvements in that very capacity	8	0	0	72	16777215	50
+960	They can also result in increased work capabilities	8	0	0	72	16777215	60
+960	All it takes is consistency & proper recovery, it's really that simple	8	0	0	72	16777215	70
+960	Challenge your body's current capabilities, rest, get stronger	8	0	0	72	16777215	80
+960	This first interval is still actually part of the warmup...	8	0	0	72	16777215	150
+960	but it's useful in how it will help you determine your repeatable power	8	0	0	72	16777215	160
+960	The goal is to complete each of the upcoming 12 intervals...	8	0	0	72	16777215	170
+960	no ducking out early, no blowing up 3 intervals in	8	0	0	72	16777215	180
+960	We're looking to maximize your time at a very particular intensity...	8	0	0	72	16777215	190
+960	and this won't happen if you have to skip intervals or exit them early...	8	0	0	72	16777215	200
+960	only because your capablities don't match the workout's structure	8	0	0	72	16777215	210
+960	So we're going to tailor the structure a little bit if necessary	8	0	0	72	16777215	220
+960	Quick, sustainable spin, 90-100rpm	8	0	0	72	16777215	230
+1200	Start breathing fully, right away	8	0	0	72	16777215	0
+1200	Is your spin closer to 90rpm than 100?	8	0	0	72	16777215	60
+1200	Try to pick it up a bit, get as close to 100rpm as you can	8	0	0	72	16777215	70
+1200	Ideally, intervals like these will fall somewhere in the 100-120rpm range	8	0	0	72	16777215	80
+1200	Because with resistance so high, we want to make each pedalstroke...	8	0	0	72	16777215	90
+1200	quick & low cost in terms of energy use	8	0	0	72	16777215	100
+1200	We do this by spinning quickly & breathing well	8	0	0	72	16777215	110
+1200	Thus helping our muscles learn to "prefer" oxygen over precious sugar	8	0	0	72	16777215	120
+1200	30 seconds, hang in there & stay focused	8	0	0	72	16777215	150
+1380	Excellent, bring your breathing & heart rate back down...	8	0	0	72	16777215	0
+1380	and clear that residual burn in your legs	8	0	0	72	16777215	10
+1380	So there you have it, 3 minutes a bit above FTP	8	0	0	72	16777215	60
+1380	Not quite as far above FTP as today's work sets...	8	0	0	72	16777215	70
+1380	but pretty close, close enough for you to make a decision	8	0	0	72	16777215	80
+1380	Can you add a little more power, just 5% and still survive for 3 minutes?	8	0	0	72	16777215	90
+1380	If so, great - you're in the right place	8	0	0	72	16777215	100
+1380	If not, maybe you just need more warmup...	8	0	0	72	16777215	110
+1380	or maybe you're simply too fatigued for VO2max work today	8	0	0	72	16777215	120
+1380	In either case, try the first interval or two before you change your workout plan	8	0	0	72	16777215	130
+1380	Much like that final warmup interval, shoot for a quick spin	8	0	0	72	16777215	180
+1380	Quick enough to keep the muscles stress down slightly...	8	0	0	72	16777215	190
+1380	but not so quick that it leads you to pant like a dog	8	0	0	72	16777215	200
+1620	Quick, controlled, relaxed	8	0	0	72	16777215	0
+1620	One minute in, make sure your breaths are full ones...	8	0	0	72	16777215	60
+1620	and make sure they come from your belly	8	0	0	72	16777215	70
+1620	Full inhale, full exhale, both active efforts	8	0	0	72	16777215	80
+1620	By focusing on the quality of your breathing...	8	0	0	72	16777215	90
+1620	you not only have a higher chance of surviving each 3-minute effort...	8	0	0	72	16777215	100
+1620	but it's a good distraction from the mounting pain in your legs & lungs	8	0	0	72	16777215	110
+1620	But forget I said that!	8	0	0	72	16777215	120
+1620	And focus on your big, belly breaths	8	0	0	72	16777215	130
+1620	30 seconds, finish perfectly!	8	0	0	72	16777215	150
+1620	20, as smooth as ever	8	0	0	72	16777215	160
+1620	Final 10, no quitting early!	8	0	0	72	16777215	170
+1800	Excellent! Make the most of a short break	8	0	0	72	16777215	0
+1800	Best to keep your legs turning, but if you need more of a break...	8	0	0	72	16777215	10
+1800	wait 30 seconds then revisit your "need"	8	0	0	72	16777215	20
+1800	Recovery will come if you're patient...	8	0	0	72	16777215	30
+1800	you don't necessarily need to cease all work just to huff & puff	8	0	0	72	16777215	40
+1800	Keep working, lightly, and keep breathing fully	8	0	0	72	16777215	50
+1800	No suprises with this next interval...	8	0	0	72	16777215	90
+1800	except maybe for the way your legs will get heavy a little earlier	8	0	0	72	16777215	100
+1800	Nothing that's gonna stop you though! ;)	8	0	0	72	16777215	110
+1920	Spin quickly, breathe fully	8	0	0	72	16777215	0
+1920	First minute down, drop your shoulders, soften your elbows...	8	0	0	72	16777215	60
+1920	and recognize something motivating & important	8	0	0	72	16777215	70
+1920	Each minute you hang in there is more valuable than the minute before it	8	0	0	72	16777215	80
+1920	Your breathing is high, your muscles are gulping down oxygen...	8	0	0	72	16777215	90
+1920	and your body is experiencing exactly the sort of work we want from it	8	0	0	72	16777215	100
+1920	Most important minute yet!	8	0	0	72	16777215	120
+1920	Keep your form, keep your spin...	8	0	0	72	16777215	130
+1920	and don't tense up...RELAX	8	0	0	72	16777215	140
+1920	Final 30!	8	0	0	72	16777215	150
+1920	20, don't quit early	8	0	0	72	16777215	160
+1920	10 seconds! Make each one matter	8	0	0	72	16777215	170
+2100	Good! Especially if you didn't bail 2 or 3 seconds early	8	0	0	72	16777215	0
+2100	If you did, well...you know who you are - shameful!	8	0	0	72	16777215	10
+2100	Kidding, mostly...	8	0	0	72	16777215	20
+2100	those final seconds, when you just want to quit...	8	0	0	72	16777215	30
+2100	when you think you can't tolerate the pain any longer...	8	0	0	72	16777215	40
+2100	those are the moments that yield the greatest benefit	8	0	0	72	16777215	50
+2100	Those moments are full of the messages your body needs...	8	0	0	72	16777215	60
+2100	to kick off the fitness adaptations we're all seeking	8	0	0	72	16777215	70
+2100	So make every...second...matter	8	0	0	72	16777215	80
+2100	Next one in 30...	8	0	0	72	16777215	90
+2100	Bummer how quickly these recovery intervals blow by, right?	8	0	0	72	16777215	100
+2100	there's a reason for their brief nature, bring up your spin	8	0	0	72	16777215	110
+2220	Find your cadence, start your full breaths	8	0	0	72	16777215	0
+2220	Each interval will probably reach that point of discomfort...	8	0	0	72	16777215	10
+2220	a little sooner than the one that came before it	8	0	0	72	16777215	20
+2220	this is all due to the short recoveries between intervals	8	0	0	72	16777215	30
+2220	By limiting their duration, your respiration rate never returns to normal...	8	0	0	72	16777215	40
+2220	in fact, it will stay quite elevated which helps you achieve...	8	0	0	72	16777215	50
+2220	that higher work rate easier, which in turn...	8	0	0	72	16777215	60
+2220	means you spend more time at that higher work rate	8	0	0	72	16777215	70
+2220	So really, each subsequent interval is more productive than its predecessor...	8	0	0	72	16777215	80
+2220	but more uncomfortable too, or equally as painful, just earlier on	8	0	0	72	16777215	90
+2220	Not exactly bolstering your confidence, is this?	8	0	0	72	16777215	100
+2220	But that's the tradeoff, that's what makes intervals so effective	8	0	0	72	16777215	110
+2220	Final minute, keep it steady!	8	0	0	72	16777215	120
+2220	Each 10 seconds you hang on will make you faster...	8	0	0	72	16777215	130
+2220	stronger, tougher, fitter	8	0	0	72	16777215	140
+2220	30 to go! Start with 10 seconds	8	0	0	72	16777215	150
+2220	Good, another 10!	8	0	0	72	16777215	160
+2220	Nice, one more 10!	8	0	0	72	16777215	170
+2400	Very well done, keep your legs moving...	8	0	0	72	16777215	0
+2400	forward if possible, backward if necessary	8	0	0	72	16777215	10
+2400	Backpedaling speeds recovery more than easy spinning...	8	0	0	72	16777215	20
+2400	and it keeps your muslces more active than sitting still	8	0	0	72	16777215	30
+2400	Time to step things up a bit, just another 5%	8	0	0	72	16777215	60
+2400	If you survived all 3 of the last set of intervals...	8	0	0	72	16777215	70
+2400	now's your chance to further the challenge	8	0	0	72	16777215	80
+2400	If you bailed early, lost your form, skipped any portion of them...	8	0	0	72	16777215	90
+2400	reduce the Workout Intensity by 5%	8	0	0	72	16777215	100
+2400	Get ready to roll...	8	0	0	72	16777215	110
+2520	Quick, sustainable spin...	8	0	0	72	16777215	0
+2520	and long, deep breaths	8	0	0	72	16777215	10
+2520	First minute down, keep your spin steady	8	0	0	72	16777215	60
+2520	This is only a slight bump in effort, so don't talk yourself out of anything	8	0	0	72	16777215	70
+2520	You can do this, you can probably do far more than you know	8	0	0	72	16777215	80
+2520	Halfway!	8	0	0	72	16777215	90
+2520	Final minute, most rewarding 60 seconds of work yet!	8	0	0	72	16777215	120
+2520	10, 10 & 10!	8	0	0	72	16777215	150
+2520	Another 10! That's all you care about	8	0	0	72	16777215	160
+2520	Final 10, steady as when you started	8	0	0	72	16777215	170
+2700	Excellent, catch your breath	8	0	0	72	16777215	0
+2700	If you finished that one, shoot for another	8	0	0	72	16777215	60
+2700	Bailed early? Try to last longer this time	8	0	0	72	16777215	70
+2700	You're likely to recognize something interesting about these intervals...	8	0	0	72	16777215	80
+2700	as you perform more of them	8	0	0	72	16777215	90
+2700	They kinda have a pain-plateau	8	0	0	72	16777215	100
+2700	Pick up your spin & I'll explain	8	0	0	72	16777215	110
+2820	As you get more tired, the pain reaches its high point sooner	8	0	0	72	16777215	0
+2820	but this high pain-point is both tolerable & somewhat stable	8	0	0	72	16777215	10
+2820	The intervals don't really get more painful...	8	0	0	72	16777215	20
+2820	you just get tired of abiding the pain & become distracted or focused on the end	8	0	0	72	16777215	30
+2820	but as soon as you disconnect, everything seems harder	8	0	0	72	16777215	40
+2820	Your body can do this, your legs are up to the challenge...	8	0	0	72	16777215	40
+2820	so stay focused & know the pain will level off...	8	0	0	72	16777215	50
+2820	and when it does, your job is to stay focused...	8	0	0	72	16777215	60
+2820	because a slip in focus is costly in terms of form & energy	8	0	0	72	16777215	90
+2820	So focus on breathing well...	8	0	0	72	16777215	100
+2820	focus on a fluid pedalstroke...	8	0	0	72	16777215	110
+2820	focus on kicking & pulling...	8	0	0	72	16777215	120
+2820	focus on something productive but not too distracting	8	0	0	72	16777215	130
+2820	30 seconds! 10, 10 & 10	8	0	0	72	16777215	150
+2820	10 more!	8	0	0	72	16777215	160
+2820	Final 10! ALL 10 seconds...	8	0	0	72	16777215	170
+3000	Nicely done	8	0	0	72	16777215	0
+3000	One more in this set, focus on just this next 3 minutes	8	0	0	72	16777215	60
+3000	We doom ourselves when we get ahead of ourselves	8	0	0	72	16777215	70
+3000	It's really easy to talk yourself out of the work at hand...	8	0	0	72	16777215	80
+3000	when you're stressing over the work that still lies ahead	8	0	0	72	16777215	90
+3000	So just focus on the interval you're riding, the minute ahead...	8	0	0	72	16777215	100
+3000	maybe the next 30 seconds...or 10?	8	0	0	72	16777215	110
+3120	But ride each of these as though nothing lies beyond it	8	0	0	72	16777215	0
+3120	There's nothing to be gained by splitting your attention...	8	0	0	72	16777215	10
+3120	and tons to be gained by focusing on what's RIGHT NOW	8	0	0	72	16777215	20
+3120	Focus for another 30 seconds	8	0	0	72	16777215	30
+3120	Good, now another minute of focus...	8	0	0	72	16777215	60
+3120	maybe on your kick & pull - toes forward, heels backward	8	0	0	72	16777215	70
+3120	Try to unweight your downstroke a little...	8	0	0	72	16777215	80
+3120	or a lot, especially if you think you might be mashing	8	0	0	72	16777215	90
+3120	If all your power is coming from driving your feet down, you're mashing...	8	0	0	72	16777215	100
+3120	share the work with the rest of your legs	8	0	0	72	16777215	110
+3120	Final minute, just focus on these next 30 seconds...	8	0	0	72	16777215	120
+3120	and breathe especially well	8	0	0	72	16777215	130
+3120	Fill your lungs, actively clear them back out	8	0	0	72	16777215	140
+3120	30 seconds, 10 seconds at a time...	8	0	0	72	16777215	150
+3120	10 more...	8	0	0	72	16777215	160
+3120	Final 10!	8	0	0	72	16777215	170
+3300	Nice! 2 sets out of the way	8	0	0	72	16777215	0
+3300	Same guidelines as last time with this next set	8	0	0	72	16777215	60
+3300	You can target the 5% increase if you're completing each interval...	8	0	0	72	16777215	70
+3300	but you need to drop the Workout Intensity by 5%...	8	0	0	72	16777215	80
+3300	if you're bailing early, you feel sloppy, or your watts are way off target	8	0	0	72	16777215	90
+3300	Repeatable power is the primary objective today...	8	0	0	72	16777215	100
+3300	whether it's repeatable at 110% or 125% FTP depends on a few things...	8	0	0	72	16777215	110
+3420	your experience level, your current fitness, your deeper fitness...	8	0	0	72	16777215	0
+3420	even your level of freshness at the start of today's workout	8	0	0	72	16777215	10
+3420	So whatever it is today, once you've found it, that's your ceiling...	8	0	0	72	16777215	20
+3420	today...your last or next workout could be different	8	0	0	72	16777215	30
+3420	First minute behind you, this increase is no problem!	8	0	0	72	16777215	60
+3420	Halfway, make those breaths big ones...	8	0	0	72	16777215	90
+3420	and make the exhales even bigger, clear that used air	8	0	0	72	16777215	100
+3420	Get rid of the junk so your muscles can keep doing their jobs	8	0	0	72	16777215	110
+3420	Final minute! Shoot for 30 pretty seconds	8	0	0	72	16777215	120
+3420	Pretty in that you look relaxed, fluid, calm	8	0	0	72	16777215	130
+3420	Final 30 seconds! Get through 10 of it	8	0	0	72	16777215	150
+3420	Another 10...	8	0	0	72	16777215	160
+3420	One last 10 seconds!	8	0	0	72	16777215	170
+3600	Really nice, spin it out	8	0	0	72	16777215	0
+3600	Almost time to go again...	8	0	0	72	16777215	60
+3600	see if you can drop your HR even more	8	0	0	72	16777215	70
+3600	These short breaks are unforgiving if you're aerobic system needs work...	8	0	0	72	16777215	80
+3600	a little mean even if you're in excellent aerobic shape	8	0	0	72	16777215	90
+3600	So do your best to soak up every second of active rest	8	0	0	72	16777215	100
+3600	Get ready...	8	0	0	72	16777215	110
+3720	Find that 100+rpm spin & settle in	8	0	0	72	16777215	0
+3720	Let's add some optional drills for the last 2 minutes of this one	8	0	0	72	16777215	30
+3720	I'll describe some 1-arm efforts...	8	0	0	72	16777215	40
+3720	you decide if they're productively distracting or simply distracting	8	0	0	72	16777215	50
+3720	Keep your spin & raise one hand off your bars	8	0	0	72	16777215	60
+3720	BARELY raise it or even simply unweight it & keep your body in the same position	8	0	0	72	16777215	70
+3720	Don't lean to one side, don't get all sloppy with your pedaling	8	0	0	72	16777215	80
+3720	And switch hands	8	0	0	72	16777215	90
+3720	Raise it slightly above where you had it...	8	0	0	72	16777215	100
+3720	or just make it as light as possible on the handlebars	8	0	0	72	16777215	110
+3720	Switch again...	8	0	0	72	16777215	120
+3720	same body position, only 1 arm's worth of support	8	0	0	72	16777215	130
+3720	Make your midsection & hips responsible for supporting your upper body	8	0	0	72	16777215	140
+3720	Switch arms one last time...	8	0	0	72	16777215	150
+3720	but don't shift your body weight or position	8	0	0	72	16777215	160
+3720	Final 10 seconds!	8	0	0	72	16777215	170
+3900	Did that interval sneak by?	8	0	0	72	16777215	0
+3900	It's amazing how a little distraction can make help pass the time...	8	0	0	72	16777215	10
+3900	and the pain ;)	8	0	0	72	16777215	20
+3900	Final interval in this penultimate set...	8	0	0	72	16777215	90
+3900	raise your spin, calm your breathing even more...	8	0	0	72	16777215	100
+3900	and get ready for some more 1-arm drills	8	0	0	72	16777215	110
+4020	One hand up, 30 seconds	8	0	0	72	16777215	0
+4020	Switch hands gracefully, no drop in power	8	0	0	72	16777215	30
+4020	Switch hands again, 20 seconds	8	0	0	72	16777215	60
+4020	Switch again, 20 seconds	8	0	0	72	16777215	80
+4020	These efforts aren't hard enough for you to pull your bars...	8	0	0	72	16777215	90
+4020	Switch	8	0	0	72	16777215	100
+4020	So get used to creating stability with your body...	8	0	0	72	16777215	110
+4020	Switch	8	0	0	72	16777215	120
+4020	Because stabilizing with your hands, arms, shoulders...	8	0	0	72	16777215	130
+4020	Switch	8	0	0	72	16777215	140
+4020	Can spell disaster when riding outdoors	8	0	0	72	16777215	150
+4020	Switch	8	0	0	72	16777215	160
+4020	Final 10 seconds!	8	0	0	72	16777215	170
+4200	Another one blew right by, right? ;)	8	0	0	72	16777215	0
+4200	Final set, biggest baddies yet	8	0	0	72	16777215	60
+4200	Same rules apply - shoot for the increase if you're excecuting well...	8	0	0	72	16777215	70
+4200	or reduce the Workout Intensity 5% if you need just a bit of help riding well	8	0	0	72	16777215	80
+4320	Quick spin, full breaths	8	0	0	72	16777215	0
+4320	Settle into the effort, get ready for some pedal drills	8	0	0	72	16777215	10
+4320	Optional of course, but highly encouraged	8	0	0	72	16777215	20
+4320	30 seconds, kick your feet over the top of each pedalstroke	8	0	0	72	16777215	30
+4320	Switch to pulling each foot across the bottom of each pedalstroke	8	0	0	72	16777215	60
+4320	15 seconds of kicking	8	0	0	72	16777215	90
+4320	15 seconds of pulling	8	0	0	72	16777215	105
+4320	15 second of kicking	8	0	0	72	16777215	120
+4320	15 seconds of pulling	8	0	0	72	16777215	135
+4320	Final 30 seconds, kick for 10 of them	8	0	0	72	16777215	150
+4320	Pull for 10 of them	8	0	0	72	16777215	160
+4320	Kick & pull for the last 10!	8	0	0	72	16777215	170
+4500	Well done, shake off that heaviness	8	0	0	72	16777215	0
+4500	Only 2 to go, right? But you only care about this next one, RIGHT?	8	0	0	72	16777215	60
+4500	After all, the world could end before you even get to the last one! ;)	8	0	0	72	16777215	70
+4500	So why worry about it now? Why worry about it at all??	8	0	0	72	16777215	80
+4500	30 seconds to find a spin you like, one that keeps you quick & light	8	0	0	72	16777215	90
+4620	Start with both hands on, full pedalstroke	8	0	0	72	16777215	0
+4620	Raise your right hand slightly for 15 seconds	8	0	0	72	16777215	30
+4620	Left hand, 15 seconds	8	0	0	72	16777215	45
+4620	Both hands on, actively kick your feet forward lightly	8	0	0	72	16777215	60
+4620	Actively pull your heels backward lightly	8	0	0	72	16777215	75
+4620	Kick & pull simultaneously, keep your soles weightless	8	0	0	72	16777215	90
+4620	20 seconds, neglect the downstroke but keep your power	8	0	0	72	16777215	100
+4620	Do this by kicking & pulling	8	0	0	72	16777215	110
+4620	Final minute! Left hand up	8	0	0	72	16777215	120
+4620	Switch hands for 15 seconds	8	0	0	72	16777215	135
+4620	Kick a little harder for 10 seconds...	8	0	0	72	16777215	150
+4620	pull a little harder for 10 seconds!	8	0	0	72	16777215	160
+4620	Kick & pull, make it pretty	8	0	0	72	16777215	170
+4800	Awesome, only 1 left!	8	0	0	72	16777215	0
+4800	The fatigue is high, the pains comes far too quickly...	8	0	0	72	16777215	60
+4800	but you know as well as I do that you've got one more in ya	8	0	0	72	16777215	70
+4800	Might ponder why that is too...	8	0	0	72	16777215	80
+4800	why you can miraculously rally for the final interval...	8	0	0	72	16777215	90
+4800	when you should be you're most tired...	8	0	0	72	16777215	100
+4800	you're somehow capable of owning the final interval, hmmm...	8	0	0	72	16777215	110
+4920	Could it be that you're actually capable of more work than you realize?	8	0	0	72	16777215	0
+4920	Yep, and time to do some	8	0	0	72	16777215	10
+4920	Final 2 minutes of this brute of a workout...	8	0	0	72	16777215	60
+4920	see if you can keep things together over this first one	8	0	0	72	16777215	70
+4920	How's your kick & pull? Active, lazy, nonexistent?	8	0	0	72	16777215	90
+4920	Final minute, just as controlled as the very first minute	8	0	0	72	16777215	120
+4920	30 seconds and you're done!	8	0	0	72	16777215	150
+4920	Last 20 seconds!	8	0	0	72	16777215	160
+4920	Final 10 seconds, not a second less!	8	0	0	72	16777215	170
+5100	Really nicely done!	8	0	0	72	16777215	0
+5100	Spend 5 minutes, more if you like, warming down	8	0	0	72	16777215	10
+5100	Calm your breathing while you think about  your post-workout nutrition	8	0	0	72	16777215	20
+5100	And we'll see you next time	8	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+420	600	Sweet Spot 1
+780	840	VO2 Max 1
+900	960	VO2 Max 2
+1200	1380	Threshold 1
+1620	1800	VO2 Max 3
+1920	2100	VO2 Max 4
+2220	2400	VO2 Max 5
+2520	2700	VO2 Max 6
+2820	3000	VO2 Max 7
+3120	3300	VO2 Max 8
+3420	3600	VO2 Max 9
+3720	3900	VO2 Max 10
+4020	4200	VO2 Max 11
+4320	4500	Anaerobic Capacity 1
+4620	4800	Anaerobic Capacity 2
+4920	5100	Anaerobic Capacity 3
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

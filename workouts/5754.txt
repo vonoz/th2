@@ -1,0 +1,171 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Laurel,77,30. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	50
+10	70
+10	80
+11	80
+11	40
+12	40
+12	80
+14	90
+14	40
+15	40
+15	92
+20	92
+20	40
+25	40
+25	120
+25.5	130
+25.5	130
+26	130
+26	40
+28	40
+28	120
+28.5	140
+28.5	140
+29	140
+29	40
+30	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Laurel!	5	0	0	72	16777215	10
+0	Just ahead is a smattering of warmup efforts....	4	0	0	72	16777215	17
+0	that can be used to further your warmup for a variety of workouts	5	0	0	72	16777215	22
+0	Use just the initial 20 minutes to prepare your muscles & mind...	5	0	0	72	16777215	29
+0	for Sweet Spot & Threshold workouts...	4	0	0	72	16777215	35
+0	and tack on the latter 10 minutes to put the finishing touches...	4	0	0	72	16777215	40
+0	on warmups ahead of VO2 Max & Anaerobic workouts	4	0	0	72	16777215	45
+0	In total, 30 minutes of thorough warmup can better prepare you...	5	0	0	72	16777215	51
+0	for those early, moderate/high-intensity intervals...	4	0	0	72	16777215	57
+0	that often suffer when the warmup is too short	4	0	0	72	16777215	62
+0	Alternatively, this warmup can be used prior to an outdoor workout...	5	0	0	72	16777215	68
+0	when the weather is challengingly extreme...	4	0	0	72	16777215	74
+0	or when the pace of the ride is hard from the start	4	0	0	72	16777215	79
+0	Finally, this can also be an effective format for a stationary warmup...	5	0	0	72	16777215	85
+0	just prior to a time trial, criterium, MTB or cyclocross race...	5	0	0	72	16777215	91
+0	where warming on the course isn't an option	4	0	0	72	16777215	97
+0	For the remainder of this opening 5 minutes...	5	0	0	72	16777215	103
+0	spin comfortably quickly with a cadence above 85rpm	5	0	0	72	16777215	109
+300	The pace will very gradually escalate over the next 5 minutes...	5	0	0	72	16777215	0
+300	allowing your legs & lungs to warm further...	4	0	0	72	16777215	6
+300	as your aerobic processes get rolling	4	0	0	72	16777215	11
+300	Try to keep your spin above 85rpm...	4	0	0	72	16777215	17
+300	and as high as 105rpm based on how comfortably you spin quickly	6	0	0	72	16777215	22
+300	In 30 seconds, you'll work just a bit harder...	5	0	0	72	16777215	270
+300	with a quicker spin than you're using at the moment	5	0	0	72	16777215	276
+300	How much quicker depends on your ability to control your leg speed...	5	0	0	72	16777215	283
+300	without bouncing in the saddle	4	0	0	72	16777215	289
+300	Get ready to wind it up	3	0	0	72	16777215	295
+600	Quicker spin, but probably no higher than 120rpm	5	0	0	72	16777215	0
+600	And shoot for at least 100rpm...	4	0	0	72	16777215	7
+600	if high leg speed is a challenge for you	4	0	0	72	16777215	12
+660	Ease off the speed and slow your spin...	4	0	0	72	16777215	2
+660	back to a more comfortable cadence above 85rpm	4	0	0	72	16777215	7
+660	Up next, a similar effort with similar aims...	5	0	0	72	16777215	30
+660	but twice as long with a mild ramp in power	4	0	0	72	16777215	36
+660	If your quick cadence worked well last time...	4	0	0	72	16777215	42
+660	use it again this time, if not...	4	0	0	72	16777215	47
+660	tweak it as necessary in order to last 2 minutes with control	5	0	0	72	16777215	52
+720	Pick it up, but don't get carried away	5	0	0	72	16777215	0
+720	Use a cadence that feels challenging but sustainable...	5	0	0	72	16777215	7
+720	and leaves just a little room to grow	4	0	0	72	16777215	13
+720	As you find your quick, sustainable spin...	5	0	0	72	16777215	19
+720	do your best to stay relaxed & stable in the saddle	5	0	0	72	16777215	25
+720	Both sit-bones remain in contact with your seat...	5	0	0	72	16777215	32
+720	and your upper body & lower legs carry very little tension	5	0	0	72	16777215	38
+720	If you can do it with control...	4	0	0	72	16777215	60
+720	spin a little more quickly	4	0	0	72	16777215	65
+720	30 seconds, fluid & controlled...	4	0	0	72	16777215	90
+720	with no bouncing around in the saddle	4	0	0	72	16777215	95
+840	Ease your cadence back down & relax...	4	0	0	72	16777215	2
+840	and try to slow your breathing for a minute	5	0	0	72	16777215	7
+840	A more thorough warming effort is just ahead...	5	0	0	72	16777215	30
+840	and this one will have you holding your effort...	5	0	0	72	16777215	36
+840	very close to your FTP for 5 minutes	4	0	0	72	16777215	42
+840	Try to keep your cadence above 85rpm...	4	0	0	72	16777215	48
+840	and ideally over 90rpm if manageable	4	0	0	72	16777215	53
+900	As your effort comes up...	3	0	0	72	16777215	0
+900	try to remain just as relaxed as when you were recovering	5	0	0	72	16777215	4
+900	Begin drawing your breaths from the base of your lungs...	5	0	0	72	16777215	11
+900	or from your "belly"...	3	0	0	72	16777215	17
+900	as you shrink & grow your abdomen...	4	0	0	72	16777215	21
+900	and actively employ your diaphragm to do its job	5	0	0	72	16777215	26
+900	Make your breaths conscious, intentional and belly-driven	5	0	0	72	16777215	33
+900	In an effort to open up the lines of communication...	5	0	0	72	16777215	60
+900	between your brain and all the leg muscles that drive the pedals...	5	0	0	72	16777215	66
+900	actively kick your feet forward & then pull them backward...	5	0	0	72	16777215	72
+900	with a little more effort than usual	4	0	0	72	16777215	78
+900	While not a long effort...	3	0	0	72	16777215	120
+900	this interval is long enough for excess tension to accumulate...	5	0	0	72	16777215	124
+900	in muscles other than the working ones	4	0	0	72	16777215	130
+900	Most commonly, your shoulders start creeping up...	4	0	0	72	16777215	136
+900	your elbows become straighter, more rigid...	4	0	0	72	16777215	141
+900	and the back of your neck tightens up...	4	0	0	72	16777215	146
+900	as your head retracts into your body like a turtle's into its shell	5	0	0	72	16777215	151
+900	So drop your shoulders, soften your elbows...	4	0	0	72	16777215	158
+900	and extend your head out of that "shell"	4	0	0	72	16777215	163
+900	Couple minutes left, quick rundown of the essentials:	5	0	0	72	16777215	180
+900	Sit-bones are glued to your saddle, hips are stable...	5	0	0	72	16777215	187
+900	upper body is relaxed with minimal movement above the waist...	5	0	0	72	16777215	193
+900	your breaths are full & driven by your breathing muscles...	5	0	0	72	16777215	199
+900	and you're doing more than just mashing your feet downward...	5	0	0	72	16777215	205
+900	but instead actively utilizing muscles other than your quads...	5	0	0	72	16777215	211
+900	to help keep the pedals turning fluidly	4	0	0	72	16777215	217
+900	Final minute, make it smooth & relaxed...	5	0	0	72	16777215	240
+900	with very little wasted motion or excess tension	5	0	0	72	16777215	246
+1200	Well done, take it easy for a few minutes	5	0	0	72	16777215	2
+1200	Keep your spin in that 85-95rpm range...	4	0	0	72	16777215	9
+1200	and spin easily for about 5 more minutes	4	0	0	72	16777215	14
+1200	Unless you're not interested in the upcoming VO2max intervals...	5	0	0	72	16777215	20
+1200	in which case you can end this warmup & start your workout anytime	6	0	0	72	16777215	26
+1200	Just a couple quick & demanding efforts left...	5	0	0	72	16777215	240
+1200	both consisting of a 30-second ramp & a 30-second hold...	5	0	0	72	16777215	246
+1200	at power well enough above your FTP...	4	0	0	72	16777215	252
+1200	to prepare you as much physically as mentally...	4	0	0	72	16777215	257
+1200	for similar efforts a little later on	4	0	0	72	16777215	262
+1200	A quick cadence in the 100-110rpm range is recommended...	5	0	0	72	16777215	268
+1200	but use any spin you can manage...	3	0	0	72	16777215	274
+1200	as long as it favors leg speed over muscle-sapping force	5	0	0	72	16777215	278
+1200	In other words...	3	0	0	72	16777215	285
+1200	spin quickly rather than mash slowly	5	0	0	72	16777215	289
+1500	Plenty of leg speed, plenty of control...	5	0	0	72	16777215	0
+1500	as you build power, staying smooth & relaxed	5	0	0	72	16777215	6
+1530	Just settle in & hold your power for 30 more seconds	5	0	0	72	16777215	0
+1560	Back way off...	3	0	0	72	16777215	2
+1560	but keep your legs turning reasonably quickly	4	0	0	72	16777215	6
+1560	Almost time to do the same thing with just a bit more intensity...	5	0	0	72	16777215	100
+1560	but identical in every other respect	4	0	0	72	16777215	106
+1560	Again, favor a higher cadence...	3	0	0	72	16777215	112
+1560	and stay relaxed	2	0	0	72	16777215	116
+1680	Ramp up the power...	3	0	0	72	16777215	0
+1680	but try to make it look easy	3	0	0	72	16777215	4
+1710	Just as relaxed, just as fluid...	3	0	0	72	16777215	0
+1710	as you hang in there for about 30 seconds	3	0	0	72	16777215	4
+1740	Well done, consider yourself warmed up	5	0	0	72	16777215	2
+1740	Now go have a great workout (or race)!	5	0	0	72	16777215	9
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	1800	Workout
+600	660	Tempo 1
+720	840	Sweet Spot 1
+900	1200	Sweet Spot 2
+1500	1530	Sprint 1
+1530	1560	Sprint 2
+1680	1710	Sprint 3
+1710	1740	Sprint 4
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

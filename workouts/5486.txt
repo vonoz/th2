@@ -1,0 +1,213 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Ragged Spur ,81,98. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	85
+8	85
+8	50
+10	50
+10	74
+13	72
+13	72
+16	74
+16	74
+19	72
+19	72
+22	74
+22	74
+25	72
+25	95
+35	95
+35	50
+41	50
+41	99
+51	99
+51	50
+57	50
+57	97
+67	97
+67	74
+70	72
+70	72
+73	74
+73	74
+76	72
+76	72
+79	74
+79	74
+82	72
+82	72
+85	74
+85	50
+90	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Ragged Spur, another series of challenging near-FTP repeats	8	0	0	72	16777215	10
+0	As you settle in to the warmup, try to keep your spin above 85rpm	8	0	0	72	16777215	20
+0	At the same time, make sure your sit bones are anchored...	8	0	0	72	16777215	30
+0	and your shoulders are low & relaxed, right from the start	8	0	0	72	16777215	40
+0	Keep your legs light & quick and we'll check back in a few minutes	8	0	0	72	16777215	50
+0	To further your warmup, you'll have a moderate-intensity effort...	8	0	0	72	16777215	270
+0	to help you blow out the cobwebs and further warm your legs & lungs	8	0	0	72	16777215	280
+0	Keep your spin in the 85-95rpm range, preferably more toward 95rpm	8	0	0	72	16777215	290
+300	Quick-ish spin, relaxed body, full belly-breaths	8	0	0	72	16777215	0
+480	Dial back the intensity for a couple minutes & catch your breath	8	0	0	72	16777215	0
+480	In a couple minutes, you'll kick of the workout & further your warmup...	8	0	0	72	16777215	10
+480	with 15 minutes of Tempo aimed primarly at growing your aerobic power	8	0	0	72	16777215	20
+480	These Tempo "bookends" are on the lighter side of things...	8	0	0	72	16777215	30
+480	but they add over an extra half hour of aerobic endurance riding...	8	0	0	72	16777215	40
+480	to a moderate-duration interval workout	5	0	0	72	16777215	50
+480	Not only will this first round of Tempo prep you for the Threshold work to follow...	8	0	0	72	16777215	60
+480	but it will give you an opportunity to fine tune some aspects...	8	0	0	72	16777215	70
+480	of your riding technique before the real work is upon you	8	0	0	72	16777215	80
+600	Over the course of these next few minutes, let's pick apart...	8	0	0	72	16777215	0
+600	your pedalstroke while the work is very manageable	8	0	0	72	16777215	10
+600	Start by thinking of the top of your pedalstroke, from 10 o'clock to 2 o'clock	8	0	0	72	16777215	20
+600	Each time you drag a foot toward the top of the stroke...	8	0	0	72	16777215	30
+600	at about that 10 o'clock point, lightly kick your foot forward	8	0	0	72	16777215	40
+600	Alternate back & forth from right to left - kick right, kick left, repeat	8	0	0	72	16777215	50
+600	Back to a regular pedalstroke for a minute, no particular focus	8	0	0	72	16777215	120
+780	Now shift your focus to the bottom of your pedalstroke...	8	0	0	72	16777215	0
+780	from about 4 o'clock to 8 o'clock as you drag your feet backward	8	0	0	72	16777215	10
+780	Lightly drag your left foot across the bottom, then the right foot	8	0	0	72	16777215	20
+780	Right foot drags back, left foot drags back, repeat	8	0	0	72	16777215	30
+780	Good,  clear your head and just pedal quickly & light for a minute	8	0	0	72	16777215	120
+960	Use these 3 minutes to pedal slightly quicker than you're used to...	8	0	0	72	16777215	0
+960	by adding about 5rpm to your cadence	5	0	0	72	16777215	10
+1140	Slow down slightly and put that kick & pull together, both feet	8	0	0	72	16777215	0
+1140	If it helps, concentrate on a single foot for a few seconds...	8	0	0	72	16777215	10
+1140	switch to the other foot, then continue to alternate that focus	8	0	0	72	16777215	20
+1140	30 more seconds of lightly kicking & pulling, both feet	8	0	0	72	16777215	90
+1140	When the Target Power jumps up in a few minutes...	8	0	0	72	16777215	100
+1140	try to carry this active kick & pull into your first Threshold interval	8	0	0	72	16777215	110
+1320	Remember to try to apply that light kick & pull...	8	0	0	72	16777215	120
+1320	to this upcoming 10-minute interval in order to keep your spin light & quick	8	0	0	72	16777215	130
+1320	If it helps, imagine that you have eggshells under your feet	8	0	0	72	16777215	140
+1320	By kicking & pulling and removing weight from the downstroke...	8	0	0	72	16777215	150
+1320	you keep pressure off of these "eggshells" and in doing so...	8	0	0	72	16777215	160
+1320	reduce the demand on your quads, even if only slightly	8	0	0	72	16777215	170
+1500	OK, time for some more challenging effort right next to your FTP	8	0	0	72	16777215	0
+1500	Do your best to hold that spin between 85-95rpm...	8	0	0	72	16777215	10
+1500	but feel free to spin more quickly if it suits you & your goals	8	0	0	72	16777215	20
+1500	With that said, not many riders spin much above 105rpm...	8	0	0	72	16777215	30
+1500	at least not for long durations	5	0	0	72	16777215	40
+1500	Spend these opening minutes establishing a sustainable rhythm...	8	0	0	72	16777215	60
+1500	by relaxing & paying attention to the quality of your breathing	5	0	0	72	16777215	70
+1500	A few minutes into your first of 3 efforts today...	8	0	0	72	16777215	180
+1500	so let's talk "muscle endurance"	5	0	0	72	16777215	190
+1500	Riding so close to your FTP forces you to adapt...	8	0	0	72	16777215	200
+1500	both physiologically & psychologically to riding at the limit	8	0	0	72	16777215	210
+1500	Over time, your system improves its ability to shuttle the lactic accumulation...	8	0	0	72	16777215	220
+1500	back into your aerobic energy system translating to more fuel...	8	0	0	72	16777215	230
+1500	while keeping you from flooding to the point where you have to back off	8	0	0	72	16777215	240
+1500	By walking this fine line, you gain a strong sense of what's sustainable...	8	0	0	72	16777215	250
+1500	and what will drastically limit your ability to continue working	8	0	0	72	16777215	260
+1500	Put another way, go too hard & it can badly affect the rest of your ride or race...	8	0	0	72	16777215	270
+1500	but keep things in check, just below that too-hard effort level...	8	0	0	72	16777215	280
+1500	and you stand a far greater chance of not only finishing but finishing strongly	8	0	0	72	16777215	290
+1500	Halfway through this opening interval, try to relax...	8	0	0	72	16777215	300
+1500	and do your best to stay on top of your spin, 85rpm or higher	8	0	0	72	16777215	310
+1500	Final couple of minutes, stay just as relaxed as those first couple minutes	8	0	0	72	16777215	480
+2100	Well done, take a few minutes to ride out the fatigue	8	0	0	72	16777215	0
+2100	Try to keep moving even if that means backpedaling for 20-30 seconds...	8	0	0	72	16777215	10
+2100	to clear your muscles before resuming an easy, forward spin	8	0	0	72	16777215	20
+2100	And even as you recover, try to stay above 85rpm	8	0	0	72	16777215	30
+2100	Second interval is just around the corner, grab a couple deep breaths	8	0	0	72	16777215	330
+2100	And if your cadence fell, drive it back into that 85-95rpm range	8	0	0	72	16777215	340
+2100	Finally, get relaxed before the work kicks in...	8	0	0	72	16777215	350
+2460	then stay relaxed as your body starts to adjust to the workload	8	0	0	72	16777215	0
+2460	And sooner rather than later, start breathing "fully"	8	0	0	72	16777215	10
+2460	This means drawing deep breaths into your abdomen/belly...	8	0	0	72	16777215	20
+2460	and then strongly clearing your lungs using your deep, breathing muscles	8	0	0	72	16777215	30
+2460	Simply, make your belly big then draw your abdomen toward your spine	8	0	0	72	16777215	40
+2460	Breathe with your abdomen, not your chest = belly breathing	8	0	0	72	16777215	50
+2460	First 2 minutes in, find your groove & try not to tense up	8	0	0	72	16777215	120
+2460	At effort levels just below your FTP, your breathing rhythm is crucial...	8	0	0	72	16777215	130
+2460	and probably one you can tie to your cadence	8	0	0	72	16777215	140
+2460	Try to find that number of breaths you can join to your leg speed	8	0	0	72	16777215	150
+2460	Maybe you breath out for 3 pedalstrokes & then in for the next 3	8	0	0	72	16777215	160
+2460	Whatever your rhythm, use it to keep you smooth & relaxed	8	0	0	72	16777215	170
+2460	Finally, let your calves & ankles relax and wiggle your toes	8	0	0	72	16777215	280
+2460	Halfway through this second interval, ditch any unnecessary tension	8	0	0	72	16777215	300
+2460	Start with your face & jaw, then relax the back of your neck	8	0	0	72	16777215	310
+2460	Next, try dropping your shoulders & softening your elbows	8	0	0	72	16777215	320
+2460	Then, loosen your grip on your bars & stabilize your hips	8	0	0	72	16777215	330
+2460	Just a few more minutes, try to keep your cadence & power on track	8	0	0	72	16777215	420
+2460	And anytime either start to slip, think about your kick & pull	8	0	0	72	16777215	430
+2460	Often, it only takes a little attention to the top & bottom of your pedalstroke...	8	0	0	72	16777215	440
+2460	to revive your power & cadence by unburdening your fading quads	8	0	0	72	16777215	450
+2460	Final 2 minutes, try to keep it together	8	0	0	72	16777215	480
+2460	Target Power stays steadily within 5-10 watts...	8	0	0	72	16777215	490
+2460	shoulders are low & relaxed, elbows are soft...	8	0	0	72	16777215	500
+2460	and your hips are nearly motionless while you pedal quickly & lightly	8	0	0	72	16777215	510
+3060	Well done, take another well-deserved, relatively long break	8	0	0	72	16777215	0
+3060	Keep your legs moving for a minute or two...	8	0	0	72	16777215	10
+3060	then feel free to stretch, grab a drink, maybe even a snack	8	0	0	72	16777215	20
+3060	Final interval is just around the corner	5	0	0	72	16777215	330
+3060	Make sure your spin is quick & light, sit bones are anchored...	8	0	0	72	16777215	340
+3060	and put your game face back on, it's time to do some work	8	0	0	72	16777215	350
+3420	Take the first couple of minutes to settle back in...	8	0	0	72	16777215	0
+3420	and don't get discouraged by that immediate sense of fatigue	8	0	0	72	16777215	10
+3420	The first minute or two following long recoveries are usually hard...	8	0	0	72	16777215	20
+3420	and diving back in with tired legs is even tougher, but it will pass	8	0	0	72	16777215	30
+3420	First two minutes behind you, take a quick inventory	8	0	0	72	16777215	120
+3420	Are you staying relaxed? Low shoulders & quiet hips?	8	0	0	72	16777215	130
+3420	Are you seated securely on your saddle? Sit bones anchored?	8	0	0	72	16777215	140
+3420	Are you riding quickly but lightly with a spin above 85rpm?	8	0	0	72	16777215	150
+3420	Are you lightly kicking over the top & pulling across the bottom?	8	0	0	72	16777215	160
+3420	How about your breathing? Is it belly-driven & full?	8	0	0	72	16777215	170
+3420	Halfway in, just focus on holding Target Power for the next 2 minutes	8	0	0	72	16777215	300
+3420	And do your best to limit how far above & below you waver	8	0	0	72	16777215	310
+3420	If you can stay within 10 watts of your Target Power, you're doing well	8	0	0	72	16777215	320
+3420	If you can limit your fluctuations to 5 watts up or down - exceptional	8	0	0	72	16777215	330
+3420	Final 2 minutes, just focus on getting through one minute for now	8	0	0	72	16777215	480
+3420	Final minute, no fading now!	5	0	0	72	16777215	540
+3420	Stay relaxed & keep your pedalstroke looking smooth, almost easy	8	0	0	72	16777215	550
+3420	30 seconds of barely keeping that burn in check, hang on!	8	0	0	72	16777215	570
+4020	Excellent! Ease off the gas but not too far	8	0	0	72	16777215	0
+4020	You still have 18 minutes of Tempo ahead, but you can handle this	8	0	0	72	16777215	10
+4020	The only difference between Tempo & Recovery wattage...	8	0	0	72	16777215	20
+4020	is how long it takes for your muscles to clear - be patient	8	0	0	72	16777215	30
+4020	Relief will come, it just won't come as rapidly as you'd probably like	8	0	0	72	16777215	40
+4200	3 more minutes of relaxed, fluid pedaling	5	0	0	72	16777215	0
+4200	Keep hanging in there & patiently waiting for that fatigue to clear	8	0	0	72	16777215	10
+4560	A little under 10 minutes and you'll be done for the day...	8	0	0	72	16777215	0
+4560	so keep it together & give due attention to your breathing	8	0	0	72	16777215	10
+4920	Final 3 minutes of relaxed pedalstrokes...	8	0	0	72	16777215	0
+4920	and stable, powerful hips squarely placed on your saddle	8	0	0	72	16777215	10
+5100	Really nicely done, take a few minutes to warm down...	8	0	0	72	16777215	0
+5100	while you start considering your recovery nutrition	8	0	0	72	16777215	10
+5100	Continue to slow your breathing & heart rate...	8	0	0	72	16777215	20
+5100	and we'll see you next time	8	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+300	480	Sweet Spot 1
+600	780	Endurance 1
+780	960	Endurance 2
+960	1140	Endurance 3
+1140	1320	Endurance 4
+1320	1500	Endurance 5
+1500	2100	Sweet Spot 2
+2460	3060	Threshold 1
+3420	4020	Threshold 2
+4020	4200	Endurance 6
+4200	4380	Endurance 7
+4380	4560	Endurance 8
+4560	4740	Endurance 9
+4740	4920	Endurance 10
+4920	5100	Endurance 11
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

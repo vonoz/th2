@@ -1,0 +1,242 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = North Guard,89,119. Created by 29233.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	90
+8	100
+8	40
+12	40
+12	109
+13.5	109
+13.5	40
+14.5	40
+14.5	105
+17.5	105
+17.5	40
+19.5	40
+19.5	103
+24.5	103
+24.5	40
+27.5	40
+27.5	109
+29	109
+29	40
+30	40
+30	105
+33	105
+33	40
+35	40
+35	103
+40	103
+40	40
+43	40
+43	109
+44.5	109
+44.5	40
+45.5	40
+45.5	105
+48.5	105
+48.5	40
+50.5	40
+50.5	103
+55.5	103
+55.5	40
+58.5	40
+58.5	109
+60	109
+60	40
+61	40
+61	105
+64	105
+64	40
+66	40
+66	103
+71	103
+71	40
+74	40
+74	109
+75.5	109
+75.5	40
+76.5	40
+76.5	105
+79.5	105
+79.5	40
+81.5	40
+81.5	103
+86.5	103
+86.5	40
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	47 minutes and 30 seconds	8	0	0	72	16777215	0
+0	Not the duration of the workout...	8	0	0	72	16777215	10
+0	but how much time you'll spend above your FTP	8	0	0	72	16777215	20
+0	When it is scaled and monitored properly like this...	8	0	0	72	16777215	30
+0	that's sure to make you fast :-)	5	0	0	72	16777215	40
+0	In just a bit, we'll open things up with a ramping effort	8	0	0	72	16777215	240
+0	Make sure you establish a strong & controlled breathing pattern	8	0	0	72	16777215	250
+0	And remember to spin quickly & lightly	8	0	0	72	16777215	260
+300	Ramp it up, spin above 85rpm	5	0	0	72	16777215	0
+480	Now that we've opened up your legs & lungs...	8	0	0	72	16777215	10
+480	Take a couple minutes to recover	5	0	0	72	16777215	20
+480	Alright, let's check out our first set of intervals	8	0	0	72	16777215	120
+480	A 90-second push at 109% FTP kicks things off	8	0	0	72	16777215	130
+480	Then a 3-minute, 105% FTP effort...	8	0	0	72	16777215	140
+480	and finally, 5 minutes at 103% FTP	5	0	0	72	16777215	150
+480	Your two breaks will be 1 & 2 minutes, respectively	8	0	0	72	16777215	160
+480	The hidden key with these efforts is mental strength	8	0	0	72	16777215	170
+480	We will work on technique as well...	8	0	0	72	16777215	180
+480	but your main takeaway should be focus & mental fortitude...	8	0	0	72	16777215	190
+480	otherwise known as good, old-fashioned toughness	8	0	0	72	16777215	200
+480	We'll let you work your way through this first one...	8	0	0	72	16777215	220
+480	to get familiar with the format, one you'll get to repeat another 4 times	8	0	0	72	16777215	230
+720	Go time! Quick legs for 90 seconds	8	0	0	72	16777215	0
+810	Quick backpedal if needed...	8	0	0	72	16777215	0
+810	but make sure you're pedaling forward with 20 seconds to go	8	0	0	72	16777215	10
+870	Go! Quick legs are still a good idea	8	0	0	72	16777215	0
+1050	Spin lightly and breathe deeply	8	0	0	72	16777215	0
+1170	Go! Still above FTP, still favoring a quick spin	8	0	0	72	16777215	0
+1470	Nice job!	5	0	0	72	16777215	0
+1470	Backpedal for a few spins and catch your breath	8	0	0	72	16777215	10
+1470	Now that you have the set figured out...	8	0	0	72	16777215	30
+1470	let's work on your breathing technique	5	0	0	72	16777215	40
+1470	Go ahead and follow along with these instructions	8	0	0	72	16777215	50
+1470	Breath in through your nose & mouth	5	0	0	72	16777215	60
+1470	Exhale powerfully from your diaphragm	5	0	0	72	16777215	66
+1470	Repeat at a comfortable rhythm	5	0	0	72	16777215	72
+1470	Keep this rhythm going and keep your exhaling strong	8	0	0	72	16777215	120
+1470	While your rhythm may change throughout the set...	8	0	0	72	16777215	130
+1470	don't let it become an unbridled product of interval intensity	8	0	0	72	16777215	140
+1470	Manage it intelligently	5	0	0	72	16777215	150
+1470	We'll refine this as we go	5	0	0	72	16777215	160
+1650	Go hard! Strong breaths	5	0	0	72	16777215	0
+1650	When you exhale, expel the air with your abdomen	8	0	0	72	16777215	30
+1740	Full belly breaths	5	0	0	72	16777215	0
+1740	In through the nose & mouth...	8	0	0	72	16777215	10
+1740	out through the mouth with power	5	0	0	72	16777215	20
+1800	Big change in intensity but same controlled breathing	8	0	0	72	16777215	0
+1800	Forget the burn in your leg and stay focused on your breathing	8	0	0	72	16777215	90
+1980	Big, controlled breaths & don't lose form during rests	8	0	0	72	16777215	0
+1980	Don't let a single second of a rest go by without using it to recover	8	0	0	72	16777215	60
+2100	Back at it! Big exhale, comfortable rhythm	8	0	0	72	16777215	0
+2100	Distract yourself from the effort, just focus on breathing	8	0	0	72	16777215	60
+2100	In through the nose & mouth	5	0	0	72	16777215	180
+2100	Full belly breaths, use your midsection to breathe	8	0	0	72	16777215	240
+2400	Great work!	5	0	0	72	16777215	0
+2400	Recover, recover, recover	5	0	0	72	16777215	10
+2400	During this next effort work on your pedalstroke	8	0	0	72	16777215	120
+2400	Your main focus should be control	5	0	0	72	16777215	130
+2400	A controlled pedalstroke is powerful, smooth & efficient	8	0	0	72	16777215	140
+2400	Start at the feet, then work your way up	8	0	0	72	16777215	150
+2400	We'll take this one step at a time throughout this set	8	0	0	72	16777215	160
+2580	Build it up!	5	0	0	72	16777215	0
+2580	Alright, now break your pedalstroke down	8	0	0	72	16777215	10
+2580	Kick forward at the top of the stroke	8	0	0	72	16777215	20
+2580	Transition from forward kicking into downward pushing	8	0	0	72	16777215	30
+2580	Pull backwards at the bottom of the stroke	8	0	0	72	16777215	40
+2580	Lightly lift up at the back of the stroke	8	0	0	72	16777215	50
+2580	While working on this, make sure your hips aren't rocking	8	0	0	72	16777215	60
+2580	Combine all this into one fluid motion	8	0	0	72	16777215	70
+2670	Easy backpedal for a few seconds if needed	8	0	0	72	16777215	0
+2730	Back at it!	5	0	0	72	16777215	0
+2730	Apply what we just worked on in one fluid pedalstroke	8	0	0	72	16777215	10
+2730	No mashing, just smooth & fast circles	8	0	0	72	16777215	20
+2730	Now pay attention to your hips	5	0	0	72	16777215	90
+2730	Are you seated where you need to be?	5	0	0	72	16777215	100
+2730	When the intensity is high, it's tempting to slide forward	8	0	0	72	16777215	110
+2730	When too far forward, it's easy to mash the pedals and rock	8	0	0	72	16777215	120
+2730	So scoot back to where your sit bones are carrying your weight...	8	0	0	72	16777215	130
+2730	and pedal in a way that your hips are not moving	8	0	0	72	16777215	140
+2910	Backpedal & breathe	5	0	0	72	16777215	0
+2910	Use this last block to refine your pedalstroke even further	8	0	0	72	16777215	90
+3030	Pick it up!	5	0	0	72	16777215	0
+3030	Smooth & fast	5	0	0	72	16777215	30
+3030	No rocking, no uncontrolled breathing	5	0	0	72	16777215	90
+3030	This is easy, make it look like it is anyway ;-)	8	0	0	72	16777215	150
+3030	Stick to your breathing rhythm...	8	0	0	72	16777215	210
+3030	and keep a quiet, controlled body	5	0	0	72	16777215	270
+3330	Good work!	5	0	0	72	16777215	0
+3330	Now we'll work on your focus and mental fortitude	8	0	0	72	16777215	90
+3330	A lot of people try to distract their mind from the pain	8	0	0	72	16777215	100
+3330	But suffering is relentless and demands attention	8	0	0	72	16777215	110
+3330	So we'll entertain it and thrive in the midst of it	8	0	0	72	16777215	120
+3330	The trick isn't distraction, rather it's focus	8	0	0	72	16777215	130
+3330	So when it seems too much to handle...	8	0	0	72	16777215	140
+3330	increase your focus on the task at hand, something productive	8	0	0	72	16777215	150
+3510	Build into this one	5	0	0	72	16777215	0
+3510	Good, now find your rhythm	5	0	0	72	16777215	10
+3510	Strong, controlled breaths	5	0	0	72	16777215	20
+3510	Smooth & quick pedalstroke	5	0	0	72	16777215	30
+3510	If it's starting to hurt, just rely on the knowledge...	8	0	0	72	16777215	60
+3510	that you've already done this 3 times & you can do it again	8	0	0	72	16777215	70
+3600	Ease up and backpedal or spin lightly	8	0	0	72	16777215	0
+3660	Back at it	5	0	0	72	16777215	0
+3660	Break this one into 2 chunks	5	0	0	72	16777215	10
+3660	For the next minute, focus on hitting your marks	8	0	0	72	16777215	20
+3660	Halfway in, don't get distracted...	8	0	0	72	16777215	90
+3660	instead, focus on being smooth & powerful	8	0	0	72	16777215	100
+3840	Backpedal & relax	5	0	0	72	16777215	0
+3840	Breathe deeply and recover	5	0	0	72	16777215	10
+3960	Build it up	5	0	0	72	16777215	0
+3960	Find a spin that's quick & sustainable	8	0	0	72	16777215	10
+3960	Smooth, controlled & strong	5	0	0	72	16777215	20
+3960	Remember, you've done this before...	8	0	0	72	16777215	30
+3960	and this interval is easier than the others in this set	8	0	0	72	16777215	40
+3960	Alright, put in a strong 2 minutes	5	0	0	72	16777215	60
+3960	Just 2 minutes, strong & smooth	5	0	0	72	16777215	70
+3960	Don't drift off, focus and know that you've got this	8	0	0	72	16777215	120
+3960	Let's do that again, only 2 minutes left	8	0	0	72	16777215	180
+3960	Just focus on what you're doing now	5	0	0	72	16777215	240
+3960	Perfect pedalstroke	5	0	0	72	16777215	250
+3960	Strong breathing	5	0	0	72	16777215	260
+3960	30 seconds left	5	0	0	72	16777215	270
+3960	Stay focused, you'll be done before you know it	8	0	0	72	16777215	280
+4260	There you go!	5	0	0	72	16777215	0
+4260	Focus on the little things that make you faster	8	0	0	72	16777215	10
+4260	When things get hard, you have increased opportunity to focus	8	0	0	72	16777215	20
+4260	So focus all of your energy on improving on the little things	8	0	0	72	16777215	30
+4260	Don't think about what's up ahead, just focus on the now	8	0	0	72	16777215	40
+4260	We'll let you focus on whatever you choose for the last set	8	0	0	72	16777215	120
+4260	Don't let your focus drift	5	0	0	72	16777215	130
+4260	Stay frosty ;-)	5	0	0	72	16777215	140
+4440	Get to it!	5	0	0	72	16777215	0
+4530	Easy for a minute, backpedal if necessary	8	0	0	72	16777215	0
+4590	Again!	5	0	0	72	16777215	0
+4770	Back it off for a bit, breathe fully	8	0	0	72	16777215	0
+4890	Last time, go!	5	0	0	72	16777215	0
+5190	Awesome job today!	5	0	0	72	16777215	0
+5190	Recover for as long as you need even with only 3:30 on the clock	8	0	0	72	16777215	10
+5190	We'll see ya next time!	8	0	0	72	16777215	20
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+300	480	Sweet Spot 1
+720	810	VO2 Max 1
+870	1050	Threshold 1
+1170	1470	Threshold 2
+1650	1740	VO2 Max 2
+1800	1980	Threshold 3
+2100	2400	Threshold 4
+2580	2670	VO2 Max 3
+2730	2910	Threshold 5
+3030	3330	Threshold 6
+3510	3600	VO2 Max 4
+3660	3840	Threshold 7
+3960	4260	Threshold 8
+4440	4530	VO2 Max 5
+4590	4770	Threshold 9
+4890	5190	Threshold 10
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

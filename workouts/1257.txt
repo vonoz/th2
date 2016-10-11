@@ -1,0 +1,190 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Kingsbury,81,65. Created by 54949.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	40
+5	60
+5	40
+7	40
+7	95
+10	99
+10	40
+15	40
+15	95
+20	95
+20	40
+24	40
+24	97
+29	97
+29	40
+33	40
+33	99
+38	99
+38	40
+42	40
+42	99
+47	99
+47	40
+51	40
+51	97
+56	97
+56	40
+60	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Let's get rollin' with 5 minutes of easy riding	8	0	0	72	16777215	15
+0	As usual, try to keep your cadence at 90rpm or higher	8	0	0	72	16777215	25
+300	Take it really easy for a couple minutes. Clearing effort coming up!	8	0	0	72	16777215	-1
+300	If your cadence is lower than 90rpm, bring it up	8	0	0	72	16777215	100
+300	Relax and do your best to hold this spin	8	0	0	72	16777215	110
+420	Stay steady for 3 minutes very close to your threshold	8	0	0	72	16777215	-1
+420	2 minutes, long steady breaths	8	0	0	72	16777215	60
+420	1 more minute of warm-up	8	0	0	72	16777215	120
+600	Great, now spin easy for 5 minutes and let your legs clear	8	0	0	72	16777215	-1
+600	Today we're going to focus on improving muscle endurance	8	0	0	72	16777215	60
+600	We'll do it by riding very close to threshold without going over	8	0	0	72	16777215	70
+600	This is a really productive place to train in terms of improving your threshold output...	8	0	0	72	16777215	80
+600	Because it trains both your body & mind to tolerate a high, steady workload	8	0	0	72	16777215	90
+600	And it's noticeably less stressful than riding at threshold or a little above	8	0	0	72	16777215	100
+600	So two points of focus: lactate tolerance & lactate shuttling	8	0	0	72	16777215	110
+600	While the term "lactate tolerance" has a physiological explanation...	8	0	0	72	16777215	120
+600	I choose to use it as a psychological term in that we're training our minds	8	0	0	72	16777215	130
+600	Training our minds to deal with the inherent discomfort in holding high, steady power	8	0	0	72	16777215	140
+600	Plenty of riders simply lack the mental tenacity or "toughness" for hard work	8	0	0	72	16777215	150
+600	Especially when it comes to working hard for a relatively long period of time	8	0	0	72	16777215	160
+600	And by definition, FT (Functional Threshold) is the power output...	8	0	0	72	16777215	170
+600	You can sustain for roughly one full hour - a relatively LONG period of time	8	0	0	72	16777215	180
+600	We estimate your FT via 8-20 minutes of work & then reduce your watts, HR or RPE slightly...	8	0	0	72	16777215	190
+600	But this doesn't mean you can head out right now and ride for an hour at FT	8	0	0	72	16777215	200
+600	At least not without some ME (muscular endurance) work in your legs...	8	0	0	72	16777215	210
+600	And perhaps more importantly, in your head	8	0	0	72	16777215	220
+600	So over the course of five 5-minute efforts, you'll work on becoming stronger...	8	0	0	72	16777215	230
+600	And tougher	8	0	0	72	16777215	240
+600	We'll get started in about 30 seconds, so find a cadence that suits you	8	0	0	72	16777215	270
+600	Ideally, this cadence should be in the neighborhood of 90rpm	8	0	0	72	16777215	280
+600	Alright, relax and get ready to work!	8	0	0	72	16777215	290
+900	The first couple minutes can be pretty challenging...	8	0	0	72	16777215	-1
+900	So be patient and allow your legs and lungs to acclimate	8	0	0	72	16777215	10
+900	Riding Steady State requires quite a bit of focus...	8	0	0	72	16777215	60
+900	So if you find your mind wandering, you're probably falling off pace	8	0	0	72	16777215	70
+900	Pay attention and hold your effort as steady as you can	8	0	0	72	16777215	80
+900	With this being some early exposure to Steady State work...	8	0	0	72	16777215	120
+900	The intervals are short and the recoveries are long	8	0	0	72	16777215	130
+900	So hang in there for just 5 minutes at a time...	8	0	0	72	16777215	140
+900	Knowing that 4 minutes of recovery follows each work interval	8	0	0	72	16777215	150
+900	2 more minutes. Try to relax	8	0	0	72	16777215	180
+900	1 to go! Hang in there	8	0	0	72	16777215	240
+900	30 seconds. Ride so smoothly that it looks easy	8	0	0	72	16777215	270
+1200	Still a couple more easy minutes to go...	8	0	0	72	16777215	120
+1200	So let's talk cadence before this next interval begins	8	0	0	72	16777215	130
+1200	Ideally, cadence on flat to rolling terrain is 90rpm minimum	8	0	0	72	16777215	140
+1200	If you cannot spin comfortably at 90rpm, then increasing your natural cadence is crucial	8	0	0	72	16777215	150
+1200	And this will become a secondary focus of most workouts from this point forth	8	0	0	72	16777215	160
+1200	A sub-90rpm cadence is simply too taxing on the muscles	8	0	0	72	16777215	170
+1200	Especially for riders who spend multiple hours in the saddle at a time	8	0	0	72	16777215	180
+1200	So if you're a sub-90rpm spinner, bring your cadence closer to 90rpm right now	8	0	0	72	16777215	190
+1200	When the interval begins, do your best to hold this cadence increase steady	8	0	0	72	16777215	200
+1200	If you already spin at 90rpm or higher, just focus on spinning steadily...	8	0	0	72	16777215	210
+1200	With minimal fluctuations in cadence and power	8	0	0	72	16777215	220
+1200	Get ready!	8	0	0	72	16777215	230
+1440	Take the first minute to adjust to the increased effort	8	0	0	72	16777215	-1
+1440	As you adjust to the bump in effort, stay fluid and relaxed	8	0	0	72	16777215	60
+1440	2 minutes in. How's your cadence?	8	0	0	72	16777215	120
+1440	Closer to 90rpm? Higher than 90rpm and really steady? Great	8	0	0	72	16777215	130
+1440	Keep reminding yourself that a quick cadence is almost always...	8	0	0	72	16777215	140
+1440	More prouductive than a slower, muscle-draining grind	8	0	0	72	16777215	150
+1440	At least on the flat and rolling terrain	8	0	0	72	16777215	160
+1440	Only 2 minutes left! Relax and breathe fully	8	0	0	72	16777215	180
+1440	1 minute left! Keep your focus and stay steady	8	0	0	72	16777215	240
+1740	Well done. Take a break and bring your breathing and HR down	8	0	0	72	16777215	-1
+1740	We'll get going again in a couple minutes	8	0	0	72	16777215	120
+1740	Until then, keep things really easy and focus on the top & bottom of your pedalstroke	8	0	0	72	16777215	130
+1740	Lightly kick your toes into the toe boxes of your shoes...	8	0	0	72	16777215	140
+1740	And the lightly pull your heels into the heel cups of your shoes	8	0	0	72	16777215	150
+1740	Make this a subtle change in effort	8	0	0	72	16777215	160
+1740	Practice this "kick & pull" while the effort is low...	8	0	0	72	16777215	170
+1740	And then do your best to maintain it during the work intervals	8	0	0	72	16777215	180
+1740	Still kicking & pulling?	8	0	0	72	16777215	220
+1740	Get ready to carry this pedalstroke tweak into the Steady State work	8	0	0	72	16777215	230
+1980	Take a minute, settle in	8	0	0	72	16777215	-1
+1980	Back to that kick & pull	8	0	0	72	16777215	60
+1980	Focus your attention on the top and bottom of your pedalstroke...	8	0	0	72	16777215	70
+1980	Rather than just the downstroke	8	0	0	72	16777215	80
+1980	The downstroke was learned way back when as you first learned to ride a bike	8	0	0	72	16777215	90
+1980	So it will take care of itself, I promise	8	0	0	72	16777215	100
+1980	The top & bottom, however, need some conscious reinforcement	8	0	0	72	16777215	110
+1980	These aren't powerful portions of the pedalstroke...	8	0	0	72	16777215	120
+1980	But they are productive ones nonetheless	8	0	0	72	16777215	130
+1980	When you consider the incredibly high repetition of pedalstrokes...	8	0	0	72	16777215	140
+1980	Even a small increased contribution makes a sizable difference	8	0	0	72	16777215	150
+1980	So throw your foot forward and then drag it backward	8	0	0	72	16777215	160
+1980	But do it lightly	8	0	0	72	16777215	170
+1980	2 to go!	8	0	0	72	16777215	180
+1980	1 more minute. How's the fatigue?	8	0	0	72	16777215	240
+1980	If you're struggling, it becomes even more important...	8	0	0	72	16777215	250
+1980	That you utilize your kicking & pulling muscles	8	0	0	72	16777215	260
+1980	Think of it as unburdening your quads even if only a tiny bit	8	0	0	72	16777215	270
+2280	Nicely done! Well over halfway	8	0	0	72	16777215	-1
+2280	Going again in 2 minutes	8	0	0	72	16777215	120
+2280	Let's revisit your cadence	8	0	0	72	16777215	130
+2280	Sub-90rpm riders are going to try to stay closer to 90rpm	8	0	0	72	16777215	140
+2280	90rpm or higher riders are going to pedal slightly quicker than usual	8	0	0	72	16777215	150
+2280	Take this opportunity to see if a small increase in cadence helps you	8	0	0	72	16777215	160
+2280	Helps you keep your muscles a little fresher	8	0	0	72	16777215	170
+2280	This may or may not be the case, but you won't know until you try	8	0	0	72	16777215	180
+2280	If you haven't raised your cadence a little then now's the time	8	0	0	72	16777215	210
+2280	Just a little bit outside of your comfort zone - no big changes	8	0	0	72	16777215	220
+2520	Take a minute, settle in	8	0	0	72	16777215	-1
+2520	Finding that cadence increase sustainable?	8	0	0	72	16777215	60
+2520	If not, settle back into your natural cadence	8	0	0	72	16777215	70
+2520	Steady State is enough of a challenge today	8	0	0	72	16777215	80
+2520	If you're panting, try to breathe out a little more actively	8	0	0	72	16777215	160
+2520	Help your lungs clear the junk by pushing it out	8	0	0	72	16777215	170
+2520	And try to slow your HR & breathing a bit	8	0	0	72	16777215	180
+2520	Breathing fully? Good	8	0	0	72	16777215	190
+2520	Spinning quickly? Good	8	0	0	72	16777215	200
+2520	Keep your form for 30 more seconds	8	0	0	72	16777215	270
+2520	Nice job. Break time	8	0	0	72	16777215	300
+2820	One to go, starts in 2 minutes	8	0	0	72	16777215	120
+2820	Let's give the pedalstroke some extra attention again	8	0	0	72	16777215	130
+2820	Start kicking & pulling lightly now, while it's easy	8	0	0	72	16777215	140
+2820	1 more minute of recovery, keep the effort low	8	0	0	72	16777215	180
+3060	As usual, use this first minute to adjust	8	0	0	72	16777215	-1
+3060	More ways to contemplate your kick & pull...	8	0	0	72	16777215	60
+3060	Rather than pedaling vertically with all emphasis on your downstroke...	8	0	0	72	16777215	70
+3060	Pedal horizontally and let your downstroke fend for itself	8	0	0	72	16777215	80
+3060	Kick over the top, pull across the bottom	8	0	0	72	16777215	90
+3060	The kick starts at about the 10 o'clock position...	8	0	0	72	16777215	100
+3060	And the pull starts at about 4 o'clock	8	0	0	72	16777215	110
+3060	Kick forward, pull backward, 3 more minutes	8	0	0	72	16777215	120
+3060	2 minutes to go!	8	0	0	72	16777215	180
+3060	Staying relaxed?	8	0	0	72	16777215	190
+3060	Start with your shoulders, let 'em fall	8	0	0	72	16777215	200
+3060	Is your face full on tension? Relax. Let it go slack	8	0	0	72	16777215	210
+3060	Or smile! But those are the only options	8	0	0	72	16777215	220
+3060	1 more minute, no problem	8	0	0	72	16777215	240
+3060	30 seconds. Make it pretty	8	0	0	72	16777215	270
+3360	Great job! 25 minutes of Sweet Spot in the bank	8	0	0	72	16777215	-1
+3360	Cool down and get on your recovery nutrition	8	0	0	72	16777215	10
+3360	See ya next time	8	0	0	72	16777215	20
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+420	600	Threshold 1
+900	1200	Sweet Spot 1
+1440	1740	Threshold 2
+1980	2280	Threshold 3
+2520	2820	Threshold 4
+3060	3360	Threshold 5
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

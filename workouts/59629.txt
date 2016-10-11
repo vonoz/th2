@@ -1,0 +1,155 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Mount Wood ,81,65. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+8	65
+8	85
+11	85
+11	50
+16	50
+16	95
+19	95
+19	105
+20	105
+20	95
+23	95
+23	105
+24	105
+24	50
+30	50
+30	95
+33	95
+33	105
+34	105
+34	95
+37	95
+37	105
+38	105
+38	50
+44	50
+44	95
+47	95
+47	105
+48	105
+48	95
+51	95
+51	105
+52	105
+52	50
+60	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Mount Wood, an introductory cluster of over-under intervals	8	0	0	72	16777215	10
+0	As with most over-under work, the primary aim is improved muscular endurance	8	0	0	72	16777215	20
+0	By bouncing back & forth across your FTP, you alternately load up your muscles...	8	0	0	72	16777215	30
+0	and then gradually clear them off before doing it again...and again	8	0	0	72	16777215	40
+0	At no point during the intervals will your wattage stray far from your FTP	8	0	0	72	16777215	50
+0	You'll either be just below it at 95% FTP or slightly above it at 105% FTP	8	0	0	72	16777215	60
+0	More information to follow...	8	0	0	72	16777215	90
+0	just continue warming with a light & comfortably quick spin	8	0	0	72	16777215	100
+480	During this 3-minute warming effort, try to keep your spin above 85rpm...	8	0	0	72	16777215	0
+480	perferably closer to 95rpm as long as you don't bounce in the saddle	8	0	0	72	16777215	10
+660	Ease off the power and try to lower your breathing & heart rate...	8	0	0	72	16777215	0
+660	by drawing full breaths, exhaling strongly & staying relaxed	8	0	0	72	16777215	10
+660	Over the course of these next few minutes, settle into a quick-ish spin...	8	0	0	72	16777215	60
+660	somewhere between 85-95rpm & try to keep your breathing calm & complete	8	0	0	72	16777215	70
+660	First over-under is just a minute away so try to set the tone...	8	0	0	72	16777215	240
+660	with a fluid & even pedalstroke, a relaxed upper body...	8	0	0	72	16777215	250
+660	stable & quiet hips that are glued to the saddle...	8	0	0	72	16777215	260
+660	and full belly-breaths that expand your abdomen on the inhale...	8	0	0	72	16777215	270
+660	and narrow your midsection as you clear your lungs strongly	8	0	0	72	16777215	280
+660	Keep spinning quickly, ideally around 90rpm or a little quicker	8	0	0	72	16777215	290
+960	If you're not there already, try to spin between 85-95rpm...	8	0	0	72	16777215	0
+960	and adjust to the effort increase for a couple minutes	8	0	0	72	16777215	10
+960	The first over-segment or "surge" is just ahead	8	0	0	72	16777215	150
+960	If you want to increase your cadence a bit, start adding 5-10rpm now	8	0	0	72	16777215	160
+960	Otherwise, just stay steady & get ready to work a little harder	8	0	0	72	16777215	170
+1140	One minute, work just a little bit harder	5	0	0	72	16777215	0
+1200	Good, but now the real work begins - don't back off too much	8	0	0	72	16777215	0
+1200	The burn that accumulates during the surges is actually your friend	8	0	0	72	16777215	10
+1200	So try to get used to this fairly uncomfortable sensation in your legs...	8	0	0	72	16777215	20
+1200	and let the burn dissipate slowly, fading gradually over these 3 minutes	8	0	0	72	16777215	30
+1200	By now, most or all of the burn will have cleared...	8	0	0	72	16777215	150
+1200	but this is a matter of your fitness & will change over time	8	0	0	72	16777215	160
+1200	In any case, get ready to load up your legs with another bit of burn	8	0	0	72	16777215	170
+1380	Keep your cadence or lift it a little	5	0	0	72	16777215	0
+1380	Final 30 seconds, keep your body still & relaxed	8	0	0	72	16777215	30
+1440	Nicely done, try to keep spinning for a couple easy minutes	8	0	0	72	16777215	0
+1440	And try to slow your breathing promptly by strongly clearing your lungs	8	0	0	72	16777215	10
+1440	So there you have it, your first rather lengthy over-under out of the way	8	0	0	72	16777215	60
+1440	And as you surely noticed, the hardest part is continuing...	8	0	0	72	16777215	70
+1440	when your legs are flooded, working through the burn	8	0	0	72	16777215	80
+1440	But that's arguably the most productive part of these intervals	8	0	0	72	16777215	90
+1440	By not allowing the temporary discomfort to derail your effort...	8	0	0	72	16777215	100
+1440	you're not only becoming tougher, more resilient...	8	0	0	72	16777215	110
+1440	but with consistency & proper recovery, your body will eventually adapt to this stress	8	0	0	72	16777215	120
+1440	This increase in your fitness allows you to better process the excess lactate	8	0	0	72	16777215	130
+1440	So not only can you clear the burn faster, but you can work harder...	8	0	0	72	16777215	140
+1440	and longer before the burn sets in or becomes overwhelming	8	0	0	72	16777215	150
+1440	So again, the BURN is your FRIEND...	8	0	0	72	16777215	160
+1440	at least within the context of over-under drills	8	0	0	72	16777215	170
+1440	Round 2 just ahead so make sure you're spinning above 85rpm	8	0	0	72	16777215	330
+1440	Anchor your sit bones on the saddle, relax your body...	8	0	0	72	16777215	340
+1440	and try to stay quick & relaxed when the work jumps up	8	0	0	72	16777215	350
+1800	Smoothly pick up the power & keep your pedaling fluid	8	0	0	72	16777215	0
+1800	The first couple minutes after a recovery can be a little challenging...	8	0	0	72	16777215	10
+1800	but the discomfort will pass as you start to settle in...	8	0	0	72	16777215	20
+1800	especially if you emphasize the quality of your breathing	8	0	0	72	16777215	30
+1800	Try to use your breathing muscles more effectively by moving your belly	8	0	0	72	16777215	40
+1800	Let your belly distend as you inhale, really pooch it out...	8	0	0	72	16777215	50
+1800	then draw your abdomen toward your spine as you exhale, get narrow	8	0	0	72	16777215	60
+1980	Either pick up your spin or hold your leg speed steady...	8	0	0	72	16777215	0
+1980	but in either case, get your power on Target right away	8	0	0	72	16777215	10
+2040	Keep your focus & don't ease up too much...	8	0	0	72	16777215	0
+2040	and patiently ride off the burn for a few minutes	8	0	0	72	16777215	10
+2040	Get ready to do it again, more leg speed or the same spin	8	0	0	72	16777215	160
+2040	In either case, try to hide the increase in your effort	8	0	0	72	16777215	170
+2220	Smoothly push the power up & keep breathing fully	8	0	0	72	16777215	0
+2220	Draw breaths with your belly, clear your lungs with your abs	8	0	0	72	16777215	10
+2280	Nicely done, 2 of 3 efforts out of the way!	8	0	0	72	16777215	0
+2280	Take a few minutes to relax but try to keep your legs pedaling	8	0	0	72	16777215	10
+2280	Still a few minutes of recovery ahead, feel free to stand & stretch...	8	0	0	72	16777215	180
+2280	grab a drink, shake out your legs, whatever helps you get ready to go again	8	0	0	72	16777215	190
+2280	Third & final round just ahead, make sure your cadence...	8	0	0	72	16777215	330
+2280	is within the 85-95rpm range, relax your body...	8	0	0	72	16777215	340
+2280	and start drawing your full belly-breaths & actively clearing the used air	8	0	0	72	16777215	350
+2640	Settle in and ride smoothly for a few minutes...	8	0	0	72	16777215	0
+2640	and don't let these first couple minutes after a break worry you	8	0	0	72	16777215	10
+2820	A little more effort but hide the work	5	0	0	72	16777215	0
+2880	One last time, ease up but don't clear the burn too quickly	8	0	0	72	16777215	0
+2880	Breathe completely & do your best to stay relaxed no matter how uncomfortable	8	0	0	72	16777215	10
+3060	Last time, so relaxed it looks easy	5	0	0	72	16777215	0
+3120	Job well done, ease up & try to slow your breathing	8	0	0	72	16777215	0
+3120	And as you start to come back down, give some thought...	8	0	0	72	16777215	10
+3120	to your recovery strategy including your nutrition, hydration, stretching...	8	0	0	72	16777215	20
+3120	and even the rest of your day & how best to take things easy	8	0	0	72	16777215	30
+3120	We'll see you next time	8	0	0	72	16777215	40
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+480	660	Sweet Spot 1
+960	1140	Sweet Spot 2
+1140	1200	Threshold 1
+1200	1380	Sweet Spot 3
+1380	1440	Threshold 2
+1800	1980	Sweet Spot 4
+1980	2040	Threshold 3
+2040	2220	Sweet Spot 5
+2220	2280	Threshold 4
+2640	2820	Sweet Spot 6
+2820	2880	Threshold 5
+2880	3060	Sweet Spot 7
+3060	3120	Threshold 6
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

@@ -1,0 +1,579 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = South Guard,93,130. Created by 42270.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	90
+7	95
+7	40
+12	40
+12	100
+12.5	100
+12.5	103
+13	103
+13	106
+13.5	106
+13.5	109
+14	109
+14	112
+14.5	112
+14.5	115
+15	115
+15	112
+15.5	112
+15.5	109
+16	109
+16	106
+16.5	106
+16.5	103
+17	103
+17	100
+17.5	100
+17.5	97
+18	97
+18	94
+18.5	94
+18.5	91
+19	91
+19	94
+19.5	94
+19.5	97
+20	97
+20	100
+20.5	100
+20.5	103
+21	103
+21	106
+21.5	106
+21.5	103
+22	103
+22	100
+22.5	100
+22.5	97
+23	97
+23	94
+23.5	94
+23.5	91
+24	91
+24	40
+28	40
+28	100
+28.5	100
+28.5	103
+29	103
+29	106
+29.5	106
+29.5	109
+30	109
+30	112
+30.5	112
+30.5	115
+31	115
+31	112
+31.5	112
+31.5	109
+32	109
+32	106
+32.5	106
+32.5	103
+33	103
+33	100
+33.5	100
+33.5	97
+34	97
+34	94
+34.5	94
+34.5	91
+35	91
+35	94
+35.5	94
+35.5	97
+36	97
+36	100
+36.5	100
+36.5	103
+37	103
+37	106
+37.5	106
+37.5	103
+38	103
+38	100
+38.5	100
+38.5	97
+39	97
+39	94
+39.5	94
+39.5	91
+40	91
+40	40
+44	40
+44	100
+44.5	100
+44.5	103
+45	103
+45	106
+45.5	106
+45.5	109
+46	109
+46	112
+46.5	112
+46.5	115
+47	115
+47	112
+47.5	112
+47.5	109
+48	109
+48	106
+48.5	106
+48.5	103
+49	103
+49	100
+49.5	100
+49.5	97
+50	97
+50	94
+50.5	94
+50.5	91
+51	91
+51	94
+51.5	94
+51.5	97
+52	97
+52	100
+52.5	100
+52.5	103
+53	103
+53	106
+53.5	106
+53.5	103
+54	103
+54	100
+54.5	100
+54.5	97
+55	97
+55	94
+55.5	94
+55.5	91
+56	91
+56	40
+60	40
+60	100
+60.5	100
+60.5	103
+61	103
+61	106
+61.5	106
+61.5	109
+62	109
+62	112
+62.5	112
+62.5	115
+63	115
+63	112
+63.5	112
+63.5	109
+64	109
+64	106
+64.5	106
+64.5	103
+65	103
+65	100
+65.5	100
+65.5	97
+66	97
+66	94
+66.5	94
+66.5	91
+67	91
+67	94
+67.5	94
+67.5	97
+68	97
+68	100
+68.5	100
+68.5	103
+69	103
+69	106
+69.5	106
+69.5	103
+70	103
+70	100
+70.5	100
+70.5	97
+71	97
+71	94
+71.5	94
+71.5	91
+72	91
+72	40
+76	40
+76	100
+76.5	100
+76.5	103
+77	103
+77	106
+77.5	106
+77.5	109
+78	109
+78	112
+78.5	112
+78.5	115
+79	115
+79	112
+79.5	112
+79.5	109
+80	109
+80	106
+80.5	106
+80.5	103
+81	103
+81	100
+81.5	100
+81.5	97
+82	97
+82	94
+82.5	94
+82.5	91
+83	91
+83	94
+83.5	94
+83.5	97
+84	97
+84	100
+84.5	100
+84.5	103
+85	103
+85	106
+85.5	106
+85.5	103
+86	103
+86	100
+86.5	100
+86.5	97
+87	97
+87	94
+87.5	94
+87.5	91
+88	91
+88	40
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	South Guard is what we call a "Ramping Workout"	8	0	0	72	16777215	10
+0	As you can see by looking at the 5 sets of intervals...	8	0	0	72	16777215	20
+0	each set is composed of two back-to-back intervals...	8	0	0	72	16777215	30
+0	with ascending and then descending steps	5	0	0	72	16777215	40
+0	We'll target your muscular strength AND endurance...	8	0	0	72	16777215	50
+0	and make you a fighter on the bike	5	0	0	72	16777215	60
+0	But for now, let's get warmed up	8	0	0	72	16777215	70
+300	Bring your spin into the 85-95rpm range if you're not there already	8	0	0	72	16777215	0
+420	All set! Keep things really easy for these 5 minutes	8	0	0	72	16777215	0
+420	We'll use this first set to get used to the workout format	8	0	0	72	16777215	250
+420	Maintain a cadence of 85-95rpm throughout...	8	0	0	72	16777215	260
+420	and if you don't have a cadence sensor, just try...	8	0	0	72	16777215	270
+420	to keep a comfortable but somewhat quick cadence	8	0	0	72	16777215	280
+420	10 seconds to go time, settle into that quick-ish spin	8	0	0	72	16777215	290
+720	Right from the start, you're at FTP so if you aren't fully warm...	8	0	0	72	16777215	0
+720	feel welcome to drop the Workout Intensity 5%	8	0	0	72	16777215	10
+720	You can start to raise it back to 100% over the first few minutes...	8	0	0	72	16777215	20
+750	because it's better to be sensible now than blow yourself up early	8	0	0	72	16777215	0
+750	Each step brings a slight increase in work...	8	0	0	72	16777215	10
+750	which you'll deal with more adeptly if your spin is quick & light	8	0	0	72	16777215	20
+780	You'll also have a better chance of surviving the steps...	8	0	0	72	16777215	0
+780	if you stay relaxed - face, jaw, shoulders, arms, hands	8	0	0	72	16777215	10
+810	You're also going to be better off with stable, "quiet" hips	8	0	0	72	16777215	0
+810	So anchor your sit bones to your saddle's wings & minimize hip movement	8	0	0	72	16777215	10
+840	Almost to the peak, hold it together & keep your breaths full	8	0	0	72	16777215	0
+840	Distend your belly & let your lungs fill...	8	0	0	72	16777215	10
+840	then draw your abdomen toward your spine & clear the used air	8	0	0	72	16777215	20
+870	Highest output you'll face all day, but the real work is yet to begin	8	0	0	72	16777215	0
+870	Be patient & breathe through the discomfort	8	0	0	72	16777215	10
+900	On the way down, but don't expect relief	8	0	0	72	16777215	0
+900	THIS is where tough riders are made & inferior riders crack	8	0	0	72	16777215	10
+900	And don't take that to mean you're inferior if you happen to bail briefly	8	0	0	72	16777215	20
+930	Stay with it & really focus on keeping your leg speed high	8	0	0	72	16777215	0
+930	If you start to bog down, backpedal for 5-10 seconds...	8	0	0	72	16777215	10
+930	and then wind it back up to 90rpm or so	8	0	0	72	16777215	20
+960	Remember, training is a process...	8	0	0	72	16777215	0
+960	improvement is a never ending goal	8	0	0	72	16777215	10
+960	As you descend, try to relax a little more with each step down	8	0	0	72	16777215	20
+990	Relax some more by dropping your shoulders & softening your elbows	8	0	0	72	16777215	0
+1020	Relax even more by loosening your jaw & your grip	8	0	0	72	16777215	0
+1050	Even MORE relaxed by letting your expression go slack	8	0	0	72	16777215	0
+1080	By now the muscles have started clearing...	8	0	0	72	16777215	0
+1080	which may not be comfortable but at least more bearable	8	0	0	72	16777215	10
+1110	Take some full, deep breaths and try to drop your HR a few bpm	8	0	0	72	16777215	0
+1140	On this trip upward, do your best to resist unnecessary tension	8	0	0	72	16777215	0
+1170	Whether you recognize it or not, each time you work a little harder...	8	0	0	72	16777215	0
+1170	you're probably accumulating some excess muscle tension	8	0	0	72	16777215	10
+1170	And not necessarily in the driving muscles either	5	0	0	72	16777215	20
+1200	Keep that cadence above 85rpm, even if you have to take a quick backpedal	8	0	0	72	16777215	0
+1230	Above FTP, get ready for the burn to grow...	8	0	0	72	16777215	0
+1230	but don't let it throw you off your game	8	0	0	72	16777215	10
+1230	Pain is part of the process - plain & simple	8	0	0	72	16777215	20
+1260	This is it, all the higher the watts will go for now - be encouraged	8	0	0	72	16777215	0
+1290	Again, it's the descent that breaks lesser riders	8	0	0	72	16777215	0
+1290	You have to fight through that point where many riders simply quit	8	0	0	72	16777215	10
+1320	Let a little more of the burn slip away by drawing full, belly-breaths	8	0	0	72	16777215	0
+1350	Ditch some more tension from your upper body	8	0	0	72	16777215	0
+1380	Loose grip on the bars, drape your body over your bike	8	0	0	72	16777215	0
+1410	Ride this last step as smoothly as your first	8	0	0	72	16777215	0
+1440	Nice work! And welcome to the workout that WILL make you tougher	8	0	0	72	16777215	0
+1440	Spin easy for a while & calm your breathing promptly	8	0	0	72	16777215	10
+1440	Ramping efforts like this can be deceiving	8	0	0	72	16777215	120
+1440	When the efforts are stepping upwards...	8	0	0	72	16777215	130
+1440	it feels like the effort is increasing, as it should	8	0	0	72	16777215	140
+1440	But when they are stepping downwards...	8	0	0	72	16777215	150
+1440	it can feel like it isn't getting any easier...and it's probably not	8	0	0	72	16777215	160
+1440	Fatigue is a cruel teacher...	8	0	0	72	16777215	170
+1440	and the lessons are often hard ones	8	0	0	72	16777215	180
+1440	As you exhaust your resources...	8	0	0	72	16777215	190
+1440	your muscles don't respond the same as when they're fresh	8	0	0	72	16777215	200
+1440	So while the output is on the decline...	8	0	0	72	16777215	210
+1440	your effort might not reflect that	8	0	0	72	16777215	220
+1440	Just bear down and know that it WILL end...	8	0	0	72	16777215	230
+1440	it just won't feel easier in the process - be tough!	8	0	0	72	16777215	240
+1680	Thoroughly warm now, let's try this again	5	0	0	72	16777215	0
+1710	Each step, keep your spin up & your body tension down	8	0	0	72	16777215	0
+1740	Keep your spin, ditch the needless tension	8	0	0	72	16777215	0
+1770	Keep your legs quick to keep that burn at bay	8	0	0	72	16777215	0
+1800	We're aerobic athletes so make your spin aerobic too	8	0	0	72	16777215	0
+1800	Do this with many light pedalstrokes rather than fewer, harder revs	8	0	0	72	16777215	10
+1830	At the peak now, stay focused & accept that this workload...	8	0	0	72	16777215	0
+1830	will remain right here for a few minutes	8	0	0	72	16777215	10
+1860	Less power but no less effort, don't wait for relief	8	0	0	72	16777215	0
+1890	Be patient, be tough, be relaxed	8	0	0	72	16777215	0
+1920	Focus on the quality of your breathing...	8	0	0	72	16777215	0
+1920	and use your belly actively - let it pooch then draw it in	8	0	0	72	16777215	10
+1950	How tightly are you gripping the bars? Relax your hands	8	0	0	72	16777215	0
+1980	Below FTP now, relief IS on the way	8	0	0	72	16777215	0
+2010	Keep it quick, keep that accumulation clearing	8	0	0	72	16777215	0
+2040	Smooth & relaxed, smooth & relaxed, smooth...	8	0	0	72	16777215	0
+2040	and relaaaaaaaxed	5	0	0	72	16777215	10
+2070	Use this minute to knock your heart rate down 1-2 more bpm	8	0	0	72	16777215	0
+2100	Upward and onward, just focus on 30 seconds at a time	8	0	0	72	16777215	0
+2130	Let something go with each step, shoulders this time	8	0	0	72	16777215	0
+2160	Loosen your jaw, slack expression	5	0	0	72	16777215	0
+2190	Anchor your sit bones, give your undercarriage a break	8	0	0	72	16777215	0
+2220	It it helps, slide forward slight & power through	8	0	0	72	16777215	0
+2250	On the way down, be patient!	5	0	0	72	16777215	0
+2280	Let go of the tension in your lower legs	8	0	0	72	16777215	0
+2280	Calfs, ankles, feet...let 'em dangle	8	0	0	72	16777215	10
+2310	Force out the used air then relax & refill	8	0	0	72	16777215	0
+2340	30 seconds of riding so smoothly it looks easy	8	0	0	72	16777215	0
+2370	Final 30, just as pretty as the first	8	0	0	72	16777215	0
+2400	Good job! Take a few minutes to clear the heaviness	8	0	0	72	16777215	0
+2400	Keep pedaling but feel free to spin backward for 20-30 seconds	8	0	0	72	16777215	10
+2400	This time let's focus on keeping your cadence up	8	0	0	72	16777215	120
+2400	Once again, the time to watch yourself is during the down-steps	8	0	0	72	16777215	130
+2400	If you keep your cadence high...	8	0	0	72	16777215	140
+2400	then you might actually feel the decreases in intensity	8	0	0	72	16777215	150
+2400	Keep your cadence as close to 95rpm as possible...	8	0	0	72	16777215	160
+2400	and if it's comfortable to go just a little higher, go for it	8	0	0	72	16777215	170
+2640	Here we go! Start relaxed, stay relaxed	8	0	0	72	16777215	0
+2670	Settle on a comfortable cadence that you can maintain	8	0	0	72	16777215	0
+2790	Hold that spin, try to save any backpedals for the descent	8	0	0	72	16777215	0
+2850	Keep your cadence on the high side	8	0	0	72	16777215	0
+2940	Forehead to toes, work your way down & ditch tension	8	0	0	72	16777215	0
+3030	If your cadence has dropped, here's a good opportunity to rally	8	0	0	72	16777215	0
+3180	Hold your cadence at a comfortable but quick level	8	0	0	72	16777215	0
+3240	Keep spinning & remind yourself it's getting easier	8	0	0	72	16777215	0
+3330	30 seconds of work between you & recovery!	8	0	0	72	16777215	0
+3360	Well done! Keep spinning, backward or forward	8	0	0	72	16777215	0
+3360	We'll use this fourth set to improve your breathing	8	0	0	72	16777215	180
+3360	By getting ahead of the curve...	8	0	0	72	16777215	190
+3360	and breathing properly before you find yourself out of breath...	8	0	0	72	16777215	200
+3360	the changes in pace are less likely to catch you off guard	8	0	0	72	16777215	210
+3360	So get started now by slowly ramping up your leg speed...	8	0	0	72	16777215	220
+3360	and by breathing slowly but fully	8	0	0	72	16777215	230
+3630	Breathe in through your nose & mouth	5	0	0	72	16777215	0
+3660	Exhale forcefully through your mouth	5	0	0	72	16777215	0
+3720	Exhale strongly from your diaphragm	8	0	0	72	16777215	0
+3810	Make your breathing rhythmic & controlled	8	0	0	72	16777215	0
+3810	And if it helps, tie your breathing to your cadence	8	0	0	72	16777215	10
+3930	Breathe fully and "wash away" that accumulation	8	0	0	72	16777215	0
+3990	Get ahead of this next ascent by breathing completely	8	0	0	72	16777215	0
+4080	Strong, controlled breaths	5	0	0	72	16777215	0
+4170	Keep those strong breaths coming from your diaphragm	8	0	0	72	16777215	0
+4260	Home stretch, no bailing now	5	0	0	72	16777215	0
+4290	Again, make the final step as fluid & relaxed as the first	8	0	0	72	16777215	0
+4320	Nice job! Keep those full breaths comin'	8	0	0	72	16777215	0
+4320	Big, easy breaths, watch your HR fall	8	0	0	72	16777215	10
+4320	Final set, let's add some pedal drills to keep you productively distracted...	8	0	0	72	16777215	210
+4320	and to clean up form that's undoubtedly battling fatigue	8	0	0	72	16777215	220
+4320	Bring up your spin - 85rpm works, 95rpm works better	8	0	0	72	16777215	230
+4560	Take the first minute to settle in to your quick spin...	8	0	0	72	16777215	0
+4560	and adjust to the workload	5	0	0	72	16777215	10
+4590	Don't let the initial discomfort discourage you, it'll pass	8	0	0	72	16777215	0
+4620	30 seconds, focus on kicking your toes at the top of each pedalstroke	8	0	0	72	16777215	0
+4650	Switch your focus to pulling back at the bottom of each pedal rev	8	0	0	72	16777215	0
+4680	Do both, kick & pull, right leg focus	8	0	0	72	16777215	0
+4680	Kick & pull, focus on your left foot	8	0	0	72	16777215	10
+4710	Both legs kick & pull - pedal on eggshells...	8	0	0	72	16777215	0
+4710	very little pressure on the downstroke	5	0	0	72	16777215	10
+4740	Both legs, focus on pulling backward at bottom	8	0	0	72	16777215	0
+4770	Now focus on lifting each knee during the upstroke	8	0	0	72	16777215	0
+4770	As if you're juggling a soccer ball	5	0	0	72	16777215	10
+4800	Tricky one, pull back across the bottom, then lift up	8	0	0	72	16777215	0
+4800	Back & up, back & up	5	0	0	72	16777215	10
+4830	Back to the top of your pedalstroke, lightly kick forward	8	0	0	72	16777215	0
+4860	Now carry that light kick into the downstroke	8	0	0	72	16777215	0
+4860	Kick & press down, kick & press down	5	0	0	72	16777215	10
+4890	Just pedal and clear your head for a minute	8	0	0	72	16777215	0
+4950	Time to build again, let's get really tricky...	8	0	0	72	16777215	0
+4950	or just ignore these instructions & stay quick ;-)	8	0	0	72	16777215	10
+4980	Kick with your right foot, pull with your left foot	8	0	0	72	16777215	0
+4980	Do it simultaneously but don't get herky-jerky	8	0	0	72	16777215	10
+5010	Switch: kick with your left, pull with your right	8	0	0	72	16777215	0
+5010	Same time...and loosen your grip on the bars	8	0	0	72	16777215	10
+5040	Back to pedaling on eggshells, no downstroke	8	0	0	72	16777215	0
+5040	Kick & pull, both feet	5	0	0	72	16777215	10
+5070	Gradually phase your downstroke back in...	8	0	0	72	16777215	0
+5070	but don't over utilize it - spare your quads	8	0	0	72	16777215	10
+5100	Knowing you're this close to finished...	8	0	0	72	16777215	0
+5100	should be all the encouragement you need, yeah?	8	0	0	72	16777215	10
+5130	No particular focus, just be fluid in general	8	0	0	72	16777215	0
+5190	Almost there, minimize wasted motion...	8	0	0	72	16777215	0
+5190	probably in the upper body but watch your knees too	8	0	0	72	16777215	10
+5250	As always, make the end look as good as the start	8	0	0	72	16777215	0
+5280	Very well done! Workloads don't get much higher than that...	8	0	0	72	16777215	0
+5280	not inside of 90 minutes anyway	8	0	0	72	16777215	10
+5280	Take your time warming down, start thinking recovery nutrition...	8	0	0	72	16777215	20
+5280	and we'll see you next time	8	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+300	420	Sweet Spot 1
+720	750	Threshold 1
+750	780	Threshold 2
+780	810	VO2 Max 1
+810	840	VO2 Max 2
+840	870	VO2 Max 3
+870	900	VO2 Max 4
+900	930	VO2 Max 5
+930	960	VO2 Max 6
+960	990	VO2 Max 7
+990	1020	Threshold 3
+1020	1050	Threshold 4
+1050	1080	Threshold 5
+1080	1110	Sweet Spot 2
+1110	1140	Sweet Spot 3
+1140	1170	Sweet Spot 4
+1170	1200	Threshold 6
+1200	1230	Threshold 7
+1230	1260	Threshold 8
+1260	1290	VO2 Max 8
+1290	1320	Threshold 9
+1320	1350	Threshold 10
+1350	1380	Threshold 11
+1380	1410	Sweet Spot 5
+1410	1440	Sweet Spot 6
+1680	1710	Threshold 12
+1710	1740	Threshold 13
+1740	1770	VO2 Max 9
+1770	1800	VO2 Max 10
+1800	1830	VO2 Max 11
+1830	1860	VO2 Max 12
+1860	1890	VO2 Max 13
+1890	1920	VO2 Max 14
+1920	1950	VO2 Max 15
+1950	1980	Threshold 14
+1980	2010	Threshold 15
+2010	2040	Threshold 16
+2040	2070	Sweet Spot 7
+2070	2100	Sweet Spot 8
+2100	2130	Sweet Spot 9
+2130	2160	Threshold 17
+2160	2190	Threshold 18
+2190	2220	Threshold 19
+2220	2250	VO2 Max 16
+2250	2280	Threshold 20
+2280	2310	Threshold 21
+2310	2340	Threshold 22
+2340	2370	Sweet Spot 10
+2370	2400	Sweet Spot 11
+2640	2670	Threshold 23
+2670	2700	Threshold 24
+2700	2730	VO2 Max 17
+2730	2760	VO2 Max 18
+2760	2790	VO2 Max 19
+2790	2820	VO2 Max 20
+2820	2850	VO2 Max 21
+2850	2880	VO2 Max 22
+2880	2910	VO2 Max 23
+2910	2940	Threshold 25
+2940	2970	Threshold 26
+2970	3000	Threshold 27
+3000	3030	Sweet Spot 12
+3030	3060	Sweet Spot 13
+3060	3090	Sweet Spot 14
+3090	3120	Threshold 28
+3120	3150	Threshold 29
+3150	3180	Threshold 30
+3180	3210	VO2 Max 24
+3210	3240	Threshold 31
+3240	3270	Threshold 32
+3270	3300	Threshold 33
+3300	3330	Sweet Spot 15
+3330	3360	Sweet Spot 16
+3600	3630	Threshold 34
+3630	3660	Threshold 35
+3660	3690	VO2 Max 25
+3690	3720	VO2 Max 26
+3720	3750	VO2 Max 27
+3750	3780	VO2 Max 28
+3780	3810	VO2 Max 29
+3810	3840	VO2 Max 30
+3840	3870	VO2 Max 31
+3870	3900	Threshold 36
+3900	3930	Threshold 37
+3930	3960	Threshold 38
+3960	3990	Sweet Spot 17
+3990	4020	Sweet Spot 18
+4020	4050	Sweet Spot 19
+4050	4080	Threshold 39
+4080	4110	Threshold 40
+4110	4140	Threshold 41
+4140	4170	VO2 Max 32
+4170	4200	Threshold 42
+4200	4230	Threshold 43
+4230	4260	Threshold 44
+4260	4290	Sweet Spot 20
+4290	4320	Sweet Spot 21
+4560	4590	Threshold 45
+4590	4620	Threshold 46
+4620	4650	VO2 Max 33
+4650	4680	VO2 Max 34
+4680	4710	VO2 Max 35
+4710	4740	VO2 Max 36
+4740	4770	VO2 Max 37
+4770	4800	VO2 Max 38
+4800	4830	VO2 Max 39
+4830	4860	Threshold 47
+4860	4890	Threshold 48
+4890	4920	Threshold 49
+4920	4950	Sweet Spot 22
+4950	4980	Sweet Spot 23
+4980	5010	Sweet Spot 24
+5010	5040	Threshold 50
+5040	5070	Threshold 51
+5070	5100	Threshold 52
+5100	5130	VO2 Max 40
+5130	5160	Threshold 53
+5160	5190	Threshold 54
+5190	5220	Threshold 55
+5220	5250	Sweet Spot 25
+5250	5280	Sweet Spot 26
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

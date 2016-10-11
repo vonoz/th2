@@ -1,0 +1,299 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Beacon,84,107. Created by 54949.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+7.01	50
+7.01	99
+10.01	99
+10.01	40
+15.01	40
+15.01	95
+23.01	95
+23.01	40
+27.01	40
+27.01	97
+35.01	97
+35.01	40
+39.01	40
+39.01	99
+47.01	99
+47.01	40
+51.01	40
+51.01	98
+59.01	98
+59.01	40
+63.01	40
+63.01	97
+71.01	97
+71.01	40
+75.01	40
+75.01	96
+83.01	96
+83.01	38
+90.01	38
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Time for some Threshold work...	8	0	0	72	16777215	60
+0	or close, anyway	8	0	0	72	16777215	70
+0	Each of today's 6 intervals will keep you just below FTP...	8	0	0	72	16777215	80
+0	for eight minutes at a time	8	0	0	72	16777215	90
+0	The efforts will range from 95-99% FTP...	8	0	0	72	16777215	100
+0	and will have you right on the verge of what you can sustain	8	0	0	72	16777215	110
+0	More on all that later...	8	0	0	72	16777215	120
+0	for now, keep your spin quick but comfortable	8	0	0	72	16777215	130
+0	Ideally 90rpm or higher	8	0	0	72	16777215	140
+421	Three minutes to blow out the cobwebs	8	0	0	72	16777215	0
+421	Try to keep your spin quick & draw big, belly breaths	8	0	0	72	16777215	10
+601	Catch your breath for a minute	8	0	0	72	16777215	0
+601	By spending shorter stretches of time at hour-power...	8	0	0	72	16777215	60
+601	both your legs & your mind get acquainted with this level of effort	8	0	0	72	16777215	70
+601	By remaining JUST below the point where your legs flood...	8	0	0	72	16777215	80
+601	your muscles will learn to process higher levels of lactate...	8	0	0	72	16777215	90
+601	allowing you to work for longer stretches of time at this intensity	8	0	0	72	16777215	100
+601	Put another way, you'll grow your muscular endurance	8	0	0	72	16777215	110
+601	Work like this also paves the way for higher sustainable power...	8	0	0	72	16777215	120
+601	assuming you maintain a high level of workout consistency...	8	0	0	72	16777215	130
+601	and you allow proper recovery between workouts	8	0	0	72	16777215	140
+601	First interval's in 1 minute...	8	0	0	72	16777215	240
+601	so set your cadence before the work begins	8	0	0	72	16777215	250
+601	If possible, ride at 85rpm or higher	8	0	0	72	16777215	260
+601	If this cadence is too quick for you, find something thing sustainable...	8	0	0	72	16777215	270
+601	...and recognize cadence as an area for later improvement	8	0	0	72	16777215	280
+901	Nothing too technical during this first interval	8	0	0	72	16777215	0
+901	Just get a feel for the level of effort you'll sustain today...	8	0	0	72	16777215	10
+901	and round out your warm-up	8	0	0	72	16777215	20
+901	And if you don't yet feel sufficiently warmed up...	8	0	0	72	16777215	30
+901	for this intensity, drop the Workout Intensity 5-10%	8	0	0	72	16777215	40
+901	You can bring it back up over the course of this interval...	8	0	0	72	16777215	50
+901	or during the recovery valley after this interval	8	0	0	72	16777215	60
+901	Halfway there, stay steady & breathe with your belly	8	0	0	72	16777215	240
+1381	Nicely done, one behind ya	8	0	0	72	16777215	0
+1381	The next interval will raise your effort slightly...	8	0	0	72	16777215	60
+1381	but nothing too noticeable, just enough to bring you closer to FTP	8	0	0	72	16777215	70
+1381	If you dropped the Workout Intensity, now's the time to reset it...	8	0	0	72	16777215	90
+1381	unless you're to tired for Threshold work today	8	0	0	72	16777215	100
+1381	In that case, a 5% drop will make this a Sweet Spot workout...	8	0	0	72	16777215	110
+1381	and a 10% drop will make this a Tempo workout	8	0	0	72	16777215	120
+1381	Both are useful and similar in terms of today's goals	8	0	0	72	16777215	130
+1381	So if you know you're too fatigued to sustain your power today...	8	0	0	72	16777215	140
+1381	drop the watts so you can ride steadily for 8 minutes at a time	8	0	0	72	16777215	150
+1381	The steady stress is KEY to today's workout	8	0	0	72	16777215	160
+1381	Bring your cadence back to 85rpm or higher	8	0	0	72	16777215	270
+1621	Hold that spin & settle in	8	0	0	72	16777215	0
+1621	Riders who plan to ride in the drops when outdoors...	8	0	0	72	16777215	60
+1621	need to practice this indoors	8	0	0	72	16777215	70
+1621	Don't wait until you're out on the road to practice being aero	8	0	0	72	16777215	80
+1621	There's no better place, no better time than trainer workouts...	8	0	0	72	16777215	90
+1621	to start adjusting to the demands of outdoor riding	8	0	0	72	16777215	100
+1621	So get down there, even if it's just a minute or two at a time	8	0	0	72	16777215	110
+1621	Halfway there, do me a favor...	8	0	0	72	16777215	240
+1621	check to see if you can feel your sit bones on the saddle	8	0	0	72	16777215	250
+1621	If you can't, you're likely teetering on your pubic bone...	8	0	0	72	16777215	260
+1621	You tell me, does that sound powerful? Comfortable?	8	0	0	72	16777215	270
+1621	Nope, it's clearly neither, so anchor those sit bones	8	0	0	72	16777215	280
+1621	Try to feel them on the wings of the saddle...	8	0	0	72	16777215	290
+1621	with steady pressure - no side to side rocking from one to the other	8	0	0	72	16777215	300
+1621	If you can't help but rock, your saddle may be too high...	8	0	0	72	16777215	310
+1621	or you may be trying to ride too low for your current flexibility	8	0	0	72	16777215	320
+1621	Or you may simply lack the low abdominal strength necessary	8	0	0	72	16777215	330
+2101	Well done, 2 down!	8	0	0	72	16777215	0
+2101	In two minutes you'll ride your 3rd interval...	8	0	0	72	16777215	120
+2101	and this is yet another opportunity to target improvements	8	0	0	72	16777215	130
+2101	Not just improvements in sustaining power output...	8	0	0	72	16777215	140
+2101	but also improvements in pedal efficiency, position on the bike...	8	0	0	72	16777215	150
+2101	maybe even some in & out of the saddle transitioning	8	0	0	72	16777215	160
+2101	This time, my tips will target your pedalstroke	8	0	0	72	16777215	170
+2101	Take a minute to settle into a light, quick spin...	8	0	0	72	16777215	180
+2101	then try to keep that cadence during the 8-minute interval coming up	8	0	0	72	16777215	190
+2341	Here we go...	8	0	0	72	16777215	0
+2341	and while this may be the highest intensity interval today...	8	0	0	72	16777215	10
+2341	it's only 1% higher than the interval you just rode	8	0	0	72	16777215	20
+2341	Let's try to focus on something more productive...	8	0	0	72	16777215	50
+2341	than the clock or your discomfort	8	0	0	72	16777215	60
+2341	Think about your right leg for a couple minutes...	8	0	0	72	16777215	70
+2341	Left leg still works, but the right leg gets most of your attention	8	0	0	72	16777215	80
+2341	Lightly kick your right foot forward over top of the pedalstroke	8	0	0	72	16777215	90
+2341	Almost like your kicking a soccer ball	8	0	0	72	16777215	100
+2341	Keep that going & immediately drag your right heel backward	8	0	0	72	16777215	110
+2341	Kinda like scraping mud off the bottom of your shoe	8	0	0	72	16777215	120
+2341	Kick, pull...kick, pull	8	0	0	72	16777215	130
+2341	If that's not too much to contemplate, add the upstroke...	8	0	0	72	16777215	140
+2341	by gently lifting your right knee just after pulling back your heel	8	0	0	72	16777215	150
+2341	This is similar to juggling a soccer ball, right knee only	8	0	0	72	16777215	160
+2341	So you'll kick, pull, lift...kick, pull lift	8	0	0	72	16777215	170
+2341	And don't worry about the downstroke...	8	0	0	72	16777215	180
+2341	that motion is deeply ingrained already	8	0	0	72	16777215	190
+2341	Now shift your attention to your left leg	8	0	0	72	16777215	200
+2341	Right leg is still working, probably a little cooked too...	8	0	0	72	16777215	210
+2341	but the left leg gets most of your attention now	8	0	0	72	16777215	220
+2341	Lightly kick your toes into the front of your left shoe	8	0	0	72	16777215	230
+2341	Then lightly pull your left heel into the back of its shoe	8	0	0	72	16777215	240
+2341	If that seems to be going well...	8	0	0	72	16777215	250
+2341	gently lift your left knee right after you pull your left heel back	8	0	0	72	16777215	260
+2341	Kick, pull, lift...kick, pull, lift	8	0	0	72	16777215	270
+2341	Try to keep this going for another minute or so	8	0	0	72	16777215	280
+2341	Excellent, now give equal attention to both legs again	8	0	0	72	16777215	350
+2341	That drill was called Single Leg Focus...	8	0	0	72	16777215	360
+2341	and is similar to ILT (one-leggers) except both feet stay connected	8	0	0	72	16777215	370
+2341	Not only is it a useful form drill...	8	0	0	72	16777215	380
+2341	but it's a great distraction from the pain that often comes with interval training	8	0	0	72	16777215	390
+2821	Nicely done, take a few minutes to clear your legs...	8	0	0	72	16777215	0
+2821	and recover your breathing, drop your heart rate	8	0	0	72	16777215	10
+2821	This round, let's focus on moving in and out of the saddle a bit	8	0	0	72	16777215	180
+2821	We're not looking to spend time standing...	8	0	0	72	16777215	190
+2821	so much as stretch the legs occasionally	8	0	0	72	16777215	200
+2821	And we want to learn to do it gracefully	8	0	0	72	16777215	210
+2821	But that takes practice, so here we go...	8	0	0	72	16777215	220
+2821	Set your cadence...	8	0	0	72	16777215	230
+3061	And keep your cadence...	8	0	0	72	16777215	0
+3061	or what will be your seated cadence	8	0	0	72	16777215	10
+3061	A little later, when you stand, you'll find your standing cadence	8	0	0	72	16777215	20
+3061	Roughly every minute, let's try to get out of the saddle for 5 seconds	8	0	0	72	16777215	60
+3061	If you're on a CompuTrainer, KICKR or PowerBeam Pro...	8	0	0	72	16777215	70
+3061	you'll do this by simply slowing your spin prior to standing...	8	0	0	72	16777215	80
+3061	and if you're on a regular trainer, you'll shift down 1 or 2 gears	8	0	0	72	16777215	90
+3061	In either case, don't plan on standing at 85rpm or higher...	8	0	0	72	16777215	100
+3061	unless you're very practiced & comfortable with high-cadence climbing	8	0	0	72	16777215	110
+3061	Slow things down, maybe 60-70rpm...	8	0	0	72	16777215	120
+3061	and rise, just 5 seconds	8	0	0	72	16777215	130
+3061	How'd that go? Great? Horribly?	8	0	0	72	16777215	140
+3061	Saddle transitioning is a skill EVERY rider can work on	8	0	0	72	16777215	150
+3061	It's also a skill from which EVERYONE benefits	8	0	0	72	16777215	160
+3061	So let's do it again, slow your spin...	8	0	0	72	16777215	170
+3061	and come up for 5 seconds	8	0	0	72	16777215	180
+3061	Better? Here's some tips to help you smooth these out...	8	0	0	72	16777215	190
+3061	First, work on rising with control	8	0	0	72	16777215	200
+3061	Don't jump up over your bars, don't thrust your bike backward...	8	0	0	72	16777215	210
+3061	instead, gracefully move your body up & your hips forward	8	0	0	72	16777215	220
+3061	Slow your spin & get ready...	8	0	0	72	16777215	230
+3061	Body up, hips forward, 5 seconds	8	0	0	72	16777215	240
+3061	Feel any better? A bit more controlled?	8	0	0	72	16777215	250
+3061	We're not expecting immediate perfection...	8	0	0	72	16777215	260
+3061	more like gradual but steady improvement	8	0	0	72	16777215	270
+3061	This time, try to stay light on your hands	8	0	0	72	16777215	280
+3061	Slow your spin...	8	0	0	72	16777215	290
+3061	body up, hips forward, 5 seconds	8	0	0	72	16777215	300
+3061	If you stayed lighter on your hands...	8	0	0	72	16777215	310
+3061	you probably weren't as likely to pull your body up or your bike back	8	0	0	72	16777215	320
+3061	Instead, you used your legs to continue pedaling as you rose from your seat	8	0	0	72	16777215	330
+3061	This will add a LOT of control to your up-transitions...	8	0	0	72	16777215	340
+3061	So let's briefly look at the down-transition	8	0	0	72	16777215	350
+3061	Slow your spin & get ready...	8	0	0	72	16777215	360
+3061	up, forward, 5 seconds...then sit as softly as possible	8	0	0	72	16777215	370
+3061	By very gently returning to the saddle...	8	0	0	72	16777215	380
+3061	you limit the loss of power that happens when you plop down	8	0	0	72	16777215	390
+3061	Not to mention it's far less uncomfortable on your nether region	8	0	0	72	16777215	400
+3061	Slow your spin, get ready...	8	0	0	72	16777215	410
+3061	Body up, hips forward, light hands...	8	0	0	72	16777215	420
+3061	and gently back into the saddle	8	0	0	72	16777215	430
+3061	Gettin' the hang of this?	8	0	0	72	16777215	440
+3061	Remember, any drills take time to perfect...	8	0	0	72	16777215	450
+3061	and perfection will never actually be reached	8	0	0	72	16777215	460
+3061	But you can certainly get closer & closer	8	0	0	72	16777215	470
+3541	Very nicely done, spin out the heaviness	8	0	0	72	16777215	0
+3541	Next to last round, let's target your pedalstroke again	8	0	0	72	16777215	180
+3541	Settle into your quick & sustainable spin	8	0	0	72	16777215	220
+3781	Take a minute to just adjust to the workload	8	0	0	72	16777215	0
+3781	This time, we'll try to split focus between both legs...	8	0	0	72	16777215	60
+3781	but for different segments of the pedalstroke	8	0	0	72	16777215	70
+3781	These exercises fall under the Quadrant Drills end of form work...	8	0	0	72	16777215	80
+3781	and break the pedalstroke into 4 parts	8	0	0	72	16777215	90
+3781	Quadrant 1 is the previously described kick over the top	8	0	0	72	16777215	100
+3781	Quadrant 2 is the all-important downstroke	8	0	0	72	16777215	110
+3781	Quadrant 3 is the pull across the bottom	8	0	0	72	16777215	120
+3781	Quadrant 4 is the upstroke	8	0	0	72	16777215	130
+3781	By targeting each quadrant on its own...	8	0	0	72	16777215	140
+3781	it's easier to discern which portion of your pedalstroke is deficient...	8	0	0	72	16777215	150
+3781	or perhaps which leg lacks a bit of coordination over part of the pedalstroke	8	0	0	72	16777215	160
+3781	But all that aside, you can learn to eke slightly more work...	8	0	0	72	16777215	170
+3781	out of each revolution of the cranks...	8	0	0	72	16777215	180
+3781	by targeting small components of your pedalstroke	8	0	0	72	16777215	190
+3781	Let's start by targeting Quadrant 1, both legs	8	0	0	72	16777215	200
+3781	Lightly kick each foot forward, over the top of each pedalstroke	8	0	0	72	16777215	210
+3781	Toes lightly into the fronts of your shoes	8	0	0	72	16777215	220
+3781	Notice I keep using the word 'lightly'	8	0	0	72	16777215	240
+3781	This is not a powerful segment of the pedalstroke...	8	0	0	72	16777215	250
+3781	so don't waste energy or risk injury by overdoing your kicks	8	0	0	72	16777215	260
+3781	Simply keep the muscles more active than if you just let your feet get dragged along	8	0	0	72	16777215	270
+3781	20 more seconds of lightly kicking across the top	8	0	0	72	16777215	280
+3781	Excellent, now let's shift to the bottom of the pedalstroke...	8	0	0	72	16777215	300
+3781	by lightly dragging your foot backward	8	0	0	72	16777215	310
+3781	Think of pulling each heel into the heel cup of each shoe	8	0	0	72	16777215	320
+3781	Or think of actively engaging your hamstrings & calves	8	0	0	72	16777215	330
+3781	But just like the kick, keep it light and...	8	0	0	72	16777215	340
+3781	recognize that this quadrant is also not a powerful one	8	0	0	72	16777215	350
+3781	The aim is simply to make it an ACTIVE one	8	0	0	72	16777215	360
+3781	20 more seconds of lightly pulling back	8	0	0	72	16777215	370
+3781	Another 10 seconds then we'll target the upstroke for a minute	8	0	0	72	16777215	380
+3781	Shift your focus to both upstrokes...	8	0	0	72	16777215	390
+3781	by actively, and lightly again, lifting your knees upward	8	0	0	72	16777215	400
+3781	Now you're really simulating juggling a soccer ball...	8	0	0	72	16777215	410
+3781	because it takes about the same amount of force...	8	0	0	72	16777215	420
+3781	to knee a ball as it does to activate your hip flexors in this manner	8	0	0	72	16777215	430
+3781	Just focus on lightly lifting your knees...	8	0	0	72	16777215	440
+3781	for 30 more seconds	8	0	0	72	16777215	450
+4261	Excellent! Pretty amazing how quickly that interval went, right?	8	0	0	72	16777215	0
+4261	Spin out the heaviness, calm your breathing	8	0	0	72	16777215	10
+4261	For this final round, let's spend some time generating power...	8	0	0	72	16777215	180
+4261	in an aerodynamic position since the watts are back down a bit	8	0	0	72	16777215	190
+4501	Settle into a reasonable spin...	8	0	0	72	16777215	0
+4501	and take a minute to get used to the work	8	0	0	72	16777215	10
+4501	For short periods of time, try to ride aerodynamically	8	0	0	72	16777215	60
+4501	This could mean a number of things...	8	0	0	72	16777215	70
+4501	depending on the type of rider you are	8	0	0	72	16777215	80
+4501	Multisport athletes & time trialists will spend time in the aero bars	8	0	0	72	16777215	90
+4501	Criterium & track riders will spend time in the drops	8	0	0	72	16777215	100
+4501	And road racers will spend time in the drops or laid out on the hoods	8	0	0	72	16777215	110
+4501	In any case, the goal is to cut a smaller hole in the wind	8	0	0	72	16777215	120
+4501	This could simply mean softening your elbows...	8	0	0	72	16777215	130
+4501	and bringing your torso closer to your bike...	8	0	0	72	16777215	140
+4501	It could mean burying your head between your shoulders turtle-style	8	0	0	72	16777215	150
+4501	It's all relative to your goals, your flexibility...	8	0	0	72	16777215	160
+4501	and your ability to generate Target Power in uncomfortable positions	8	0	0	72	16777215	170
+4501	Because aerodynamics don't mean a thing if you can't do work	8	0	0	72	16777215	180
+4501	So practice spending time being relatively aero...	8	0	0	72	16777215	190
+4501	2 minutes, 1 minute, 30 seconds...whatever you can stand	8	0	0	72	16777215	200
+4501	Over time, these durations need to grow...	8	0	0	72	16777215	210
+4501	and it's up to you to decide how to do this	8	0	0	72	16777215	220
+4501	Maybe it's just a matter of gaining flexibility through practice...	8	0	0	72	16777215	230
+4501	Perhaps your bike needs differently sized parts	8	0	0	72	16777215	240
+4501	Or maybe you ought to consider a professional bike fit	8	0	0	72	16777215	250
+4501	Whatever the case, you have to get to a point...	8	0	0	72	16777215	260
+4501	where you can hold your position for your goal durations	8	0	0	72	16777215	270
+4501	And you have to be able to do so without sacrificing power	8	0	0	72	16777215	280
+4501	Two minutes to go, keep moving in & out of your aero position	8	0	0	72	16777215	360
+4501	And don't forget to look where the road would be	8	0	0	72	16777215	370
+4501	Too often, riders neglect this key aspect to aero positioning...	8	0	0	72	16777215	380
+4501	but you have to be able to see the road at ALL times	8	0	0	72	16777215	390
+4501	So if you can't raise & keep your head in line with the horizon...	8	0	0	72	16777215	400
+4501	something needs to change	8	0	0	72	16777215	410
+4981	Job well done!	8	0	0	72	16777215	0
+4981	You just accumulated 48 minutes of near-threshold work...	8	0	0	72	16777215	10
+4981	and it didn't crush you like a 48-minute time trial would have	8	0	0	72	16777215	20
+4981	What's more, you learned a few things you can apply to future rides...	8	0	0	72	16777215	30
+4981	indoors or out	8	0	0	72	16777215	40
+4981	Until next time...	8	0	0	72	16777215	50
+4981	Train hard, ride fast, have fun	8	0	0	72	16777215	60
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5401	Workout
+421	601	Threshold 1
+901	1381	Sweet Spot 1
+1621	2101	Threshold 2
+2341	2821	Threshold 3
+3061	3541	Threshold 4
+3781	4261	Threshold 5
+4501	4981	Threshold 6
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

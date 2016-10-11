@@ -1,0 +1,121 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Boarstone +1,76,117. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	55
+10	75
+10	75
+25	75
+25	75
+26	70
+26	70
+40	70
+40	70
+41	75
+41	75
+55	75
+55	75
+56	80
+56	80
+68	80
+68	80
+69	77
+69	77
+83	77
+83	77
+84	75
+84	75
+89	75
+89	180
+89.33	180
+89.33	20
+90	75
+90	75
+96	75
+96	180
+96.33	180
+96.33	20
+97	75
+97	75
+103	75
+103	180
+103.33	180
+103.33	20
+104	75
+104	75
+109	75
+109	180
+109.33	180
+109.33	20
+110	75
+110	75
+115	75
+115	75
+120	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+5040	Get ready for your first of 4 late-ride sprints	5	0	0	72	16777215	220
+5040	Hit these hard, seated or standing...	3	0	0	72	16777215	227
+5040	depending on which better suits your needs & ability	4	0	0	72	16777215	231
+5040	Ready!	2	0	0	72	16777215	237
+5340	Go hard!	3	0	0	72	16777215	0
+5340	10 seconds to go!	3	0	0	72	16777215	10
+5340	Keep it!	3	0	0	72	16777215	15
+5360	Well done	3	0	0	72	16777215	0
+5360	Dial things back & catch your breath	5	0	0	72	16777215	5
+5400	Another late-ride sprint coming up!	4	0	0	72	16777215	350
+5400	Get ready!	3	0	0	72	16777215	356
+5760	Go hard!	3	0	0	72	16777215	0
+5760	10 seconds to go!	3	0	0	72	16777215	10
+5760	Keep it!	3	0	0	72	16777215	15
+5780	Well done	3	0	0	72	16777215	0
+5780	Dial things back & catch your breath	5	0	0	72	16777215	5
+5820	Late-ride sprint #3 is seconds away...	4	0	0	72	16777215	350
+5820	so get ready!	3	0	0	72	16777215	355
+6180	Go hard!	3	0	0	72	16777215	0
+6180	10 seconds to go!	3	0	0	72	16777215	10
+6180	Keep it!	3	0	0	72	16777215	15
+6200	Well done	3	0	0	72	16777215	0
+6200	Dial things back & catch your breath	5	0	0	72	16777215	5
+6240	Just one more late-ride sprint, seated or standing	4	0	0	72	16777215	290
+6240	Get ready!	3	0	0	72	16777215	296
+6540	Go hard!	3	0	0	72	16777215	0
+6540	10 seconds to go!	3	0	0	72	16777215	10
+6540	Keep it!	3	0	0	72	16777215	15
+6560	Well done	3	0	0	72	16777215	0
+6560	Dial things back & catch your breath	5	0	0	72	16777215	5
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	7200	Workout
+0	600	Endurance 1
+600	1500	Endurance 2
+1500	1560	Endurance 3
+1560	2400	Endurance 4
+2400	2460	Endurance 5
+2460	3300	Endurance 6
+3300	3360	Tempo 1
+3360	4080	Tempo 2
+4080	4140	Tempo 3
+4140	4980	Tempo 4
+4980	5040	Tempo 5
+5040	5340	Endurance 7
+5340	5360	Sprint 1
+5400	5760	Endurance 8
+5760	5780	Sprint 2
+5820	6180	Endurance 9
+6180	6200	Sprint 3
+6240	6540	Endurance 10
+6540	6560	Sprint 4
+6600	6900	Endurance 11
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

@@ -1,0 +1,232 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Bradley TC,91,41. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	40
+3.5	60
+3.5	95
+4	95
+4	180
+4.08	180
+4.08	95
+4.5	95
+4.5	180
+4.58	180
+4.58	95
+5	95
+5	40
+8	40
+8	95
+9	95
+9	180
+9.13	180
+9.13	97
+10	97
+10	170
+10.13	170
+10.13	99
+11	99
+11	150
+11.13	150
+11.13	97
+12	97
+12	160
+12.13	160
+12.13	95
+13	95
+13	40
+16	40
+16	95
+17	95
+17	170
+17.13	170
+17.13	100
+18	100
+18	180
+18.13	180
+18.13	97
+19	97
+19	160
+19.13	160
+19.13	95
+20	95
+20	150
+20.13	150
+20.13	99
+21	99
+21	40
+24	40
+24	95
+25	95
+25	150
+25.13	150
+25.13	99
+26	99
+26	160
+26.13	160
+26.13	97
+27	97
+27	170
+27.13	170
+27.13	95
+28	95
+28	180
+28.13	180
+28.13	98
+29	98
+29	40
+30	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Bradley's time-crunched version  consists of three 5-minute intervals, each between 95-99% FTP	8	0	0	72	16777215	10
+0	Additionally, there are 4 neuromuscular bursts per interval	8	0	0	72	16777215	20
+0	These sprint-like bursts are between 150-180% FTP...	8	0	0	72	16777215	30
+0	and you'll have 3-minute recoveries between intervals	8	0	0	72	16777215	40
+0	The bulk of these intervals target muscular endurance...	8	0	0	72	16777215	50
+0	but you'll target muscle fiber recruitment during the 8-second bursts	8	0	0	72	16777215	60
+0	In other words, the bursts seek to improve...	8	0	0	72	16777215	70
+0	how much of your existing muscle mass contributes to turning the pedals	8	0	0	72	16777215	80
+0	While the remainder of these intervals target your ability to endure...	8	0	0	72	16777215	90
+0	work at high percentages of your FTP, nearly at FTP itself	8	0	0	72	16777215	100
+0	You've got a 2-minute clearing effort coming up in about 30 seconds	8	0	0	72	16777215	180
+0	Try to settle into a cadence above 85rpm, no bouncing in the saddle	8	0	0	72	16777215	190
+210	95% FTP for just 30 seconds, set that cadence in the 85-95rpm range	8	0	0	72	16777215	0
+210	And find that correct saddle position...	5	0	0	72	16777215	10
+210	with your sit-bones planted on the wings of the saddle	8	0	0	72	16777215	17
+240	Go! 5 seconds	3	0	0	72	16777215	0
+245	Ease off the gas but keep your legs fairly quick	8	0	0	72	16777215	0
+270	Hit it for another 5 seconds!	3	0	0	72	16777215	0
+275	Well done, now stay steady for just a few more seconds	8	0	0	72	16777215	0
+300	Ease up & spin lightly for about 3 minutes	8	0	0	72	16777215	10
+300	First interval starts in about a minute	5	0	0	72	16777215	120
+300	Shoot for a cadence between 85-95rpm during the Threshold segments...	8	0	0	72	16777215	130
+300	and a cadence over 100rpm during the neuromuscular bursts	8	0	0	72	16777215	140
+300	You're welcome to stand for the bursts as long as...	8	0	0	72	16777215	150
+300	you can maintain a high level of control while out of the saddle	8	0	0	72	16777215	160
+300	Get ready...	3	0	0	72	16777215	175
+480	And we're off! Take the first 30 or so seconds to adjust to the workload	8	0	0	72	16777215	0
+480	Again, shoot for a spin between 85-95rpm	8	0	0	72	16777215	10
+480	Try not to go lower than 85rpm as this starts shifting the workload...	8	0	0	72	16777215	20
+480	away from your heart & lungs and more toward your muscles	8	0	0	72	16777215	30
+480	In terms of preserving your power, a slow spin is a less efficient way to ride	8	0	0	72	16777215	40
+480	First burst coming up, get ready!	5	0	0	72	16777215	50
+540	Go! 8 seconds	3	0	0	72	16777215	0
+548	Bring your cadence back down to that 85-95rpm range...	8	0	0	72	16777215	2
+548	and settle in for another minute	5	0	0	72	16777215	12
+548	For those riders on regular trainers, experiment with burst gearing & cadence	8	0	0	72	16777215	22
+548	And if you're on an electronic trainer in Ergo mode...	8	0	0	72	16777215	32
+548	make sure you find your burst cadence BEFORE it begins	8	0	0	72	16777215	42
+600	Go! Get your speed & power all at once!	3	0	0	72	16777215	0
+608	Excellent, rein your spin back in	5	0	0	72	16777215	2
+608	If you are standing for the bursts...	5	0	0	72	16777215	22
+608	make sure you're not too heavy on the handlebars...	8	0	0	72	16777215	30
+608	and keep your transitions in & out of the saddle as smooth as possible	8	0	0	72	16777215	40
+660	Go! 8 seconds all-out!	3	0	0	72	16777215	0
+668	Your legs might be hurting a bit by now...	8	0	0	72	16777215	2
+668	but remember that the most uncomfortable points in this workout...	8	0	0	72	16777215	12
+668	are just AFTER the neuromuscular bursts rather than during them	8	0	0	72	16777215	22
+668	This means it's important to stay tough for that 30-40 seconds...	8	0	0	72	16777215	32
+668	that immediately follow the burst...last burst, get ready!	8	0	0	72	16777215	42
+720	Go hard, 8 seconds!	3	0	0	72	16777215	0
+728	Hang tough for 30-40 seconds while your legs clear	8	0	0	72	16777215	2
+728	Your muscles should start to clear gradually but you have to be tough & patient	8	0	0	72	16777215	12
+728	Well-conditioned muslces have the ability to recover, even when working near FTP	8	0	0	72	16777215	22
+728	It probably won't happen as quickly as you'd like, but it WILL happen	8	0	0	72	16777215	32
+728	This is where mental toughness comes into play	8	0	0	72	16777215	42
+780	Nice! One round down, time to take 2 minutes to recover	8	0	0	72	16777215	0
+780	Round 2 in 30 seconds!	8	0	0	72	16777215	150
+960	Once again, take the first 30-40 seconds to get used to the increase in power...	8	0	0	72	16777215	0
+960	and settle into a 85-95rpm spin	8	0	0	72	16777215	10
+960	Get ready for your first of 4 bursts	5	0	0	72	16777215	50
+1020	Go! Really quick legs	3	0	0	72	16777215	0
+1028	Let's focus on something other than the post-burst discomfort	8	0	0	72	16777215	2
+1028	Pay attention to your pedalstroke & avoid dropping your heel at the bottom	5	0	0	72	16777215	12
+1028	From there, pull your foot across the bottom of the stroke...	8	0	0	72	16777215	22
+1028	as if you're scraping mud off of the ball of your foot	8	0	0	72	16777215	32
+1028	Next burst in 10! Start bringing your cadence up	8	0	0	72	16777215	42
+1080	Go! 8 seconds	3	0	0	72	16777215	0
+1088	Stay tough, your legs will start to clear soon	8	0	0	72	16777215	2
+1088	Try to relax the back of your neck by reaching your head away from your body	8	0	0	72	16777215	12
+1088	Relaxed upper body = less wasted energy	8	0	0	72	16777215	22
+1088	Be sure you're keeping your knees straight on the upstroke...	8	0	0	72	16777215	32
+1088	then lead with your toe across the top of the stroke as if you're kicking a ball	8	0	0	72	16777215	42
+1140	Go!	3	0	0	72	16777215	0
+1148	Nice! Stay tough until your legs start to clear	8	0	0	72	16777215	2
+1148	Final burst of this interval in 10 seconds	8	0	0	72	16777215	42
+1200	Hit it!	3	0	0	72	16777215	0
+1208	If you've made it this far, the rest of this interval is definitely within your reach	8	0	0	72	16777215	2
+1208	Despite your discomfort, make this look boringly easy for 30 more seconds	8	0	0	72	16777215	22
+1260	Nice job! Keep those pedals turning forward for at least 30 more seconds	8	0	0	72	16777215	0
+1260	If you need to backpedal for as long as a minute, now's the time	8	0	0	72	16777215	30
+1260	Last interval in 30 seconds, cadence in the 85-95rpm range	8	0	0	72	16777215	150
+1440	30 seconds to settle in, but start breathing well straight away	8	0	0	72	16777215	0
+1440	Make sure you're exhaling completely & breathing well before you're forced to	8	0	0	72	16777215	10
+1500	Hit it! 8 seconds	3	0	0	72	16777215	0
+1508	Settle back into 85-95rpm and work through the fatigue	8	0	0	72	16777215	2
+1508	Get ready...	3	0	0	72	16777215	47
+1560	Go!	3	0	0	72	16777215	0
+1568	Half way through! Stay relaxed	5	0	0	72	16777215	2
+1568	Try to avoid letting your power, cadence or form slip for a couple more minutes	8	0	0	72	16777215	12
+1568	Forcing good form & a quick cadence is especially important when you're tired	8	0	0	72	16777215	22
+1568	Get ready...	3	0	0	72	16777215	47
+1620	Go! Lots of power!	3	0	0	72	16777215	0
+1628	Excellent, ease off the gas & be patient...	8	0	0	72	16777215	2
+1628	that heaviness will clear & your breathing will recover	8	0	0	72	16777215	12
+1628	Last one, get ready	3	0	0	72	16777215	47
+1680	Go! Plenty of control	3	0	0	72	16777215	0
+1688	Final minute, finish strong!	5	0	0	72	16777215	2
+1688	Make this final minute of the workout look as easy as the first one	8	0	0	72	16777215	12
+1688	Final 30 seconds, make sure you're still on Target	8	0	0	72	16777215	22
+1688	Just 20 seconds, you got this!	8	0	0	72	16777215	32
+1688	10 seconds, no slip in form!	5	0	0	72	16777215	42
+1740	Very well done! Spin out the waste for a minute...	8	0	0	72	16777215	0
+1740	calm your breathing & heart rate, start planning your nutrition...	8	0	0	72	16777215	10
+1740	and feel free to continue to cool down after the workout ends	8	0	0	72	16777215	20
+1740	We'll see you next time	5	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	1800	Workout
+210	240	Sweet Spot 1
+240	245	Sprint 1
+245	270	Sweet Spot 2
+270	275	Sprint 2
+275	300	Sweet Spot 3
+480	540	Sweet Spot 4
+540	548	Sprint 3
+548	600	Threshold 1
+600	608	Sprint 4
+608	660	Threshold 2
+660	668	Sprint 5
+668	720	Threshold 3
+720	728	Sprint 6
+728	780	Sweet Spot 5
+960	1020	Sweet Spot 6
+1020	1028	Sprint 7
+1028	1080	Threshold 4
+1080	1088	Sprint 8
+1088	1140	Threshold 5
+1140	1148	Sprint 9
+1148	1200	Sweet Spot 7
+1200	1208	Sprint 10
+1208	1260	Threshold 6
+1440	1500	Sweet Spot 8
+1500	1508	Sprint 11
+1508	1560	Threshold 7
+1560	1568	Sprint 12
+1568	1620	Threshold 8
+1620	1628	Sprint 13
+1628	1680	Sweet Spot 9
+1680	1688	Sprint 14
+1688	1740	Threshold 9
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

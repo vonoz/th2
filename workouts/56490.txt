@@ -1,0 +1,500 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = 2014 8DC - Stage 1,89,99. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	47
+1.36	49
+1.36	49
+1.86	54
+1.86	54
+3.83	54
+3.83	54
+4.33	58
+4.33	58
+5.75	58
+5.75	58
+6.25	65
+6.25	65
+8.86	65
+8.86	65
+10.36	58
+10.36	58
+12.08	58
+12.08	58
+12.83	65
+12.83	65
+13.95	90
+13.95	90
+14.36	130
+14.36	180
+14.53	180
+14.53	20
+14.95	79
+14.95	79
+16.31	81
+16.31	81
+16.81	86
+16.81	86
+18.78	86
+18.78	86
+19.28	82
+19.28	82
+20.7	82
+20.7	82
+21.2	89
+21.2	89
+23.81	89
+23.81	89
+25.31	82
+25.31	82
+27.03	82
+27.03	82
+29.28	90
+29.28	90
+29.7	130
+29.7	180
+29.86	180
+29.86	20
+30.28	70
+30.28	70
+31.65	72
+31.65	73
+32.15	80
+32.15	80
+34.76	80
+34.76	80
+36.26	90
+36.26	90
+37.98	90
+37.98	90
+38.73	95
+38.73	95
+40.23	97
+40.23	97
+40.73	130
+40.73	145
+41.23	145
+41.23	40
+41.73	70
+41.73	70
+43.1	72
+43.1	72
+43.6	77
+43.6	77
+45.56	77
+45.56	77
+46.06	73
+46.06	73
+47.48	73
+47.48	73
+47.98	80
+47.98	80
+50.6	80
+50.6	80
+52.1	73
+52.1	73
+53.81	73
+53.81	73
+54.56	75
+54.56	75
+56.06	72
+56.06	72
+59.56	105
+59.56	105
+59.98	130
+59.98	180
+60.11	180
+60.11	70
+60.53	85
+60.53	150
+60.61	150
+60.61	85
+60.83	85
+60.83	155
+60.91	155
+60.91	95
+61.23	95
+61.23	145
+61.31	145
+61.31	85
+61.56	85
+61.56	150
+61.65	150
+61.65	80
+61.83	80
+61.83	160
+61.91	160
+61.91	88
+62.33	88
+62.33	150
+62.41	150
+62.41	75
+62.8	75
+62.8	144
+62.88	144
+62.88	85
+63.1	85
+63.1	149
+63.18	149
+63.18	95
+63.5	95
+63.5	139
+63.58	139
+63.58	85
+63.83	85
+63.83	144
+63.91	144
+63.91	80
+64.1	80
+64.1	154
+64.18	154
+64.18	88
+64.6	88
+64.6	144
+64.68	144
+64.68	75
+65.06	75
+65.06	168
+65.15	168
+65.15	85
+65.36	85
+65.36	173
+65.45	173
+65.45	95
+65.76	95
+65.76	163
+65.85	163
+65.85	85
+66.1	85
+66.1	168
+66.18	168
+66.18	80
+66.36	80
+66.36	178
+66.45	178
+66.45	88
+66.86	88
+66.86	168
+66.95	168
+66.95	110
+67.36	130
+67.36	200
+67.5	200
+67.5	50
+75	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to 2014's edition of 8 Days in California!	8	0	0	72	16777215	10
+0	Or more succinctly, 8DC	8	0	0	72	16777215	20
+0	Based on our success with last year's team, we have high hopes	8	0	0	72	16777215	30
+0	Both in terms of our team's strength...	8	0	0	72	16777215	40
+0	as well as our faith in your already solid & growing capabilities	8	0	0	72	16777215	50
+0	And while we haven't yet designated a clear leader for the General Classification...	8	0	0	72	16777215	60
+0	the team will fully support that rider who establishes a high GC ranking in these early stages	8	0	0	72	16777215	70
+112	This first stage will serve as a warmup in a number of ways...	8	0	0	72	16777215	0
+112	First off, you'll get to test your sprinting capabilities 2 times early in the stage...	8	0	0	72	16777215	10
+112	and 2 times late in the stage	8	0	0	72	16777215	20
+112	Secondly, you'll have a crack at a single KOM/QOM...	8	0	0	72	16777215	30
+112	to see how you stack up against the rest of the climbers	8	0	0	72	16777215	40
+112	Finally, you'll face a circuit course littered with accelerations & capped with a sprint	8	0	0	72	16777215	50
+112	For now, just continue to warm as the field rolls toward Sprint 1	8	0	0	72	16777215	60
+260	Throughout each stage of 8DC, I'll be "in your ear"	8	0	0	72	16777215	0
+260	I'll offer strategy, assurance, inspiration if possible...	8	0	0	72	16777215	10
+260	and even distraction from the pain you're sure to face	8	0	0	72	16777215	20
+260	But you're always welcome to turn me off should the distraction be too much ;)	8	0	0	72	16777215	30
+375	Just flow with these mild surges in effort...	8	0	0	72	16777215	0
+375	and allow them to further your warmup	8	0	0	72	16777215	10
+375	And remember, you're always welcome to do some pre-stage spinning...	8	0	0	72	16777215	20
+375	if you want to come into each stage fully ready to race	8	0	0	72	16777215	30
+375	This year's route is a perfect variety of courses...	8	0	0	72	16777215	45
+375	and will surely exploit both your strengths & your weaknesses	8	0	0	72	16777215	55
+375	It will also serve to make you a stronger rider overall...	8	0	0	72	16777215	65
+375	considering you'll be on the bike for 8 consecutive days	8	0	0	72	16777215	75
+375	But this means you'll have to plan your recovery accordingly	8	0	0	72	16777215	85
+375	8 days of suffering is a tall order for any rider...	8	0	0	72	16777215	95
+375	but even more so for riders who aren't used to numerous head-to-head workouts	8	0	0	72	16777215	105
+375	But nowhere is it stated that you can't take an "easy" day...	8	0	0	72	16777215	115
+375	by reducing the Workout Intensity & tucking into the field	8	0	0	72	16777215	125
+532	First sprint is just up the road, so start thinking about your spin	8	0	0	72	16777215	0
+532	A fatal flaw all sprinters make at one time or another...	8	0	0	72	16777215	10
+532	is getting caught in the wrong gear, typically one that's too big	8	0	0	72	16777215	20
+532	You'll have to react quickly, generate a lot of leg speed quickly...	8	0	0	72	16777215	30
+532	and that's impossible to do in a monster gear	8	0	0	72	16777215	40
+532	So keep your spin light & quick, probably between 85-95rpm...	8	0	0	72	16777215	50
+532	then, as the sprint starts to wind up, you'll already have the leg speed	8	0	0	72	16777215	60
+532	Then, it's just a matter of staying on top of the power demands	8	0	0	72	16777215	70
+622	Spin lightly & comfortably quickly for a couple minutes...	8	0	0	72	16777215	0
+622	and relax	8	0	0	72	16777215	10
+622	Everyone's nervous during the first couple stages...	8	0	0	72	16777215	20
+622	and those nerves can translate to tight bodies and twitchy riders...	8	0	0	72	16777215	30
+622	never a good thing, for a number of reasons	8	0	0	72	16777215	40
+725	Looks like things are starting to pick up a bit	8	0	0	72	16777215	0
+725	Try to smoothly make your way toward the front of the field	8	0	0	72	16777215	10
+725	Just gradually lift the effort and find a good wheel to follow	8	0	0	72	16777215	20
+770	I've seen enough sprints unfold, and there tends to be a pretty predictable pattern	8	0	0	72	16777215	0
+770	REALLY predictable in certain cases ;)	8	0	0	72	16777215	10
+770	Let's just plan for a hard 25-second surge...	8	0	0	72	16777215	20
+770	immediately followed by an ALL-OUT effort for 10 seconds	8	0	0	72	16777215	30
+770	You're welcome to hold back a bit on this first one...	8	0	0	72	16777215	40
+770	and you're welcome to sprint seated or standing...	8	0	0	72	16777215	50
+770	but if you decide to really go for it, be kind to your bike	5	0	0	72	16777215	60
+837	25-second build!	3	0	0	72	16777215	0
+837	A short but HARD effort	3	0	0	72	16777215	7
+837	Keep building power...	3	0	0	72	16777215	13
+837	10-second sprint in...	2	0	0	72	16777215	19
+837	3...	1	0	0	72	16777215	22
+837	2...	1	0	0	72	16777215	23
+837	1...	1	0	0	72	16777215	24
+862	GO!	3	0	0	72	16777215	0
+862	5 seconds!	2	0	0	72	16777215	5
+862	3...	1	0	0	72	16777215	7
+862	2...	1	0	0	72	16777215	8
+862	1...	1	0	0	72	16777215	9
+872	Done!	3	0	0	72	16777215	0
+872	Take a few seconds to get your power back up	8	0	0	72	16777215	5
+897	Settle in as quickly as you can	8	0	0	72	16777215	0
+897	I know it hurts and you WANT to back off...	8	0	0	72	16777215	10
+897	but you don't NEED to back off	8	0	0	72	16777215	20
+897	Just breathe off that muscle burn & keep working	8	0	0	72	16777215	30
+1009	Looks like the pace has moved up to a Tempo power level...	8	0	0	72	16777215	0
+1009	and it's sure to stay here a while	8	0	0	72	16777215	10
+1009	So find your form, ditch any excess tension...	8	0	0	72	16777215	20
+1009	and ride smoothly for about 10 minutes	8	0	0	72	16777215	30
+1157	Pace has dropped a little bit, take some full deep breaths...	8	0	0	72	16777215	0
+1157	and start to mull over your sprint philosophy	8	0	0	72	16777215	10
+1157	Do you want to chase each and every sprint point?	8	0	0	72	16777215	20
+1157	Maybe you just want to hit the occasional sprint...	8	0	0	72	16777215	30
+1157	or maybe you plan to skip that 10-second burst	8	0	0	72	16777215	40
+1157	It's up to you and what you want to get out of this tour	8	0	0	72	16777215	50
+1157	Same goes for the KOM's, but we'll discuss that later	8	0	0	72	16777215	60
+1272	Looks like the pace is going to stay steady...	8	0	0	72	16777215	0
+1272	no surprises, just waiting for the next sprint	8	0	0	72	16777215	10
+1519	Approaching Sprint 2...	8	0	0	72	16777215	0
+1519	maybe 5 minutes out yet	8	0	0	72	16777215	10
+1519	Contemplate your last sprint for a minute...	8	0	0	72	16777215	20
+1519	was your spin quick enough at the start?	8	0	0	72	16777215	30
+1519	Did you follow the 25-second surge well or did you bog down?	8	0	0	72	16777215	40
+1519	How about the 10-second pop, did you stay on top of your gears?	8	0	0	72	16777215	50
+1519	Just be conscious of those things you want to improve	8	0	0	72	16777215	60
+1622	Things are starting to ramp toward the sprint leadout...	8	0	0	72	16777215	0
+1622	keep your legs quick but comfortably so	8	0	0	72	16777215	10
+1622	Just about time to start winding things up	8	0	0	72	16777215	115
+1622	Remember, 25-second surge, 10-second sprint	8	0	0	72	16777215	125
+1757	Start to build power!	5	0	0	72	16777215	0
+1757	Keep your cadence up, 90rpm or higher	3	0	0	72	16777215	7
+1757	Preferably MUCH higher	3	0	0	72	16777215	12
+1757	Get ready to sprint in...	2	0	0	72	16777215	19
+1757	3...	1	0	0	72	16777215	22
+1757	2...	1	0	0	72	16777215	23
+1757	1...	1	0	0	72	16777215	24
+1782	Go!	2	0	0	72	16777215	0
+1782	5 seconds!	1	0	0	72	16777215	5
+1782	3...	1	0	0	72	16777215	7
+1782	2...	1	0	0	72	16777215	8
+1782	1...	1	0	0	72	16777215	9
+1792	Done!	3	0	0	72	16777215	0
+1792	Try to stay on top of your spin...	8	0	0	72	16777215	5
+1792	by breathing through the exhaustion	8	0	0	72	16777215	15
+1817	Ease back into some low-tempo work...	8	0	0	72	16777215	0
+1817	and reclaim any form you may have lost	8	0	0	72	16777215	10
+1817	Looks like that last sprint hurt the field a bit	8	0	0	72	16777215	20
+1817	Things are nice & mellow for now, so spin easy	8	0	0	72	16777215	30
+1929	Today's only notable climb is only a few minutes away	8	0	0	72	16777215	0
+1929	And with it comes today's only KOM/QOM	8	0	0	72	16777215	10
+1929	While similar to a sprint, these efforts are not quite as explosive...	8	0	0	72	16777215	20
+1929	but often longer in duration	8	0	0	72	16777215	30
+1929	So you won't have to push quite so hard, but you'll have to work longer	8	0	0	72	16777215	40
+1929	Typically, you'll face an initial surge in power...	8	0	0	72	16777215	50
+1929	which will be closely followed by a short but brutal push for the summit	8	0	0	72	16777215	60
+1929	These efforts will range in duration, but nothing more than a minute long...	8	0	0	72	16777215	70
+1929	today	5	0	0	72	16777215	80
+2086	Onto the base of the climb, pace is starting to lift	8	0	0	72	16777215	0
+2086	Just follow for now and keep your eyes open	8	0	0	72	16777215	10
+2086	It's unlikely we'll see big moves today...	8	0	0	72	16777215	20
+2086	but bike racers are an unpredictable lot	8	0	0	72	16777215	30
+2086	So expect to be surprised from time to time	8	0	0	72	16777215	40
+2086	And by that, I mean expect to hurt more than you thought you could	8	0	0	72	16777215	50
+2176	Settle into the pace for a couple minutes	8	0	0	72	16777215	0
+2279	Another little lift in pace, nothing you can't hold onto though	8	0	0	72	16777215	0
+2324	Still under threshold, no problem...	8	0	0	72	16777215	0
+2324	but the summit is within sight so expect some fireworks...	8	0	0	72	16777215	10
+2324	soon	5	0	0	72	16777215	20
+2324	I'm predicting a pretty brutal minute's worth of suffering	8	0	0	72	16777215	50
+2324	So plan for a 30-second acceleration...	8	0	0	72	16777215	60
+2324	leading into a 30-second kick to the summit	8	0	0	72	16777215	70
+2324	1 minute in total	5	0	0	72	16777215	80
+2414	Here it goes, 30 seconds of hanging with the climbers	8	0	0	72	16777215	0
+2414	Stick with it, 20 seconds...	5	0	0	72	16777215	10
+2414	10 seconds more...	5	0	0	72	16777215	20
+2414	3...	1	0	0	72	16777215	27
+2414	2...	1	0	0	72	16777215	28
+2414	1...	1	0	0	72	16777215	29
+2444	Drill it! 30 seconds!	3	0	0	72	16777215	0
+2444	20 seconds! Hang in there!	3	0	0	72	16777215	10
+2444	10 seconds!	3	0	0	72	16777215	20
+2444	3...	1	0	0	72	16777215	27
+2444	2...	1	0	0	72	16777215	28
+2444	1...	1	0	0	72	16777215	29
+2474	Done!	3	0	0	72	16777215	0
+2474	Try not to get dropped on the descent...	5	0	0	72	16777215	5
+2474	just breathe, pedal & relaaaaax	5	0	0	72	16777215	12
+2474	Relief will come, just be patient	5	0	0	72	16777215	19
+2504	Lots of descending and flat road before the finish circuits...	8	0	0	72	16777215	0
+2504	so just stay active, aware, and try not to work too hard	8	0	0	72	16777215	10
+2504	We need you to lead out our sprinter!	8	0	0	72	16777215	20
+2764	Keep your legs quick and light...	8	0	0	72	16777215	0
+2764	and it might be good time to take on some food...	8	0	0	72	16777215	10
+2764	what with another 30 minutes of racing on tap	8	0	0	72	16777215	20
+2879	Don't let these little bumps in tempo worry ya...	8	0	0	72	16777215	0
+2879	things are sure to stay mellow until we get into town	8	0	0	72	16777215	10
+2879	But then...	8	0	0	72	16777215	20
+2879	it's going to be a slugfest	8	0	0	72	16777215	30
+3126	Only about 7 minutes before the first of a 3-circuit finish	8	0	0	72	16777215	0
+3126	The course has 8 turns per lap...	8	0	0	72	16777215	10
+3126	so position yourself well or expect to accelerate HARD out of each turn	8	0	0	72	16777215	20
+3126	And expect the final lap to be totally unforgiving	8	0	0	72	16777215	30
+3126	But in total, we're only looking at 8 minutes of crit-style racing...	8	0	0	72	16777215	40
+3126	and then it's over for the day!	8	0	0	72	16777215	50
+3274	About 5 minutes out...	8	0	0	72	16777215	0
+3274	and things are letting up a bit - not good	8	0	0	72	16777215	10
+3274	Things get dangerous when it's too slow...	8	0	0	72	16777215	20
+3274	riders bunch up, get twitchy, even complacent	8	0	0	72	16777215	30
+3274	So let's try to encourage the pace a bit by moving up	8	0	0	72	16777215	40
+3274	Let's get to the front and gradually lift the pace	8	0	0	72	16777215	50
+3364	We're gonna make it fast enough to string things out...	8	0	0	72	16777215	0
+3364	but not so fast we fry our legs before the closing circuits	8	0	0	72	16777215	10
+3364	Nice, things are lining up - faster	8	0	0	72	16777215	56
+3364	Faster still!	3	0	0	72	16777215	116
+3364	We don't want anyone jumping away from the field	8	0	0	72	16777215	121
+3364	About 60 seconds from Sprint 3!	8	0	0	72	16777215	176
+3364	Keep ramping it up!	5	0	0	72	16777215	186
+3574	Full gas! 25 seconds!	5	0	0	72	16777215	0
+3574	We need a HARD, 8-second leadout from you	8	0	0	72	16777215	7
+3574	Get ready...	2	0	0	72	16777215	17
+3574	3...	1	0	0	72	16777215	22
+3574	2...	1	0	0	72	16777215	23
+3574	1...	1	0	0	72	16777215	24
+3599	Go!	2	0	0	72	16777215	0
+3599	5 seconds!	1	0	0	72	16777215	3
+3599	3...	1	0	0	72	16777215	5
+3599	2...	1	0	0	72	16777215	6
+3599	1...	1	0	0	72	16777215	7
+3607	Perfect! Stay with it	5	0	0	72	16777215	0
+3607	Get ready to be bombed by hard, 5-second accelerations...	8	0	0	72	16777215	7
+3637	followed by short, but somewhat forgiving "breaks"	8	0	0	72	16777215	0
+3655	Hang in there, and don't be afraid to get out of the saddle	8	0	0	72	16777215	0
+3655	But do it well, MUCH control	8	0	0	72	16777215	10
+3745	One lap down!	8	0	0	72	16777215	0
+3881	That's 2 laps behind us!	8	0	0	72	16777215	0
+3987	Move to the front, one final leadout...	8	0	0	72	16777215	0
+3987	25 seconds & then 8 seconds	5	0	0	72	16777215	10
+3987	Got it in ya?	3	0	0	72	16777215	17
+3987	Sure ya do...	3	0	0	72	16777215	21
+4012	Last corner!	3	0	0	72	16777215	0
+4017	Bury yourself to stay up front!	5	0	0	72	16777215	0
+4017	Hammer like YOU are our sprinter...	5	0	0	72	16777215	7
+4017	Make our sprinter work to come around you!	5	0	0	72	16777215	13
+4017	3...	1	0	0	72	16777215	22
+4017	2...	1	0	0	72	16777215	23
+4017	1...	1	0	0	72	16777215	24
+4042	ALL-OUT!	3	0	0	72	16777215	0
+4042	5 seconds!	1	0	0	72	16777215	3
+4042	3...	1	0	0	72	16777215	5
+4042	2...	1	0	0	72	16777215	6
+4042	1...	1	0	0	72	16777215	7
+4050	Nice!	3	0	0	72	16777215	0
+4050	We may have gotten that one, it was close...	5	0	0	72	16777215	5
+4050	regardless, time to cool down & start your post-race nutrition	8	0	0	72	16777215	12
+4050	Today was just the beginning, so stay on top of your nutrition	8	0	0	72	16777215	25
+4050	Looks like we ended up 2nd today!	8	0	0	72	16777215	35
+4050	It's tough to lose by such a narrow margin...	8	0	0	72	16777215	45
+4050	but it means we don't have to protect the lead tomorrow	8	0	0	72	16777215	55
+4050	So we're off to an amazing start!	8	0	0	72	16777215	65
+4050	Rest up & we'll see you tomorrow	8	0	0	72	16777215	75
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	4500	Workout
+837	862	VO2 Max 1
+862	872	Sprint 1
+897	979	Tempo 1
+979	1009	Tempo 2
+1009	1127	Sweet Spot 1
+1127	1157	Tempo 3
+1157	1242	Tempo 4
+1242	1272	Sweet Spot 2
+1272	1429	Sweet Spot 3
+1429	1519	Sweet Spot 4
+1519	1622	Tempo 5
+1622	1757	Sweet Spot 5
+1757	1782	VO2 Max 2
+1782	1792	Sprint 2
+1899	1929	Tempo 6
+1929	2086	Tempo 7
+2086	2176	Sweet Spot 6
+2176	2279	Sweet Spot 7
+2279	2324	Sweet Spot 8
+2324	2414	Threshold 1
+2414	2444	VO2 Max 3
+2444	2474	Sprint 3
+2586	2616	Endurance 1
+2616	2734	Tempo 8
+2734	2764	Endurance 2
+2764	2849	Endurance 3
+2849	2879	Tempo 9
+2879	3036	Tempo 10
+3036	3126	Tempo 11
+3126	3229	Endurance 4
+3229	3274	Endurance 5
+3274	3364	Endurance 6
+3364	3574	Sweet Spot 9
+3574	3599	VO2 Max 4
+3599	3607	Sprint 4
+3632	3637	Sprint 5
+3637	3650	Sweet Spot 10
+3650	3655	Sprint 6
+3655	3674	Sweet Spot 11
+3674	3679	Sprint 7
+3679	3694	Sweet Spot 12
+3694	3699	Sprint 8
+3699	3710	Tempo 12
+3710	3715	Sprint 9
+3715	3740	Sweet Spot 13
+3740	3745	Sprint 10
+3745	3768	Endurance 7
+3768	3773	Sprint 11
+3773	3786	Sweet Spot 14
+3786	3791	Sprint 12
+3791	3810	Sweet Spot 15
+3810	3815	Sprint 13
+3815	3830	Sweet Spot 16
+3830	3835	Sprint 14
+3835	3846	Tempo 13
+3846	3851	Sprint 15
+3851	3876	Sweet Spot 17
+3876	3881	Sprint 16
+3881	3904	Endurance 8
+3904	3909	Sprint 17
+3909	3922	Sweet Spot 18
+3922	3927	Sprint 18
+3927	3946	Sweet Spot 19
+3946	3951	Sprint 19
+3951	3966	Sweet Spot 20
+3966	3971	Sprint 20
+3971	3982	Tempo 14
+3982	3987	Sprint 21
+3987	4012	Sweet Spot 21
+4012	4017	Sprint 22
+4017	4042	VO2 Max 5
+4042	4050	Sprint 23
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

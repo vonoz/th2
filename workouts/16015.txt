@@ -1,0 +1,360 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = 8DC - Stage 8,90,75. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	57
+3.06	60
+3.06	60
+6.55	58
+6.55	58
+7.51	94
+7.51	94
+8.75	94
+8.75	94
+10.35	82
+10.35	82
+13.51	99
+13.51	99
+14.55	101
+14.55	101
+15.75	68
+15.75	68
+18.91	73
+18.91	73
+19.91	98
+19.91	98
+20.33	130
+20.33	180
+20.5	180
+20.5	20
+20.91	75
+20.91	75
+23.98	75
+23.98	75
+25.26	78
+25.26	78
+26.21	84
+26.21	84
+26.9	84
+26.9	84
+28.65	72
+28.65	72
+30.71	89
+30.71	89
+31.6	91
+31.6	91
+33.8	74
+33.8	74
+35.35	76
+35.35	76
+36.48	76
+36.48	76
+38.18	115
+38.18	140
+38.6	135
+38.6	80
+39.01	98
+39.01	98
+39.6	98
+39.6	75
+39.73	75
+39.73	102
+40.31	102
+40.31	65
+40.45	65
+40.45	100
+41	100
+41	78
+41.16	78
+41.16	99
+41.71	99
+41.71	85
+41.85	85
+41.85	102
+42.43	105
+42.43	84
+42.56	84
+42.56	100
+43.11	98
+43.11	70
+43.25	70
+43.25	99
+43.8	101
+43.8	88
+43.93	88
+43.93	100
+44.48	100
+44.48	85
+44.61	85
+44.61	97
+45.16	99
+45.16	80
+45.33	80
+45.33	101
+45.91	101
+45.91	70
+46.05	70
+46.05	105
+46.63	105
+46.63	85
+46.76	85
+46.76	103
+47.31	103
+47.31	85
+47.45	85
+47.45	103
+48	103
+48	84
+48.13	84
+48.13	106
+48.71	106
+48.71	55
+48.85	55
+48.85	75
+49.4	105
+49.4	85
+49.53	85
+49.53	110
+50.08	110
+50.08	95
+50.21	95
+50.21	99
+50.25	99
+50.25	120
+50.58	120
+50.58	120
+51	130
+51	200
+51.16	200
+51.16	20
+51.58	75
+51.58	75
+52.46	75
+52.46	75
+54.98	70
+54.98	70
+56	70
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Ahh, the final day of 8DC	8	0	0	72	16777215	30
+0	Before things heat up, let's assess yesterday's damage	8	0	0	72	16777215	40
+0	Our climber fell apart but you carried the team exceptionally well	8	0	0	72	16777215	50
+0	We all have bad days, it's to be expected...	8	0	0	72	16777215	60
+0	...which is why a tour is never a done deal	8	0	0	72	16777215	70
+0	Our podium chances are slim to impossible at this point...	8	0	0	72	16777215	80
+0	...but we can still figure into the Top-20...	8	0	0	72	16777215	90
+0	...maybe even the Top-10	8	0	0	72	16777215	100
+0	What's better, while you were in the breakaway yesterday...	8	0	0	72	16777215	110
+0	...you managed to accumulate enough KOM points...	8	0	0	72	16777215	120
+0	...for 3rd place!	8	0	0	72	16777215	130
+0	Between protecting our climber and riding aggressively...	8	0	0	72	16777215	140
+0	...your performance has greatly impacted our team's standing	8	0	0	72	16777215	150
+0	And you've earned both the team's respect as well as the peloton's!	8	0	0	72	16777215	160
+0	So today, we defend your honor by bringing the fight...	8	0	0	72	16777215	175
+184	...to our rivals rather than waiting for them to dictate the tactics	8	0	0	72	16777215	1
+184	Today's stage has a few rollers, a single sprint...	8	0	0	72	16777215	41
+184	...and two finish circuits with numerous turns	8	0	0	72	16777215	51
+184	Should be a fun one!	5	0	0	72	16777215	61
+393	Within grand tours, it's seen as poor taste to ride aggressively...	8	0	0	72	16777215	2
+393	...until the final portion of the stage	8	0	0	72	16777215	12
+393	That's not necessarily the case in shorter tours like 8DC	8	0	0	72	16777215	22
+393	But we'll leave that up to everyone else...	8	0	0	72	16777215	32
+393	...and leave our aggressive pursuit of a stage win until the closing circuits	8	0	0	72	16777215	42
+451	Up & over a short climb to kick things off	8	0	0	72	16777215	0
+451	Just ride steadily and be attentive	8	0	0	72	16777215	10
+525	Let's fold back into the peloton, grab a brief break while we can get it	8	0	0	72	16777215	0
+621	Looks like the pace is ramping up a bit...	8	0	0	72	16777215	39
+621	...but nothing to worry about so far	8	0	0	72	16777215	49
+811	Things are evening out toward the summit here...	8	0	0	72	16777215	9
+811	...no fireworks today, at least not yet	8	0	0	72	16777215	19
+873	Keep your legs light & loose on the descent...	8	0	0	72	16777215	7
+873	...a quick but comfortable cadence	8	0	0	72	16777215	17
+873	And relax, forehead to toes	8	0	0	72	16777215	27
+945	We're approaching the single sprint of the day...	8	0	0	72	16777215	135
+945	...and since our sprinter hasn't had many opportunities...	8	0	0	72	16777215	145
+945	...let's do our best to provide one now	8	0	0	72	16777215	155
+945	Good practice for the final sprint today too	8	0	0	72	16777215	165
+1135	Let's get toward the front of the field	8	0	0	72	16777215	0
+1135	Get ready to start our lead out...	5	0	0	72	16777215	50
+1195	Lots of speed, go hard!	5	0	0	72	16777215	0
+1195	10 maybe 15 seconds...	5	0	0	72	16777215	10
+1195	Full gas, stay seated...	5	0	0	72	16777215	18
+1220	GO!!!	5	0	0	72	16777215	0
+1220	3 seconds!	3	0	0	72	16777215	7
+1230	2nd place for our sprinter!	5	0	0	72	16777215	0
+1230	Great leadout, Team	5	0	0	72	16777215	7
+1255	Things are likely to remain calm until we hit the closing circuits	8	0	0	72	16777215	5
+1255	So just tuck in & conserve energy	8	0	0	72	16777215	13
+1439	Just 2 small rollers, and the pace is mellow for now	8	0	0	72	16777215	1
+1573	Nearing the top of this speed bump	8	0	0	72	16777215	0
+1614	Spin out any heaviness	8	0	0	72	16777215	6
+1614	Even short climbs hurt at the end of 8 days of racing	8	0	0	72	16777215	16
+1719	One more bump, little bigger this time	8	0	0	72	16777215	6
+1843	Cresting our final climb of the tour	8	0	0	72	16777215	2
+1896	Ahhhhhhhh...no more hills!	8	0	0	72	16777215	4
+1896	Quick, light legs on the downhill	8	0	0	72	16777215	14
+1896	Shake 'em out if you need to	8	0	0	72	16777215	24
+2028	OK, quick review of our finish strategy...	8	0	0	72	16777215	2
+2028	Two potential scenarios, both begin with an attack by you	8	0	0	72	16777215	12
+2028	Scenario #1:  You get caught, we try to deliver our sprinter to the 200-meter line	8	0	0	72	16777215	22
+2028	Scenario #2: You stay away & get to duke it out in a bunch sprint	8	0	0	72	16777215	32
+2028	These are our goal outcomes, what we'll shoot for	8	0	0	72	16777215	42
+2028	What actually happens might be entirely something else	8	0	0	72	16777215	52
+2028	But as the saying goes...	8	0	0	72	16777215	62
+2028	..."failing to plan is planning to fail"	8	0	0	72	16777215	72
+2028	So let's plan to win this one!	8	0	0	72	16777215	82
+2121	Here's our plan, listen closely...	8	0	0	72	16777215	0
+2121	We'll move to the front as though we're just trying to ride safely	8	0	0	72	16777215	10
+2121	We each, in turn, bury ourselves to string things out	8	0	0	72	16777215	20
+2121	You'll be the last in our line...	8	0	0	72	16777215	30
+2121	...your turn comes, you hammer like you're being chased by a bear	8	0	0	72	16777215	40
+2121	Go as hard as you can, as long as you can...	8	0	0	72	16777215	50
+2121	...and do not look back	5	0	0	72	16777215	60
+2189	The final circuits belong to you & anyone foolish enough to tag along	8	0	0	72	16777215	0
+2189	Here we go...	8	0	0	72	16777215	10
+2189	Just stay as tucked in as possible	8	0	0	72	16777215	32
+2189	Your team is going to keep the pace so high...	8	0	0	72	16777215	42
+2189	...that no one will try to get away before you do	8	0	0	72	16777215	52
+2189	But be wary of those riders right on your wheel...	8	0	0	72	16777215	62
+2189	...because they're getting the same free ride as you	8	0	0	72	16777215	72
+2189	But you're stronger & tougher than them all	8	0	0	72	16777215	82
+2189	Get ready, this is all about you!	8	0	0	72	16777215	92
+2291	Drill it!!!	8	0	0	72	16777215	0
+2291	As hard as you can ride!	5	0	0	72	16777215	10
+2291	Do NOT look back!	5	0	0	72	16777215	17
+2316	You have a gap!	5	0	0	72	16777215	0
+2316	Get a few breaths in...	5	0	0	72	16777215	7
+2316	...and put your head down	5	0	0	72	16777215	14
+2341	Because it's ALL you...	5	0	0	72	16777215	0
+2341	...you're completely alone out here	5	0	0	72	16777215	7
+2341	Remember, 8 turns per lap, 2 laps total	8	0	0	72	16777215	14
+2341	Turns 2 & 6 are the most severe	8	0	0	72	16777215	24
+2376	Take chances, stay fast on these early turns	8	0	0	72	16777215	0
+2384	Get back on it right away!	5	0	0	72	16777215	0
+2419	That 2nd turn is a hard one!	5	0	0	72	16777215	3
+2427	Get right back on it	8	0	0	72	16777215	0
+2460	Faster through those turns!	5	0	0	72	16777215	4
+2470	Right back up to speed	8	0	0	72	16777215	0
+2503	Fast! Turns are where you put time on the field	8	0	0	72	16777215	0
+2511	Faster! There's a chase of 5 riders!	8	0	0	72	16777215	4
+2546	Beautiful! Fast & smooth	5	0	0	72	16777215	0
+2554	Ease up, hard turn coming up...	5	0	0	72	16777215	26
+2587	Tough turn, well handled!	5	0	0	72	16777215	2
+2595	I know it hurts...	5	0	0	72	16777215	0
+2595	...but you have to go faster	5	0	0	72	16777215	7
+2595	...the break is closing on you	5	0	0	72	16777215	14
+2628	Fast! Nice!	5	0	0	72	16777215	0
+2636	Make the straightaways fast...	5	0	0	72	16777215	19
+2669	...and the turns smooth, good!	5	0	0	72	16777215	2
+2677	C'mon, no backing off	5	0	0	72	16777215	0
+2710	One lap down!	5	0	0	72	16777215	0
+2720	6 minutes to go...	5	0	0	72	16777215	0
+2720	...how bad do you want this!?	5	0	0	72	16777215	7
+2755	2nd turn, careful!	5	0	0	72	16777215	0
+2763	Crash at the front of the field!	5	0	0	72	16777215	3
+2763	Take advantage, might be your only chance to stay away!	8	0	0	72	16777215	10
+2763	Just you and your chasers right now!	8	0	0	72	16777215	20
+2798	Big deep breath...	6	0	0	72	16777215	0
+2806	Hit it HARD out of every corner	8	0	0	72	16777215	2
+2839	Good, keep your speed up	5	0	0	72	16777215	2
+2847	You're holding the chase at bay...	5	0	0	72	16777215	0
+2847	...keep it up!	5	0	0	72	16777215	7
+2880	Fast through the turns!	5	0	0	72	16777215	2
+2888	The field can't take these turns as fast as a solo rider...	8	0	0	72	16777215	2
+2888	...exploit that advantage!	5	0	0	72	16777215	12
+2923	Whoooooa...overcooked that one	5	0	0	72	16777215	2
+2931	That's OK, get your speed back fast!	5	0	0	72	16777215	2
+2931	Excellent! You're tough as nails!	5	0	0	72	16777215	9
+2964	2 turns remaining!	5	0	0	72	16777215	0
+2972	The chase is 9 seconds back!	5	0	0	72	16777215	0
+2972	And closing!	5	0	0	72	16777215	7
+2972	8 seconds back!	5	0	0	72	16777215	18
+3005	Perfect! Get ready to sprint!	5	0	0	72	16777215	0
+3015	All or nothing, your stage to win!	5	0	0	72	16777215	0
+3015	Final straightaway...	5	0	0	72	16777215	8
+3015	...and the chase is nipping at your heels!	5	0	0	72	16777215	15
+3035	Don't lose this now!	5	0	0	72	16777215	2
+3035	The field caught the chasers!	5	0	0	72	16777215	10
+3035	4 seconds back!	5	0	0	72	16777215	17
+3060	They're sprinting, GO! GO! GO!	5	0	0	72	16777215	0
+3060	Keep it!!!	3	0	0	72	16777215	6
+3070	VICTORY!	10	0	0	72	16777215	0
+3095	Amazing act of courage & suffering!	8	0	0	72	16777215	0
+3095	You truly earned that stage win	8	0	0	72	16777215	10
+3148	Well we've done it...	5	0	0	72	16777215	2
+3148	...8 days of racing, a KOM podium spot...	8	0	0	72	16777215	7
+3148	...3 days in the leader's jersey...	5	0	0	72	16777215	17
+3148	...and you cracked the Top-10 placing 9th overall!	8	0	0	72	16777215	22
+3148	You are a true revelation	5	0	0	72	16777215	32
+3148	Job extremely well done...	5	0	0	72	16777215	42
+3148	...and here's hoping we'll see you again next year	5	0	0	72	16777215	49
+3148	Thanks for riding with Team TrainerRoad...	8	0	0	72	16777215	54
+3148	...in what we hope is the first of many '8 Days of California'	8	0	0	72	16777215	62
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3360	Workout
+451	525	Sweet Spot 1
+525	621	Sweet Spot 2
+621	811	Sweet Spot 3
+811	873	Threshold 1
+1135	1195	Sweet Spot 4
+1195	1220	VO2 Max 1
+1220	1230	Sprint 1
+1255	1439	Endurance 1
+1439	1516	Tempo 1
+1516	1573	Tempo 2
+1573	1614	Tempo 3
+1614	1719	Tempo 4
+1719	1843	Tempo 5
+1843	1896	Sweet Spot 5
+1896	2028	Tempo 6
+2028	2121	Endurance 2
+2121	2189	Tempo 7
+2189	2291	Sweet Spot 6
+2291	2316	Sprint 2
+2316	2341	Sweet Spot 7
+2341	2376	Threshold 2
+2376	2384	Endurance 3
+2384	2419	Threshold 3
+2427	2460	Threshold 4
+2460	2470	Tempo 8
+2470	2503	Threshold 5
+2503	2511	Sweet Spot 8
+2511	2546	Threshold 6
+2546	2554	Tempo 9
+2554	2587	Threshold 7
+2595	2628	Threshold 8
+2628	2636	Sweet Spot 9
+2636	2669	Threshold 9
+2669	2677	Sweet Spot 10
+2677	2710	Threshold 10
+2710	2720	Tempo 10
+2720	2755	Threshold 11
+2763	2798	Threshold 12
+2798	2806	Sweet Spot 11
+2806	2839	Threshold 13
+2839	2847	Sweet Spot 12
+2847	2880	Threshold 14
+2880	2888	Tempo 11
+2888	2923	VO2 Max 2
+2931	2964	Sweet Spot 13
+2964	2972	Sweet Spot 14
+2972	3005	VO2 Max 3
+3005	3013	Sweet Spot 15
+3013	3015	Threshold 15
+3015	3035	VO2 Max 4
+3035	3060	Sprint 3
+3060	3070	Sprint 4
+3095	3148	Endurance 4
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

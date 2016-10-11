@@ -1,0 +1,172 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Tunnabora TC,80,32. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	40
+3	50
+3	90
+5	90
+5	40
+8	40
+8	94
+9	94
+9	92
+10	92
+10	90
+11	90
+11	92
+12	92
+12	94
+13	94
+13	40
+16	40
+16	94
+17	94
+17	92
+18	92
+18	90
+19	90
+19	92
+20	92
+20	94
+21	94
+21	40
+24	40
+24	94
+25	94
+25	92
+26	92
+26	90
+27	90
+27	92
+28	92
+28	94
+29	94
+29	40
+30	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Similar to Ericsson, Tunnabora is first dedicated to form...	8	0	0	72	16777215	60
+0	the primary emphasis is on pedal economy & leg speed	8	0	0	72	16777215	70
+0	with a secondary emphasis on muscle endurance	8	0	0	72	16777215	80
+0	Alter the aim of the workout based on your personal goals:	8	0	0	72	16777215	90
+0	Need the form work? Drop the watts 5-10% if your form degrades	8	0	0	72	16777215	100
+0	Need the aerobic conditioning & muscle endurance work?	8	0	0	72	16777215	110
+0	Keep the watts and disregard some or all of the form drills	8	0	0	72	16777215	120
+0	More on this later, for now just spin comfortably quickly	8	0	0	72	16777215	130
+180	Comfortably quick for a couple minutes, get the blood flowin'	8	0	0	72	16777215	0
+300	Use this 3 minutes to solidy your goals for this workout...	8	0	0	72	16777215	0
+300	Form or conditioning, maybe both?	8	0	0	72	16777215	10
+300	Regardless, be clear before the work begins	8	0	0	72	16777215	20
+300	There's nothing wrong with occasionally riding simply for the joy of it...	8	0	0	72	16777215	30
+300	but chances are you're here to make gains in one form or another	8	0	0	72	16777215	40
+300	So be clear on which gains you're targeting, in this workout...	8	0	0	72	16777215	50
+300	and in any workout, PRIOR to commencing that workout	8	0	0	72	16777215	60
+300	This simple act can grow each workout's value tremendously	8	0	0	72	16777215	70
+480	Cadence ladders are very straightforward...	8	0	0	72	16777215	0
+480	Watts go down, leg speed goes up	8	0	0	72	16777215	10
+480	Watts go up, leg speed comes down	8	0	0	72	16777215	20
+480	And we're not talking big changes here...	8	0	0	72	16777215	30
+480	only subtle ones that allow you to stay in control at all times	8	0	0	72	16777215	40
+480	Get ready to spin just a little bit quicker	8	0	0	72	16777215	50
+540	Ideally, you started higher than 85rpm...	8	0	0	72	16777215	0
+540	but cadence can be a pretty subjective thing...	8	0	0	72	16777215	10
+540	and what's manageably quick for you may be too quick for another rider	8	0	0	72	16777215	20
+540	So spin quickly but leave room to grow	8	0	0	72	16777215	30
+540	And if you can't spin at 85rpm or higher for 5 minutes at a stretch...	8	0	0	72	16777215	40
+540	recognize your cadence as an area for improvement	8	0	0	72	16777215	50
+600	Here's your quickest minute so far...	8	0	0	72	16777215	0
+600	but only pick up your spin if you can CONTROL it	8	0	0	72	16777215	10
+600	This means no bouncing, no knocking, no joint pain	8	0	0	72	16777215	20
+600	Hang onto it, 30 seconds...	5	0	0	72	16777215	30
+600	then we'll start to gradually step your spin back down...	8	0	0	72	16777215	40
+600	as the watts gradually step back up	5	0	0	72	16777215	50
+660	Shave off just a tad more leg speed	8	0	0	72	16777215	0
+660	And breathe deeply and slowly...	5	0	0	72	16777215	10
+660	relative to your spin at least	5	0	0	72	16777215	17
+660	No need to huff & puff just because your legs are moving quickly	8	0	0	72	16777215	30
+660	Learn to separate your breathing pattern from your quick legs	8	0	0	72	16777215	40
+660	Do this by staying relaxed & breathing from your belly	8	0	0	72	16777215	50
+720	Slightly slower spin, final minute is upon us	8	0	0	72	16777215	0
+720	Still relaxed? Shoulders low?	5	0	0	72	16777215	10
+720	Good, loosen your grip too...	5	0	0	72	16777215	20
+720	and keep those sit bones anchored to the wide part of your saddle	8	0	0	72	16777215	27
+780	Well done! Spin out the junk	8	0	0	72	16777215	0
+780	You've got 3 minutes to clear any heaviness...	8	0	0	72	16777215	10
+780	and bring your heart rate & breathing back down	8	0	0	72	16777215	20
+780	Start getting ready for round 2...	8	0	0	72	16777215	120
+780	by considering how that first ladder went	8	0	0	72	16777215	130
+780	Did you start out too fast?	5	0	0	72	16777215	140
+780	If you lost some of your control as the interval went on...	8	0	0	72	16777215	147
+780	start out just a little slower this time	5	0	0	72	16777215	160
+780	A little quicker if you just weren't very challenged last time	8	0	0	72	16777215	167
+960	Quick, controlled, room to grow	5	0	0	72	16777215	0
+1020	A little quicker, a little less tension in your body	5	0	0	72	16777215	0
+1080	Quickest minute yet!	5	0	0	72	16777215	0
+1080	Don't hold back, as long as you can control it	8	0	0	72	16777215	10
+1080	Sure, you've got 3 minutes left...	8	0	0	72	16777215	20
+1080	but if you can manage higher speeds, push yourself!	8	0	0	72	16777215	30
+1080	Learn how to efficiently zing those pedals around...	8	0	0	72	16777215	40
+1080	with as little wasted energy as possible	5	0	0	72	16777215	50
+1140	Only 2 minutes to go, ease up slightly	5	0	0	72	16777215	0
+1200	Final minute, keep it together	5	0	0	72	16777215	0
+1200	Short-timer's syndrome is strictly prohibited	8	0	0	72	16777215	10
+1200	We may be close to the end, but if anything...	8	0	0	72	16777215	20
+1200	that's the reason to become MORE focused	8	0	0	72	16777215	30
+1200	Poor form is often just a matter of evaporating focus...	8	0	0	72	16777215	40
+1200	and slipping focus doesn't excuse poor form	8	0	0	72	16777215	50
+1200	So ignore your fatigue, focus on finishing well	8	0	0	72	16777215	60
+1260	Nicely done!	5	0	0	72	16777215	0
+1260	Final round in a few minutes...	8	0	0	72	16777215	10
+1260	so go easy but keep moving if you can	8	0	0	72	16777215	20
+1260	And if you've cramped or felt some stirrings...	8	0	0	72	16777215	30
+1260	feel free to do a bit of stretching	5	0	0	72	16777215	40
+1260	Last ladder is seconds away	5	0	0	72	16777215	150
+1260	If you're tired, damage control is the name of the game	8	0	0	72	16777215	160
+1260	Feeling pretty good? Make this one your best yet	8	0	0	72	16777215	170
+1440	Again, what was quick 2 or 3 rounds ago...	8	0	0	72	16777215	0
+1440	might be too quick to control now	5	0	0	72	16777215	10
+1440	Adjust accordingly, good form above all else	5	0	0	72	16777215	20
+1500	Little quicker, same high level of control	5	0	0	72	16777215	0
+1560	Final fast minute!	5	0	0	72	16777215	0
+1560	30 seconds to go...	5	0	0	72	16777215	30
+1560	and then the smallest cadence reductions you can manage	8	0	0	72	16777215	37
+1620	Last 2 minutes, keep it together	5	0	0	72	16777215	0
+1680	Final minute!	3	0	0	72	16777215	0
+1740	Really well done! Settle back into an easy spin...	8	0	0	72	16777215	0
+1740	and don't be surprised if you're already quicker than an hour ago	8	0	0	72	16777215	10
+1740	These drills can manifest surprisingly quickly	8	0	0	72	16777215	20
+1740	In any case, stick with the form drills because even tiny improvements...	8	0	0	72	16777215	30
+1740	make big differences over thousands of pedalstrokes	8	0	0	72	16777215	40
+1740	We'll see you next time	5	0	0	72	16777215	50
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	1800	Workout
+180	300	Sweet Spot 1
+480	540	Sweet Spot 2
+540	600	Sweet Spot 3
+600	660	Sweet Spot 4
+660	720	Sweet Spot 5
+720	780	Sweet Spot 6
+960	1020	Sweet Spot 7
+1020	1080	Sweet Spot 8
+1080	1140	Sweet Spot 9
+1140	1200	Sweet Spot 10
+1200	1260	Sweet Spot 11
+1440	1500	Sweet Spot 12
+1500	1560	Sweet Spot 13
+1560	1620	Sweet Spot 14
+1620	1680	Sweet Spot 15
+1680	1740	Sweet Spot 16
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

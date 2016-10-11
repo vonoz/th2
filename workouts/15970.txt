@@ -1,0 +1,223 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = 8DC - Stage 4,93,79. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	56
+3.96	66
+3.96	90
+5	90
+5	55
+6.88	50
+6.88	97
+8.43	120
+8.43	135
+8.8	135
+8.8	40
+9.5	50
+9.5	50
+13.23	53
+13.23	50
+13.73	130
+13.73	145
+14.23	145
+14.23	40
+14.65	50
+14.65	50
+17.9	50
+17.9	130
+19.93	130
+19.93	45
+23.45	50
+23.45	75
+23.86	130
+23.86	180
+24.03	180
+24.03	20
+24.45	50
+24.45	50
+26.76	48
+26.76	50
+27.26	130
+27.26	145
+27.76	145
+27.76	40
+28.18	50
+28.18	50
+31.41	50
+31.41	130
+33.46	130
+33.46	45
+36.48	50
+36.48	75
+36.9	130
+36.9	200
+37.06	200
+37.06	20
+37.48	50
+37.48	50
+40.61	52
+40.61	115
+43.63	115
+43.63	45
+48.41	50
+48.41	120
+51.53	120
+51.53	50
+55	45
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Stage 4 of TrainerRoad's '8 Days of California'!	8	0	0	72	16777215	30
+0	Today is a short, punchy stage...	8	0	0	72	16777215	40
+0	...and the plan is to work as little as necessary after 3 days of bodily abuse	8	0	0	72	16777215	50
+0	And today we ditch the onus of protecting the leader's jersey	8	0	0	72	16777215	60
+0	Which means a couple things...	8	0	0	72	16777215	70
+0	1 - We can tuck in & rest, leave the work at the front to others	8	0	0	72	16777215	80
+0	2 - We can hunt KOM's & sprints with less concern for finish placing	8	0	0	72	16777215	90
+0	Our route today includes a couple of each	8	0	0	72	16777215	120
+0	We'll also be facing some hard, but short 2 to 3-minute climbs	8	0	0	72	16777215	130
+0	And with no Team TR rider feeling up to the task of a breakaway...	8	0	0	72	16777215	140
+0	...we're not likely to face any serious drama	8	0	0	72	16777215	150
+0	So today, we decompress & play a little!	8	0	0	72	16777215	160
+0	And since our sprinter is taking it easy today, nursing a knee injury...	8	0	0	72	16777215	170
+0	...that alleviates the stress of a finish leadout	8	0	0	72	16777215	180
+0	We're at the mercy of the field on these little rolling hills...	8	0	0	72	16777215	230
+238	...so just watch the wheel in front of you & stay awake	8	0	0	72	16777215	0
+238	Quick, light spin...	5	0	0	72	16777215	12
+238	...we can use these opening surges to warm up	8	0	0	72	16777215	19
+300	Short climb ahead, 2 minutes tops	8	0	0	72	16777215	100
+413	Little bit of work here...	5	0	0	72	16777215	7
+413	...choose a light gear & spin comfortably quickly	8	0	0	72	16777215	14
+506	Short kick over the top of this roller	8	0	0	72	16777215	0
+528	Ahhhh, spin out the heaviness	8	0	0	72	16777215	0
+570	We're coming up on the 1st of today's 2 KOM's	8	0	0	72	16777215	150
+570	Decide if you're going to attack these or softpedal through them	8	0	0	72	16777215	160
+570	Not every day has to be a hard day	8	0	0	72	16777215	170
+570	If your fatigue is really high, skip the KOM's & sprints today	8	0	0	72	16777215	180
+570	Just keep pedaling in the field's draft	8	0	0	72	16777215	190
+794	Climbers, ramp it up!	5	0	0	72	16777215	0
+794	Keep building power...	5	0	0	72	16777215	10
+794	Get ready to attack this summit!	5	0	0	72	16777215	20
+824	Work hard! 30 seconds	5	0	0	72	16777215	0
+824	20 seconds!	5	0	0	72	16777215	10
+824	Final 10!	5	0	0	72	16777215	20
+854	Recover & get back up to speed	8	0	0	72	16777215	0
+879	Up next, the first of a couple of 2-minute climbs	8	0	0	72	16777215	115
+879	And while this isn't a flat, potentially restful stage...	8	0	0	72	16777215	125
+879	...you can always sit in the field & dial down your intensity	8	0	0	72	16777215	135
+879	It's all about how much fatigue you carried into today...	8	0	0	72	16777215	145
+879	...and how much you'll face in the final half of this tour	8	0	0	72	16777215	155
+879	Take the easy days where you can find them...	8	0	0	72	16777215	165
+879	...but if you're feeling good, really attack these short climbs!	8	0	0	72	16777215	175
+879	Get ready...	5	0	0	72	16777215	186
+1074	Get your watts high & do it fast!	8	0	0	72	16777215	0
+1074	30 seconds in...	5	0	0	72	16777215	48
+1074	Halfway up this one!	5	0	0	72	16777215	78
+1074	30 more seconds...	5	0	0	72	16777215	92
+1196	Nicely done, take it easy for a few minutes & sit in	8	0	0	72	16777215	0
+1196	Coming up on the first of today's 2 sprints	8	0	0	72	16777215	151
+1196	If you're bent on completing all sprints...	8	0	0	72	16777215	161
+1196	...you're already mentally bracing yourself	8	0	0	72	16777215	171
+1196	Otherwise, you'll just softpedal through this 35-second acceleration	8	0	0	72	16777215	181
+1196	Sprinters, get ready...	5	0	0	72	16777215	205
+1407	Lots of power, all at once	5	0	0	72	16777215	0
+1407	Build for another 15 seconds...	5	0	0	72	16777215	10
+1407	Get ready!	3	0	0	72	16777215	18
+1407	3	1	0	0	72	16777215	22
+1407	2	1	0	0	72	16777215	23
+1407	1	1	0	0	72	16777215	24
+1432	Sprint!	5	0	0	72	16777215	0
+1467	Spin out the fatigue...	8	0	0	72	16777215	0
+1467	...and brace for today's other KOM	8	0	0	72	16777215	10
+1467	Again, you don't have to endure the sprints AND the KOM's...	8	0	0	72	16777215	20
+1467	...unless that level of masochism suits you ;-)	8	0	0	72	16777215	30
+1467	Climbers, get ready...	5	0	0	72	16777215	132
+1606	Powerful build! 30 seconds	5	0	0	72	16777215	0
+1606	Still building...	5	0	0	72	16777215	10
+1606	STILL building...	5	0	0	72	16777215	20
+1636	Punch it! 30 seconds	5	0	0	72	16777215	0
+1636	20 seconds!	5	0	0	72	16777215	10
+1636	10 seconds!	5	0	0	72	16777215	20
+1691	OK, now that the climbers can breathe again...	8	0	0	72	16777215	134
+1691	...let's start thinking about this next 2-minute climb	8	0	0	72	16777215	144
+1691	Based on the earlier 2-minute climb, plan how you'll tackle this next one	8	0	0	72	16777215	154
+1691	Did you struggle toward the summit?	8	0	0	72	16777215	164
+1691	Maybe you finished with lots of gas in the tank?	8	0	0	72	16777215	174
+1691	Now's an opportunity to refine your 2-minute performance	8	0	0	72	16777215	184
+1885	Hit this HARD, right from the start!	8	0	0	72	16777215	0
+1885	First 30 seconds down...	5	0	0	72	16777215	35
+1885	First minute, behind you...	5	0	0	72	16777215	63
+1885	Less than 30 seconds to go!	5	0	0	72	16777215	95
+2008	Excellent! Slip back into the field's cozy protection from the wind	8	0	0	72	16777215	0
+2008	About a minute away from the 2nd & final sprint of the day	8	0	0	72	16777215	122
+2008	Sprinters, shake out some fatigue	8	0	0	72	16777215	132
+2008	Every rider, take a few big, deep breaths	8	0	0	72	16777215	142
+2008	Get ready...	5	0	0	72	16777215	174
+2189	Strong build, 25 seconds	5	0	0	72	16777215	0
+2189	Keep building...	5	0	0	72	16777215	15
+2189	3	1	0	0	72	16777215	22
+2189	2	1	0	0	72	16777215	23
+2189	1	1	0	0	72	16777215	24
+2214	Sprint!	5	0	0	72	16777215	0
+2214	3 seconds!	3	0	0	72	16777215	7
+2249	Calm that breathing or just continue to noodle along	8	0	0	72	16777215	0
+2249	Only a couple more short climbs...	8	0	0	72	16777215	11
+2249	...before we latch onto the back of the field for their finish sprint	8	0	0	72	16777215	21
+2249	These last couple efforts should take about 3 minutes each	8	0	0	72	16777215	138
+2249	And they're paired up so you can learn a little from the first one	8	0	0	72	16777215	148
+2249	Based on your 2-minute power...	8	0	0	72	16777215	158
+2249	...scale things down a bit	8	0	0	72	16777215	168
+2249	Unless you felt 'too strong' on the 2-minute jobbers	8	0	0	72	16777215	178
+2437	Let's go!	5	0	0	72	16777215	0
+2437	Drive that power high & keep it there!	8	0	0	72	16777215	7
+2437	Halfway there, hold on!	8	0	0	72	16777215	90
+2437	1 minute to go...	5	0	0	72	16777215	121
+2437	Final 30 seconds, don't let up!	5	0	0	72	16777215	151
+2618	Ooph, that hurt	5	0	0	72	16777215	0
+2618	Good news/bad news  scenario for you...	8	0	0	72	16777215	207
+2618	Good news is, the stage is almost over!	8	0	0	72	16777215	217
+2618	Bad news? One more 3-minute effort to the line	8	0	0	72	16777215	227
+2618	The run-in will be fast, but there's no sprint for us today...	8	0	0	72	16777215	237
+2618	...even more good news, right? ;-)	8	0	0	72	16777215	247
+2618	We'll just latch on to the back of the peloton...	8	0	0	72	16777215	257
+2618	...and stay as tucked in as possible	8	0	0	72	16777215	267
+2618	The closer you ride to the front, the hard you'll have to work	8	0	0	72	16777215	277
+2905	Here we go!	5	0	0	72	16777215	0
+2905	3 minutes of work, that's all!	8	0	0	72	16777215	7
+2905	2 minutes left, hang on!	8	0	0	72	16777215	67
+2905	Gut out 1 more minute!	5	0	0	72	16777215	127
+2905	30 seconds...	5	0	0	72	16777215	157
+2905	20 seconds...	5	0	0	72	16777215	167
+2905	Gonna sprint?	3	0	0	72	16777215	173
+2905	Go now!	3	0	0	72	16777215	177
+3092	Well done, Team	5	0	0	72	16777215	28
+3092	Another day closer to wrapping things up, and we're riding perfectly	8	0	0	72	16777215	35
+3092	Get rested up, nourished, hydrated...	5	0	0	72	16777215	45
+3092	...and a massage is mandatory, team director's orders ;-)	8	0	0	72	16777215	52
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3300	Workout
+238	300	Sweet Spot 1
+413	506	VO2 Max 1
+506	528	Sprint 1
+824	854	Sprint 2
+1074	1196	Anaerobic Capacity 1
+1407	1432	Threshold 1
+1432	1442	Sprint 3
+1636	1666	Sprint 4
+1885	2008	Anaerobic Capacity 2
+2189	2214	Threshold 2
+2214	2224	Sprint 5
+2437	2618	VO2 Max 2
+2905	3092	VO2 Max 3
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

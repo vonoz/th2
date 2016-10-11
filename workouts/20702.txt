@@ -1,0 +1,483 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Stone Mountain,83,70. Created by 54949.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	72
+12	72
+12	125
+12.5	125
+12.5	60
+13	60
+13	125
+13.5	125
+13.5	60
+14	60
+14	125
+14.5	125
+14.5	10
+15.5	10
+15.5	40
+20	40
+20	125
+20.5	125
+20.5	60
+21	60
+21	125
+21.5	125
+21.5	60
+22	60
+22	125
+22.5	125
+22.5	60
+23	60
+23	125
+23.5	125
+23.5	60
+24	60
+24	125
+24.5	125
+24.5	60
+25	60
+25	125
+25.5	125
+25.5	60
+26	60
+26	125
+26.5	125
+26.5	60
+27	60
+27	125
+27.5	125
+27.5	60
+28	60
+28	125
+28.5	125
+28.5	40
+33.5	40
+33.5	125
+34	125
+34	60
+34.5	60
+34.5	125
+35	125
+35	60
+35.5	60
+35.5	125
+36	125
+36	60
+36.5	60
+36.5	125
+37	125
+37	60
+37.5	60
+37.5	125
+38	125
+38	60
+38.5	60
+38.5	125
+39	125
+39	60
+39.5	60
+39.5	125
+40	125
+40	60
+40.5	60
+40.5	125
+41	125
+41	60
+41.5	60
+41.5	125
+42	125
+42	40
+47	40
+47	125
+47.5	125
+47.5	60
+48	60
+48	125
+48.5	125
+48.5	60
+49	60
+49	125
+49.5	125
+49.5	60
+50	60
+50	125
+50.5	125
+50.5	60
+51	60
+51	125
+51.5	125
+51.5	60
+52	60
+52	125
+52.5	125
+52.5	60
+53	60
+53	125
+53.5	125
+53.5	60
+54	60
+54	125
+54.5	125
+54.5	60
+55	60
+55	125
+55.5	125
+55.5	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Stone Mountain, a short-ish round of 30-second repeats...	5	0	0	72	16777215	10
+0	done at a high enough percentage of your FTP...	5	0	0	72	16777215	16
+0	to push you right up to the boundaries of your aerobic capacity	5	0	0	72	16777215	22
+0	But what IS aerobic capacity, you say?	4	0	0	72	16777215	29
+0	When you work so hard that your breathing is topped out...	5	0	0	72	16777215	35
+0	you're very close or right at your VO2max	5	0	0	72	16777215	41
+0	Which is a measure of your highest level of oxygen uptake	5	0	0	72	16777215	48
+0	At this point of O2 usage...	3	0	0	72	16777215	55
+0	your power is probably in the 115-125% FTP range	5	0	0	72	16777215	59
+0	Why train here? Simple	4	0	0	72	16777215	68
+0	It's highly effective at eliciting numerous improvements...	5	0	0	72	16777215	74
+0	in your physiology & your fitness	5	0	0	72	16777215	80
+0	Training here impacts your aerobic system, your anaerobic system...	5	0	0	72	16777215	87
+0	and your ability to tolerate really hard work	5	0	0	72	16777215	93
+360	As you nudge up the effort a bit...	4	0	0	72	16777215	0
+360	try to keep your spin just as quick	3	0	0	72	16777215	5
+360	Shoot for something inside of the 85-95rpm range	4	0	0	72	16777215	10
+360	In about a minute, you'll roll through a few efforts...	5	0	0	72	16777215	300
+360	exactly like the ones you'll face in today's main set	5	0	0	72	16777215	306
+360	These will serve to round out your warmup...	5	0	0	72	16777215	313
+360	and get you fully primed for the sets ahead	4	0	0	72	16777215	319
+360	And don't worry if these feel a bit uncomfortable...	4	0	0	72	16777215	325
+360	because you're still warming and clearing the cobwebs	5	0	0	72	16777215	330
+360	Do yourself a favor though...	3	0	0	72	16777215	337
+360	and keep your spin on the quicker side of things...	5	0	0	72	16777215	341
+360	by spinning above 90rpm with plenty of control	5	0	0	72	16777215	348
+360	Bring your spin up & relax	3	0	0	72	16777215	355
+720	Quick legs, relaxed upper body	3	0	0	72	16777215	0
+750	Ease off the effort but keep your legs quick	4	0	0	72	16777215	0
+780	Quick legs again, no upper body bobbing	4	0	0	72	16777215	0
+810	Dial down the power but keep the leg speed	4	0	0	72	16777215	0
+840	Last time, work hard but stay relaxed	4	0	0	72	16777215	0
+870	Time for a really easy minute to clear the fatigue	5	0	0	72	16777215	0
+870	And if you use the LSCT warmup to assess your workout readiness...	6	0	0	72	16777215	7
+870	feel free to check your HRR now...	3	0	0	72	16777215	14
+870	keeping in mind the effect those short efforts will have...	5	0	0	72	16777215	18
+870	on your HR's usual recovery habits	4	0	0	72	16777215	24
+930	Get back to it and settle into a spin above 85rpm	5	0	0	72	16777215	0
+930	With a better understanding of WHY you're doing this workout...	5	0	0	72	16777215	90
+930	let's turn your attention to the HOW of this workout	5	0	0	72	16777215	96
+930	With efforts this far above FTP, three things are vital...	5	0	0	72	16777215	103
+930	1 - Lots of leg speed	3	0	0	72	16777215	110
+930	Keep your spin high, 90-110rpm is recommended	4	0	0	72	16777215	115
+930	1 - Lots of air	3	0	0	72	16777215	121
+930	Breathe well and fully throughout each set	4	0	0	72	16777215	126
+930	3 - Proper form	3	0	0	72	16777215	132
+930	Hard work doesn't forgive sloppy riding	4	0	0	72	16777215	137
+930	We'll devote one full set to each of these key elements...	5	0	0	72	16777215	143
+930	in the hopes of helping you improve all 3	4	0	0	72	16777215	149
+930	Continue to clear any heaviness those 3 efforts brought...	5	0	0	72	16777215	155
+930	and settle on a quick but sustainable cadence	5	0	0	72	16777215	161
+930	Find something that seems reasonably quick...	5	0	0	72	16777215	168
+930	with the intention of keeping each muscle contraction...	5	0	0	72	16777215	174
+930	on the lighter side of things in order to spare your muscles...	5	0	0	72	16777215	180
+930	and really work your heart & lungs	4	0	0	72	16777215	186
+930	Ideally you're spinning between 90-100rpm already...	5	0	0	72	16777215	210
+930	but this all depends on how well you spin quickly	4	0	0	72	16777215	216
+930	If that range is out of your reach at the moment...	5	0	0	72	16777215	222
+930	do your best to stay above 90rpm during each upcoming set	6	0	0	72	16777215	228
+930	In any case, set your cadence now...	4	0	0	72	16777215	236
+930	then do your best to retain it as each set moves forward	5	0	0	72	16777215	241
+930	The fatigue will certainly grow from interval to interval...	5	0	0	72	16777215	248
+930	but this 30/30 format will keep things very manageable	5	0	0	72	16777215	254
+930	Quick legs, relaxed upper body, quiet hips	5	0	0	72	16777215	261
+1200	Keep that spin high with plenty of control	5	0	0	72	16777215	0
+1230	As the power drops, try to keep your spin high	5	0	0	72	16777215	0
+1230	You can back the speed down a little...	5	0	0	72	16777215	7
+1230	but it's better to stay reasonably quick throughout...	5	0	0	72	16777215	13
+1230	rather than slowing down, speeding up...	4	0	0	72	16777215	19
+1230	slowing down, speeding up	3	0	0	72	16777215	24
+1260	Quick but relaxed	3	0	0	72	16777215	0
+1260	If you start to bounce in the saddle when your cadence rises...	5	0	0	72	16777215	5
+1260	first back things off until the bounce fades	5	0	0	72	16777215	11
+1260	Then make sure your lower legs are light & loose	5	0	0	72	16777215	18
+1290	Keeping your feet, ankles & calfs loose...	5	0	0	72	16777215	0
+1290	goes a long way toward keeping your spin fluid	5	0	0	72	16777215	6
+1290	But when you carry extra tension below the knees...	5	0	0	72	16777215	13
+1290	it often translates to a bit of bouncing around	5	0	0	72	16777215	19
+1320	So relax everything below your knees...	4	0	0	72	16777215	0
+1320	and imagine you're pedaling with those knees...	4	0	0	72	16777215	5
+1320	instead of your feet	3	0	0	72	16777215	10
+1350	Did that allow you to spin a bit more quickly?	5	0	0	72	16777215	0
+1350	If not, consider how hard you're gripping the bars	5	0	0	72	16777215	7
+1350	All too often when the workload jumps up...	5	0	0	72	16777215	14
+1350	riders get all sort of needlessly tense	5	0	0	72	16777215	20
+1380	and this tension usually starts in the jaw...	5	0	0	72	16777215	0
+1380	or the hands	3	0	0	72	16777215	6
+1380	In both cases, it carries further than you might think	6	0	0	72	16777215	11
+1380	So ditch that unnecessary tension, wherever it exists...	5	0	0	72	16777215	19
+1380	and avoid the bounce, the waste	3	0	0	72	16777215	25
+1410	Take it easy but keep most of your leg speed	5	0	0	72	16777215	0
+1410	Whether recovering or working...	3	0	0	72	16777215	7
+1410	the key to high, controlled leg speed is relaxation	5	0	0	72	16777215	11
+1410	The quicker you spin the more relaxed you become	6	0	0	72	16777215	18
+1440	Stay relaxed, spin quickly	5	0	0	72	16777215	0
+1470	If any tension crept into your pedalstroke...	4	0	0	72	16777215	0
+1470	now's the time to ditch it	3	0	0	72	16777215	5
+1530	Stay fairly quick & be encouraged...	3	0	0	72	16777215	0
+1530	by the fact there's only 3 repeats left in this set	4	0	0	72	16777215	4
+1560	30 seconds of quick legs & high power...	4	0	0	72	16777215	0
+1560	and of course, a relaxed body	3	0	0	72	16777215	5
+1560	And if you're STILL bouncing around...	4	0	0	72	16777215	10
+1560	consider your saddle height	3	0	0	72	16777215	15
+1560	Whether it's slightly too high or slightly too low...	5	0	0	72	16777215	20
+1590	even a small misadjustment can make a big difference	4	0	0	72	16777215	0
+1590	Use any pain as an indicator of improper saddle height	5	0	0	72	16777215	6
+1590	Pain in the back of the knee? Too high	4	0	0	72	16777215	13
+1590	Pain in the front of the knee? Too low	4	0	0	72	16777215	19
+1620	If you suspect either, tweak your fit slightly...	4	0	0	72	16777215	0
+1620	or schedule some time with a fit specialist	4	0	0	72	16777215	5
+1650	Excellent! Only one to go	3	0	0	72	16777215	0
+1680	Make this last interval your best yet	5	0	0	72	16777215	0
+1680	And why not? You've practiced several times already	5	0	0	72	16777215	7
+1710	Well done, first set is in the bag!	5	0	0	72	16777215	2
+1710	Take a few minutes to spin away the fatigue...	5	0	0	72	16777215	9
+1710	and bring your breathing & HR back down	5	0	0	72	16777215	15
+1710	As promised...	3	0	0	72	16777215	240
+1710	we'll address breathing during this next round	4	0	0	72	16777215	244
+1710	And rightly so since these efforts are performed...	5	0	0	72	16777215	250
+1710	up toward the top of your aerobic capacity	5	0	0	72	16777215	256
+1710	And by stressing that capacity...	3	0	0	72	16777215	263
+1710	one potential improvement is increased central capabilities...	5	0	0	72	16777215	267
+1710	or your heart's ability to do more work	5	0	0	72	16777215	273
+1710	By stressing your system with efforts like these...	5	0	0	72	16777215	280
+1710	at %'s of FTP as high as this...	4	0	0	72	16777215	286
+1710	we're looking to improve your heart's capacity	4	0	0	72	16777215	291
+2010	Any increase in the amount of blood...	4	0	0	72	16777215	0
+2010	each beat of your heart pushes along...	4	0	0	72	16777215	5
+2010	results in more oxygen carried to your muslces...	4	0	0	72	16777215	10
+2010	which translates to more fuel...	4	0	0	72	16777215	15
+2010	and potentially more work!	4	0	0	72	16777215	20
+2040	So work that heart more than your muscles today...	5	0	0	72	16777215	0
+2040	by breathing steadily & fully	4	0	0	72	16777215	6
+2040	The steady part is easy - find a rhythm, keep it	5	0	0	72	16777215	12
+2040	But the full part is where many riders fall short	5	0	0	72	16777215	19
+2070	When you simply expand your chest as you inhale...	5	0	0	72	16777215	0
+2070	you're not actively utilizing your breathing muscles	5	0	0	72	16777215	6
+2070	But when you drive your breaths with your belly...	5	0	0	72	16777215	13
+2070	you're far more likely to breathe "actively"	5	0	0	72	16777215	19
+2100	So during each recovery valley, use your belly...	5	0	0	72	16777215	0
+2100	by pooching out your gut as you inhale...	5	0	0	72	16777215	6
+2100	and then drawing in your abdomen as you exhale	5	0	0	72	16777215	12
+2100	Breathing in: thick abdomen	4	0	0	72	16777215	19
+2100	Breathing out: narrow abdomen	4	0	0	72	16777215	25
+2130	Then as you start to work...	4	0	0	72	16777215	0
+2130	carry this active breathing approach into each interval	5	0	0	72	16777215	5
+2130	By consciously practicing this breathing style often...	5	0	0	72	16777215	12
+2130	it will evetually become an automatic response to hard efforts	6	0	0	72	16777215	18
+2160	Over time, these proper breathing patterns...	4	0	0	72	16777215	0
+2160	will carry over into lower-intensity efforts...	4	0	0	72	16777215	5
+2160	and even your day-to-day lifestyle	4	0	0	72	16777215	10
+2160	You might be surprised by the overall effect...	4	0	0	72	16777215	16
+2160	fuller breathing has on numerous aspects of your life...	4	0	0	72	16777215	21
+2160	not just exercise	3	0	0	72	16777215	26
+2190	From the start, breathe from your belly	5	0	0	72	16777215	0
+2190	Think of it as giving your muscles a head start	5	0	0	72	16777215	7
+2190	At some point, the effort will outpace your oxygen supply...	5	0	0	72	16777215	14
+2190	but if you breathe more fully, earlier on...	5	0	0	72	16777215	20
+2220	you can postpone when that deficit starts to set in	5	0	0	72	16777215	0
+2220	In doing so...	3	0	0	72	16777215	7
+2220	you also postpone the discomfort of spent muscles	5	0	0	72	16777215	11
+2220	But how to postpone the gasping breaths?	5	0	0	72	16777215	18
+2220	Time to talk about exhaling	3	0	0	72	16777215	25
+2250	Much of the discomfort accompanying short breaths...	5	0	0	72	16777215	0
+2250	is due to the buildup of CO2, carbon dioxide...	5	0	0	72	16777215	6
+2250	which is the gas we exhale	3	0	0	72	16777215	12
+2250	So by exhaling more strongly, you can more effectively...	5	0	0	72	16777215	17
+2250	reduce that CO2 accumulation and postpone that sensation	5	0	0	72	16777215	23
+2280	So there's both sides of the breathing coin	5	0	0	72	16777215	0
+2280	Heads, inhale fully to feed your muscles	5	0	0	72	16777215	7
+2280	Tails, exhale strongly to clear the waste	5	0	0	72	16777215	14
+2280	And do both by actively utilizing your diaphragm	5	0	0	72	16777215	21
+2310	The diaphragm is your primary breathing muscle...	5	0	0	72	16777215	0
+2310	and it resides at the base of your lungs...	5	0	0	72	16777215	6
+2310	which roughly translates to the belly region	5	0	0	72	16777215	12
+2310	So belly-breathing is nothing more than diaphragmatic breathing	6	0	0	72	16777215	19
+2340	Which is nothing more...	3	0	0	72	16777215	0
+2340	than breathing as the body was designed to breathe	5	0	0	72	16777215	4
+2340	Three more efforts to practice breathing well	5	0	0	72	16777215	20
+2370	Expand that belly, really let it pooch out...	5	0	0	72	16777215	0
+2370	then draw your navel toward your spine as you exhale	6	0	0	72	16777215	6
+2370	You can think solely of your navel if it suits you	6	0	0	72	16777215	14
+2370	Let it fall, draw it in, repeat	5	0	0	72	16777215	22
+2400	Keep those belly-breaths comin'	5	0	0	72	16777215	0
+2430	Right from the start...	3	0	0	72	16777215	0
+2430	use that belly to maximize your breathing quality	5	0	0	72	16777215	4
+2460	Still using that belly to clear the accumulation?	5	0	0	72	16777215	0
+2490	Last time...	3	0	0	72	16777215	0
+2490	feed those muscles with full, belly-driven breaths	5	0	0	72	16777215	4
+2520	Well done, keep breathing fully & deeply...	5	0	0	72	16777215	2
+2520	and spin away the heaviness while your HR drops	5	0	0	72	16777215	8
+2520	Final set is nearly upon you...	3	0	0	72	16777215	180
+2520	and we'll dedicate this last learning opportunity to form...	5	0	0	72	16777215	184
+2520	since fatigue and poor form so often go hand-in-hand	5	0	0	72	16777215	190
+2520	Fact of the matter is, fatigue is rarely high enough...	5	0	0	72	16777215	197
+2520	to merit a decline in technique	5	0	0	72	16777215	203
+2520	Typically, riders just lose focus and form suffers as a result..	5	0	0	72	16777215	210
+2520	so it's more a matter of focus than fatigue...	5	0	0	72	16777215	216
+2520	when it comes to explaining slips in form	5	0	0	72	16777215	222
+2520	So this is good news, right?	5	0	0	72	16777215	229
+2520	Because if you can drill that good technique to a point...	6	0	0	72	16777215	236
+2520	where it's more automatic, more ingrained...	4	0	0	72	16777215	243
+2520	then you can devote more of your focus...	5	0	0	72	16777215	248
+2520	to concerns like holding a wheel, watching the trail...	5	0	0	72	16777215	254
+2520	or managing your effort & suffering	5	0	0	72	16777215	260
+2520	So get ready to practice improving your form...	5	0	0	72	16777215	270
+2520	even as the fatigue escalates	4	0	0	72	16777215	276
+2520	And we'll start by applying what we've already learned	5	0	0	72	16777215	282
+2520	Relaxed, quick legs...	3	0	0	72	16777215	289
+2520	and full, active breathing	3	0	0	72	16777215	293
+2820	Then we'll shift focus to your pedalstroke	5	0	0	72	16777215	0
+2820	Start by limiting your lateral knee movement	5	0	0	72	16777215	7
+2820	If your knees wobble inward or outward...	4	0	0	72	16777215	14
+2820	most likley at the top of each pedalstroke...	4	0	0	72	16777215	19
+2820	try to limit this side-to-side- movement	4	0	0	72	16777215	24
+2850	Keep your cadence and spin off the fatigue	4	0	0	72	16777215	0
+2850	Again, the goal cadence is somewhere in the 100-110rpm range...	5	0	0	72	16777215	6
+2850	but there's nothing wrong with spinning closer to 90rpm...	5	0	0	72	16777215	12
+2850	if that's where your control is at its highest	5	0	0	72	16777215	18
+2880	Quick legs with very little or zero knee wobble	5	0	0	72	16777215	0
+2880	Try thinking of your knees as pistons...	4	0	0	72	16777215	10
+2880	that only travel straight up & straight down	4	0	0	72	16777215	15
+2910	Ease up on the power, keep the leg speed pretty high	5	0	0	72	16777215	0
+2940	Once more, knees like pistons	4	0	0	72	16777215	0
+2940	Straight up, straight down	3	0	0	72	16777215	10
+2940	Keep them tracking perfectly vertically	4	0	0	72	16777215	20
+2970	Excellent, catch your breath and lets shift focus a bit	5	0	0	72	16777215	0
+2970	During these next few repeats...	3	0	0	72	16777215	7
+2970	try adding a light but active kick...	5	0	0	72	16777215	11
+2970	as you start to crest the top of each pedalstroke	5	0	0	72	16777215	18
+3000	As each knee reaches its highest point...	5	0	0	72	16777215	0
+3000	lightly kick your toes into the front of your shoe	5	0	0	72	16777215	6
+3000	So you'll lightly kick over the top of each pedalstroke	5	0	0	72	16777215	13
+3000	Not only does this help squash a common dead spot...	5	0	0	72	16777215	20
+3030	but it removes a bit of stress from the downstroke...	5	0	0	72	16777215	0
+3030	and can bring a noticeable reduction in quad fatigue	5	0	0	72	16777215	6
+3060	Again, lightly kick over the top of each pedalstroke...	5	0	0	72	16777215	0
+3060	as you move through that high spot in each pedal revolution	5	0	0	72	16777215	6
+3060	Put another way...	3	0	0	72	16777215	13
+3060	kick lightly each time you hit the 10 o'clock position...	5	0	0	72	16777215	17
+3060	and carry that kick into each downstroke	4	0	0	72	16777215	24
+3090	Then when you back off the power...	5	0	0	72	16777215	0
+3090	keep that kick, just make it even lighter	4	0	0	72	16777215	6
+3090	Over time, this kick can make the difference...	4	0	0	72	16777215	12
+3090	between dead-heavy, crampy quads...	4	0	0	72	16777215	17
+3090	and legs that can punch over a few more short climbs	5	0	0	72	16777215	22
+3120	Once more, actively but lightly kick forward...	5	0	0	72	16777215	0
+3120	as you carry a little "early power" into your downstroke	5	0	0	72	16777215	6
+3150	Good work, keep the kick alive if you can...	5	0	0	72	16777215	0
+3150	and shed some fatigue with full inhales, strong exhales	5	0	0	72	16777215	6
+3180	This time, focus on the all-important downstroke...	5	0	0	72	16777215	0
+3180	by pushing through the entire base of each foot	5	0	0	72	16777215	6
+3180	So instead of jamming down on the balls of your feet...	5	0	0	72	16777215	13
+3180	think of the foot as a whole unit...	4	0	0	72	16777215	19
+3180	instead of a single, small contact point	4	0	0	72	16777215	24
+3210	You can imagine pushing through the arch of your foot...	5	0	0	72	16777215	0
+3210	of simply driving each foot, in its entirety...	5	0	0	72	16777215	6
+3210	downward as you come off of each light, forward kick	5	0	0	72	16777215	12
+3210	So you'll kick lightly, then drive your whole foot downward	6	0	0	72	16777215	19
+3240	Kick & drive, kick & drive...	5	0	0	72	16777215	0
+3240	and meld one smooth pedalstroke into the next	5	0	0	72	16777215	6
+3240	Alternatively, you can think again of pedaling with your knees...	5	0	0	72	16777215	13
+3240	where your feet only serve to connect you to the pedals	5	0	0	72	16777215	19
+3270	Knee-pedaling can also serve as a means of unburdening...	5	0	0	72	16777215	0
+3270	the balls of your feet and the cramping...	5	0	0	72	16777215	6
+3270	and occaisonal hot spots that come with high, concentrated pressure	6	0	0	72	16777215	12
+3270	Either way, try using your whole foot to press down	5	0	0	72	16777215	20
+3300	One more time...	3	0	0	72	16777215	0
+3300	use each entire foot to drive the pedals down	4	0	0	72	16777215	4
+3300	But remain fluid - no stomping	4	0	0	72	16777215	10
+3330	Well done!	5	0	0	72	16777215	2
+3330	Not only did you accumulate over 13 minutes of time...	5	0	0	72	16777215	10
+3330	in the VO2max realm, but if you added the drills...	5	0	0	72	16777215	16
+3330	you very well stumbeld onto something that will help you improve...	5	0	0	72	16777215	22
+3330	how well you sustain high power outputs...	5	0	0	72	16777215	28
+3330	and how well you ride in a more general sense	5	0	0	72	16777215	34
+3330	Time to get on your post-workout nutrition...	5	0	0	72	16777215	41
+3330	or at least start thinking about it...	3	0	0	72	16777215	47
+3330	and we'll see you next time	5	0	0	72	16777215	51
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+360	720	Endurance 1
+720	750	Sprint 1
+750	780	Endurance 2
+780	810	Sprint 2
+810	840	Endurance 3
+840	870	Sprint 3
+1200	1230	Sprint 4
+1230	1260	Endurance 4
+1260	1290	Sprint 5
+1290	1320	Endurance 5
+1320	1350	Sprint 6
+1350	1380	Endurance 6
+1380	1410	Sprint 7
+1410	1440	Endurance 7
+1440	1470	Sprint 8
+1470	1500	Endurance 8
+1500	1530	Sprint 9
+1530	1560	Endurance 9
+1560	1590	Sprint 10
+1590	1620	Endurance 10
+1620	1650	Sprint 11
+1650	1680	Endurance 11
+1680	1710	Sprint 12
+2010	2040	Sprint 13
+2040	2070	Endurance 12
+2070	2100	Sprint 14
+2100	2130	Endurance 13
+2130	2160	Sprint 15
+2160	2190	Endurance 14
+2190	2220	Sprint 16
+2220	2250	Endurance 15
+2250	2280	Sprint 17
+2280	2310	Endurance 16
+2310	2340	Sprint 18
+2340	2370	Endurance 17
+2370	2400	Sprint 19
+2400	2430	Endurance 18
+2430	2460	Sprint 20
+2460	2490	Endurance 19
+2490	2520	Sprint 21
+2820	2850	Sprint 22
+2850	2880	Endurance 20
+2880	2910	Sprint 23
+2910	2940	Endurance 21
+2940	2970	Sprint 24
+2970	3000	Endurance 22
+3000	3030	Sprint 25
+3030	3060	Endurance 23
+3060	3090	Sprint 26
+3090	3120	Endurance 24
+3120	3150	Sprint 27
+3150	3180	Endurance 25
+3180	3210	Sprint 28
+3210	3240	Endurance 26
+3240	3270	Sprint 29
+3270	3300	Endurance 27
+3300	3330	Sprint 30
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

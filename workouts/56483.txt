@@ -1,0 +1,325 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = 2014 8DC - Stage 8,95,121. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	55
+2.55	60
+2.55	60
+2.88	92
+2.88	92
+3.63	92
+3.63	75
+4.15	77
+4.15	77
+4.31	98
+4.31	98
+5.56	98
+5.56	70
+9.06	76
+9.06	76
+9.23	115
+9.23	115
+10.9	115
+10.9	115
+11.23	90
+11.23	90
+13.33	92
+13.33	92
+15.33	91
+15.33	91
+17.83	94
+17.83	94
+19.33	92
+19.33	92
+21.68	92
+21.68	92
+22.18	130
+22.18	145
+22.51	145
+22.51	25
+23.06	70
+23.06	70
+24.23	70
+24.23	70
+27.43	82
+27.43	82
+27.6	135
+27.6	135
+29.01	125
+29.01	125
+29.35	90
+29.35	90
+31.95	95
+31.95	95
+33.78	91
+33.78	91
+36.2	103
+36.2	103
+37.7	99
+37.7	99
+40.01	99
+40.01	99
+40.68	130
+40.68	145
+41.18	145
+41.18	25
+41.73	65
+41.73	65
+42.9	65
+42.9	65
+46.1	77
+46.1	82
+46.26	108
+46.26	108
+48.18	110
+48.18	110
+48.51	81
+48.51	81
+50.78	86
+50.78	86
+52.78	84
+52.78	84
+54.86	92
+54.86	92
+56.36	90
+56.36	90
+58.65	90
+58.65	90
+58.98	130
+58.98	145
+59.31	145
+59.31	25
+59.86	65
+59.86	65
+61.03	65
+61.03	65
+64.23	77
+64.23	82
+64.4	130
+64.4	130
+65.65	138
+65.65	138
+65.98	90
+65.98	90
+68.58	96
+68.58	96
+70.58	93
+70.58	93
+73.16	92
+73.16	92
+74.25	98
+74.25	98
+74.75	118
+74.75	118
+76.08	130
+76.08	150
+76.33	150
+76.33	20
+76.75	40
+76.75	40
+81	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to the final stage of 8DC!	8	0	0	72	16777215	10
+0	If all goes well, we will have successfully placed a rider...	8	0	0	72	16777215	20
+0	within the top-10 of the overall rankings of 8 Days in California	8	0	0	72	16777215	30
+0	This means big things for you as an individual...	8	0	0	72	16777215	40
+0	and for TrainerRoad as a professional team	8	0	0	72	16777215	50
+0	So let's nail this last stage down with authority...	8	0	0	72	16777215	60
+0	show everyone our team means business, start to finish	8	0	0	72	16777215	70
+0	4 laps on tap today, each taking under 20 minutes	8	0	0	72	16777215	90
+0	Domestiques may opt for only 2 of those laps...	8	0	0	72	16777215	100
+0	while unsucessful gambles could result in only 2 or 3 laps	8	0	0	72	16777215	110
+0	But those looking for full 8DC palmares on their resumes...	8	0	0	72	16777215	120
+0	need to complete all 4 of these concentrated sufferfests	8	0	0	72	16777215	130
+153	Time to kick off an impromptu warmup, pick it up!	8	0	0	72	16777215	0
+218	Ease off, something tells me we're not done yet	8	0	0	72	16777215	0
+249	Annnnnd go again	8	0	0	72	16777215	0
+334	Take it easy, we're officially on course now	8	0	0	72	16777215	0
+334	Each lap will consist of a short but nasty climb...	8	0	0	72	16777215	10
+334	level off in terms of course profile but not necessarily intensity...	8	0	0	72	16777215	20
+334	and complete with a sprint each & every lap	8	0	0	72	16777215	30
+334	How hard each lap will be attacked is anyone's guess...	8	0	0	72	16777215	40
+334	but with this being the final day of our 8-day ordeal...	8	0	0	72	16777215	50
+334	and with several riders within arm's reach of one another in the GC...	8	0	0	72	16777215	60
+334	this will probably be a slugfest	8	0	0	72	16777215	70
+334	This circuit is not unlike what you'd find in a single-day Spring Classic	8	0	0	72	16777215	120
+334	Short, punchy climbs, varying intensities within & between laps...	8	0	0	72	16777215	130
+334	and riders eager to bury themselves for a host of reasons	8	0	0	72	16777215	140
+334	So get ready to earn your paycheck by keeping a tight grip on your top-10	8	0	0	72	16777215	150
+544	Here we go	5	0	0	72	16777215	0
+554	This is likely to be the hardest part of each circuit	8	0	0	72	16777215	0
+554	It won't ever exceed 2 minutes in duration...	8	0	0	72	16777215	10
+554	far less when the pace is really high	8	0	0	72	16777215	20
+554	So gut this out & know it only happens once per lap	8	0	0	72	16777215	30
+654	Backing things down, but keep working hard	8	0	0	72	16777215	0
+674	Ahhhh, that definitely sets the tone	8	0	0	72	16777215	0
+674	Keep your eyes open & expect anything, but...	8	0	0	72	16777215	10
+674	multi-circuit races like this often follow a predictable pattern	8	0	0	72	16777215	20
+674	First lap is conservative & then an early lap is brutally hard...	8	0	0	72	16777215	30
+674	often used to shed some early weight	8	0	0	72	16777215	40
+674	Then the laps calm a bit as the selections are made...	8	0	0	72	16777215	50
+674	and riders "gravitate" to their own like-minded clusters	8	0	0	72	16777215	60
+674	Finally, the last lap is an unapologetic brawl where...	8	0	0	72	16777215	70
+674	team tactics can get discarded when it turns into every-man-for-himself...	8	0	0	72	16777215	80
+674	or WO-man ;)	8	0	0	72	16777215	90
+920	As predicted, this lap's proving to be relatively mellow	8	0	0	72	16777215	0
+920	Not easy, exactly, but not yet a race	8	0	0	72	16777215	10
+1160	Position well for the sprint each lap	8	0	0	72	16777215	101
+1160	The goal is simply to disallow any threatening escapes	8	0	0	72	16777215	111
+1160	We will keep any GC threat on an extremely short leash today	8	0	0	72	16777215	121
+1301	Wind it up...	5	0	0	72	16777215	0
+1301	you won't sprint exaclty, but you'll definitely work	8	0	0	72	16777215	7
+1331	Go hard!	8	0	0	72	16777215	0
+1331	Hang in there, almost over!	8	0	0	72	16777215	10
+1384	Recover your breathing & prep for lap 2	8	0	0	72	16777215	0
+1454	This lap is likely to see some carnage	8	0	0	72	16777215	0
+1454	Anyone feeling good today is going to punish everyone else...	8	0	0	72	16777215	10
+1454	and this guarantees some casualties	8	0	0	72	16777215	20
+1454	Just do your best to cover, no need to initiate any moves	8	0	0	72	16777215	30
+1646	Here goes!	8	0	0	72	16777215	0
+1656	This one's gonna shatter the field, hang on!	8	0	0	72	16777215	0
+1656	Almost there, don't let them drop you!	8	0	0	72	16777215	55
+1741	Easing off, but not done yet	8	0	0	72	16777215	0
+1761	Ooph, that hurt...	8	0	0	72	16777215	0
+1761	and the pressure is staying on	8	0	0	72	16777215	10
+1761	Breathe through the burn & be patient	8	0	0	72	16777215	20
+1761	The toughest riders are the ones who can work hard...	8	0	0	72	16777215	30
+1761	even though their bodies are begging for 10 seconds of relief	8	0	0	72	16777215	40
+1761	Be tough & know that relief will come...eventually	8	0	0	72	16777215	50
+1917	Things are easing up a bit, stay positive	8	0	0	72	16777215	0
+2027	Your turn, move to the front	8	0	0	72	16777215	0
+2027	Lift the pace gradually & let's see who pops of the back	8	0	0	72	16777215	10
+2027	You're stringing things out nicely...	8	0	0	72	16777215	80
+2027	and riders are starting to come unglued	8	0	0	72	16777215	90
+2172	Ease off a bit & conserve for the sprint coming up	8	0	0	72	16777215	0
+2262	Find a wheel & hold steady for a while	8	0	0	72	16777215	0
+2401	Just stay in contact, that's all you need to do today	8	0	0	72	16777215	0
+2401	Stay with the leaders...	8	0	0	72	16777215	20
+2401	and get ready to jump	8	0	0	72	16777215	30
+2441	They've gone early! Stay with them	8	0	0	72	16777215	0
+2441	Looooong sprint but you can do this!	8	0	0	72	16777215	10
+2441	10 seconds!	8	0	0	72	16777215	20
+2504	With any luck, this lap will ease off the gas a bit	8	0	0	72	16777215	0
+2504	But not so much that it allows any regrouping	8	0	0	72	16777215	10
+2574	Slip far enough back that you're out of the wind	8	0	0	72	16777215	0
+2574	Start working your way back to the front...	8	0	0	72	16777215	132
+2574	time to position for this lap's climb	8	0	0	72	16777215	142
+2766	Stick with the leaders	8	0	0	72	16777215	0
+2776	Much more doable this time	8	0	0	72	16777215	0
+2776	Which means a longer ascent, but a less damaging one	8	0	0	72	16777215	10
+2891	Well done, start to drop off the front...	8	0	0	72	16777215	0
+2891	but stay awake	5	0	0	72	16777215	10
+3047	Not much action this lap which means a couple things...	8	0	0	72	16777215	0
+3047	everyone else is tired too, hurting, ready to be done...	8	0	0	72	16777215	10
+3047	and the next lap will be merciless	8	0	0	72	16777215	20
+3047	No use sweating that now though, try to ride relaxed	8	0	0	72	16777215	30
+3167	Spend some time moving in & out of the saddle...	8	0	0	72	16777215	0
+3167	keep your muscles ready for anything	8	0	0	72	16777215	10
+3382	Only a couple sprints left and one of them is almost upon us	8	0	0	72	16777215	117
+3382	Same plan, follow but don't suffer too much	8	0	0	72	16777215	127
+3519	Speed things up	5	0	0	72	16777215	0
+3539	Go! 20 seconds tops	8	0	0	72	16777215	0
+3539	10 seconds!	8	0	0	72	16777215	10
+3592	Glad that's over - only one left!	8	0	0	72	16777215	0
+3662	This lap is likely to nail a lot of coffins shut...	8	0	0	72	16777215	0
+3662	certainly not yours though	8	0	0	72	16777215	10
+3662	Just keep reminding yourself that each time you do something...	8	0	0	72	16777215	20
+3662	it's the last time you'll have to do it	8	0	0	72	16777215	30
+3662	Get up front, right away	8	0	0	72	16777215	152
+3662	You don't want even the slightest gap opening up	8	0	0	72	16777215	162
+3662	This is likely to be vicious...but short	8	0	0	72	16777215	172
+3662	Get ready...	5	0	0	72	16777215	182
+3854	Go! HARD!	8	0	0	72	16777215	0
+3864	Settle in & keep lifting the pace if you can!	8	0	0	72	16777215	0
+3864	Quick, powerful legs	5	0	0	72	16777215	10
+3864	Under a minute, pace yourself	5	0	0	72	16777215	17
+3864	The summit is 30 seconds out, tops!	5	0	0	72	16777215	45
+3864	20 seconds, don't fade!	5	0	0	72	16777215	55
+3864	10 seconds!	5	0	0	72	16777215	65
+3939	Good, but don't back off just yet	8	0	0	72	16777215	0
+3959	Here's where the gaps will form	8	0	0	72	16777215	0
+3959	Stay on the gas as best you can	8	0	0	72	16777215	10
+4115	The field seems to be easing up a bit, take advantage	8	0	0	72	16777215	30
+4235	Easing off a little more, you know what that means	8	0	0	72	16777215	60
+4235	Just be ready for it...	8	0	0	72	16777215	70
+4235	because it's gonna happen fast & it's gonna be ruthless	8	0	0	72	16777215	80
+4390	Get back toward the front	8	0	0	72	16777215	0
+4455	Stay with the field, all your threats are contained	8	0	0	72	16777215	0
+4485	Wow, things are really ramping up for this final sprint	8	0	0	72	16777215	0
+4485	This is brutal but don't get dropped!	8	0	0	72	16777215	40
+4485	30 seconds to the line, hang on!	8	0	0	72	16777215	65
+4485	20 seconds left in the race!	3	0	0	72	16777215	75
+4565	Go!	3	0	0	72	16777215	0
+4565	10 seconds!	3	0	0	72	16777215	5
+4565	5 seconds!	1	0	0	72	16777215	10
+4565	4...	1	0	0	72	16777215	11
+4565	3...	1	0	0	72	16777215	12
+4565	2...	1	0	0	72	16777215	13
+4565	1...	1	0	0	72	16777215	14
+4580	Done!	5	0	0	72	16777215	0
+4580	You've officially survived - and thrived within - 8DC 2014	8	0	0	72	16777215	7
+4605	You've done your team & yourself proud	8	0	0	72	16777215	0
+4605	Thanks so much for riding your heart out in this year's 8DC	8	0	0	72	16777215	10
+4605	We'll look forward to having you on the team in 2015	8	0	0	72	16777215	20
+4605	Until then...	3	0	0	72	16777215	30
+4605	Train hard, ride fast, have fun!	3	0	0	72	16777215	35
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	4860	Workout
+173	218	Sweet Spot 1
+218	249	Tempo 1
+249	259	Sweet Spot 2
+259	334	Threshold 1
+544	554	Sweet Spot 3
+554	654	VO2 Max 1
+654	674	Threshold 2
+674	800	Sweet Spot 4
+800	920	Sweet Spot 5
+920	1070	Sweet Spot 6
+1070	1160	Sweet Spot 7
+1160	1301	Sweet Spot 8
+1301	1331	VO2 Max 2
+1331	1351	Sprint 1
+1646	1656	VO2 Max 3
+1656	1741	Anaerobic Capacity 1
+1741	1761	VO2 Max 4
+1761	1917	Sweet Spot 9
+1917	2027	Sweet Spot 10
+2027	2172	Threshold 3
+2172	2262	Threshold 4
+2262	2401	Threshold 5
+2401	2441	VO2 Max 5
+2441	2471	Sprint 2
+2766	2776	Sweet Spot 11
+2776	2891	VO2 Max 6
+2891	2911	Sweet Spot 12
+2911	3047	Tempo 2
+3047	3167	Sweet Spot 13
+3167	3292	Sweet Spot 14
+3292	3382	Sweet Spot 15
+3382	3519	Sweet Spot 16
+3519	3539	VO2 Max 7
+3539	3559	Sprint 3
+3854	3864	VO2 Max 8
+3864	3939	Anaerobic Capacity 2
+3939	3959	VO2 Max 9
+3959	4115	Sweet Spot 17
+4115	4235	Sweet Spot 18
+4235	4390	Sweet Spot 19
+4390	4455	Sweet Spot 20
+4455	4485	VO2 Max 10
+4485	4565	Anaerobic Capacity 3
+4565	4580	Sprint 4
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

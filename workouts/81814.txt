@@ -1,0 +1,166 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Carillon TC,84,35. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	50
+3	88
+5	88
+5	95
+5.5	95
+5.5	40
+8	40
+8	88
+10	88
+10	92
+10.5	92
+10.5	90
+12.5	90
+12.5	95
+13	95
+13	88
+15	88
+15	95
+15.5	95
+15.5	90
+17.5	90
+17.5	92
+18	92
+18	40
+19	40
+19	88
+21	88
+21	92
+21.5	92
+21.5	90
+23.5	90
+23.5	95
+24	95
+24	88
+26	88
+26	95
+26.5	95
+26.5	90
+28.5	90
+28.5	92
+29	92
+29	41
+30	41
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Criss-Cross intervals are just another form of Over-Unders...	8	0	0	72	16777215	60
+0	so if you've recently done and OU workout, you know what's in store	8	0	0	72	16777215	70
+0	The primary difference with today's intervals though...	8	0	0	72	16777215	80
+0	is that they aren't true Over-Unders since this is all Sweet Spot work	8	0	0	72	16777215	90
+0	So rather than going over/under FTP...	8	0	0	72	16777215	100
+0	you'll simply span the bounds of the Sweet Spot power range	8	0	0	72	16777215	110
+0	More on this later...	8	0	0	72	16777215	120
+0	for now, keep your spin quick & light	8	0	0	72	16777215	130
+180	Keep your spin quick during this brief warmup Criss-Cross effort...	8	0	0	72	16777215	0
+180	at least 85rpm, preferably closer to 95rpm	8	0	0	72	16777215	10
+300	Pedal a little quicker for this last 30 seconds	8	0	0	72	16777215	0
+330	Good, take a minute to catch your breath	8	0	0	72	16777215	0
+330	Today's over-under-esque intervals are really just a way...	8	0	0	72	16777215	10
+330	to enliven a 2x10-minute set of Sweet Spot intervals	8	0	0	72	16777215	20
+330	The slight changes in intensity present a mildly greater challenge...	8	0	0	72	16777215	30
+330	but they also provide clear markers to begin and end form & skill drills	8	0	0	72	16777215	40
+330	So while today's primary goal is to improve muscle endurance...	8	0	0	72	16777215	50
+330	or your ability to push the pedals harder for longer...	8	0	0	72	16777215	60
+330	we'll also provide options for improving other aspects of your riding	8	0	0	72	16777215	70
+330	For the first few minutes of this first interval...	8	0	0	72	16777215	80
+330	just settle into a cadence above 85rpm and continue warming	8	0	0	72	16777215	90
+330	If 85rpm is too quick for you, this might be an area for improvement	8	0	0	72	16777215	100
+330	Time to get started, keep your legs quick & light	8	0	0	72	16777215	140
+480	Settle in, adjust to the workload	8	0	0	72	16777215	10
+600	Pick things up slightly, stay seated	8	0	0	72	16777215	0
+630	Good, back off just a little bit	8	0	0	72	16777215	0
+630	Today's minor changes in intensity can be accomplished a couple ways	8	0	0	72	16777215	30
+630	You can either increase your cadence...	8	0	0	72	16777215	40
+630	shift up or down 1, maybe 2 gears...	8	0	0	72	16777215	50
+630	or if you're riding an electronic trainer in Ergo mode...	8	0	0	72	16777215	60
+630	you can choose to remain steady or make minor cadence changes	8	0	0	72	16777215	70
+630	These load-restricted trainers will handle the wattage changes for you...	8	0	0	72	16777215	80
+630	but that doesn't mean you're stuck with one cadence all workout	8	0	0	72	16777215	90
+750	Pick things up just a little more than last time	8	0	0	72	16777215	0
+780	Annnnd back things off a little	8	0	0	72	16777215	0
+780	This time, try getting out of the saddle for a few seconds...	8	0	0	72	16777215	90
+780	anywhere from 5-30 seconds, your call	8	0	0	72	16777215	100
+780	Slow your spin or add a gear...	8	0	0	72	16777215	110
+900	and come on up	8	0	0	72	16777215	0
+900	Have a seat if you feel sloppy or your legs load up...	8	0	0	72	16777215	10
+900	or just hang on for another 10 seconds	8	0	0	72	16777215	20
+930	Good, back off a little bit	8	0	0	72	16777215	0
+1050	One last little increase in effort, seated or standing	8	0	0	72	16777215	0
+1080	Keep your legs moving, this is just a quick minute's recovery	8	0	0	72	16777215	0
+1140	Back at it, 85rpm or higher	8	0	0	72	16777215	0
+1140	This round, let's spend every lower-intensity "valley" seated...	8	0	0	72	16777215	10
+1140	and every higher-intensity "peak" out of the saddle (OTS)	8	0	0	72	16777215	20
+1140	For your seated cadence, challenge your natural cadence...	8	0	0	72	16777215	30
+1140	by spinning 5rpm quicker than you typically would	8	0	0	72	16777215	40
+1140	So if you usually settle at 85rpm, try 90rpm...	8	0	0	72	16777215	50
+1140	Settled at 95rpm? Try 100rpm	5	0	0	72	16777215	60
+1140	For your standing cadence, try adding that same 5rpm...	8	0	0	72	16777215	90
+1140	and try to keep things above 65rpm	8	0	0	72	16777215	100
+1140	Slow your spin, pick a bigger gear...both?	8	0	0	72	16777215	110
+1260	And come on up	8	0	0	72	16777215	0
+1260	Shoot for the whole 30 seconds, but sit sooner if you feel sloppy	8	0	0	72	16777215	10
+1290	Excellent, get your leg speed back up to that +5rpm spin	8	0	0	72	16777215	0
+1290	And relax - the quicker you spin, the more relaxed you need to be...	8	0	0	72	16777215	10
+1290	in order to prevent bouncing due to wasted muscle tension	8	0	0	72	16777215	20
+1290	Get ready to stand...	3	0	0	72	16777215	115
+1410	and come on up, 65rpm or higher	8	0	0	72	16777215	0
+1410	Ride a little outside of your comfort zone on all of these...	8	0	0	72	16777215	10
+1410	but don't sacrifice your control just to be quick	8	0	0	72	16777215	20
+1440	Gently have a seat & rekindle that quick spin	8	0	0	72	16777215	0
+1440	Staying loose?	3	0	0	72	16777215	65
+1440	Low shoulders, soft elbows, loose grip	8	0	0	72	16777215	70
+1440	Stable hips too, feel your sit bones on the wings of your saddle	8	0	0	72	16777215	80
+1440	Get ready to stand...	3	0	0	72	16777215	115
+1560	...with plenty of control	5	0	0	72	16777215	0
+1560	Do your best to avoid lunging forward	8	0	0	72	16777215	10
+1560	On the road, this throws your bike backward - bad news in a group	8	0	0	72	16777215	20
+1590	Gently have a seat	5	0	0	72	16777215	0
+1590	Each time you return to the saddle, do it gently...	8	0	0	72	16777215	10
+1590	and try to hold most of your power as you transition back to the saddle	8	0	0	72	16777215	20
+1590	The better you get at transitioning, the less wasteful you become	8	0	0	72	16777215	30
+1590	And the smoother (and safer) you'll be outdoors	8	0	0	72	16777215	40
+1590	Get ready to rise	3	0	0	72	16777215	115
+1710	Body up, hips forward	5	0	0	72	16777215	0
+1710	And try to keep it relatively quick	5	0	0	72	16777215	7
+1740	Great job!	5	0	0	72	16777215	0
+1740	20 minutes of Sweet Spot never went so quickly, right?	8	0	0	72	16777215	10
+1740	Until next time...	3	0	0	72	16777215	20
+1740	train smart, ride fast, have fun	5	0	0	72	16777215	25
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	1800	Workout
+180	300	Sweet Spot 1
+300	330	Sweet Spot 2
+480	600	Sweet Spot 3
+600	630	Sweet Spot 4
+630	750	Sweet Spot 5
+750	780	Sweet Spot 6
+780	900	Sweet Spot 7
+900	930	Sweet Spot 8
+930	1050	Sweet Spot 9
+1050	1080	Sweet Spot 10
+1140	1260	Sweet Spot 11
+1260	1290	Sweet Spot 12
+1290	1410	Sweet Spot 13
+1410	1440	Sweet Spot 14
+1440	1560	Sweet Spot 15
+1560	1590	Sweet Spot 16
+1590	1710	Sweet Spot 17
+1710	1740	Sweet Spot 18
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

@@ -1,0 +1,346 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Spruce Knob,80,95. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	72
+12	72
+12	96
+15	96
+15	10
+16	10
+16	40
+20	50
+20	85
+50	85
+50	50
+56	50
+56	85
+86	85
+86	40
+90	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Spruce Knob	5	0	0	72	16777215	10
+0	Only 2 intervals ahead, but they're long ones	5	0	0	72	16777215	17
+0	The goal here is further improvement in your strength endurance...	5	0	0	72	16777215	23
+0	a lift in your aerobic endurance...	3	0	0	72	16777215	29
+0	and burning a whole lot of calories along the way	4	0	0	72	16777215	33
+0	You'll also have the option of targeting your pedaling technique...	5	0	0	72	16777215	39
+0	but we'll get to that later	3	0	0	72	16777215	45
+0	For now, just keep your spin quick & light...	5	0	0	72	16777215	50
+0	anchor your sit-bones on the saddle...	4	0	0	72	16777215	56
+0	and stay relaxed as you start to warm up	5	0	0	72	16777215	61
+360	Ramp things up a little...	5	0	0	72	16777215	0
+360	as you further your warmup & open your lungs a bit	5	0	0	72	16777215	6
+360	Try to keep your spin above 85rpm...	4	0	0	72	16777215	13
+360	higher if reasonably comfortable...	4	0	0	72	16777215	18
+360	and we'll talk interval details	3	0	0	72	16777215	23
+360	The primary objective of the efforts ahead...	5	0	0	72	16777215	30
+360	is to grow your strength endurance...	4	0	0	72	16777215	36
+360	which is also referred to as "muscular endurance"...	5	0	0	72	16777215	41
+360	because it's the ability to strongly turn the pedals...	5	0	0	72	16777215	47
+360	for increasing lengths of time	3	0	0	72	16777215	53
+360	Strength + Endurance = Strength Endurance	5	0	0	72	16777215	58
+360	When you think of it in terms of shorter intervals...	4	0	0	72	16777215	65
+360	growing into longer intervals over time...	4	0	0	72	16777215	70
+360	you'll get the gist of this type of endurance	4	0	0	72	16777215	75
+360	For example, you began your Sweet Spot work...	5	0	0	72	16777215	81
+360	with relatively short, 5 or 6-minute intervals	4	0	0	72	16777215	87
+360	Then you gradually progressed to longer ones...	4	0	0	72	16777215	93
+360	arriving at these monsters just ahead	4	0	0	72	16777215	99
+360	But imagine if you'd jumped right into this workout...	4	0	0	72	16777215	104
+360	and just hoped for the best	3	0	0	72	16777215	109
+360	You likely wouldn't have had the muscular endurance...	5	0	0	72	16777215	114
+360	for such long durations so early on	3	0	0	72	16777215	120
+360	But over time, as your muscular endurance improved...	5	0	0	72	16777215	125
+360	you became capable of longer intervals with shorter recoveries...	5	0	0	72	16777215	131
+360	as your ability to keep power on the pedals for longer...	5	0	0	72	16777215	137
+360	grew & grew	3	0	0	72	16777215	143
+360	That's muscular endurance in a nutshell	4	0	0	72	16777215	148
+360	And that's the aim of the intervals just ahead	4	0	0	72	16777215	154
+360	Additionally...	3	0	0	72	16777215	160
+360	you'll have the opportunity to target some other aspects...	5	0	0	72	16777215	164
+360	of your riding style as you work your way...	5	0	0	72	16777215	170
+360	through these long, potentially monotonous efforts	5	0	0	72	16777215	176
+360	But we'll address those optional drills...	4	0	0	72	16777215	183
+360	as we arrive at each of them	3	0	0	72	16777215	188
+720	These last 3 minutes of the warmup...	4	0	0	72	16777215	0
+720	will place you just below your FTP	3	0	0	72	16777215	5
+720	Try to lift your spin above 85rpm...	4	0	0	72	16777215	10
+720	if you're not already spinning that quickly	4	0	0	72	16777215	15
+720	Draw long, full belly-breaths...	3	0	0	72	16777215	21
+720	then completely & actively empty your lungs	5	0	0	72	16777215	25
+720	Each time you breathe out...	3	0	0	72	16777215	32
+720	do it with an obvious & forceful push...	4	0	0	72	16777215	36
+720	trying to clear them completely	3	0	0	72	16777215	41
+720	Adopt this breathing pattern early in each workout...	5	0	0	72	16777215	46
+720	and then practice maintaining it...	3	0	0	72	16777215	52
+720	as the intervals roll on and your fatigue rises	5	0	0	72	16777215	56
+900	Feel free to backpedal for a minute...	5	0	0	72	16777215	0
+900	and check your HRR if you're using the LSCT warmup	5	0	0	72	16777215	6
+900	Otherwise, just pedal really lightly for a minute...	4	0	0	72	16777215	20
+900	and clear any heaviness brought on by the warmup	5	0	0	72	16777215	25
+960	Only a few minutes away...	3	0	0	72	16777215	0
+960	from your first of 2 long intervals...	4	0	0	72	16777215	4
+960	and one short but suffiient recovery in between	4	0	0	72	16777215	9
+960	But working at 85% of FTP...	3	0	0	72	16777215	15
+960	means we can get away with both long intervals & short rests...	5	0	0	72	16777215	19
+960	with the goal of challenging and eventually furthering...	5	0	0	72	16777215	25
+960	your ability to maintain high workloads	4	0	0	72	16777215	31
+960	Fortunately, a lot of this growth...	4	0	0	72	16777215	37
+960	can take place at this reasonably "friendly" effort level...	5	0	0	72	16777215	42
+960	and remain pretty forgiving on your muscles...	4	0	0	72	16777215	48
+960	and requiring reasonably short recovery periods...	4	0	0	72	16777215	53
+960	between intervals as well as workouts too	4	0	0	72	16777215	58
+960	All of this is to say...	3	0	0	72	16777215	64
+960	you can get away with a few work intervals this long...	4	0	0	72	16777215	68
+960	without a particularly high likelihood...	3	0	0	72	16777215	73
+960	of requiring more than a day or two's rest	4	0	0	72	16777215	77
+960	And that translates to a lot of meaningful, useful training stress...	5	0	0	72	16777215	83
+960	that can quickly add up to some measurable, motivating fitness gains	5	0	0	72	16777215	89
+960	On top of the potential improvements in fitness...	4	0	0	72	16777215	96
+960	is the possibility of improvements in pedaling technique...	5	0	0	72	16777215	101
+960	via a couple of different types of drills:	4	0	0	72	16777215	107
+960	Speed Endurance & Single-Leg Focus	4	0	0	72	16777215	112
+960	Assuming you choose to take part in the optional drills	5	0	0	72	16777215	117
+960	Before this minute's up...	3	0	0	72	16777215	124
+960	settle into the cadence you'll try to hold...	4	0	0	72	16777215	128
+960	over the course of this opening interval	4	0	0	72	16777215	133
+960	Generally, we reommend a spin between 85-95rpm...	4	0	0	72	16777215	139
+960	but if you have preferences that land you outside this range...	4	0	0	72	16777215	144
+960	your spin can be as low or high as necessary...	4	0	0	72	16777215	149
+960	to remain specific to your goals	3	0	0	72	16777215	154
+960	Find that cadence now...	3	0	0	72	16777215	159
+960	and then do your best to keep it fairly stable throughout	5	0	0	72	16777215	163
+1200	Over the course of this next segment...	5	0	0	72	16777215	0
+1200	the optional form drills will target your ability to maintain leg speed	6	0	0	72	16777215	5
+1200	This is otherwise referred to as "speed endurance"...	5	0	0	72	16777215	13
+1200	but these drills are really about refining your form...	4	0	0	72	16777215	19
+1200	and then retaining those refinements	4	0	0	72	16777215	24
+1200	So unlike sprints where the leg speed is an "on/off" sort of affair...	5	0	0	72	16777215	30
+1200	these Endurance Spinning drills are about staying "on"...	5	0	0	72	16777215	36
+1200	for extended periods of time	3	0	0	72	16777215	42
+1200	In the case of these 3 efforts...	4	0	0	72	16777215	47
+1200	you'll strive to hold a quick spin for 5 minutes at a time	5	0	0	72	16777215	52
+1200	How quick?	3	0	0	72	16777215	59
+1200	Only a little quicker than your normal, self-selected cadence	5	0	0	72	16777215	64
+1200	Typically, this falls in the 3-5rpm range	5	0	0	72	16777215	71
+1200	So if you usually spin at 90rpm, you'll shoot for 93-95rpm	5	0	0	72	16777215	78
+1200	Whatever the case...	3	0	0	72	16777215	85
+1200	spinning at the top of your comfortable rpm range...	4	0	0	72	16777215	89
+1200	for 5 continuous minutes...	3	0	0	72	16777215	94
+1200	is what you're after, three times	4	0	0	72	16777215	98
+1200	We'll kick off this first one in about 15 seconds	4	0	0	72	16777215	104
+1200	Time to gradually lift your leg speed a couple/few rpm	5	0	0	72	16777215	120
+1200	Nothing excessive, nothing that loads up your legs	5	0	0	72	16777215	127
+1200	In fact, this should barely affect your heart rate	5	0	0	72	16777215	134
+1200	We'll check in from time to time to confirm...	5	0	0	72	16777215	141
+1200	that your HR hasn't risen more than a few BPM	5	0	0	72	16777215	147
+1200	If it has, no big deal...	4	0	0	72	16777215	154
+1200	it just means you're spinning a little too quickly	5	0	0	72	16777215	159
+1200	One minute in, try to stay as relaxed as possible	5	0	0	72	16777215	180
+1200	If your shoulders are starting to hug your ears...	5	0	0	72	16777215	187
+1200	let them fall, keep 'em loose	4	0	0	72	16777215	193
+1200	If your neck or jaw are full of tension, relax them	5	0	0	72	16777215	199
+1200	If you're overgripping the bars, loosen up	5	0	0	72	16777215	206
+1200	Couple minutes in, how's your HR?	5	0	0	72	16777215	240
+1200	As long as your only 2-3 beats per minute higher...	5	0	0	72	16777215	247
+1200	than when you started this interval, keep it up	5	0	0	72	16777215	253
+1200	If, on the other hand, it's risen 4 or 5bpm...	5	0	0	72	16777215	260
+1200	back your spin off ever so slightly...	4	0	0	72	16777215	266
+1200	and see if you can drop your heart rate a little	4	0	0	72	16777215	271
+1200	Another minute of staying relaxed...	3	0	0	72	16777215	300
+1200	spinning slightly quicker than usual...	3	0	0	72	16777215	304
+1200	and keeping that HR in check	3	0	0	72	16777215	308
+1200	2 more minutes of keeping your spin slightly elevated	5	0	0	72	16777215	360
+1200	With this quicker spin...	3	0	0	72	16777215	367
+1200	see to it that your hips aren't bouncing around	5	0	0	72	16777215	371
+1200	If they are, you have a couple options:	5	0	0	72	16777215	378
+1200	1 - Slow your spin slightly	3	0	0	72	16777215	385
+1200	2 - Loosen up your lower legs	3	0	0	72	16777215	390
+1200	A lot of times, bouncing in the saddle results from...	4	0	0	72	16777215	395
+1200	lower legs carrying too much tension	3	0	0	72	16777215	400
+1200	Could be in your feet, your ankles, but most likely your calf muscles	6	0	0	72	16777215	405
+1200	So ditch that tension	3	0	0	72	16777215	413
+1200	Well done, resume your usual cadence	5	0	0	72	16777215	420
+1200	Stay comfortably here for the next 4 minutes	5	0	0	72	16777215	427
+1200	Almost time to work in another 5-minute Endurance Spin	5	0	0	72	16777215	630
+1200	Based on your last one, modify your target cadence as necessary	5	0	0	72	16777215	637
+1200	Again, the idea is to spin just above your usual cadence...	5	0	0	72	16777215	644
+1200	but still within your comfort zone, if at the high end of it	5	0	0	72	16777215	650
+1200	OK, pick it up slightly & settle in	5	0	0	72	16777215	660
+1200	We'll touch base every minute on the minute	5	0	0	72	16777215	667
+1200	First minute behind ya, staying fluid & relaxed?	5	0	0	72	16777215	720
+1200	Another minute down...	3	0	0	72	16777215	780
+1200	drop those shoulders, loosen your grip	5	0	0	72	16777215	784
+1200	Only 2 minutes left, make them look effortlessly quick	5	0	0	72	16777215	840
+1200	Final minute holding that slightly elevated cadence	5	0	0	72	16777215	900
+1200	Just as relaxed as when you began this segment	5	0	0	72	16777215	907
+1200	Nicely done	3	0	0	72	16777215	960
+1200	Ride steadily, somewhere within that 85-95rpm range...	5	0	0	72	16777215	965
+1200	for another 3 minutes then we'll do that once more	5	0	0	72	16777215	971
+1200	Almost time for that third and final round of speed endurance	5	0	0	72	16777215	1170
+1200	Again, this is just a slight increase in your usual cadence...	5	0	0	72	16777215	1177
+1200	putting you only slightly outside...	3	0	0	72	16777215	1183
+1200	of your cadence comfort zone	4	0	0	72	16777215	1187
+1200	Gradually lift your spin a bit...	4	0	0	72	16777215	1200
+1200	and stay as relaxed as possible...	3	0	0	72	16777215	1205
+1200	for a minute at a time	3	0	0	72	16777215	1209
+1200	First minute behind you, loosen your grip	4	0	0	72	16777215	1260
+1200	A tight grip is one place where all sorts of other tension begins...	6	0	0	72	16777215	1266
+1200	Another is the face & jaw...	3	0	0	72	16777215	1274
+1200	so if your grip is tight, loosen it...	4	0	0	72	16777215	1278
+1200	and if you're scowling or grimacing...	4	0	0	72	16777215	1283
+1200	let your face go slack, jaw hang loose	4	0	0	72	16777215	1288
+1200	Keeping a light grip?	3	0	0	72	16777215	1320
+1200	Relaxed face & jaw?	3	0	0	72	16777215	1325
+1200	How about your shoulders?	4	0	0	72	16777215	1330
+1200	They'll try to creep up to your ears...	4	0	0	72	16777215	1336
+1200	probably a hundred times over a multi-hour ride...	4	0	0	72	16777215	1341
+1200	so you have to stay vigilant...	3	0	0	72	16777215	1346
+1200	and remind yourself often to let your shoulders fall	5	0	0	72	16777215	1350
+1200	Only 2 minutes to go...	3	0	0	72	16777215	1380
+1200	but keep your focus on this minute alone	4	0	0	72	16777215	1384
+1200	So for another 50 seconds...	3	0	0	72	16777215	1390
+1200	try to keep that quicker-than-usual spin...	4	0	0	72	16777215	1394
+1200	while making it look natural & relaxed	4	0	0	72	16777215	1399
+1200	Basically, make it look easy	4	0	0	72	16777215	1405
+1200	One more minute of making this quick spin look easy	5	0	0	72	16777215	1440
+1200	Let you lower legs just get towed around...	4	0	0	72	16777215	1447
+1200	by fast, fluid, controlled knees	4	0	0	72	16777215	1452
+1200	Nicely done	3	0	0	72	16777215	1500
+1200	3 sets of speed endurance in the bag	4	0	0	72	16777215	1505
+1200	Use the remaining 5 minutes to clear your head...	5	0	0	72	16777215	1511
+1200	back at your natural, ideally 85-95rpm cadence	5	0	0	72	16777215	1517
+3000	One down! Take it easy...	5	0	0	72	16777215	0
+3000	but try to stay moving for most or all of this recovery	5	0	0	72	16777215	6
+3000	We'll touch base again...	3	0	0	72	16777215	13
+3000	about 30 seconds before round 2	4	0	0	72	16777215	17
+3000	Almost time to do it again...	4	0	0	72	16777215	270
+3000	so if you aren't already spinning above 85rpm...	5	0	0	72	16777215	275
+3000	get there now or adopt a goal cadence...	4	0	0	72	16777215	281
+3000	that's in line with your particular needs	4	0	0	72	16777215	286
+3360	We'll break up this longer stretch...	4	0	0	72	16777215	-1
+3360	with four, 4-minute rounds of Single-Leg Focus drills...	5	0	0	72	16777215	4
+3360	starting in a little under a minute's time	4	0	0	72	16777215	10
+3360	OK, so here's the deal...	3	0	0	72	16777215	60
+3360	give your focus to your right leg for a minute...	4	0	0	72	16777215	64
+3360	while your left leg still does its fair share of the work	5	0	0	72	16777215	69
+3360	In particular...	3	0	0	72	16777215	76
+3360	pay attention to how effectively your right leg kicks over the top...	5	0	0	72	16777215	80
+3360	and pulls across the bottom of each pedal revolution	5	0	0	72	16777215	86
+3360	And keep your grip on the bars loose...	4	0	0	72	16777215	93
+3360	and your shoulders low & relaxed	4	0	0	72	16777215	98
+3360	Change your focus over to your left leg for a minute	5	0	0	72	16777215	120
+3360	Right leg gets just a bit of a break...	4	0	0	72	16777215	127
+3360	while you focus on your left leg's kick & pull	4	0	0	72	16777215	132
+3360	Still keeping your upper body stable & relaxed...	4	0	0	72	16777215	138
+3360	with hips & shoulders that remain level	4	0	0	72	16777215	143
+3360	Switch back to your right leg for a minute...	4	0	0	72	16777215	180
+3360	and start to bring the Fourth Quadrant into your focus...	4	0	0	72	16777215	185
+3360	by actively lifting your right knee...	3	0	0	72	16777215	190
+3360	each time it begins heading back up	3	0	0	72	16777215	194
+3360	So as you pull across the bottom...	3	0	0	72	16777215	199
+3360	you'll immediately transition into that upward lift	4	0	0	72	16777215	203
+3360	Kick, pull, lift... Kick, pull, lift	5	0	0	72	16777215	209
+3360	Swiiiiiitch!	3	0	0	72	16777215	240
+3360	This time, your left leg will incorporate that upward motion...	5	0	0	72	16777215	245
+3360	by lifting your knee as your pull tapers off	5	0	0	72	16777215	251
+3360	Just 30 more seconds of left-leg emphasis...	4	0	0	72	16777215	270
+3360	and sit-bones placed squarely on the wings of your saddle	5	0	0	72	16777215	275
+3360	Excellent, clear your head for a minute...	5	0	0	72	16777215	300
+3360	and we'll resume the next round of drills in a few minutes	5	0	0	72	16777215	306
+3360	Round 2 is upon us...	3	0	0	72	16777215	480
+3360	and we'll start with the left leg this time	4	0	0	72	16777215	485
+3360	Start your kick, pull & lift...	3	0	0	72	16777215	491
+3360	and each time your left knee rises toward the top of the pedalstroke...	5	0	0	72	16777215	495
+3360	do your best to keep it tracking vertically	4	0	0	72	16777215	501
+3360	Try to minimize or even eliminate any lateral wobble...	4	0	0	72	16777215	507
+3360	such that your knee only moves straight up, straight down	5	0	0	72	16777215	512
+3360	Switch legs and don't alter your cadence	5	0	0	72	16777215	540
+3360	Same deal on this side:	3	0	0	72	16777215	547
+3360	Kick, pull, lift and watch how your knee tracks	4	0	0	72	16777215	552
+3360	If possible, squash any side-to-side wobble...	4	0	0	72	16777215	558
+3360	that's common at the top of each pedalstroke...	4	0	0	72	16777215	563
+3360	as you focus on that right leg	4	0	0	72	16777215	568
+3360	Back to your left leg...	3	0	0	72	16777215	600
+3360	kick, pull, lift, straight up & down	4	0	0	72	16777215	604
+3360	Last time before a short break, right leg focus	5	0	0	72	16777215	660
+3360	Well done, take a break from the drills for a minute	5	0	0	72	16777215	720
+3360	Round 3 is underway, right leg focus	5	0	0	72	16777215	900
+3360	We'll switch every 30 seconds this time...	4	0	0	72	16777215	907
+3360	which increases the challenge slightly	4	0	0	72	16777215	912
+3360	Each time you switch, try to perfect those revolutions right away	5	0	0	72	16777215	918
+3360	Switch legs, left-leg focus	4	0	0	72	16777215	930
+3360	Find that left-centric, perfect pedalstroke ASAP	5	0	0	72	16777215	936
+3360	Back to the right leg	4	0	0	72	16777215	960
+3360	Annnnnd left!	4	0	0	72	16777215	990
+3360	Switch focus back to the right...	4	0	0	72	16777215	1020
+3360	and drop your shoulders if they crept up	4	0	0	72	16777215	1050
+3360	Left left focus...	4	0	0	72	16777215	1050
+3360	and check that both sit-bones are anchored	4	0	0	72	16777215	1055
+3360	Last time on the right leg	4	0	0	72	16777215	1080
+3360	Last time on the left	4	0	0	72	16777215	1110
+3360	Nicely done, back to some drill-less pedaling for a few minutes	5	0	0	72	16777215	1140
+3360	Last round! Left leg gets the focus	5	0	0	72	16777215	1320
+3360	Give just the smallest added emphasis...	4	0	0	72	16777215	1327
+3360	to your kick over the top	4	0	0	72	16777215	1332
+3360	Still on the left leg, but now...	4	0	0	72	16777215	1350
+3360	give a little more emphasis to its pull backward	4	0	0	72	16777215	1355
+3360	Right leg, added emphasis on the kick	4	0	0	72	16777215	1380
+3360	Still the right leg, but emphasize the pull backward	5	0	0	72	16777215	1410
+3360	Back to the left leg, emphasis on lifting your knee	5	0	0	72	16777215	1440
+3360	Now link the "lift" to the "kick"	4	0	0	72	16777215	1470
+3360	So after you lift your left knee...	3	0	0	72	16777215	1476
+3360	you'll then kick your left foot	4	0	0	72	16777215	1479
+3360	Lift & kick	4	0	0	72	16777215	1485
+3360	Switch focus back to lifting your right knee	4	0	0	72	16777215	1500
+3360	Now link your right "lift" to your right "kick"	5	0	0	72	16777215	1530
+3360	Lift & kick	4	0	0	72	16777215	1537
+3360	Done! With the Single-Leg Focus drills anyway	5	0	0	72	16777215	1560
+3360	Pedal fluidly with a relaxed upper body...	5	0	0	72	16777215	1567
+3360	and just ride out the remaining 4 minutes...	4	0	0	72	16777215	1573
+3360	keeping in mind that the closing minutes of most intervals...	5	0	0	72	16777215	1579
+3360	are often the most valuable	3	0	0	72	16777215	1585
+3360	These are typically the times...	4	0	0	72	16777215	1590
+3360	that you're pushing a bit beyond what you've done previously...	5	0	0	72	16777215	1595
+3360	and taxing your mind & muscles in slightly harder...	5	0	0	72	16777215	1601
+3360	potentially more productive ways	4	0	0	72	16777215	1607
+3360	So try to keep your Power on Target...	4	0	0	72	16777215	1613
+3360	your sit-bones anchored...	3	0	0	72	16777215	1618
+3360	your breathing belly-driven...	3	0	0	72	16777215	1622
+3360	and your body as relaxed as possible	4	0	0	72	16777215	1626
+3360	Only 2 minutes of focus & form left!	5	0	0	72	16777215	1680
+3360	Keep your hips anchored & stable...	4	0	0	72	16777215	1687
+3360	and try to ditch any side-to-side wobble...	4	0	0	72	16777215	1692
+3360	as you make this look easy for these closing minutes	5	0	0	72	16777215	1697
+3360	Final minute, no slip in Power or form	5	0	0	72	16777215	1740
+3360	Just 30 seconds between you & sweet, sweet relief!	5	0	0	72	16777215	1770
+5160	Well done!	4	0	0	72	16777215	0
+5160	60 minutes of Sweet Spot inside of 90	5	0	0	72	16777215	6
+5160	And with nothing more than a brief 6-minute recovery	5	0	0	72	16777215	13
+5160	Congratulate yourself...	3	0	0	72	16777215	20
+5160	and then start thinking about your recovery nutrition...	5	0	0	72	16777215	24
+5160	as you wind out some of the heaviness	4	0	0	72	16777215	30
+5160	We'll see you next time	5	0	0	72	16777215	36
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+360	720	Endurance 1
+720	900	Threshold 1
+1200	3000	Sweet Spot 1
+3360	5160	Sweet Spot 2
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

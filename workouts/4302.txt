@@ -1,0 +1,194 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Homers Nose,64,41. Created by 42270.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	50
+3	60
+6	60
+6	50
+9	50
+9	70
+12	70
+12	50
+15	50
+15	70
+18	70
+18	60
+20	60
+20	75
+21	75
+21	60
+24	60
+24	70
+25	70
+25	65
+28	65
+28	70
+30	70
+30	65
+33	65
+33	80
+35	80
+35	65
+38	65
+38	60
+40	60
+40	70
+41	70
+41	60
+44	60
+44	55
+45	55
+45	65
+48	65
+48	60
+50	60
+50	75
+53	75
+53	80
+55	80
+55	40
+60	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Settle into a quick but comfortable cadence for your warm-up	8	0	0	72	16777215	15
+0	Preferably something above 90rpm unless that's unbearably quick for you	8	0	0	72	16777215	25
+0	At any cadence, make sure you aren't bouncing around	8	0	0	72	16777215	35
+180	Maintain that same quick but comfy spin and work a little bit harder	8	0	0	72	16777215	-1
+180	Today we're targeting aerobic endurance	8	0	0	72	16777215	90
+180	Teaching our bodies to prefer fat over sugar as an energy source	8	0	0	72	16777215	100
+180	This means the intensity will be low but unrelenting - no breaks	8	0	0	72	16777215	110
+360	Same 90+rpm but ease up just a bit with your effort	8	0	0	72	16777215	-1
+360	Today you'll try to keep your legs spinning with no breaks...	8	0	0	72	16777215	10
+360	Almost as though you're on a fixed gear bike and you're incapable of coasting	8	0	0	72	16777215	20
+540	Work a little harder by spinning more quickly rather than shifting	8	0	0	72	16777215	-1
+540	You have to hold this cadence for 3 minutes, so if it feels too quick to sustain...	8	0	0	72	16777215	10
+540	Give your self another gear but keep your effort steady	8	0	0	72	16777215	20
+540	Play around and find ONE gear you think might work for an entire base-effort ride	8	0	0	72	16777215	30
+540	Keeping in mind that the effort won't get all that high today	8	0	0	72	16777215	40
+540	The challenge will come more in the form of cadence and steady effort	8	0	0	72	16777215	50
+540	You'll use your cadence to go faster or slow things down a bit...	8	0	0	72	16777215	60
+540	And you'll try to pedal non-stop for 60 solid minutes	8	0	0	72	16777215	70
+540	How ya feelin' about the gear you've chosen?	8	0	0	72	16777215	120
+540	Feel like you can spin maybe as quickly as 120-130rpm  for a minute or two?	8	0	0	72	16777215	130
+540	And then slow things down to 60-70rpm?	8	0	0	72	16777215	140
+540	If not, fish around a little bit more and make your best guess	8	0	0	72	16777215	150
+720	Same gear, slow it down a bit a ride a little easier	8	0	0	72	16777215	-1
+900	Same gear, pick things up a bit and stay relaxed	8	0	0	72	16777215	-1
+900	Remember, the quicker you spin the more relaxed you have to become	8	0	0	72	16777215	10
+900	Otherwise, any unnecessary tension will result in bouncing	8	0	0	72	16777215	20
+1080	Slow things down a little, ease up slightly on the effort	8	0	0	72	16777215	-1
+1080	The cadence range you utilize is your call...	8	0	0	72	16777215	10
+1080	But a reasonably skilled rider is comfortable anywhere from 60rpm to 120rpm	8	0	0	72	16777215	20
+1080	A more practiced & experienced rider can manage a 50-130rpm range	8	0	0	72	16777215	30
+1080	And very advanced riders can grind smoothly at 30rpm and spin bounce-free at over150rpm	8	0	0	72	16777215	40
+1080	But nothing comes for free and the more you practice the more that range will grow	8	0	0	72	16777215	50
+1200	Spin just a little bit quicker and work a little bit harder for a minute	8	0	0	72	16777215	-1
+1200	Getting the picture by now?	8	0	0	72	16777215	10
+1200	You're only using one gear, so changes in speed/effort/power...	8	0	0	72	16777215	20
+1200	Are going to be dictated by how quickly you spin	8	0	0	72	16777215	30
+1260	Ease up a bit and ride smoothly and relaxed for a couple minutes	8	0	0	72	16777215	-1
+1260	So that's the gist of the workout today: the workload changes based on your spin	8	0	0	72	16777215	10
+1260	Try to refrain from shifting, rather go faster by pedaling more quickly	8	0	0	72	16777215	20
+1260	Recover & regain your form by pedaling slowly and with much control	8	0	0	72	16777215	30
+1440	Spin a little quicker but stay just as relaxed	8	0	0	72	16777215	-1
+1500	Ease up a bit and watch your knees at the top of your pedalstroke	8	0	0	72	16777215	-1
+1500	Everytime a knee comes to the 12 o'clock position...	8	0	0	72	16777215	10
+1500	Watch how it tracks - does it wobble?	8	0	0	72	16777215	20
+1500	If it jerks inward or even outward then try to limit that sideways movement	8	0	0	72	16777215	30
+1500	Knees that move laterally waste energy and increase risk of injury	8	0	0	72	16777215	40
+1500	And they're just not as powerful	8	0	0	72	16777215	50
+1500	Think "pistons, pistons, pistons"	8	0	0	72	16777215	60
+1500	Knees move up, then down...up, then down...up, then down	8	0	0	72	16777215	70
+1680	Pick it up a little bit and stay relaxed	8	0	0	72	16777215	-1
+1680	Stay especially relaxed below your knees	8	0	0	72	16777215	10
+1680	The more tension you carry in your calves, ankles, & feet...	8	0	0	72	16777215	20
+1680	The greater the tendencey to bounce around on the saddle	8	0	0	72	16777215	30
+1680	Relax your calves, relax your ankles, relax your feet	8	0	0	72	16777215	40
+1680	Pedal quickly with your KNEES	8	0	0	72	16777215	50
+1680	And just use your lower legs to connect you to the pedals	8	0	0	72	16777215	60
+1800	Ease up just a little bit	8	0	0	72	16777215	-1
+1800	Watch your knees - moving like pistons, right?	8	0	0	72	16777215	10
+1980	Really going to pick it up this time, but at no point is bouncing acceptable	8	0	0	72	16777215	-1
+1980	Going to hold this spin for 2 minutes, so do your best to relax	8	0	0	72	16777215	10
+2100	Great job. Back off and focus on your breathing	8	0	0	72	16777215	-1
+2100	Long, full breaths that really emphasize the exhale	8	0	0	72	16777215	10
+2100	Remember, we're training our aerobic engines today	8	0	0	72	16777215	20
+2100	The quality of our breathing is fundamental to improving our oxygen processing capabilities	8	0	0	72	16777215	30
+2100	Clear out the waste by actively breathing out	8	0	0	72	16777215	40
+2100	Use your diaphragm to actively push the expired air out of your lungs	8	0	0	72	16777215	50
+2100	Don't worry about the inhale - that'll take care of itself	8	0	0	72	16777215	60
+2100	Just by pushing the air out, contracting your diaphragm...	8	0	0	72	16777215	70
+2100	You'll create a vacuum that will handle the inhale for you	8	0	0	72	16777215	80
+2280	Ease up even more...	8	0	0	72	16777215	-1
+2280	And REALLY watch how well your knees are tracking	8	0	0	72	16777215	10
+2400	Time to pick it up again - 1 minute	8	0	0	72	16777215	-1
+2460	Smooth things out and ease up a little	8	0	0	72	16777215	-1
+2460	Check your position on the saddle...	8	0	0	72	16777215	10
+2460	Can you feel the wings of the saddle with your sit bones?	8	0	0	72	16777215	20
+2460	If not, tip your pelvis back and unweight your pubic bone somewhat	8	0	0	72	16777215	30
+2460	Feel even pressure between all of your bony contact points with your saddle	8	0	0	72	16777215	40
+2460	Riding on your crotch is neither comfortable nor powerful...	8	0	0	72	16777215	50
+2460	And crotch is a funny sounding word and we're all business here	8	0	0	72	16777215	60
+2460	ALL BUSINESS	8	0	0	72	16777215	70
+2640	Alrighty, ease up even more and make perfect circles with both feet	8	0	0	72	16777215	-1
+2700	Pick it up, stay relaxed	8	0	0	72	16777215	-1
+2700	Think about the top & bottom of your pedalstroke...	8	0	0	72	16777215	10
+2700	Or as I like to call it, the kick & pull	8	0	0	72	16777215	20
+2700	Lightly kick your toes forward every time you come toward 12 o'clock	8	0	0	72	16777215	30
+2700	And pull your heels back when you approach 6 o'clock	8	0	0	72	16777215	40
+2700	Kick over the top, pull across the bottom...lightly	8	0	0	72	16777215	50
+2880	Ease up a bit, take a little pressure off your quads	8	0	0	72	16777215	-1
+2880	Loosen your grip on the bars...	8	0	0	72	16777215	10
+2880	Soften up your elbows	8	0	0	72	16777215	20
+2880	Drop your shoulders AND your shoulder blades	8	0	0	72	16777215	30
+2880	Try not to  look like you're pushing your bike away from you	8	0	0	72	16777215	40
+2880	Look as though you're downright comfortable on it	8	0	0	72	16777215	50
+3000	Pick it up!	8	0	0	72	16777215	-1
+3000	And did I mention you're well over halfway done?	8	0	0	72	16777215	10
+3000	Resist the urge to take a break as much as possible...	8	0	0	72	16777215	20
+3000	But if you absolutely have to then backpedal for 10-15 seconds from time to time	8	0	0	72	16777215	30
+3000	Use backpedal breaks sparingly and less and less as you become fitter	8	0	0	72	16777215	40
+3180	Work just a little bit harder, spin a little bit quicker	8	0	0	72	16777215	-1
+3180	Kick just a little bit harder, pull just a little bit harder	8	0	0	72	16777215	10
+3300	Great job! Ease up and start warming down	8	0	0	72	16777215	-1
+3300	Following lower-intensity rides like these, you might not need to replenish immediately...	8	0	0	72	16777215	20
+3300	But if you smell ammonia on your breath, it's time to get some food in ya	8	0	0	72	16777215	30
+3300	You're metabolizing muscle and that's rarely a desired training outcome	8	0	0	72	16777215	40
+3300	Again, great job today. See you next time.	8	0	0	72	16777215	60
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+180	360	Endurance 1
+540	720	Endurance 2
+900	1080	Endurance 3
+1080	1200	Endurance 4
+1200	1260	Endurance 5
+1260	1440	Endurance 6
+1440	1500	Endurance 7
+1500	1680	Endurance 8
+1680	1800	Endurance 9
+1800	1980	Endurance 10
+1980	2100	Tempo 1
+2100	2280	Endurance 11
+2280	2400	Endurance 12
+2400	2460	Endurance 13
+2460	2640	Endurance 14
+2640	2700	Endurance 15
+2700	2880	Endurance 16
+2880	3000	Endurance 17
+3000	3180	Endurance 18
+3180	3300	Tempo 2
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

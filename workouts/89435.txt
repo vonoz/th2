@@ -1,0 +1,476 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Gould +2,92,126. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	60
+5	90
+8	90
+8	110
+9	110
+9	40
+14	40
+14	110
+15	110
+15	95
+18	95
+18	40
+20	40
+20	125
+21	125
+21	105
+23	105
+23	40
+25	40
+25	125
+26	125
+26	105
+28	105
+28	40
+30	40
+30	105
+32	105
+32	95
+34	95
+34	40
+36	40
+36	130
+37	130
+37	100
+39	100
+39	40
+41	40
+41	110
+42	110
+42	95
+45	95
+45	40
+47	40
+47	125
+48	125
+48	105
+50	105
+50	40
+52	40
+52	125
+53	125
+53	105
+55	105
+55	40
+57	40
+57	105
+59	105
+59	95
+61	95
+61	40
+63	40
+63	130
+64	130
+64	100
+66	100
+66	40
+68	40
+68	126
+69	126
+69	105
+71	105
+71	40
+73	40
+73	126
+74	126
+74	105
+76	105
+76	40
+78	40
+78	105
+80	105
+80	95
+82	95
+82	40
+84	40
+84	130
+85	130
+85	100
+87	100
+87	40
+90	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Gould...	3	0	0	72	16777215	10
+0	a series of combination efforts that begin...	5	0	0	72	16777215	15
+0	with a high-output surge...	3	0	0	72	16777215	22
+0	which is immediately followed...	3	0	0	72	16777215	27
+0	by a slightly longer, but less severe effort	3	0	0	72	16777215	32
+0	All within a few short minutes	3	0	0	72	16777215	37
+0	The idea is improve your strength endurance...	5	0	0	72	16777215	42
+0	by effectivley "softening" you up...	3	0	0	72	16777215	49
+0	prior to the follow-up effort	3	0	0	72	16777215	54
+0	This forces you to rely on lesser-utilized muscle fibers...	5	0	0	72	16777215	59
+0	thereby growing your ability to recruit more of them	5	0	0	72	16777215	66
+0	All while teaching you to mentally endure...	5	0	0	72	16777215	73
+0	the associated & necessary discomfort	5	0	0	72	16777215	80
+0	Keep your spin light & quick...	5	0	0	72	16777215	90
+0	and stay relaxed as you gradually warm	5	0	0	72	16777215	97
+0	A short, specific warmup interval is just ahead	5	0	0	72	16777215	270
+0	See to it that your spin is above 85rpm...	5	0	0	72	16777215	277
+0	and your sit-bones are anchored to your saddle	5	0	0	72	16777215	284
+0	Quick spin, relaxed body, clear mind	5	0	0	72	16777215	291
+300	Work quite a bit harder...	3	0	0	72	16777215	0
+300	but hide the effort & stay relaxed	3	0	0	72	16777215	5
+480	Pick it up!	3	0	0	72	16777215	0
+480	Stay seated & work hard for about a minute	5	0	0	72	16777215	5
+540	Well done, ease off the gas & spin lightly	5	0	0	72	16777215	2
+540	In just a couple minutes, you'll face...	5	0	0	72	16777215	180
+540	a barrage of efforts just like your warming interval...	5	0	0	72	16777215	187
+540	only reversed	3	0	0	72	16777215	194
+540	So rather than a sort of kick to the line...	5	0	0	72	16777215	199
+540	you'll instead kick initially...	3	0	0	72	16777215	206
+540	and then ride through the pain	3	0	0	72	16777215	211
+540	But the harder you work initially...	3	0	0	72	16777215	216
+540	the more manageable the follow-up work will be	5	0	0	72	16777215	221
+540	"Manageable"	3	0	0	72	16777215	228
+540	That's exactly the right word to use...	3	0	0	72	16777215	233
+540	with intervals that generate a lot of byproduct...	5	0	0	72	16777215	238
+540	and then force you to "ride off" that accumulation	5	0	0	72	16777215	245
+540	You have no choice but to manage the discomfort...	5	0	0	72	16777215	252
+540	psychologically - making these very mental efforts	5	0	0	72	16777215	259
+540	So while your body gets beat up...	5	0	0	72	16777215	266
+540	it's YOUR conscious choice how you'll deal with the pain	5	0	0	72	16777215	273
+540	How you'll "manage" your response	3	0	0	72	16777215	280
+540	Ready to have some fun?	3	0	0	72	16777215	285
+540	Spin quickly, preferably above 90rpm	5	0	0	72	16777215	290
+840	Seated, one hard minute!	3	0	0	72	16777215	0
+840	From the very start...	3	0	0	72	16777215	5
+840	manage your response by staying loose	5	0	0	72	16777215	10
+840	Start with your grip on the bars...	5	0	0	72	16777215	17
+840	keep it loose	3	0	0	72	16777215	24
+840	30 seconds of quick, controlled legs	3	0	0	72	16777215	30
+900	Ease up but not very far...	3	0	0	72	16777215	0
+900	and settle in to a slightly less quick spin...	5	0	0	72	16777215	5
+900	still keeping things above 85rpm	3	0	0	72	16777215	12
+900	First minute down...	3	0	0	72	16777215	60
+900	are you managing the burn?	3	0	0	72	16777215	65
+900	Do this by breathing fully...	3	0	0	72	16777215	70
+900	from your belly	3	0	0	72	16777215	75
+900	Final minute, keep your focus	3	0	0	72	16777215	120
+900	And check your position on the saddle	5	0	0	72	16777215	125
+900	If you've tippe forward...	3	0	0	72	16777215	132
+900	and your sit-bones have come off the saddle...	5	0	0	72	16777215	137
+900	re-anchor them right away	3	0	0	72	16777215	144
+900	30 seconds of focus!	3	0	0	72	16777215	150
+1080	Well done, spin out the heaviness	5	0	0	72	16777215	2
+1080	Try to make the most of these short breaks...	5	0	0	72	16777215	9
+1080	by keeping your effort low...	3	0	0	72	16777215	16
+1080	your spin quick & light...	3	0	0	72	16777215	21
+1080	your body relaxed...	3	0	0	72	16777215	26
+1080	and your breaths full & belly-driven	3	0	0	72	16777215	31
+1080	Ready to do that again?	3	0	0	72	16777215	115
+1200	Wind it up gracefully...	3	0	0	72	16777215	0
+1200	still in the saddle	3	0	0	72	16777215	5
+1200	And keep those full, belly-breaths comin'	3	0	0	72	16777215	10
+1260	Resist the tempation to back off too far	5	0	0	72	16777215	0
+1260	Recognize your discomfort, sure...	5	0	0	72	16777215	7
+1260	but also recognize that you don't NEED to ease up	5	0	0	72	16777215	14
+1260	Be the type of rider...	3	0	0	72	16777215	21
+1260	who isn't easily discouraged	3	0	0	72	16777215	26
+1260	Certainly not by something as minor...	3	0	0	72	16777215	31
+1260	as a bit of muscle burn...	3	0	0	72	16777215	36
+1260	and a wee lack of oxygen ;-)	3	0	0	72	16777215	41
+1260	Manage the discomfort for another minute	5	0	0	72	16777215	60
+1260	Just 30 more seconds of ignoring the pain	5	0	0	72	16777215	90
+1380	Excellent, spin away the fatigue	5	0	0	72	16777215	2
+1380	It's best to keep moving while you recover...	5	0	0	72	16777215	10
+1380	even if that means a bit of backpedaling	5	0	0	72	16777215	17
+1380	But no more than 30 seconds of it	5	0	0	72	16777215	24
+1380	Game face!	3	0	0	72	16777215	115
+1500	Wind it up again...	3	0	0	72	16777215	0
+1500	seated or standing this time	3	0	0	72	16777215	5
+1500	And keep breathing with your belly	3	0	0	72	16777215	10
+1560	Have a seat if you haven't already	5	0	0	72	16777215	0
+1560	Try to perceive your discomfort...	5	0	0	72	16777215	7
+1560	as something common & nonthreatening	5	0	0	72	16777215	14
+1560	Nothing says pain has to be a BAD thing	5	0	0	72	16777215	21
+1560	At least not this type of pain	3	0	0	72	16777215	26
+1560	Interpret these "sensations" any way you want	5	0	0	72	16777215	31
+1560	Learn to feel them without fearing them	5	0	0	72	16777215	36
+1560	Deep, right? ;-)	3	0	0	72	16777215	41
+1560	"Enjoy" the discomfort for another minute	5	0	0	72	16777215	60
+1560	Just 30 more seconds of focus	5	0	0	72	16777215	90
+1680	Good, spin away the fatigue	5	0	0	72	16777215	2
+1680	Keep moving while you recover	5	0	0	72	16777215	10
+1680	Backpedal a bit if you like	3	0	0	72	16777215	17
+1680	No more than 30 seconds though	5	0	0	72	16777215	22
+1680	Ready to go again?	3	0	0	72	16777215	115
+1800	A gentler one this time...	3	0	0	72	16777215	0
+1800	so let's try to make it slighly more...	3	0	0	72	16777215	5
+1800	productive	2	0	0	72	16777215	10
+1800	Get down into your drops	3	0	0	72	16777215	14
+1800	See if you can sustain power above your FTP...	5	0	0	72	16777215	19
+1800	from this position, especially if you use it outdoors	5	0	0	72	16777215	26
+1800	Power still on Target?	3	0	0	72	16777215	60
+1800	Then stay in your drops	3	0	0	72	16777215	65
+1800	But if you're struggling, feeling sloppy...	3	0	0	72	16777215	70
+1800	sit up & ride from your hoods or tops	5	0	0	72	16777215	75
+1920	Ease up, but not too far	5	0	0	72	16777215	0
+1920	This should be JUST enough of a reduction...	5	0	0	72	16777215	7
+1920	to gradually clear the burn	5	0	0	72	16777215	14
+1920	Might even take the entire 2 minutes...	5	0	0	72	16777215	21
+1920	but that's a matter of your conditioning	5	0	0	72	16777215	28
+1920	More aerobically fit riders can clear their muscles...	5	0	0	72	16777215	35
+1920	faster than riders who haven't cultivated...	5	0	0	72	16777215	42
+1920	sufficient aerobic fitness	3	0	0	72	16777215	49
+1920	One more minute...	3	0	0	72	16777215	60
+1920	of trying to hold your power on Target...	5	0	0	72	16777215	65
+1920	and as steady as possible	3	0	0	72	16777215	72
+1920	30 seconds of focus...	3	0	0	72	16777215	90
+1920	no checking out early	3	0	0	72	16777215	95
+2040	Well done, keep spinning & slow your breathing	5	0	0	72	16777215	0
+2040	The "Queen" interval is on your horizon...	5	0	0	72	16777215	90
+2040	arguably the toughest one in the workout...	5	0	0	72	16777215	97
+2040	But not only are you as warmed...	3	0	0	72	16777215	104
+2040	and primed as you're likely to get...	3	0	0	72	16777215	109
+2040	but the fatigue shouldn't be TOO high yet	3	0	0	72	16777215	114
+2160	Seated or standing...	3	0	0	72	16777215	0
+2160	lots of smooth power	3	0	0	72	16777215	5
+2160	And if you chooose to stand...	3	0	0	72	16777215	10
+2160	have a seat at the first hint of poor form	5	0	0	72	16777215	15
+2160	Hold that power for another 30 seconds	5	0	0	72	16777215	30
+2220	Right at FTP for a couple minutes	5	0	0	72	16777215	0
+2220	Do your best to "recover" right at threshold...	5	0	0	72	16777215	7
+2220	for 30 seconds at a time	3	0	0	72	16777215	14
+2220	Good, get through another 30	3	0	0	72	16777215	30
+2220	Manage the burn for another 30 seconds	5	0	0	72	16777215	60
+2220	Final 30 seconds...	3	0	0	72	16777215	90
+2220	keep your breaths full...	3	0	0	72	16777215	95
+2220	and driven by your belly	3	0	0	72	16777215	100
+2340	Nicely done...	3	0	0	72	16777215	2
+2340	ease off the gas but keep moving	3	0	0	72	16777215	7
+2340	Almost time to go again...	3	0	0	72	16777215	100
+2340	make sure your spin is up above 85rpm	3	0	0	72	16777215	105
+2340	Body's relaxed, hips are anchored	3	0	0	72	16777215	110
+2340	Hands are loose, face is slack	3	0	0	72	16777215	115
+2460	Try this one in your drops again	5	0	0	72	16777215	0
+2460	On a TT/Tri bike?	3	0	0	72	16777215	7
+2460	Get into your aero bars	3	0	0	72	16777215	12
+2460	In either case, don't let your sit-bones float	5	0	0	72	16777215	17
+2460	30 seconds, sit-bones still anchored	5	0	0	72	16777215	30
+2460	And sit up if your power is suffering	5	0	0	72	16777215	37
+2520	Stay aero if you can...	3	0	0	72	16777215	0
+2520	even if that means moving in & out of aero	5	0	0	72	16777215	5
+2520	But again, any position you plan to emply outdoors...	5	0	0	72	16777215	12
+2520	has to be practiced indoors	3	0	0	72	16777215	19
+2520	Especially at sub-FTP power outputs	5	0	0	72	16777215	24
+2520	Get through another minute...	3	0	0	72	16777215	60
+2520	without sacrificing any power	3	0	0	72	16777215	65
+2520	Final minute, same relaxed body	3	0	0	72	16777215	120
+2520	And if you start to fade...	3	0	0	72	16777215	125
+2520	try to focus on how well you're pedaling	3	0	0	72	16777215	130
+2520	A light kick over the top...	3	0	0	72	16777215	135
+2520	and a light pull across the bottom	3	0	0	72	16777215	140
+2520	30 seconds, drop your shoulders...	3	0	0	72	16777215	150
+2520	stable hips anchored to your saddle	5	0	0	72	16777215	155
+2700	Very nice, spin lightly	3	0	0	72	16777215	2
+2700	No preamble this time...	3	0	0	72	16777215	110
+2700	let's just get to it!	3	0	0	72	16777215	115
+2820	Seated or standing...	3	0	0	72	16777215	0
+2820	make this pretty & powerful	3	0	0	72	16777215	5
+2820	As soon as your watts stabilize...	3	0	0	72	16777215	10
+2820	do your best to limit their fluctuations	5	0	0	72	16777215	15
+2820	Shoot for no more than 10 watts...	3	0	0	72	16777215	22
+2820	above or below your Target Power	3	0	0	72	16777215	27
+2880	Have a seat if you're still standing...	3	0	0	72	16777215	0
+2880	and smooth out your power even more	5	0	0	72	16777215	5
+2880	Shoot for a tight range of +/- 5 watts	5	0	0	72	16777215	12
+2880	The better you get at holding smooth power...	3	0	0	72	16777215	19
+2880	the less energy you'll waste	3	0	0	72	16777215	24
+2880	The less you'll work against yourself	5	0	0	72	16777215	29
+2880	Final minute, hold that power steady	5	0	0	72	16777215	60
+2880	Last 30 seconds of focus	3	0	0	72	16777215	90
+3000	Well done	3	0	0	72	16777215	2
+3000	Time for some hard-earned rest...	3	0	0	72	16777215	7
+3000	brief though it may be	3	0	0	72	16777215	12
+3000	Still a few left to go...	3	0	0	72	16777215	100
+3000	but limit your focus to this next one only	5	0	0	72	16777215	105
+3000	Get relaxed, take a few deep breaths...	5	0	0	72	16777215	112
+3120	Seated or standing...	3	0	0	72	16777215	0
+3120	get your power up & hold it	3	0	0	72	16777215	5
+3120	Try again to stabilize your watts	5	0	0	72	16777215	10
+3120	Shoot for that 10-watt range...	3	0	0	72	16777215	17
+3120	barely above or below your Target Power	5	0	0	72	16777215	27
+3180	Have a seat if you're still standing...	3	0	0	72	16777215	0
+3180	and smooth out your power again	5	0	0	72	16777215	5
+3180	Shoot for that tighter range of +/- 5 watts	5	0	0	72	16777215	12
+3180	Get good at holding smooth power...	3	0	0	72	16777215	19
+3180	and expending less energy...	3	0	0	72	16777215	24
+3180	for the same amount of power	5	0	0	72	16777215	29
+3180	Final minute, hold that power steady	5	0	0	72	16777215	60
+3180	Last 30 seconds of smooth power	3	0	0	72	16777215	90
+3300	Knocking 'em down!	3	0	0	72	16777215	2
+3300	Time for a bit more rest...	3	0	0	72	16777215	7
+3300	brief but sufficient	3	0	0	72	16777215	12
+3300	Try to limit your focus to this next one only	5	0	0	72	16777215	105
+3300	No sense in getting ahead of yourself	5	0	0	72	16777215	112
+3420	and try to hide the work	3	0	0	72	16777215	0
+3420	The fatigue has probably crept up...	3	0	0	72	16777215	5
+3420	to a point where your muscles...	3	0	0	72	16777215	10
+3420	"flood" a bit more readily	3	0	0	72	16777215	15
+3420	You can mitigate this burn a bit...	3	0	0	72	16777215	20
+3420	by emphasizing your breathing	3	0	0	72	16777215	25
+3420	Exaggerate how deeply you inhale...	3	0	0	72	16777215	30
+3420	and how forcefully you exhale	3	0	0	72	16777215	35
+3540	As soon as you can...	3	0	0	72	16777215	0
+3540	get a little lower...	3	0	0	72	16777215	5
+3540	a little closer to your bike	3	0	0	72	16777215	10
+3540	Spend as much of these couple minutes...	3	0	0	72	16777215	30
+3540	in your drops or aero bars	3	0	0	72	16777215	35
+3540	Final minute, stay low if you can	3	0	0	72	16777215	60
+3540	30 seconds, make it look easy	3	0	0	72	16777215	90
+3660	Great job! Getting through 'em	5	0	0	72	16777215	2
+3660	This next effort is a repeat...	3	0	0	72	16777215	80
+3660	of an earlier brute...	3	0	0	72	16777215	85
+3660	so you know you can handle it	3	0	0	72	16777215	90
+3660	Settle into a quick, relaxed spin...	3	0	0	72	16777215	110
+3660	and find your happy place	3	0	0	72	16777215	115
+3780	Start this interval with a positive mindset	5	0	0	72	16777215	0
+3780	No benefit in making your job harder...	5	0	0	72	16777215	7
+3780	with a fearful or reluctant attitude	5	0	0	72	16777215	14
+3780	Convince yourself you can do this...	3	0	0	72	16777215	21
+3780	knowing full-well that you can	3	0	0	72	16777215	28
+3840	2 minutes between you and your next break	5	0	0	72	16777215	0
+3840	Be patient & handle that burn	3	0	0	72	16777215	7
+3840	Another 30 seconds of ignoring the burn	5	0	0	72	16777215	30
+3840	ANOTHER 30 seconds of disregarding your fatigue	5	0	0	72	16777215	60
+3840	Don't give it the satisfaction of dwelling on it	5	0	0	72	16777215	67
+3840	Final 30 seconds of total focus	3	0	0	72	16777215	90
+3840	20 seconds!	2	0	0	72	16777215	100
+3840	Final 10!	2	0	0	72	16777215	110
+3840	No ducking out early!	3	0	0	72	16777215	114
+3960	Very nice, spin lightly	3	0	0	72	16777215	2
+3960	No pep talk this time...	3	0	0	72	16777215	110
+3960	because you don't need it	3	0	0	72	16777215	115
+4080	Seated or standing...	3	0	0	72	16777215	0
+4080	own this set of efforts	3	0	0	72	16777215	5
+4080	Again, as soon as your watts stabilize...	5	0	0	72	16777215	10
+4080	try to limit their fluctuations	3	0	0	72	16777215	17
+4080	Shoot for no more than 10 watts...	3	0	0	72	16777215	22
+4080	above or below your Target Power	3	0	0	72	16777215	27
+4140	Have a seat if you're still standing...	3	0	0	72	16777215	0
+4140	and smooth out your power some more	5	0	0	72	16777215	5
+4140	Aim for that tighter range of +/- 5 watts	5	0	0	72	16777215	12
+4140	Practice holding smooth power...	3	0	0	72	16777215	19
+4140	using even less energy for the same power	3	0	0	72	16777215	24
+4140	Final minute, hold your power steady	5	0	0	72	16777215	60
+4140	Last 30 seconds of quick legs	3	0	0	72	16777215	90
+4260	Well done	3	0	0	72	16777215	2
+4260	Time for more hard-earned rest	3	0	0	72	16777215	7
+4260	Final 3 ahead...	3	0	0	72	16777215	100
+4260	but restrict your focus to this next one	5	0	0	72	16777215	105
+4260	Take a few big, deep breaths...	5	0	0	72	16777215	112
+4380	and charge into this one with confidence	5	0	0	72	16777215	0
+4380	No reason this can't be your best round yet	5	0	0	72	16777215	7
+4440	Have a seat if you're still up...	3	0	0	72	16777215	0
+4440	and smooth out your power	3	0	0	72	16777215	5
+4440	Final minute, hold your power steady	5	0	0	72	16777215	60
+4440	Last 30 seconds of deep, belly-breaths	3	0	0	72	16777215	90
+4560	Well done	3	0	0	72	16777215	2
+4560	Time for more hard-earned rest	3	0	0	72	16777215	7
+4560	Only 2 to go...	3	0	0	72	16777215	100
+4560	but limit your focus to this next one only	5	0	0	72	16777215	105
+4560	Get relaxed, take a few deep breaths...	5	0	0	72	16777215	112
+4680	and try to hide the work	3	0	0	72	16777215	0
+4680	The fatigue has probably crept up...	3	0	0	72	16777215	5
+4680	to a point where your muscles...	3	0	0	72	16777215	10
+4680	"flood" a bit more readily	3	0	0	72	16777215	15
+4680	You can mitigate this burn a bit...	3	0	0	72	16777215	20
+4680	by emphasizing your breathing	3	0	0	72	16777215	25
+4680	Exaggerate how deeply you inhale...	3	0	0	72	16777215	30
+4680	and how forcefully you exhale	3	0	0	72	16777215	35
+4800	As soon as you can...	3	0	0	72	16777215	0
+4800	get a little lower...	3	0	0	72	16777215	5
+4800	a little closer to your bike	3	0	0	72	16777215	10
+4800	Spend as much of these couple minutes...	3	0	0	72	16777215	30
+4800	in your drops or aero bars	3	0	0	72	16777215	35
+4800	Final minute, stay low if you can	3	0	0	72	16777215	60
+4800	30 seconds, make it look easy	3	0	0	72	16777215	90
+4920	Great job! Nearly there	5	0	0	72	16777215	2
+4920	This last effort is a repeat...	3	0	0	72	16777215	80
+4920	of that mid-workout brute...	3	0	0	72	16777215	85
+4920	but this is by design	2	0	0	72	16777215	90
+4920	Reason being, most riders can miraculously...	3	0	0	72	16777215	95
+4920	find a new level of peformance...	3	0	0	72	16777215	100
+4920	a higher limit to their suffering...	3	0	0	72	16777215	105
+4920	when they know it's the last effort of the day	3	0	0	72	16777215	110
+4920	Huh, that's weird ;-)	3	0	0	72	16777215	115
+5040	Kinda begs the question...	3	0	0	72	16777215	0
+5040	"Why don't I pretend EVERY interval is the last?"	5	0	0	72	16777215	5
+5040	Food for thought	3	0	0	72	16777215	12
+5040	Since we've already killed 20 seconds...	3	0	0	72	16777215	17
+5040	you only have 40 seconds of this "misery" left	5	0	0	72	16777215	22
+5040	But "misery" is all in your head	3	0	0	72	16777215	29
+5040	So don't give in to the suffering	3	0	0	72	16777215	34
+5040	Compartmentalize it & move past it...	3	0	0	72	16777215	39
+5040	for about 15 more seconds	3	0	0	72	16777215	44
+5100	2 minutes between you and relief!	5	0	0	72	16777215	0
+5100	Be patient & ride through that burn	5	0	0	72	16777215	7
+5100	Another 30 seconds of holding the burn	5	0	0	72	16777215	30
+5100	ANOTHER 30 seconds of holding the burn	5	0	0	72	16777215	60
+5100	Don't let it beat you!	3	0	0	72	16777215	67
+5100	Final 30 seconds of total focus	3	0	0	72	16777215	90
+5100	20 seconds!	2	0	0	72	16777215	100
+5100	Final 10!	2	0	0	72	16777215	110
+5100	Not a second less	2	0	0	72	16777215	114
+5220	Job done!	3	0	0	72	16777215	2
+5220	Job REALLY WELL done	3	0	0	72	16777215	7
+5220	Take a few minutes...	3	0	0	72	16777215	12
+5220	more than is left on the clock if you like...	3	0	0	72	16777215	17
+5220	to gradually cool down...	3	0	0	72	16777215	22
+5220	and to ponder your recovery strategy...	3	0	0	72	16777215	27
+5220	keeping in mind that your body...	3	0	0	72	16777215	32
+5220	is particularly susceptible to nutrition...	3	0	0	72	16777215	37
+5220	for about the next 45 minutes	3	0	0	72	16777215	42
+5220	We'll see you next time	5	0	0	72	16777215	47
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+300	480	Sweet Spot 1
+480	540	VO2 Max 1
+840	900	VO2 Max 2
+900	1080	Sweet Spot 2
+1200	1260	Anaerobic Capacity 1
+1260	1380	Threshold 1
+1500	1560	Anaerobic Capacity 2
+1560	1680	Threshold 2
+1800	1920	Threshold 3
+1920	2040	Sweet Spot 3
+2160	2220	Anaerobic Capacity 3
+2220	2340	Threshold 4
+2460	2520	VO2 Max 3
+2520	2700	Sweet Spot 4
+2820	2880	Anaerobic Capacity 4
+2880	3000	Threshold 5
+3120	3180	Anaerobic Capacity 5
+3180	3300	Threshold 6
+3420	3540	Threshold 7
+3540	3660	Sweet Spot 5
+3780	3840	Anaerobic Capacity 6
+3840	3960	Threshold 8
+4080	4140	Anaerobic Capacity 7
+4140	4260	Threshold 9
+4380	4440	Anaerobic Capacity 8
+4440	4560	Threshold 10
+4680	4800	Threshold 11
+4800	4920	Sweet Spot 6
+5040	5100	Anaerobic Capacity 9
+5100	5220	Threshold 12
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

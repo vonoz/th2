@@ -1,0 +1,72 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Table Rock,77,59. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	72
+12	72
+12	96
+15	96
+15	10
+16	10
+16	40
+20	50
+20	85
+35	85
+35	50
+41	50
+41	85
+56	85
+56	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+1200	Let's ride this first interval below your natural cadence	8	0	0	72	16777215	0
+1200	So if your spin is comfortable, slow things down by  10-20rpm...	8	0	0	72	16777215	10
+1200	But don't go any lower than 70rpm	8	0	0	72	16777215	20
+1200	Do your best to remain here over the course of this interval	8	0	0	72	16777215	30
+1200	If you're specifically targeting your climbing ability...	8	0	0	72	16777215	60
+1200	Your front wheel is elevated & your hands are on the tops or hoods	8	0	0	72	16777215	70
+1200	And don't be afraid to move in & out of the saddle...	8	0	0	72	16777215	80
+1200	But keep your power as steady as possible	8	0	0	72	16777215	90
+1200	If your specialty is time trials or you're a multisport athlete...	8	0	0	72	16777215	120
+1200	You're riding your TT/tri-bike & spending time in your aero position	8	0	0	72	16777215	130
+1200	Understand that it takes time to adapt to your position...	8	0	0	72	16777215	140
+1200	And spend increasingly longer periods of time in your tuck	8	0	0	72	16777215	150
+1200	It's a great time of year for adjustments to balance your comfort vs power	8	0	0	72	16777215	160
+1200	Optimal aerodynamics take time, trial & error, and high repetition of both	8	0	0	72	16777215	170
+1200	All other riders, spend time in positions you plan to utilize	8	0	0	72	16777215	180
+1200	Plan to race in your drops? Spend intermittent time there now	8	0	0	72	16777215	190
+1200	Plan to move in & out of the seat? Practice occasionally	8	0	0	72	16777215	200
+1200	Try to find your standing sweet spot where you're balanced & light	8	0	0	72	16777215	210
+1200	Practice smooth transitions up from the saddle & back into it	8	0	0	72	16777215	220
+1200	And practice keeping your power steady during those transitions	8	0	0	72	16777215	230
+2100	Go ahead and settle back into a more natural cadence...	8	0	0	72	16777215	0
+2100	Preferably above 80rpm	8	0	0	72	16777215	10
+2460	This interval will be spent at a cadence that's higher than usual	8	0	0	72	16777215	0
+2460	Pick it up 5-10rpm above your natural spin	8	0	0	72	16777215	10
+2460	And just like the last interval, practice specific positions & drills	8	0	0	72	16777215	20
+2460	Climb like a climber, get low like a triathlete...	8	0	0	72	16777215	30
+2460	Or simply ride like you plan to ride outdoors	8	0	0	72	16777215	40
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+0	360	Active Recovery 1
+360	720	Endurance 1
+720	900	Threshold 1
+1200	2100	Sweet Spot 1
+2100	2460	Active Recovery 2
+2460	3360	Sweet Spot 2
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

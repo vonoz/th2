@@ -1,0 +1,110 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = TrainerPowerCurveMeasurement,183,122. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	100
+10	100
+10	140
+10.5	140
+10.5	60
+11	60
+11	180
+11.5	180
+11.5	60
+12	60
+12	220
+12.5	220
+12.5	60
+13	60
+13	260
+13.5	260
+13.5	60
+14	60
+14	300
+14.5	300
+14.5	60
+15	60
+15	300
+15.5	300
+15.5	60
+16	60
+16	300
+16.5	300
+16.5	60
+17	60
+17	300
+17.5	300
+17.5	60
+18	60
+18	300
+18.16	300
+18.16	60
+18.66	60
+18.66	300
+18.83	300
+18.83	60
+19	60
+19	100
+22	100
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	This workout is to get accurate power readings for different speeds	10	0	0	72	16777215	-1
+0	We'll use the data to create a speed to power formula for the trainer	10	0	0	72	16777215	10
+0	So start out at 100 watts and try to ride as smoothly as possible for the first 10 minutes	10	0	0	72	16777215	20
+0	Then for each interval, try to get up to speed and ride at a steady power for the entire interval	10	0	0	72	16777215	30
+0	The targets may not be practical for every trainer or every tester.	10	0	0	72	16777215	40
+0	The important thing is to get smooth, even efforts with no accelerations	10	0	0	72	16777215	50
+0	And get efforts at a wide range of speeds	10	0	0	72	16777215	60
+0	Then try to ride the last three minutes at an even effort equal to the warmup	10	0	0	72	16777215	70
+0	We'll use that along with this warmup effort to see if it changes as the trainer heats up	10	0	0	72	16777215	80
+0	Make sure your power source is set to Power Meter	10	0	0	72	16777215	90
+0	You can do this as a Heart Rate workout to display the speed	10	0	0	72	16777215	100
+0	Or you can set your FTP to 100 and try to hit the power targets	10	0	0	72	16777215	110
+0	First effort. Try for 5mph or as low as you can maintain	10	0	0	72	16777215	590
+630	10MPH this time	10	0	0	72	16777215	20
+690	15MPH	10	0	0	72	16777215	20
+750	20MPH	10	0	0	72	16777215	20
+810	25MPH	10	0	0	72	16777215	20
+870	30MPH	10	0	0	72	16777215	20
+930	35MPH	10	0	0	72	16777215	20
+990	40MPH	10	0	0	72	16777215	20
+1050	45MPH	10	0	0	72	16777215	20
+1090	50MPH. ok that's probably not possible but give it your all	10	0	0	72	16777215	20
+1130	Now just hold the same effort you warmed up with	10	0	0	72	16777215	9
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	1320	Workout
+0	600	Threshold 1
+600	630	Sprint 1
+630	660	Endurance 1
+660	690	Sprint 2
+690	720	Endurance 2
+720	750	Sprint 3
+750	780	Endurance 3
+780	810	Sprint 4
+810	840	Endurance 4
+840	870	Sprint 5
+870	900	Endurance 5
+900	930	Sprint 6
+930	960	Endurance 6
+960	990	Sprint 7
+990	1020	Endurance 7
+1020	1050	Sprint 8
+1050	1080	Endurance 8
+1080	1090	Sprint 9
+1090	1120	Endurance 9
+1120	1130	Sprint 10
+1130	1140	Endurance 10
+1140	1320	Threshold 2
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

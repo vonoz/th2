@@ -1,0 +1,204 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Tehipite ,63,60. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	70
+8	80
+8	60
+27	60
+27	70
+30	70
+30	50
+33	50
+33	75
+36	75
+36	50
+39	50
+39	80
+42	80
+42	50
+45	50
+45	80
+48	80
+48	50
+51	50
+51	75
+54	75
+54	50
+57	50
+57	70
+60	70
+60	60
+90	60
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Giraud for a pretty light day focused on recovery & technique	8	0	0	72	16777215	10
+0	Following a relatively long but mild warmup, you'll square off against...	8	0	0	72	16777215	20
+0	six 3-minute intervals at low-to-moderate power involving lots of leg speed	8	0	0	72	16777215	30
+0	The primary goal is improved pedal economy due to improved form...	8	0	0	72	16777215	40
+0	but you'll also log some aerobic base work as well as garner some active recovery	8	0	0	72	16777215	50
+0	Try to keep your spin in the 85-95rpm range during the warmup...	8	0	0	72	16777215	60
+0	and we'll touch base a little later on	5	0	0	72	16777215	70
+300	Lift your spin substantially without sacrificing any of your form	8	0	0	72	16777215	0
+300	Ideally, you'll spin above 100rpm during the later leg-speed drills...	8	0	0	72	16777215	10
+300	but this assumes that you can control your body at this cadence	8	0	0	72	16777215	20
+300	Use this 3 minutes to find where your current "bounce threshold" sits...	8	0	0	72	16777215	30
+300	by adding a few rpm anytime you feel that you can control more leg speed	8	0	0	72	16777215	40
+300	You'll know you've lost control if you start bouncing in the saddle...	8	0	0	72	16777215	50
+300	rocking your hips side to side or bobbing your head	8	0	0	72	16777215	60
+300	Once you land on a quick but controllable cadence...	8	0	0	72	16777215	70
+300	see if you can sustain it for multiple minutes at a time	8	0	0	72	16777215	80
+480	Settle back in at 60% FTP and gradually clear off any warming fatigue	8	0	0	72	16777215	0
+480	Almost 20 minutes of easy spinning which is a good time...	8	0	0	72	16777215	180
+480	to start targeting some pedaling technique drills that will be useful later	8	0	0	72	16777215	190
+480	With a comfortably quick spin, try to let go of any tension in your lower legs	8	0	0	72	16777215	200
+480	As you spin more & more quickly, it's vital that you remain relaxed...	8	0	0	72	16777215	210
+480	most importantly in your upper body but also your lower legs	8	0	0	72	16777215	220
+480	So while the going is fairly easy, try to relax your calves, ankles & feet	8	0	0	72	16777215	230
+480	If it helps, drive each pedalstroke more with your knees than your feet	8	0	0	72	16777215	240
+480	Quick, light knees with feet that dangle at the ends of your legs	8	0	0	72	16777215	250
+480	Ten minutes out, give some thought to the top & bottom of your pedalstroke	8	0	0	72	16777215	540
+480	There isn't much power to be gained with a fuller pedalstroke...	8	0	0	72	16777215	550
+480	rather there's a chance at higher economy - the same power for less strain	8	0	0	72	16777215	560
+480	There's also something to be said for sparing your quads...	8	0	0	72	16777215	570
+480	even if only slightly, by shifting SOME of the burden onto other muscles	8	0	0	72	16777215	580
+480	So lightly kick forward & pull backward, both legs simultaneously	8	0	0	72	16777215	590
+480	As you do so, make sure you don't start to tense up above the waist	8	0	0	72	16777215	600
+480	Final minute before your first of four, high leg-speed intervals	8	0	0	72	16777215	1080
+480	The goal is simple: pedal very quickly without compromising your form	8	0	0	72	16777215	1090
+480	So rather than aim at a particular goal rpm, just pedal progressively quicker...	8	0	0	72	16777215	1100
+480	over the course of each 3-minute interval	8	0	0	72	16777215	1110
+480	So you might start at 100rpm for the first minute, speed up to 110rpm for minute 2...	8	0	0	72	16777215	1120
+480	and then spin smoothly at 130rpm for the final minute	8	0	0	72	16777215	1130
+1620	Pedal quickly and settle in to something fast but controlled...	8	0	0	72	16777215	0
+1620	that's outside of your comfort zone but doesn't cause you to bounce around	8	0	0	72	16777215	10
+1620	First minute out of the way, how's your control?	8	0	0	72	16777215	60
+1620	If you can spin more quickly in a lighter gear, pick things up a bit	8	0	0	72	16777215	70
+1620	But if you've already reached your control threshold, just hold your same spin	8	0	0	72	16777215	80
+1620	The goal isn't to spin as fast as you can...	8	0	0	72	16777215	90
+1620	it's to spin as fast as you can control...	8	0	0	72	16777215	100
+1620	AND to sustain that control for 3 minutes	5	0	0	72	16777215	110
+1620	Final minute, either hold your speed or pick it up a little more	8	0	0	72	16777215	120
+1620	If at any point you begin bouncing, back off slightly & squash the bounce	8	0	0	72	16777215	130
+1620	Final 30 seconds, stay as relaxed as you can	8	0	0	72	16777215	150
+1620	Low shoulders, soft elbows, loose grip on the bars	8	0	0	72	16777215	160
+1620	And keep your lower legs loose as well	5	0	0	72	16777215	170
+1800	Well done, back your leg speed down and ride comfortably	8	0	0	72	16777215	0
+1800	But do your best to stay above 85rpm	5	0	0	72	16777215	10
+1800	Re-anchor your sit bones on the wings of your saddle if they came unglued...	8	0	0	72	16777215	20
+1800	and recognize how important a stable position in the saddle is	8	0	0	72	16777215	30
+1800	Especially during speed work	5	0	0	72	16777215	40
+1800	Get ready to go again with just a little more effort this time	8	0	0	72	16777215	150
+1800	Gradually bring your spin up to a mildly challenging speed...	8	0	0	72	16777215	160
+1800	and try to relax everything that might affect your control	8	0	0	72	16777215	170
+1980	Start off quickly & relaxed, ideally above 100rpm	8	0	0	72	16777215	0
+1980	But that depends on what you can control & sustain	8	0	0	72	16777215	10
+1980	Feel both of your sit bones on the widest part of your saddle...	8	0	0	72	16777215	20
+1980	and keep them glued down over the entire interval	8	0	0	72	16777215	30
+1980	One minute in, see if you can hold just a little more speed	8	0	0	72	16777215	60
+1980	No problem if you can't - avoid spinning so quickly that your form breaks down	8	0	0	72	16777215	70
+1980	One more minute, add a bit of leg speed or simply hang onto what you have	8	0	0	72	16777215	120
+1980	If you try to spin more quickly but develop a bounce...	8	0	0	72	16777215	130
+1980	it's vital that you relax as much as possible & regain perfect control	8	0	0	72	16777215	140
+1980	The quicker you pedal, the more relaxed you have to become	8	0	0	72	16777215	150
+2160	Well done, ease off the power & the speed	8	0	0	72	16777215	0
+2160	Try to keep some of your speed though, at least 85 rpm's worth	8	0	0	72	16777215	10
+2160	Round 3 is just ahead, start to work your spin back up	8	0	0	72	16777215	150
+2160	And remember, the quicker you spin...	8	0	0	72	16777215	160
+2160	the more relaxed you become	5	0	0	72	16777215	170
+2340	Go fast but be reasonable	5	0	0	72	16777215	0
+2340	You can add speed each minute or simply go out fast, stay fast	8	0	0	72	16777215	10
+2340	In either case, spin more quickly than you're used to	8	0	0	72	16777215	20
+2340	And make sure your sit bones are down, hips are stable	8	0	0	72	16777215	30
+2340	Next minute, add some speed or hang on to what you have	8	0	0	72	16777215	60
+2340	If a bounce creeps in, let go of ANY tension you can eliminate or slow down	8	0	0	72	16777215	70
+2340	Almost drape your body over the handlebars...	8	0	0	72	16777215	80
+2340	and let your knees carry your relaxed lower legs around	8	0	0	72	16777215	90
+2340	Final minute, a bit more speed or keep things steady	8	0	0	72	16777215	120
+2340	Whichever you choose, don't allow your form to cave	8	0	0	72	16777215	130
+2340	Practicing bad form only creates bad habits, habits that are hard to break	8	0	0	72	16777215	140
+2340	Final 30 seconds, make them as pretty as the first 30	8	0	0	72	16777215	150
+2520	Excellent, take it easy, keep your spin quick & light	8	0	0	72	16777215	0
+2520	Fourth leg-speed interval ahead and the Target Power matches the last one	8	0	0	72	16777215	150
+2520	This might allow you to hold a quicker spin if you held back last time...	8	0	0	72	16777215	160
+2520	or simply repeat the effort if you were thoroughly challenged & productive	5	0	0	72	16777215	170
+2700	Quick but controlled, faster than you like	8	0	0	72	16777215	0
+2700	Keep your shoulders down & loose, bend your elbows, lightly hold the bars	8	0	0	72	16777215	10
+2700	Both sit bones in constant contact with the wings of your saddle	8	0	0	72	16777215	20
+2700	Next minute, keep or grow your cadence, stay smooth in the saddle	8	0	0	72	16777215	60
+2700	FInal minute of speed, challenge yourself but keep your form	8	0	0	72	16777215	120
+2700	30 seconds, as fast as you can control...perfectly	8	0	0	72	16777215	150
+2880	Excellent, get control of your leg speed right away	8	0	0	72	16777215	0
+2880	Each time you come off a leg-speed drill, try to relax everything...	8	0	0	72	16777215	10
+2880	that probably grew increasingly tense over the course of the work interval	8	0	0	72	16777215	20
+2880	This time, do your best to keep your body from growing tenser...	8	0	0	72	16777215	150
+2880	as the interval progressess from minute to minute	8	0	0	72	16777215	160
+2880	Start relaxed, stay relaxed, finish relaxed	5	0	0	72	16777215	170
+3060	Bring up your leg speed to a challenging but controllable cadence	8	0	0	72	16777215	0
+3060	Relax your hands & let that carry up through your shoulders & jaw	8	0	0	72	16777215	20
+3060	This effort has a slightly lower Target Power than the last couple...	8	0	0	72	16777215	30
+3060	and this might allow you to hold a quicker spin or it might simply allow you...	8	0	0	72	16777215	40
+3060	to keep your form as the fatigue starts to creep into your legs	8	0	0	72	16777215	50
+3060	Two more minutes - quick, controlled, relaxed	5	0	0	72	16777215	60
+3060	Final minute, keep your control even if this means...	8	0	0	72	16777215	120
+3060	dropping your leg speed slightly	5	0	0	72	16777215	130
+3240	Well done, spin off the fatigue & calm your breathing	8	0	0	72	16777215	0
+3240	Final leg-speed drill of the day is just ahead...	8	0	0	72	16777215	150
+3240	so start to bring your leg speed up & get as relaxed as possible	8	0	0	72	16777215	160
+3240	When the interval kicks off, maintain your same level of fluid relaxation	8	0	0	72	16777215	170
+3420	Final interval, back down to your lowest resistance level	8	0	0	72	16777215	0
+3420	This can be a blessing or a curse since too-low power output...	8	0	0	72	16777215	10
+3420	can be almost as challenging as too-high power output during speed drills	8	0	0	72	16777215	20
+3420	Next minute, see to it that both sit bones are maintaining...	8	0	0	72	16777215	60
+3420	steady contact with the wings of your saddle - no bouncing	8	0	0	72	16777215	70
+3420	Final minute, see if you can eliminate a little upper body tension...	8	0	0	72	16777215	120
+3420	and see if you can loosen up your calves, ankles & feet as well	8	0	0	72	16777215	130
+3600	Nicely done, try to slow your breathing & settle in	8	0	0	72	16777215	0
+3600	This last stretch is a half hour long...	8	0	0	72	16777215	10
+3600	but it's a mild effort level that will serve as much as aerobic base work...	8	0	0	72	16777215	20
+3600	as it will an extended cooldown	5	0	0	72	16777215	30
+3600	Start to revisit the same pedal drills you applied earlier in the workout	8	0	0	72	16777215	300
+3600	Lightly kick over the top, lightly pull across the bottom	8	0	0	72	16777215	310
+3600	Also lightly lift your knees upward if you can blend it all together	8	0	0	72	16777215	320
+3600	Only 20 minutes to go, consider spending some time in...	8	0	0	72	16777215	600
+3600	a slightly more aerodynamic position  - aero bars, drops, softer elbows...	8	0	0	72	16777215	610
+3600	anything that makes you cut a smaller hole in the wind...	8	0	0	72	16777215	620
+3600	but doesn't compromise your form or power	5	0	0	72	16777215	630
+3600	Work in & out of your aero position as frequently as is comfortable...	8	0	0	72	16777215	900
+3600	keeping in mind how often you plan to ride aero while outdoors	8	0	0	72	16777215	910
+3600	If you seldom get low and are content to ride upright most of the time...	8	0	0	72	16777215	920
+3600	still spend SOME time down low considering the "free speed"...	8	0	0	72	16777215	930
+3600	riding more aerodynamically can earn you	5	0	0	72	16777215	940
+3600	Just 10 minutes left, see to it that you're keeping your sit bones down...	8	0	0	72	16777215	1200
+3600	and keep your spin fluid & light	5	0	0	72	16777215	1210
+3600	Final 5 minutes, feel free to drop the Workout Intensity 5-10%...	8	0	0	72	16777215	1500
+3600	if that helps you warm down, or just relax and ride it out	8	0	0	72	16777215	1510
+3600	Start giving a little thought to your post-workout routine...	8	0	0	72	16777215	1520
+3600	your hydration, nutrition, stretching, etc...	8	0	0	72	16777215	1530
+3600	and we'll see you next time!	8	0	0	72	16777215	1540
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+300	480	Endurance 1
+480	1620	Endurance 2
+1620	1800	Endurance 3
+1980	2160	Endurance 4
+2340	2520	Tempo 1
+2700	2880	Tempo 2
+3060	3240	Endurance 5
+3420	3600	Endurance 6
+3600	5400	Endurance 7
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

@@ -1,0 +1,261 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Black Hawk,94,100. Created by 54951.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	76
+12	76
+12	96
+15	96
+15	10
+16	10
+16	50
+20.83	50
+20.83	70
+21	105
+21	105
+31	105
+31	40
+31.33	40
+31.33	70
+31.5	105
+31.5	105
+41.5	105
+41.5	40
+41.83	40
+41.83	70
+42	105
+42	105
+52	105
+52	40
+52.33	40
+52.33	70
+52.5	105
+52.5	105
+62.5	105
+62.5	50
+67.5	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	You probably guessed it, 20 minutes of warmup...	8	0	0	72	16777215	10
+0	with a quick, light spin over the first 6 minutes	8	0	0	72	16777215	20
+360	A bit of a bump in effort will start to open your lungs a bit	8	0	0	72	16777215	0
+360	And as always, it's probably a good idea to keep your spin above 85rpm	8	0	0	72	16777215	10
+720	Final 3 minutes, really close to FTP	8	0	0	72	16777215	0
+720	Increase your spin to 90rpm or higher...	8	0	0	72	16777215	10
+720	if you aren't already zinging along with legs that quick	8	0	0	72	16777215	20
+720	Start your long, full belly-breaths...	8	0	0	72	16777215	30
+720	then completely clear your lungs with a little extra effort	8	0	0	72	16777215	40
+900	Feel free to backpedal for a minute...	8	0	0	72	16777215	0
+900	Come to a stop & sit up if you're using the LSCT warmup...	8	0	0	72	16777215	10
+900	or simply pedal easy for a minute while you soak in the warmup	8	0	0	72	16777215	20
+960	This final round of FTP-growing muscle endurance work...	8	0	0	72	16777215	0
+960	is a two-parter consisting of 4 or 5 sets of 10-minute efforts	8	0	0	72	16777215	10
+960	The work intervals are spent at the familiar 105% FTP...	8	0	0	72	16777215	20
+960	while the rest between intervals have narrowed to only 30 seconds	8	0	0	72	16777215	30
+960	It's time to push the intervals as close to a single, solid effort as you'll get...	8	0	0	72	16777215	40
+960	before the plan's final workout (or your target event)	8	0	0	72	16777215	50
+960	Today's workout will have you riding a total of 40 minutes...	8	0	0	72	16777215	60
+960	with power noticeably higher than your hour-power	8	0	0	72	16777215	70
+960	Between each 10-minute interval, you'll only "rest" for 30 seconds...	8	0	0	72	16777215	80
+960	which is barely enough time to flush some accumulation...	8	0	0	72	16777215	90
+960	clear your mind & get right back at it	8	0	0	72	16777215	100
+960	So don't expect the breaks to feel like recovery...	8	0	0	72	16777215	110
+960	but rather as a way to segment a long time-trial workout	8	0	0	72	16777215	120
+960	With the first interval about a minute away...	8	0	0	72	16777215	230
+960	start to formulate your aero/cadence strategy	8	0	0	72	16777215	240
+960	Ideally, you'll spend the entirety of each 10 minutes in aero	8	0	0	72	16777215	250
+960	But as usual, Target Power is your top priority	8	0	0	72	16777215	260
+960	So get clear on those 2 goals before you begin the interval...	8	0	0	72	16777215	270
+960	and follow through with your plan as well as possible	8	0	0	72	16777215	280
+1250	Ramp things up for 40 minutes of time trial bliss ;)	8	0	0	72	16777215	0
+1260	Adjust to the workload and then settle into aero	8	0	0	72	16777215	0
+1260	If you're a little off your game today, no matter the reason...	8	0	0	72	16777215	10
+1260	drop the Workout Intensity by 5% for 2-3 minutes	8	0	0	72	16777215	20
+1260	As you start to feel better & warm further, raise the intensity back to 100%	8	0	0	72	16777215	30
+1260	If you don't start feeling top-notch though...	8	0	0	72	16777215	40
+1260	feel free to ride this first interval at 95% intensity...	8	0	0	72	16777215	50
+1260	perhaps even the entire workout	8	0	0	72	16777215	60
+1260	That still puts you right at FTP for long periods with very short breaks...	8	0	0	72	16777215	70
+1260	and will yield most of the intended stress of the full-intensity workout	8	0	0	72	16777215	80
+1260	If you feel the need to drop the interval more than 5%...	8	0	0	72	16777215	90
+1260	it might be wise to postpone today's workout until tomorrow	8	0	0	72	16777215	100
+1260	An extra day's rest can go a long way toward improving your capabilities...	8	0	0	72	16777215	110
+1260	when it's timed properly	8	0	0	72	16777215	120
+1260	That is, when you're not yet fully/mostly recovered	8	0	0	72	16777215	130
+1260	3 minutes in, how's your newly adjusted FTP feeling?	8	0	0	72	16777215	180
+1260	If you recently saw an increase & it's crushing you, a 5% drop is okay...	8	0	0	72	16777215	190
+1260	but only if truly necessary - be honest with yourself	8	0	0	72	16777215	200
+1260	Halfway through interval 1...	8	0	0	72	16777215	300
+1260	so see to it that you're spending ample time down low	8	0	0	72	16777215	310
+1260	Only come up as often as necessary to keep your power steady...	8	0	0	72	16777215	320
+1260	and keep those non-aero "breaks" as short as possible	8	0	0	72	16777215	330
+1260	You might be surprised by just how far...	8	0	0	72	16777215	340
+1260	a scant 10-second, upright break from aero can go	8	0	0	72	16777215	350
+1260	Your fitness & toughness are reaching their high points by now...	8	0	0	72	16777215	360
+1260	so exploit these new found levels of endurance...	8	0	0	72	16777215	370
+1260	by being particularly hard on yourself	8	0	0	72	16777215	380
+1260	Be mean to yourself, you know it's not personal ;-)	8	0	0	72	16777215	390
+1260	Three minutes to go, try to take things 1 minute at a time	8	0	0	72	16777215	420
+1260	If you're in the habit of getting ahead of yourself during workouts...	8	0	0	72	16777215	430
+1260	today is an excellent time to start breaking that habit	8	0	0	72	16777215	440
+1260	Not much use in getting psyched out by thinking too far ahead	8	0	0	72	16777215	450
+1260	Focus on RIGHT NOW only	8	0	0	72	16777215	460
+1260	Next minute, keep your focus limited to 60 seconds of work	8	0	0	72	16777215	480
+1260	Final minute! Stay smooth & relaxed	8	0	0	72	16777215	540
+1260	Coming up on your quick break & your chance to flush your legs	8	0	0	72	16777215	570
+1260	Ideally, you'll keep your legs turning forward, but...	8	0	0	72	16777215	580
+1260	you can backpedal for the first 20 seconds if you need to	8	0	0	72	16777215	590
+1860	Good! Clear the junk...	8	0	0	72	16777215	0
+1860	from your muscles & your head	8	0	0	72	16777215	10
+1880	Start pedaling forward if you're backpedaling	8	0	0	72	16777215	0
+1890	With breaks this brief, you might notice something interesting	8	0	0	72	16777215	0
+1890	It can be "easier' to start the intervals than after a longer rest	8	0	0	72	16777215	10
+1890	This is due to the fact that your breathing is still ramped up...	8	0	0	72	16777215	20
+1890	and your leg muscles are still firing at a high level	8	0	0	72	16777215	30
+1890	So don't let these short breaks scare you, instead...	8	0	0	72	16777215	40
+1890	look at this workout as a 40-minute brute with 3 chances to refocus	8	0	0	72	16777215	50
+1890	2 minutes in, spending as much time as possible in your aero position	8	0	0	72	16777215	120
+1890	And IF you come up out of aero, keep your breaks super short...	8	0	0	72	16777215	130
+1890	10 seconds tops, even if you have to take several breaks	8	0	0	72	16777215	140
+1890	Over time, you'll take less & less 10-second (or shorter) breaks	8	0	0	72	16777215	150
+1890	Before you know it, 10 minutes in aero, at Target Power...	8	0	0	72	16777215	160
+1890	will be tolerable, completely achievable...	8	0	0	72	16777215	170
+1890	and highly productive, i.e. FAST	8	0	0	72	16777215	180
+1890	Two more minutes behind you, focus on the next 2	8	0	0	72	16777215	240
+1890	Whatever "chunk size" you gravitate toward...	8	0	0	72	16777215	250
+1890	be it 5 minutes, 2 minutes, 30 seconds...	8	0	0	72	16777215	260
+1890	make them short enough to stay focused yet distracted	8	0	0	72	16777215	270
+1890	Contradictory, right? Not exactly	8	0	0	72	16777215	280
+1890	By now you have to have recognized that state of mind...	8	0	0	72	16777215	290
+1890	where you're aware of the pain necessary to hold your Target Power...	8	0	0	72	16777215	300
+1890	but you can distract yourself just enough to stay motivated	8	0	0	72	16777215	310
+1890	Focused yet distracted	8	0	0	72	16777215	320
+1890	This all about minimizing your discomfort...	8	0	0	72	16777215	330
+1890	which is entirely in your head	8	0	0	72	16777215	340
+1890	Your body is capable of the work...	8	0	0	72	16777215	350
+1890	so don't let your head tell you otherwise	8	0	0	72	16777215	360
+1890	Two more minutes down, already into the next 2 minutes of focus	8	0	0	72	16777215	370
+1890	Are you in your aero position right now?	8	0	0	72	16777215	380
+1890	Your only two reasons for answering "no" are...	8	0	0	72	16777215	390
+1890	"I'm taking a quick, 10-second break from aero"...	8	0	0	72	16777215	400
+1890	or "I simply can't hold Target Power in aero today"	8	0	0	72	16777215	410
+1890	Outside of those reasons, ditch the excuses and stay low	8	0	0	72	16777215	420
+1890	Final two minutes, maybe time for smaller chunks?	8	0	0	72	16777215	480
+1890	Try for 30 seconds of focus at a time	8	0	0	72	16777215	490
+1890	Next 30 seconds, smooth & relaxed	8	0	0	72	16777215	510
+1890	Next 30, drawing full belly-breaths	8	0	0	72	16777215	540
+1890	Final 30 seconds, no change in form or effort	8	0	0	72	16777215	570
+2490	Really well done. Keep pedaling, forward or backward works	8	0	0	72	16777215	0
+2490	Exhale strongly, several times, clear the junk	8	0	0	72	16777215	10
+2510	Pedaling foward again, get aero ASAP	8	0	0	72	16777215	0
+2520	2 minutes worth of form & focus...	8	0	0	72	16777215	0
+2520	shorter chunks if you've landed on a different pain management strategy	8	0	0	72	16777215	10
+2520	Which is all this really is, right?	8	0	0	72	16777215	20
+2520	If you dwell on your discomfort, you're managing your pain poorly	8	0	0	72	16777215	30
+2520	But if you're finding ways to keep yourself engaged & motivated...	8	0	0	72	16777215	40
+2520	you're not only managing your pain effectively...	8	0	0	72	16777215	50
+2520	but you're setting yourself up for greater success when out on the road	8	0	0	72	16777215	60
+2520	After all, there's much more to focus on when you're moving	8	0	0	72	16777215	70
+2520	So learn to manage that pain like a boss! ;-)	8	0	0	72	16777215	80
+2520	2 minutes behind ya, 2 minutes ahead of ya	8	0	0	72	16777215	120
+2520	Keep your focus limited, keep your body low	8	0	0	72	16777215	130
+2520	As the workout rolls by & the time adds up...	8	0	0	72	16777215	180
+2520	focus becomes harder to hang onto	8	0	0	72	16777215	190
+2520	But maintaining it can be the difference between a 65-minute 40k...	8	0	0	72	16777215	200
+2520	and going sub-hour	8	0	0	72	16777215	210
+2520	Between matching last year's time...	8	0	0	72	16777215	220
+2520	and shaving 2 minutes off your PR	8	0	0	72	16777215	230
+2520	Next 2 minutes of steady focus	8	0	0	72	16777215	240
+2520	Remember, your body can do this...	8	0	0	72	16777215	250
+2520	as long as your mind doesn't talk you out of it	8	0	0	72	16777215	260
+2520	And drifting focus is almost as harmful as negative self-talk	8	0	0	72	16777215	270
+2520	So stay sharp!	8	0	0	72	16777215	280
+2520	Another 2 minutes behind you!	8	0	0	72	16777215	360
+2520	This is just a matter of deciding how you'll ride	8	0	0	72	16777215	370
+2520	If you tell yourself you can't do this, you're very likely to quit	8	0	0	72	16777215	380
+2520	But if you keep reminding yourself, "I got this"...	8	0	0	72	16777215	390
+2520	you're accepting your capabilities, allowing yourself to rule	8	0	0	72	16777215	400
+2520	And why not!?	8	0	0	72	16777215	410
+2520	If you've come this far in this training plan...	8	0	0	72	16777215	420
+2520	you probably DO rule by now! ;-)	8	0	0	72	16777215	430
+2520	Final 2 minutes! 30 seconds at a time	8	0	0	72	16777215	480
+2520	Keep your breathing steady & deep, 30 seconds	8	0	0	72	16777215	510
+2520	Keep your pedalstroke fluid & light, 30 seconds	8	0	0	72	16777215	540
+2520	Keep your focus sharp, 30 seconds	8	0	0	72	16777215	570
+3120	Good, now clear your legs really quickly	8	0	0	72	16777215	0
+3140	Time to ramp into your final interval!	8	0	0	72	16777215	0
+3150	As is typical of final intervals, you're probably verging...	8	0	0	72	16777215	0
+3150	between emotions: eagerness to be done & worry about fatigue	8	0	0	72	16777215	10
+3150	Rein in your eagerness & ditch the worry	8	0	0	72	16777215	20
+3150	You got this	8	0	0	72	16777215	30
+3150	We've pushed the psychological aspect pretty heavily today...	8	0	0	72	16777215	60
+3150	but with good reason - this is SUCH a mental game	8	0	0	72	16777215	70
+3150	Endurance sports in general are all about fortitude...	8	0	0	72	16777215	80
+3150	both physical & mental; physiological & psychological	8	0	0	72	16777215	90
+3150	But racing against the clock, against old PR's perhaps...	8	0	0	72	16777215	100
+3150	can provide far fewer motivators than when riding with others...	8	0	0	72	16777215	110
+3150	This shifts the balance more to the mental side than usual	8	0	0	72	16777215	120
+3150	Next two minutes, by the way ;-)	8	0	0	72	16777215	130
+3150	Due to this psychological shift, your mind...	8	0	0	72	16777215	140
+3150	has to be as strong or even stronger than your body	8	0	0	72	16777215	150
+3150	This requirement draws the line between the winners...	8	0	0	72	16777215	160
+3150	and the rest	8	0	0	72	16777215	170
+3150	And winning is NOT simply measured in podium places	8	0	0	72	16777215	180
+3150	Winning comes in as many forms as fitness improvement does	8	0	0	72	16777215	190
+3150	No single measure or result is the end-all/be-all form of winning	8	0	0	72	16777215	200
+3150	Strict measures of success foster a very dangerous mindset...	8	0	0	72	16777215	210
+3150	because you leave yourself little room for forgiveness...	8	0	0	72	16777215	220
+3150	should you falter, should the circumstances not favor you	8	0	0	72	16777215	230
+3150	Next two minutes! You're rollin' right through this last one	8	0	0	72	16777215	240
+3150	Anyway, if you don't already...	8	0	0	72	16777215	250
+3150	let yourself accept a number of positive outcomes as a victory	8	0	0	72	16777215	260
+3150	Maybe you shaved time off your PR, out-suffered a buddy...	8	0	0	72	16777215	270
+3150	collected a medal, held aero longer than you ever have before...	8	0	0	72	16777215	280
+3150	regardless, make your goal lofty, attainable & positive	8	0	0	72	16777215	290
+3150	All things to ponder later though ;-)	8	0	0	72	16777215	300
+3150	For now: stay aero, stay on Target, stay focused	8	0	0	72	16777215	310
+3150	Next 2 minutes, focus on your breathing for 30 seconds	8	0	0	72	16777215	360
+3150	Let your belly distend each time your draw breath...	8	0	0	72	16777215	370
+3150	then exhale strongly as your navel rises toward your spine	8	0	0	72	16777215	380
+3150	Spend this 30 seconds focusing on kicking & pulling	8	0	0	72	16777215	390
+3150	Over the top, across the bottom, lightly with both legs	8	0	0	72	16777215	400
+3150	How about 30 seconds of ditching tension?	8	0	0	72	16777215	420
+3150	Forehead, jaw, lips...neck, shoulders, grip...	8	0	0	72	16777215	430
+3150	all the way down through your legs & out your toes	8	0	0	72	16777215	440
+3150	30 seconds of lightly lifting & kicking your feet	8	0	0	72	16777215	450
+3150	Juggle the soccer ball then kick it with your toes	8	0	0	72	16777215	460
+3150	Final 2 minutes! 30 seconds at a time	8	0	0	72	16777215	480
+3150	Next 30 seconds, fluid & relaxed	8	0	0	72	16777215	510
+3150	Next 30, keep your cadence & power steady	8	0	0	72	16777215	540
+3150	Final 30! Stay focused & smooooooth	8	0	0	72	16777215	570
+3750	Really well done!	8	0	0	72	16777215	0
+3750	Start to wind out the heaviness, slow your breathing...	8	0	0	72	16777215	10
+3750	get started on your post-workout nutrition or at least your plan...	8	0	0	72	16777215	20
+3750	and we'll see you next time	8	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	4050	Workout
+360	720	Tempo 1
+720	900	Threshold 1
+1250	1260	Sweet Spot 1
+1260	1860	Threshold 2
+1880	1890	Sweet Spot 2
+1890	2490	Threshold 3
+2510	2520	Sweet Spot 3
+2520	3120	Threshold 4
+3140	3150	Sweet Spot 4
+3150	3750	Threshold 5
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

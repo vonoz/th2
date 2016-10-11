@@ -1,0 +1,263 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Freel,87,62. Created by 44054.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	72
+12	72
+12	96
+15	96
+15	10
+16	10
+16	50
+20.83	50
+20.83	70
+21	127
+21	127
+22	127
+22	30
+22.83	30
+22.83	70
+23	127
+23	127
+24	127
+24	30
+24.83	30
+24.83	70
+25	127
+25	127
+26	127
+26	30
+26.83	30
+26.83	70
+27	127
+27	127
+28	127
+28	29
+28.83	29
+28.83	70
+29	127
+29	127
+30	127
+30	50
+37.83	50
+37.83	70
+38	127
+38	127
+39	127
+39	30
+39.83	30
+39.83	70
+40	127
+40	127
+41	127
+41	30
+41.83	30
+41.83	70
+42	127
+42	127
+43	127
+43	30
+43.83	30
+43.83	70
+44	127
+44	127
+45	127
+45	30
+45.83	30
+45.83	70
+46	127
+46	127
+47	127
+47	50
+50	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Let's start things off with 20 minutes of warmup	5	0	0	72	16777215	10
+0	Just keep your spin quick & light...	5	0	0	72	16777215	17
+0	for these first 6 minutes	3	0	0	72	16777215	24
+360	Time to ramp things up a little...	5	0	0	72	16777215	0
+360	and further your warmup & open your lungs a bit	5	0	0	72	16777215	7
+360	Try to keep your spin above 85rpm...	5	0	0	72	16777215	14
+360	higher if it's reasonably comfortable	5	0	0	72	16777215	21
+720	Final 3 minutes of your warmup, right next to FTP	5	0	0	72	16777215	0
+720	Increase your spin to 90rpm or higher...	5	0	0	72	16777215	7
+720	if you're not already spinning that quickly	5	0	0	72	16777215	14
+720	And draw long, full belly-breaths...	5	0	0	72	16777215	21
+720	then completely empty your lungs	5	0	0	72	16777215	28
+720	Establish this breathing pattern now...	5	0	0	72	16777215	50
+720	you'll need it later	3	0	0	72	16777215	57
+900	Good, feel free to backpedal for a minute...	5	0	0	72	16777215	0
+900	and check your HRR if you're using the LSCT warmup	5	0	0	72	16777215	7
+900	Or simply pedal really lightly...	5	0	0	72	16777215	14
+900	for a minute while your breathing comes down	5	0	0	72	16777215	21
+960	Today's intervals are all in anaerobic territory...	5	0	0	72	16777215	0
+960	up at 127% FTP but a couple fewer than similar workouts	5	0	0	72	16777215	7
+960	This will allow you to retain the intensity & mental familiarity...	5	0	0	72	16777215	14
+960	with these high workloads but trim down the volume	5	0	0	72	16777215	21
+960	So while this shortened VO2 Max workout is far from a recovery ride...	5	0	0	72	16777215	28
+960	it can easily be made part of a lighter week...	5	0	0	72	16777215	35
+960	aimed at helping you keep the benefit of your hard work...	5	0	0	72	16777215	42
+960	while allowing you to "absorb" some fitness over a de-load week	5	0	0	72	16777215	49
+960	And feel free to backpedal during these recovery valleys...	5	0	0	72	16777215	60
+960	if you need to reduce the workload a little further	5	0	0	72	16777215	67
+960	We'll ramp into your first effort in a minute...	5	0	0	72	16777215	230
+960	so establish a quick, sustainable spin before the interval begins...	5	0	0	72	16777215	237
+960	somewhere in the 90-100rpm range, maybe higher	5	0	0	72	16777215	244
+960	Each interval begins with a 10-second ramp...	5	0	0	72	16777215	260
+960	before you sustain your effort for 60 seconds	5	0	0	72	16777215	267
+960	50 seconds of easy spinning follows each of these little brutes	5	0	0	72	16777215	274
+960	So about a minute's worth of work...	5	0	0	72	16777215	281
+960	and a minute's worth of rest	5	0	0	72	16777215	288
+1250	Build your power with that quick spin...	5	0	0	72	16777215	2
+1260	and settle into smooth & relaxed spin	5	0	0	72	16777215	0
+1260	Don't worry about getting aero for these...	3	0	0	72	16777215	7
+1260	unless you can stay low...	3	0	0	72	16777215	14
+1260	and still get enough air to work this hard	5	0	0	72	16777215	18
+1260	Halfway there, stay quick & smooth...	5	0	0	72	16777215	30
+1260	and make sure your shoulders & elbows are relaxed	5	0	0	72	16777215	37
+1260	Final 10 seconds!	2	0	0	72	16777215	50
+1320	Good, now keep spinning & breathing fully...	5	0	0	72	16777215	0
+1320	and backpedal for 20-30 seconds if necessary	5	0	0	72	16777215	7
+1320	Spin forward if you were backpedaling	5	0	0	72	16777215	30
+1370	Ramp into your second interval of only 5...	5	0	0	72	16777215	2
+1380	and settle in for 60 seconds of effort	5	0	0	72	16777215	0
+1380	While the workload won't budge...	5	0	0	72	16777215	10
+1380	the intervals will grow gradually more demanding...	5	0	0	72	16777215	17
+1380	as you begin to fatigue	3	0	0	72	16777215	24
+1380	So it will SEEM like more work...	5	0	0	72	16777215	30
+1380	but it's really not	3	0	0	72	16777215	37
+1380	It's just a matter of working through the discomfort...	5	0	0	72	16777215	42
+1380	by focusing your mind elsewhere or simply embracing the pain	7	0	0	72	16777215	49
+1440	Ease off the gas but keep spinning...	5	0	0	72	16777215	0
+1440	backpedal if necessary	3	0	0	72	16777215	7
+1440	Be spinning forward by now	5	0	0	72	16777215	30
+1440	It's best to have your leg speed stabilized...	5	0	0	72	16777215	40
+1440	BEFORE each interval begins	3	0	0	72	16777215	47
+1490	Smoothly build leg speed & power...	5	0	0	72	16777215	2
+1500	and draw full breaths...	3	0	0	72	16777215	0
+1500	by letting your belly pooch outward	5	0	0	72	16777215	5
+1500	Just as importantly, completely clear your lungs	5	0	0	72	16777215	12
+1500	The more effectively you exhale...	4	0	0	72	16777215	19
+1500	the better you clear the waste	3	0	0	72	16777215	25
+1500	30 seconds! Stay focused	3	0	0	72	16777215	30
+1500	Keep your legs quick for 20 more seconds	5	0	0	72	16777215	40
+1500	Final 10, don't quit!	3	0	0	72	16777215	50
+1560	Ease up, spin lightly, forward or backward	5	0	0	72	16777215	0
+1560	Forward spin, light & quick	5	0	0	72	16777215	30
+1610	Ramp up to the cadence that's worked best so far...	5	0	0	72	16777215	2
+1620	and start managing the fatigue early by breathing well	5	0	0	72	16777215	0
+1620	Even though the watts are in well into anaerobic territory...	5	0	0	72	16777215	7
+1620	these are HIGHLY aerobic efforts...	5	0	0	72	16777215	14
+1620	lots of air is necessary	3	0	0	72	16777215	21
+1620	So pay due attention to your breathing	5	0	0	72	16777215	25
+1680	Good! Backpedal if necessary	5	0	0	72	16777215	0
+1680	Pedal forward with a light & quick spin	5	0	0	72	16777215	30
+1730	Time to ramp into your last repeat for now	5	0	0	72	16777215	2
+1740	By now, the discomfort is starting much earlier in the interval...	5	0	0	72	16777215	0
+1740	but you can mitigate that burn by breathing really well	5	0	0	72	16777215	7
+1740	Halfway there, just 30 more seconds of focus	5	0	0	72	16777215	30
+1740	Focus on breathing well, pedaling quickly...	5	0	0	72	16777215	37
+1740	and keeping your power steady...	3	0	0	72	16777215	44
+1740	without sacrificing one bit of your form	3	0	0	72	16777215	49
+1800	Well done, spin lightly for a little while	5	0	0	72	16777215	2
+1800	Round 2 is just a minute away...	5	0	0	72	16777215	410
+1800	so start to settle back into your quick, controlled spin...	5	0	0	72	16777215	417
+1800	then sustain it for the as much of the set as possible	5	0	0	72	16777215	424
+1800	Keep your breathing elevated but draw full belly-breaths...	5	0	0	72	16777215	431
+1800	and keep your legs quick	3	0	0	72	16777215	450
+1800	Shoot for over 100rpm if you can control it	5	0	0	72	16777215	455
+1800	10-second ramp, 60-second interval, only 5 times	5	0	0	72	16777215	462
+2270	Smoothly build your power with ample leg speed...	5	0	0	72	16777215	2
+2280	and settle into a smooth pedalstroke	5	0	0	72	16777215	0
+2280	30 seconds, keep your upper body as still as possible	5	0	0	72	16777215	30
+2280	Final 10 seconds, no slip in form!	3	0	0	72	16777215	50
+2340	Spin out the heaviness, backward or forward	5	0	0	72	16777215	0
+2340	Forward spin, light & quick	5	0	0	72	16777215	30
+2390	Ramp your power & start your big belly-breaths	5	0	0	72	16777215	2
+2400	Breath from your belly & stay relaxed...	5	0	0	72	16777215	0
+2400	starting with your forehead & jaw...	5	0	0	72	16777215	7
+2400	ditching any tension you don't need	5	0	0	72	16777215	14
+2400	Halfway there!	3	0	0	72	16777215	30
+2400	Keep your cadence & stay relaxed	5	0	0	72	16777215	35
+2400	If you start to fade, emphasize a light kick & pull	5	0	0	72	16777215	40
+2400	Final 10 seconds, keep it together!	3	0	0	72	16777215	50
+2460	Every time you back off, focus on your exhales...	5	0	0	72	16777215	0
+2460	and clear that junk well, recover more quickly	5	0	0	72	16777215	7
+2460	Pedal forward if you aren't already	5	0	0	72	16777215	30
+2510	Set your cadence & build your power	5	0	0	72	16777215	2
+2520	Keep your hands loose on the bars...	5	0	0	72	16777215	0
+2520	soften up your elbows...	3	0	0	72	16777215	7
+2520	and keep your shoulders down away from your ears	5	0	0	72	16777215	12
+2520	Halfway through the interval, halfway through the set	5	0	0	72	16777215	30
+2520	Final 10 seconds, keep your cadence up!	3	0	0	72	16777215	50
+2580	Excellent, backpedal or spin lightly	5	0	0	72	16777215	0
+2580	Get spinning forward, quick & light for now	5	0	0	72	16777215	30
+2630	Two intervals to go...	3	0	0	72	16777215	0
+2630	but limit your focus to this one alone	3	0	0	72	16777215	5
+2640	Quick legs, slow breaths	3	0	0	72	16777215	0
+2640	Quick legs, BIG breaths	3	0	0	72	16777215	10
+2640	Full breaths still...	3	0	0	72	16777215	30
+2640	and no panting or gasping	3	0	0	72	16777215	35
+2640	20 seconds to go, smooth & relaxed	3	0	0	72	16777215	40
+2640	Final 10 seconds, so smooth it looks easy	3	0	0	72	16777215	50
+2700	Good! Only 1 to go, backpedal if you need to	5	0	0	72	16777215	0
+2700	Light, forward spin, 20 seconds out	8	0	0	72	16777215	30
+2750	Ramp into this final one as relaxed as possible	5	0	0	72	16777215	2
+2760	Perfect practice makes perfect, right?	5	0	0	72	16777215	0
+2760	By now you've practiced several things...	5	0	0	72	16777215	7
+2760	and now you get to apply them...	5	0	0	72	16777215	14
+2760	as the fatigue really ratchets up	5	0	0	72	16777215	21
+2760	Retaining your form no matter how tired you get...	5	0	0	72	16777215	28
+2760	Finishing strongly without quitting even a second early...	5	0	0	72	16777215	35
+2760	"Resisting" fatigue in general...	5	0	0	72	16777215	42
+2760	all of this no matter how tough things get	5	0	0	72	16777215	49
+2820	Well done! Clear your legs & slow your breathing	5	0	0	72	16777215	0
+2820	You're welcome to extend this cooldown if you like...	5	0	0	72	16777215	7
+2820	especially if you're in the midst of a recovery week	5	0	0	72	16777215	14
+2820	This is ACTIVE recovery but recovery nonetheless	5	0	0	72	16777215	21
+2820	But if you know from experience...	5	0	0	72	16777215	28
+2820	how your body responds to 3 weeks of work...	5	0	0	72	16777215	35
+2820	tailor your rest weeks & recovery workouts...	5	0	0	72	16777215	42
+2820	as necessary to get rested & ready for what's next	5	0	0	72	16777215	49
+2820	even if that means dialing some workouts down...	5	0	0	72	16777215	56
+2820	in order to get you rested & eager for your next week!	6	0	0	72	16777215	62
+2820	In any case, we'll see you next time	5	0	0	72	16777215	70
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3000	Workout
+360	720	Endurance 1
+720	900	Threshold 1
+1250	1260	Threshold 2
+1260	1320	Anaerobic Capacity 1
+1370	1380	Threshold 3
+1380	1440	Anaerobic Capacity 2
+1490	1500	Threshold 4
+1500	1560	Anaerobic Capacity 3
+1610	1620	Threshold 5
+1620	1680	Anaerobic Capacity 4
+1730	1740	Threshold 6
+1740	1800	Anaerobic Capacity 5
+2270	2280	Threshold 7
+2280	2340	Anaerobic Capacity 6
+2390	2400	Threshold 8
+2400	2460	Anaerobic Capacity 7
+2510	2520	Threshold 9
+2520	2580	Anaerobic Capacity 8
+2630	2640	Threshold 10
+2640	2700	Anaerobic Capacity 9
+2750	2760	Threshold 11
+2760	2820	Anaerobic Capacity 10
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

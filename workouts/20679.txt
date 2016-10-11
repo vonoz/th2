@@ -1,0 +1,319 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Shining Rock,81,66. Created by 54951.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	72
+12.5	72
+12.5	120
+13	120
+13	60
+13.5	60
+13.5	120
+14	120
+14	60
+14.5	60
+14.5	120
+15	120
+15	10
+16	10
+16	40
+20	40
+20	120
+20.5	120
+20.5	60
+21	60
+21	120
+21.5	120
+21.5	60
+22	60
+22	120
+22.5	120
+22.5	60
+23	60
+23	120
+23.5	120
+23.5	60
+24	60
+24	120
+24.5	120
+24.5	60
+25	60
+25	120
+25.5	120
+25.5	60
+26	60
+26	120
+26.5	120
+26.5	60
+27	60
+27	120
+27.5	120
+27.5	60
+28	60
+28	120
+28.5	120
+28.5	40
+33.5	40
+33.5	120
+34	120
+34	60
+34.5	60
+34.5	120
+35	120
+35	60
+35.5	60
+35.5	120
+36	120
+36	60
+36.5	60
+36.5	120
+37	120
+37	60
+37.5	60
+37.5	120
+38	120
+38	60
+38.5	60
+38.5	120
+39	120
+39	60
+39.5	60
+39.5	120
+40	120
+40	60
+40.5	60
+40.5	120
+41	120
+41	60
+41.5	60
+41.5	120
+42	120
+42	40
+47	40
+47	120
+47.5	120
+47.5	60
+48	60
+48	120
+48.5	120
+48.5	60
+49	60
+49	120
+49.5	120
+49.5	60
+50	60
+50	120
+50.5	120
+50.5	60
+51	60
+51	120
+51.5	120
+51.5	60
+52	60
+52	120
+52.5	120
+52.5	60
+53	60
+53	120
+53.5	120
+53.5	60
+54	60
+54	120
+54.5	120
+54.5	60
+55	60
+55	120
+55.5	120
+55.5	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	If you're following one of our Cyclocross training plans...	8	0	0	72	16777215	10
+0	chances are you're familiar with "Billat" workouts like this one	8	0	0	72	16777215	20
+0	But we are going to step things up to 120% FTP today...	8	0	0	72	16777215	30
+0	which is a manageable increase over Grassy Ridge's 115% FTP repeats...	8	0	0	72	16777215	40
+0	assuming you handled that workout well	8	0	0	72	16777215	50
+0	Take the next 15 minutes to thoroughly warm yourself for the workout	8	0	0	72	16777215	60
+360	If you haven't already, settle into a spin above 85rpm	8	0	0	72	16777215	0
+360	As you warm, see to it that you're keeping your sit bones anchored	8	0	0	72	16777215	180
+360	See to it that you feel pressure on the wings of your saddle...	8	0	0	72	16777215	190
+360	regardless of how quickly or slowly you're pedaling	8	0	0	72	16777215	200
+360	Start to bring your spin up close to 100rpm...	8	0	0	72	16777215	370
+360	as long as that doesn't cause you to bounce around in the saddle	8	0	0	72	16777215	380
+750	Quick spin, 100rpm or higher if you can control it...	8	0	0	72	16777215	0
+750	and as long as you can repeat it	8	0	0	72	16777215	10
+780	Each time you hit a recovery valley, try to keep most of your leg speed	8	0	0	72	16777215	0
+810	Wind it back up to 100rpm or higher, tons of control	8	0	0	72	16777215	0
+840	Drop the power, keep the leg speed	8	0	0	72	16777215	0
+870	Last time, quick legs & quiet hips	8	0	0	72	16777215	0
+900	Go ahead & spin really easy, backpedal for a few seconds...	8	0	0	72	16777215	0
+900	or sit up and check your HRR if you're using the LSCT warmup	8	0	0	72	16777215	10
+960	Alright, today we have 3 identical sets of intervals	8	0	0	72	16777215	0
+960	These are a great opportunity to compare performance from set to set	8	0	0	72	16777215	10
+960	9 efforts at 120% FTP with minimal rest should be hard, but not impossible	8	0	0	72	16777215	20
+960	If it does feel too difficult, lower the Workout Intensity 3-5% FTP	8	0	0	72	16777215	30
+960	Proper technique & outright toughness will help pull you through...	8	0	0	72	16777215	40
+960	so make sure you NEED to drop the intensity before doing so	8	0	0	72	16777215	50
+960	We're 60 seconds out from the first set, so get your breathing rhythm set	8	0	0	72	16777215	180
+960	Remember to breathe with your diaphragm	8	0	0	72	16777215	190
+960	Full "belly-breaths" now will set the stage for later when you truly need them	8	0	0	72	16777215	200
+960	And exhaling with force will effectively flush and prepare you for more work	8	0	0	72	16777215	210
+960	Maintain a comfortable breathing rhythm throughout the set...	8	0	0	72	16777215	220
+960	and let your legs do the rest - good luck!	8	0	0	72	16777215	230
+1200	Right away, get your leg speed up...	8	0	0	72	16777215	0
+1200	probably higher than 100rpm as long as you can do it with control	8	0	0	72	16777215	10
+1200	If you find yourself bouncing, relax your calves, ankles & feet	8	0	0	72	16777215	20
+1230	These rests are meant to be active, so keep spinning your legs	8	0	0	72	16777215	0
+1260	Again, lots of leg speed all at once	8	0	0	72	16777215	0
+1290	Take advantage of every second of these recovery valleys...	8	0	0	72	16777215	0
+1290	by focusing on controlling a comfortable breathing rhythm	8	0	0	72	16777215	10
+1320	Getting the idea? LOTS of leg speed	8	0	0	72	16777215	0
+1350	Short recovery so keep most of that leg speed	8	0	0	72	16777215	0
+1380	By now you're probably settling on a sufficiently high cadence...	8	0	0	72	16777215	0
+1380	that you can not only maintain for 30 seconds...	8	0	0	72	16777215	10
+1380	but can repeat over & over again	8	0	0	72	16777215	20
+1410	Again, keep most of your speed while you try to relax	8	0	0	72	16777215	0
+1440	Go fast! Speed is KEY to these repeats	8	0	0	72	16777215	0
+1470	Stay fast but relax	8	0	0	72	16777215	0
+1560	Only 3 to go, try to make each one better than the last	8	0	0	72	16777215	0
+1620	Two to go but keep your focus on this one only	8	0	0	72	16777215	0
+1650	Ease off the power but keep your legs quick	8	0	0	72	16777215	0
+1680	Last one, make it as smooth as possible	8	0	0	72	16777215	0
+1710	Knocked the first one out, good job!	8	0	0	72	16777215	0
+1710	Take a look back at your heart rate from the first set	8	0	0	72	16777215	10
+1710	If you notice the average gradually increasing, this is normal	8	0	0	72	16777215	20
+1710	You may even find a spot at which your heart rate stops increasing	8	0	0	72	16777215	30
+1710	Familiarizing yourself with this limit is extremely valuable in race situations	8	0	0	72	16777215	40
+1710	Crossing your FTP can't be taken for granted...	8	0	0	72	16777215	50
+1710	and doing it enough times can leave you completely worn out	8	0	0	72	16777215	60
+1710	So knowing your limit can be the difference between a DNF and a top-10	8	0	0	72	16777215	70
+1710	As you keep up with this type of specific training your capacity will increase...	8	0	0	72	16777215	80
+1710	meaning you'll probably want MORE laps on that brutally punchy CX course ;-)	8	0	0	72	16777215	90
+1710	The second set is coming up in 30 seconds so focus on belly-breathing now	8	0	0	72	16777215	270
+1710	If you got caught off guard a few times during that opening set...	8	0	0	72	16777215	280
+1710	use this set to improve your anticipation & necessarily high cadence	8	0	0	72	16777215	290
+2010	High cadence, 100rpm or higher!	8	0	0	72	16777215	0
+2040	Remember to keep your cadence quick & light during the valleys	8	0	0	72	16777215	0
+2070	Big belly-breaths, before they're forced on you	8	0	0	72	16777215	0
+2100	Try to lower your breathing rate over this 30 seconds...	8	0	0	72	16777215	0
+2100	by strongly clearing your lungs each time you exhale	8	0	0	72	16777215	10
+2130	Wind it up, do it with perfect control	8	0	0	72	16777215	0
+2160	The further you get into each set, the tougher recovery will become	8	0	0	72	16777215	0
+2160	This is by design, but only to a certain extent	8	0	0	72	16777215	10
+2160	If you get too winded, you can backpedal for 10-15 seconds	8	0	0	72	16777215	20
+2190	Hit it again!	8	0	0	72	16777215	0
+2220	How's that breathing?	8	0	0	72	16777215	0
+2220	Remember, the rhythm will change but maintain power & some level of comfort	8	0	0	72	16777215	10
+2250	Here's the halfway point, feel encouraged by that!	8	0	0	72	16777215	0
+2280	Ease up, backpedal briefly if necessary	8	0	0	72	16777215	0
+2280	Any time you think a quick backpedal will help you stay on track...	8	0	0	72	16777215	10
+2280	use that extra bit of rest to keep your productivity high	8	0	0	72	16777215	20
+2400	Hang in there, just 2 more of these bad boys ahead	8	0	0	72	16777215	0
+2400	Backpedal briefly if need be, but get spinning by 10 seconds to go	8	0	0	72	16777215	10
+2430	Still quick, still controlled!	8	0	0	72	16777215	0
+2490	Last one, make it the smoothest one yet!	8	0	0	72	16777215	0
+2520	Well done! Now check that red line and compare set #2 to set #1	8	0	0	72	16777215	0
+2520	If your heart rate average was a bit higher on this set...	8	0	0	72	16777215	10
+2520	then there's no need to be concerned, pretty typical	8	0	0	72	16777215	20
+2520	If it was lower, then think back to what you did differently this time	8	0	0	72	16777215	30
+2520	Was your breathing better?	8	0	0	72	16777215	40
+2520	Was your cadence lighter, quicker?	8	0	0	72	16777215	50
+2520	Were you more focused, more relaxed?	8	0	0	72	16777215	60
+2520	Whatever the reason may be, note it! There are no coincidences here :-)	8	0	0	72	16777215	70
+2520	Final set coming up, now's the time to solidify positive habits	8	0	0	72	16777215	210
+2520	Keep focusing on breathing, cadence, staying relaxed	8	0	0	72	16777215	220
+2520	And this time, don't hesitate to backpedal frequently during the valleys	8	0	0	72	16777215	230
+2820	Wind it up - quick & relaxed from the start	8	0	0	72	16777215	0
+2850	Probably won't need a backpedal break for a couple rounds...	8	0	0	72	16777215	0
+2850	but when you do, use them if they're the difference...	8	0	0	72	16777215	10
+2850	between holding your cadence & power or bailing out early	8	0	0	72	16777215	20
+2910	Keep your power on target while you relax EVERYTHING	8	0	0	72	16777215	0
+2910	Only use the muscles that are absolutely necessary to ride well	8	0	0	72	16777215	10
+2970	First third of this final set is in the bag! So far so good	8	0	0	72	16777215	0
+3090	Remember to exhale with force & flush out all of that metabolic byproduct	8	0	0	72	16777215	0
+3150	Second third of the workout is behind you, well done!	8	0	0	72	16777215	0
+3150	Make each of these last three matter in their own right...	8	0	0	72	16777215	10
+3150	by focusing on only one of them at a time, as if it's the ONLY one	8	0	0	72	16777215	20
+3210	Ease up, backpedal for 10-15 seconds if necessary	8	0	0	72	16777215	0
+3210	About time to start spinning quickly if you're not already...	8	0	0	72	16777215	10
+3210	and then carry that controlled speed into this next Billat	8	0	0	72	16777215	20
+3270	Excellent! Keep it together for a few more seconds	8	0	0	72	16777215	0
+3300	Make this last one downright pretty!	8	0	0	72	16777215	0
+3330	Nice work today! Relax and spin the heaviness out	8	0	0	72	16777215	0
+3330	Feel free to look back at all 3 intervals & compare your HR data	8	0	0	72	16777215	10
+3330	Try to discover what made you faster & commit those tweaks to memory	8	0	0	72	16777215	20
+3330	See ya next time!	8	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+360	750	Endurance 1
+750	780	VO2 Max 1
+780	810	Endurance 2
+810	840	VO2 Max 2
+840	870	Endurance 3
+870	900	VO2 Max 3
+1200	1230	VO2 Max 4
+1230	1260	Endurance 4
+1260	1290	VO2 Max 5
+1290	1320	Endurance 5
+1320	1350	VO2 Max 6
+1350	1380	Endurance 6
+1380	1410	VO2 Max 7
+1410	1440	Endurance 7
+1440	1470	VO2 Max 8
+1470	1500	Endurance 8
+1500	1530	VO2 Max 9
+1530	1560	Endurance 9
+1560	1590	VO2 Max 10
+1590	1620	Endurance 10
+1620	1650	VO2 Max 11
+1650	1680	Endurance 11
+1680	1710	VO2 Max 12
+2010	2040	VO2 Max 13
+2040	2070	Endurance 12
+2070	2100	VO2 Max 14
+2100	2130	Endurance 13
+2130	2160	VO2 Max 15
+2160	2190	Endurance 14
+2190	2220	VO2 Max 16
+2220	2250	Endurance 15
+2250	2280	VO2 Max 17
+2280	2310	Endurance 16
+2310	2340	VO2 Max 18
+2340	2370	Endurance 17
+2370	2400	VO2 Max 19
+2400	2430	Endurance 18
+2430	2460	VO2 Max 20
+2460	2490	Endurance 19
+2490	2520	VO2 Max 21
+2820	2850	VO2 Max 22
+2850	2880	Endurance 20
+2880	2910	VO2 Max 23
+2910	2940	Endurance 21
+2940	2970	VO2 Max 24
+2970	3000	Endurance 22
+3000	3030	VO2 Max 25
+3030	3060	Endurance 23
+3060	3090	VO2 Max 26
+3090	3120	Endurance 24
+3120	3150	VO2 Max 27
+3150	3180	Endurance 25
+3180	3210	VO2 Max 28
+3210	3240	Endurance 26
+3240	3270	VO2 Max 29
+3270	3300	Endurance 27
+3300	3330	VO2 Max 30
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

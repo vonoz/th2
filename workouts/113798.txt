@@ -1,0 +1,234 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Dade -1,90,82. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+7	65
+7	120
+8	120
+8	50
+9	50
+9	120
+10	120
+10	50
+13	50
+13	120
+15	120
+15	40
+17	40
+17	120
+19	120
+19	40
+21	40
+21	120
+23	120
+23	60
+29	60
+29	120
+31	120
+31	40
+33	40
+33	120
+35	120
+35	40
+37	40
+37	120
+39	120
+39	60
+45	60
+45	120
+47	120
+47	40
+49	40
+49	120
+51	120
+51	40
+53	40
+53	120
+55	120
+55	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Dade, another round of brutal but rewarding VO2max repeats	8	0	0	72	16777215	10
+0	While many VO2max workouts in the early weeks mostly consist of 2 sets...	5	0	0	72	16777215	20
+0	today you'll face an additional set of 3 repeats following an extra recovery valley	8	0	0	72	16777215	30
+0	Having already endured workouts with multiple sets of longer repeats...	8	0	0	72	16777215	40
+0	this increase in intervals won't amount to anything you can't handle	8	0	0	72	16777215	50
+0	Demanding? Yes. Difficult? Of course. Productive? You betcha	8	0	0	72	16777215	60
+0	As necessary with efforts like these, settle into a quick spin...	8	0	0	72	16777215	70
+0	and start drawing full belly-breaths as you warm	8	0	0	72	16777215	80
+0	A couple of short warming efforts ahead...	8	0	0	72	16777215	390
+0	try to sustain a spin in the 100-110rpm range if possible	8	0	0	72	16777215	400
+0	And keep your upper body & lower legs as relaxed as you can	8	0	0	72	16777215	410
+420	Quick legs, calm upper body	5	0	0	72	16777215	0
+480	Ditch the power but keep your legs moving comfortably quickly	8	0	0	72	16777215	0
+480	One more time, wind it up and draw full belly-breaths	8	0	0	72	16777215	50
+540	Shoot for a spin above 100rpm, maybe even as high as 120rpm	8	0	0	72	16777215	0
+540	But something that's repeatable & controllable over repeated 2-minute durations	8	0	0	72	16777215	10
+600	Ease up & spin out some of the fatigue while you calm your breathing	8	0	0	72	16777215	0
+600	About 3 minutes of easy spinning & while you bring your breathing back under control...	8	0	0	72	16777215	10
+600	we can briefly talk maximum aerobic power again	5	0	0	72	16777215	20
+600	If FTP is the highest power you can hold for about an hour...	8	0	0	72	16777215	30
+600	your power at VO2max is the power you could hold for about 3-5 minutes	8	0	0	72	16777215	40
+600	When you're utilizing as much oxygen as your muscles are currently capable...	8	0	0	72	16777215	50
+600	your power will probably fall somewhere close to 120% FTP	8	0	0	72	16777215	60
+600	This is a tough place to reside, but if you breathe effectively & stay focused...	8	0	0	72	16777215	70
+600	you'll improve your ability to ride well above your FTP without fading...	8	0	0	72	16777215	80
+600	increase your ability to better utilize oxygen at numerous effort levels...	8	0	0	72	16777215	90
+600	and increase your ability to repeat high-intensity surges of power & speed	8	0	0	72	16777215	100
+600	This gives VO2max work probably the highest return on training investment	8	0	0	72	16777215	110
+600	So if you only had time enough to get a few 60-minute workouts in each week...	8	0	0	72	16777215	120
+600	VO2max efforts would probably bring you the biggest gains in performance...	8	0	0	72	16777215	130
+600	for the relatively minimal amount of time spent on the trainer	8	0	0	72	16777215	140
+600	First 2-minute effort just ahead so remind yourself of the 2 key components...	8	0	0	72	16777215	150
+600	1 - Breathing fully & steadily for each entire interval...	8	0	0	72	16777215	160
+600	2 - Spinning quickly with high control, at least 100rpm	8	0	0	72	16777215	170
+780	Quick legs, relaxed body, full breaths	5	0	0	72	16777215	0
+780	1 minute in, keep your sit bones glued to the wings of your saddle	8	0	0	72	16777215	60
+780	Final 30 seconds, keep your leg speed!	5	0	0	72	16777215	90
+900	Ease up but keep your legs moving, forward or backward	8	0	0	72	16777215	0
+900	If backpedaling for 20-30 seconds helps speed your recovery...	8	0	0	72	16777215	10
+900	feel free to spin backwards while you bring your breathing back down	8	0	0	72	16777215	20
+900	1 minute out, make sure you're pedaling forward at 85rpm or higher	8	0	0	72	16777215	60
+900	30 seconds until your 2nd effort, gradually recapture your quick spin	8	0	0	72	16777215	90
+900	If you managed to hold your Target Power without fading in the closing seconds...	8	0	0	72	16777215	100
+900	do it again, but if you faded, well...try harder this time ;-)	8	0	0	72	16777215	110
+1020	Find your rhythm quickly, keep your hips stable on the saddle	8	0	0	72	16777215	0
+1020	30 seconds in & your breathing should be deep & forceful	8	0	0	72	16777215	30
+1020	Final minute, 30 seconds at a time	5	0	0	72	16777215	60
+1020	Final 30, ten seconds at a time	5	0	0	72	16777215	90
+1020	Another 10 seconds of exhaling strongly	5	0	0	72	16777215	100
+1020	Final 10 seconds of quick legs!	5	0	0	72	16777215	110
+1140	Well done, ease up but try to keep your legs turning over	8	0	0	72	16777215	0
+1140	One minute out, make sure you're spinning reasonably quickly	8	0	0	72	16777215	60
+1140	If you faded both times now, try a 5% reduction in Workout Intensity	8	0	0	72	16777215	90
+1140	This might be your repeatable power output today, but we'll see	8	0	0	72	16777215	100
+1140	If there's any chance of lasting 2 minutes though, be tough & make it happen	8	0	0	72	16777215	110
+1260	High leg speed & full breaths right away	5	0	0	72	16777215	0
+1260	First 30 seconds behind you, keep using that belly to breathe	8	0	0	72	16777215	30
+1260	Keep it up, another 30 seconds of expanding your abdomen...	8	0	0	72	16777215	60
+1260	and then drawing your belly toward your spine	8	0	0	72	16777215	70
+1260	Final 30 seconds, keep your spin quick!	5	0	0	72	16777215	90
+1260	Make it last another 10 seconds!	5	0	0	72	16777215	100
+1260	Final 10 seconds, just as smooth as the first 10!	5	0	0	72	16777215	107
+1380	Nicely done, time for some well-earned recovery	8	0	0	72	16777215	0
+1380	Couple minutes until round 2 kicks off, time to assess round 1	8	0	0	72	16777215	240
+1380	If you successfully completed each repeat with power on Target...	8	0	0	72	16777215	250
+1380	with your form intact & a fairly high, steady cadence...	8	0	0	72	16777215	260
+1380	then feel free to tackle the first repeat of round 2 at full power	8	0	0	72	16777215	270
+1380	If there's any doubt about jumping up a full 20% FTP, maybe shave off 5-10% now...	8	0	0	72	16777215	280
+1380	and then add it back on depending on how well things go during the first interval	8	0	0	72	16777215	290
+1380	If you struggled finishing 120% FTP repeats in round 1, stands to reason...	8	0	0	72	16777215	300
+1380	that 140% repeats aren't realistic so drop the intensity & find a repeatable Target Power...	8	0	0	72	16777215	310
+1380	that worked (or you think would have worked) during that first set	8	0	0	72	16777215	320
+1380	But remember, anything lower than 110% of your FTP...	8	0	0	72	16777215	330
+1380	and it might be time to call it a day, maybe just log some Endurance	8	0	0	72	16777215	340
+1380	Otherwise, pick it up - 100rpm or higher	5	0	0	72	16777215	350
+1740	Really demanding interval ahead, 30 seconds at a time	5	0	0	72	16777215	0
+1740	So far so good? Keep your spin quick, body relaxed	5	0	0	72	16777215	30
+1740	Hang in there for another 30 seconds with quick legs	5	0	0	72	16777215	60
+1740	Final 30 seconds, keep your sit bones anchored	5	0	0	72	16777215	90
+1740	Get through another 10 seconds with strong exhales!	5	0	0	72	16777215	100
+1740	Still smooth & relaxed, 10 final seconds!	5	0	0	72	16777215	110
+1860	Good! Take it really easy for a couple minutes	8	0	0	72	16777215	0
+1860	So how'd it go? If you made it all the way through, try it again	8	0	0	72	16777215	60
+1860	If you faded in any way, consider a 5-10 point drop in Workout Intensity	8	0	0	72	16777215	70
+1860	Start gradually bringing your leg speed up toward 100-110rpm	8	0	0	72	16777215	90
+1860	As you do so, stay relaxed - upper body & lower legs especially	8	0	0	72	16777215	100
+1860	When the power jumps up, stay just as quick, just as relaxed	8	0	0	72	16777215	110
+1980	Lots of leg speed, lots of control	5	0	0	72	16777215	0
+1980	Made it through 30? Shoot for another 30!	5	0	0	72	16777215	30
+1980	Hang onto your leg speed for another 30 seconds, sit bones down	8	0	0	72	16777215	60
+1980	Final 30 seconds, 10 at a time!	5	0	0	72	16777215	90
+1980	Hang in there, another 10 seconds of controlled speed!	5	0	0	72	16777215	100
+1980	Final 10 seconds, no ducking out early!	5	0	0	72	16777215	110
+2100	Time to take it easy, back way off but keep moving	8	0	0	72	16777215	0
+2100	One more time way up at 140% FTP...or wherever you landed	8	0	0	72	16777215	60
+2100	Now's the time to ask yourself just how productive you're making these repeats	8	0	0	72	16777215	70
+2100	Are you falling apart? Then drop the intensity a bit & keep it together	8	0	0	72	16777215	80
+2100	Are you getting through with gas left in the tank? Nudge up the intensity...	8	0	0	72	16777215	90
+2100	and reassess your FTP soon because it's undoubtedly improved	8	0	0	72	16777215	100
+2100	In any case, get those legs spinning quickly & drop your shoulders	8	0	0	72	16777215	110
+2220	First minute already done! Get in another smooth 30 seconds	8	0	0	72	16777215	-60
+2220	Controlled speed & steady power, 30 seconds	5	0	0	72	16777215	0
+2220	First 30 behind you, stay on top of your breathing	5	0	0	72	16777215	30
+2220	First minute done & dusted, get in another smoooooth 30 seconds	8	0	0	72	16777215	60
+2220	Final thirty, 10 seconds of focus at a time	5	0	0	72	16777215	90
+2220	Good, another 10 seconds of being tough!	5	0	0	72	16777215	100
+2220	Final 10 seconds, not a second less!	5	0	0	72	16777215	110
+2340	Excellent! Hardest set out of the way	5	0	0	72	16777215	0
+2340	Take it really easy for a few minutes	5	0	0	72	16777215	10
+2340	2 minutes until the final round, time to assess that last round	8	0	0	72	16777215	240
+2340	You have 2 full sets of "experience" to draw from so honestly contemplate...	8	0	0	72	16777215	250
+2340	what needs to be done in order to make this final set highly productive	8	0	0	72	16777215	260
+2340	Is the fatigue forcing your form into the toilet?	5	0	0	72	16777215	270
+2340	This 10% drop might handle that issue for you	5	0	0	72	16777215	277
+2340	Think you need a bump up in intensity to make this last set truly challenging?	8	0	0	72	16777215	284
+2340	Nudge it up! But again, it's time to reassess in the near future	8	0	0	72	16777215	294
+2340	If neither is the case, juse leave things as they are & be tough...	8	0	0	72	16777215	304
+2340	for these final 3 repeats, taking them 1 at a time	8	0	0	72	16777215	314
+2340	Try not to let the work ahead distract you...	8	0	0	72	16777215	324
+2340	from the work directly at hand - stay focused on the present	8	0	0	72	16777215	334
+2340	Start to drum up that cadence, 100rpm or higher...	8	0	0	72	16777215	344
+2340	and relax your body - drape yourself on the bars & get ready	5	0	0	72	16777215	354
+2700	Start quick & relaxed, stay that way	5	0	0	72	16777215	0
+2700	Next 30 seconds of focus & form	5	0	0	72	16777215	30
+2700	Next 30, check your sit bones & drop your shoulders	8	0	0	72	16777215	60
+2700	Final 30 seconds, take them 10 at a time	5	0	0	72	16777215	90
+2700	You've got this, get another 10 seconds!	5	0	0	72	16777215	100
+2700	Final 10 seconds, make them pretty!	5	0	0	72	16777215	110
+2820	Excellent! Ease up & make the most of these 2 quick minutes	8	0	0	72	16777215	0
+2820	Get ready to do it again, ramp up that cadence	8	0	0	72	16777215	100
+2820	Drop your shoulders, loosen your grip, anchor your hips	8	0	0	72	16777215	110
+2940	Relax and keep your legs quick & fluid	5	0	0	72	16777215	0
+2940	Good, keep it smooth & relaxed for another 30	5	0	0	72	16777215	30
+2940	Another minute, just focus on this 30 seconds though	5	0	0	72	16777215	60
+2940	Hang in there, 10 seconds at a time	5	0	0	72	16777215	90
+2940	Drop your shoulders, quiet your hips, 10 seconds	5	0	0	72	16777215	100
+2940	Final 10, make each second count!	5	0	0	72	16777215	110
+3060	Well done, time for a couple minutes of easy spinning	8	0	0	72	16777215	0
+3060	Try to take long, steady breaths & drop your HR more quickly	8	0	0	72	16777215	10
+3060	Final interval of the day just ahead, start picking it up	8	0	0	72	16777215	90
+3060	With each rise in fatigue, focus becomes increasingly important	8	0	0	72	16777215	100
+3060	So be quick, relaxed & FOCUSED one last time	5	0	0	72	16777215	110
+3180	As you settle in, make your breaths full & powerful	5	0	0	72	16777215	0
+3180	Keep those big belly-breaths comin' & stay quick	5	0	0	72	16777215	30
+3180	Final minute of the workout, stay tough!	5	0	0	72	16777215	60
+3180	10 seconds at a time, keep your leg speed!	5	0	0	72	16777215	90
+3180	Keep that cadence, stay as relaxed as you can	5	0	0	72	16777215	100
+3180	Strong breaths, strong legs, strong finish!	5	0	0	72	16777215	110
+3300	Nicely done! Keep your legs spinning & clear your muscles	8	0	0	72	16777215	0
+3300	There's another 8 minutes still on the clock leaving plenty of time to warm down...	8	0	0	72	16777215	10
+3300	while you contemplate recovery nutrition & rehydration	8	0	0	72	16777215	20
+3300	Remember, adaptation happens during recovery, not training	8	0	0	72	16777215	30
+3300	So recover well, do your best to take it easy on yourself between workouts...	8	0	0	72	16777215	40
+3300	and we'll see you next time!	8	0	0	72	16777215	50
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+420	480	VO2 Max 1
+540	600	VO2 Max 2
+780	900	VO2 Max 3
+1020	1140	VO2 Max 4
+1260	1380	VO2 Max 5
+1380	1740	Endurance 1
+1740	1860	VO2 Max 6
+1980	2100	VO2 Max 7
+2220	2340	VO2 Max 8
+2340	2700	Endurance 2
+2700	2820	VO2 Max 9
+2940	3060	VO2 Max 10
+3180	3300	VO2 Max 11
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

@@ -1,0 +1,282 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Joe Devel TC,89,40. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+2	60
+2	90
+3.5	90
+3.5	40
+5	40
+5	130
+5.1	130
+5.1	50
+5.5	50
+5.5	140
+5.6	140
+5.6	50
+6	50
+6	150
+6.1	150
+6.1	40
+7	40
+7	150
+7.25	150
+7.25	50
+7.5	50
+7.5	150
+7.75	150
+7.75	50
+8	50
+8	150
+8.25	150
+8.25	50
+8.5	50
+8.5	150
+8.75	150
+8.75	50
+9	50
+9	150
+9.25	150
+9.25	50
+9.5	50
+9.5	150
+9.75	150
+9.75	50
+10	50
+10	150
+10.25	150
+10.25	50
+10.5	50
+10.5	150
+10.75	150
+10.75	40
+13	40
+13	130
+13.5	130
+13.5	50
+13.75	50
+13.75	130
+14.25	130
+14.25	50
+14.5	50
+14.5	130
+15	130
+15	50
+15.25	50
+15.25	130
+15.75	130
+15.75	50
+16	50
+16	130
+16.5	130
+16.5	40
+18.75	40
+18.75	120
+19.5	120
+19.5	50
+19.75	50
+19.75	120
+20.5	120
+20.5	50
+20.75	50
+20.75	120
+21.5	120
+21.5	50
+21.75	50
+21.75	120
+22.5	120
+22.5	40
+24.75	40
+24.75	140
+25.05	140
+25.05	50
+25.3	50
+25.3	140
+25.6	140
+25.6	50
+25.85	50
+25.85	140
+26.15	140
+26.15	50
+26.4	50
+26.4	140
+26.7	140
+26.7	50
+26.95	50
+26.95	140
+27.25	140
+27.25	50
+27.5	50
+27.5	140
+27.8	140
+27.8	50
+28.05	50
+28.05	140
+28.35	140
+28.35	50
+28.6	50
+28.6	140
+28.9	140
+28.9	40
+30	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Joe Devel is all about high but repeatable efforts	8	0	0	72	16777215	10
+0	At first glance, Joe Devel looks like a purely Anaerobic interval workout...	8	0	0	72	16777215	20
+0	and you'll certainly be spending a lot of time in the Anaerobic zone	8	0	0	72	16777215	30
+0	But don't think your aerobic system won't be taxed as well	8	0	0	72	16777215	40
+0	The short recoveries don't allow your respiration to drop very much...	8	0	0	72	16777215	50
+0	so each subsequent interval will take less time to push you closer...	8	0	0	72	16777215	60
+0	to your aerobic capacity (VO2max)	5	0	0	72	16777215	70
+0	You have 4 sets of microbursts of varying lengths & wattage levels ahead of you	8	0	0	72	16777215	80
+0	First set, 15-second at 150% FTP while the second is 30-second at 130% FTP	8	0	0	72	16777215	90
+0	Third set is 45-second at 120% FTP and the 4th is 18-second at 140% FTP	8	0	0	72	16777215	100
+0	Each set of microbursts has 15 seconds of rest between each micro-interval	8	0	0	72	16777215	110
+120	90 seconds of quick legs, relaxed upper body	5	0	0	72	16777215	0
+120	Try to keep your cadence between 85-95rpm	5	0	0	72	16777215	7
+210	3 recruiitment bursts coming up	5	0	0	72	16777215	50
+210	Use this opportunity to find your working cadence for the day	8	0	0	72	16777215	60
+210	Shoot for a high cadence of 100rpm or higher if you can control it	8	0	0	72	16777215	70
+210	Bring your cadence up before the interval begins & stay relaxed	8	0	0	72	16777215	80
+300	6 seconds!	3	0	0	72	16777215	0
+306	Ease up but keep your legs quick	5	0	0	72	16777215	0
+330	Lots of leg speed!	3	0	0	72	16777215	0
+336	Slow things back down but not too far	5	0	0	72	16777215	0
+360	Quick legs!	3	0	0	72	16777215	0
+366	Clearly, leg speed will be a focal point of this workout	8	0	0	72	16777215	4
+366	This means we'll want to focus on a couple of things:	8	0	0	72	16777215	14
+366	Keeping your cadence high - shoot for at least 100rpm	8	0	0	72	16777215	24
+366	Also, stay seated and make one of the goals of this workout...	8	0	0	72	16777215	34
+366	improved seated power & control	5	0	0	72	16777215	44
+420	Quick legs, lots of power!	5	0	0	72	16777215	0
+435	Ease up but keep your legs spinning quickly	5	0	0	72	16777215	0
+450	Get your legs speed all at once!	5	0	0	72	16777215	0
+465	Ease off the power, keep the leg speed	5	0	0	72	16777215	0
+480	Again, go fast!	3	0	0	72	16777215	0
+495	OK, on your own for the next few repeats - stay quick & aware	8	0	0	72	16777215	0
+585	Only a couple left, keep that cadence high!	5	0	0	72	16777215	0
+645	One set down! Take some deep breaths, exhaling completely	8	0	0	72	16777215	0
+645	Microbursts are hugely effective in terms of training response...	8	0	0	72	16777215	10
+645	because they allow you to accumulate a lot more work...	8	0	0	72	16777215	20
+645	way above Threshold than you could manage in longer intervals	8	0	0	72	16777215	30
+645	Stay in the saddle & maintain a fast cadence...	8	0	0	72	16777215	40
+645	and always with good form, we don't want to encourage bad habits	8	0	0	72	16777215	50
+645	Be sure you're not bouncing in your saddle despite a high cadence...	8	0	0	72	16777215	60
+645	and be sure your knees are not wobbling about	5	0	0	72	16777215	70
+645	Also, avoid carrying tension in your upper body, especially your shoulders	8	0	0	72	16777215	77
+645	This might seem like a lot to focus on...	5	0	0	72	16777215	87
+645	but everything will eventually come together, quite naturally...	8	0	0	72	16777215	94
+645	if you focus on one piece of the "form puzzle" at a time	8	0	0	72	16777215	104
+645	Keep that cadence high for the whole set because it can get ...	8	0	0	72	16777215	114
+645	even more taxing trying to raise your cadence over & over again	8	0	0	72	16777215	125
+780	Find a good breathing rhythm straight away...	8	0	0	72	16777215	0
+780	even if you don't need deep breaths just yet	8	0	0	72	16777215	10
+780	Exhale fully & the rest will take care of itself	8	0	0	72	16777215	20
+810	Ease up but don't lose any leg speed	5	0	0	72	16777215	0
+825	Just like last time, try to get all your speed & power at once	8	0	0	72	16777215	0
+825	And if you're using an electronic trainer like a KICKR or CompuTrainer...	8	0	0	72	16777215	10
+825	it's really important that you set your cadence BEFORE the resistance spikes	8	0	0	72	16777215	20
+855	So for those on electronic trainers in Ergo mode, keep your spin stable	8	0	0	72	16777215	0
+870	For those riders on more tradtional trainers...	8	0	0	72	16777215	0
+870	you too will be best off with a quick spin the whole time, but...	8	0	0	72	16777215	10
+870	you'll need to add a couple gears just as the interval starts & then hammer!	8	0	0	72	16777215	20
+900	Ease off the power but keep the legs quick	5	0	0	72	16777215	0
+915	Quick legs & high, stable power!	5	0	0	72	16777215	0
+945	Halfway through! Don't bail out of an interval unless you HAVE to...	8	0	0	72	16777215	0
+945	no bailing just because you WANT to	5	0	0	72	16777215	10
+960	30 seconds of focus & speed	5	0	0	72	16777215	0
+960	10 more seconds, don't back off even a little!	5	0	0	72	16777215	20
+990	Well done! Keep those pedals turning forward for a minute if you can	8	0	0	72	16777215	0
+990	Avoiding immediate backpedaling will ultimately help you recover faster	8	0	0	72	16777215	10
+990	Time to enjoy a couple well-earned minutes of recovery	8	0	0	72	16777215	20
+990	30 seconds until round 3 begins	5	0	0	72	16777215	105
+990	Find your high cadence, preferably above 100rpm...	8	0	0	72	16777215	115
+990	and maintain it for all 4 of these 45-second segments at 120% FTP	8	0	0	72	16777215	125
+1125	Shoot for 90+rpm for this entire set, 100+ if possible	8	0	0	72	16777215	0
+1125	Maintaining a higher cadence will shift the stress from your muscles...	8	0	0	72	16777215	10
+1125	to your heart & lungs making your spin more aerobic	8	0	0	72	16777215	20
+1125	This is a more efficient way to ride in terms of sparing your muscles & sugar stores	8	0	0	72	16777215	30
+1125	5 seconds!	3	0	0	72	16777215	40
+1170	Excellent, same 15-second recoveries though, so unfair!	8	0	0	72	16777215	0
+1185	Hit it again, get your power & spin as fast as possible	8	0	0	72	16777215	0
+1185	30 more seconds, don't let your leg speed slip away	8	0	0	72	16777215	15
+1185	20 seconds, don't ease up, don't tense up	5	0	0	72	16777215	25
+1185	Final 10 seconds, tons of control	5	0	0	72	16777215	35
+1230	Keep your legs turning quickly, no time to backpedal	8	0	0	72	16777215	0
+1245	45 seconds, powerful & steady	5	0	0	72	16777215	0
+1245	30 seconds to go, make sure your sit bones are anchored	8	0	0	72	16777215	15
+1245	10 seconds, hold it steady	5	0	0	72	16777215	35
+1290	Halfway through the set, spin lightly but quickly	8	0	0	72	16777215	0
+1305	If possible, slip down into a more aero position...	8	0	0	72	16777215	0
+1305	preferably, with your hands in the drops if you can hold your power	8	0	0	72	16777215	10
+1305	20 seconds!	3	0	0	72	16777215	25
+1305	10 seconds!	3	0	0	72	16777215	35
+1350	That's 3 sets down! Keep 'em turning forward for a minute	8	0	0	72	16777215	0
+1350	Remember to fully exhale to get your breathing & HR under control	8	0	0	72	16777215	10
+1350	Final set of 8 microbursts in about a minute	8	0	0	72	16777215	75
+1350	These are 18-seconds in length & will put you at 140% FTP	8	0	0	72	16777215	85
+1350	You know the drill by now, keep that cadence high & steady...	8	0	0	72	16777215	95
+1350	even during the short recovery valleys which aren't quite long enough...	8	0	0	72	16777215	105
+1350	to allow you to backpedal more than 5 seconds at the most	8	0	0	72	16777215	115
+1350	Get your spin up & get ready to kill this last set	8	0	0	72	16777215	125
+1485	Here we go! High cadence, full belly-breaths	5	0	0	72	16777215	0
+1503	Not much to say here that you haven't already heard: keep it quick	8	0	0	72	16777215	0
+1518	Wind it up quickly & we'll touch base every few intervals	8	0	0	72	16777215	0
+1602	Excellent, halfway through this set!	5	0	0	72	16777215	0
+1617	If your knees are alright, keep getting your power very quickly	8	0	0	72	16777215	0
+1617	But any joint discomfort, knees or otherwise, something has to change	8	0	0	72	16777215	10
+1668	Assess yourself. Is your cadence dropping?	5	0	0	72	16777215	0
+1668	Are you maintaining a good position on the bike?	5	0	0	72	16777215	10
+1668	Is your upper body relaxed?	5	0	0	72	16777215	20
+1701	Just 1 of these bad boys left!	5	0	0	72	16777215	0
+1716	Try to keep your jump "explosive"	5	0	0	72	16777215	0
+1716	Yes, "explosive" is in quotes because you ARE on a trainer	5	0	0	72	16777215	7
+1734	That's it! Excellent job	5	0	0	72	16777215	2
+1734	Feel free to keep riding after the clock stops...	8	0	0	72	16777215	12
+1734	and start mulling over your recovery strategy	5	0	0	72	16777215	22
+1734	We'll see you next time	5	0	0	72	16777215	29
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	1800	Workout
+120	210	Sweet Spot 1
+300	306	Sprint 1
+330	336	Sprint 2
+360	366	Sprint 3
+420	435	Sprint 4
+450	465	Sprint 5
+480	495	Sprint 6
+510	525	Sprint 7
+540	555	Sprint 8
+570	585	Sprint 9
+600	615	Sprint 10
+630	645	Sprint 11
+780	810	Sprint 12
+825	855	Sprint 13
+870	900	Sprint 14
+915	945	Sprint 15
+960	990	Sprint 16
+1125	1170	VO2 Max 1
+1185	1230	VO2 Max 2
+1245	1290	VO2 Max 3
+1305	1350	VO2 Max 4
+1485	1503	Sprint 17
+1518	1536	Sprint 18
+1551	1569	Sprint 19
+1584	1602	Sprint 20
+1617	1635	Sprint 21
+1650	1668	Sprint 22
+1683	1701	Sprint 23
+1716	1734	Sprint 24
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

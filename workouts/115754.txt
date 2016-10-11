@@ -1,0 +1,231 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Gilbert 45,92,64. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	65
+3	95
+5	95
+5	40
+7.8	40
+7.8	40
+8	95
+8	95
+13	95
+13	99
+14	99
+14	103
+15	103
+15	107
+16	107
+16	111
+17	111
+17	115
+18	115
+18	40
+20.8	40
+20.8	40
+21	90
+21	90
+26	90
+26	95
+27	95
+27	100
+28	100
+28	105
+29	105
+29	110
+30	110
+30	115
+31	115
+31	40
+33.8	40
+33.8	40
+34	95
+34	95
+39	95
+39	97
+39.5	97
+39.5	99
+40	99
+40	101
+40.5	101
+40.5	103
+41	103
+41	105
+41.5	105
+41.5	107
+42	107
+42	109
+42.5	109
+42.5	111
+43	111
+43	113
+43.5	113
+43.5	115
+44	115
+44	40
+45	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Ramping workouts like this are outright masochistic...	8	0	0	72	16777215	10
+0	but they are great at building muscular endurance...	8	0	0	72	16777215	20
+0	as well as mental endurance/toughness	5	0	0	72	16777215	30
+0	Each set of intervals will be slightly different from one another...	8	0	0	72	16777215	40
+0	but each of them will be comparatively tough	8	0	0	72	16777215	50
+0	The good news?	8	0	0	72	16777215	60
+0	Tough workouts make you tougher, no two ways about it	8	0	0	72	16777215	70
+0	Spin easy through your warmup and we'll chat more soon	8	0	0	72	16777215	80
+180	Ramp it up! Try to spin above 85rpm, closer to 95rpm is ideal	8	0	0	72	16777215	0
+180	Strong controlled breaths with a quiet & relaxed upper body...	8	0	0	72	16777215	10
+180	and a controlled but quick spin	5	0	0	72	16777215	20
+300	Ease off the gas & spin lightly for a few minutes	8	0	0	72	16777215	0
+300	We'll use this first effort to get used to stepped ramping efforts	8	0	0	72	16777215	60
+300	You'll start this one at 95% FTP for 5 minutes...	8	0	0	72	16777215	70
+300	before taking sizable 4% steps up to 115% FTP	8	0	0	72	16777215	80
+300	One key to these ramping workouts...	8	0	0	72	16777215	90
+300	is to avoid a decrease in cadence as you ascend the steps	8	0	0	72	16777215	100
+300	Keep your cadence high but sustainable for the entire 10 minutes...	8	0	0	72	16777215	110
+300	and make sure you take each effort in due course	8	0	0	72	16777215	120
+300	In other words, take it one interval at a time & one STEP at a time	8	0	0	72	16777215	130
+300	Ideally, you'll finish each set near total exhaustion...	8	0	0	72	16777215	140
+300	but that's actually a goal of Gilbert - near muscular failure	8	0	0	72	16777215	150
+468	Ramp it up!	5	0	0	72	16777215	0
+480	Once you adjust to the workload, find a rhythm...	8	0	0	72	16777215	0
+480	both with your pedaling as well as your breathing	8	0	0	72	16777215	10
+480	Halfway through this sub-FTP effort, try to stay relaxed	8	0	0	72	16777215	150
+480	Start by dropping your shoulders, then run down through your body	8	0	0	72	16777215	160
+480	If it's not helping you turn the pedals, ditch it	8	0	0	72	16777215	170
+780	Into the ramps! Keep that cadence steady & above 85rpm	8	0	0	72	16777215	0
+840	Each ramp is one minute long, so just focus on a single minute's worth of work	8	0	0	72	16777215	0
+900	Up again, see to it that your spin doesn't start to drag...	8	0	0	72	16777215	0
+900	and IF you get to the point where you're grinding slower & slower...	8	0	0	72	16777215	10
+900	backpedal for 10 seconds, no more, then wind it back up	8	0	0	72	16777215	20
+960	Mind your leg speed & try not to get forced into a slow crawl	8	0	0	72	16777215	0
+1020	Final minute, no bailing now!	5	0	0	72	16777215	0
+1020	Just 30 seconds, be tough!	5	0	0	72	16777215	30
+1080	Great job! Spin lightly & relax	5	0	0	72	16777215	0
+1080	You only have 3 minutes to rest & recover from that first brute	8	0	0	72	16777215	10
+1080	So spin lightly & quickly while controlling your breathing	8	0	0	72	16777215	20
+1080	And if you know that 3 minutes simply won't get you ready to go again...	8	0	0	72	16777215	30
+1080	pausing the workout for an extra minute or two isn't a bad idea	8	0	0	72	16777215	40
+1080	There's nothing that says you HAVE to recover quickly between efforts	8	0	0	72	16777215	50
+1080	Usually it's just a matter of keeping workouts short for time-constrained athletes	8	0	0	72	16777215	60
+1080	This next set starts out lower, but finishes at the same 115% FTP	8	0	0	72	16777215	120
+1080	So the steps will be a little taller, 5% FTP this time...	8	0	0	72	16777215	130
+1080	But that difference will barely be noticeable	8	0	0	72	16777215	140
+1080	Focus on your breathing & start this interval with fully, belly-breaths	8	0	0	72	16777215	150
+1248	Bring your spin up to that 85-95rpm range	8	0	0	72	16777215	0
+1260	And you're off! Smooth & relaxed right from the start	8	0	0	72	16777215	0
+1260	Pay attention to where you're breathing from	8	0	0	72	16777215	10
+1260	Are you breathing from your chest or abdomen?	8	0	0	72	16777215	20
+1260	Focus on using your abdomen to inhale & exhale	8	0	0	72	16777215	30
+1260	And as you exhale, push out strongly from your diaphragm	8	0	0	72	16777215	40
+1260	And instead of focusing solely on inhaling, focus more on exhaling	8	0	0	72	16777215	50
+1260	Just blow all the used air out & then let your lungs refill	8	0	0	72	16777215	60
+1260	So far so good, keep your pedaling fluid	8	0	0	72	16777215	120
+1260	Are you breathing in through your mouth AND nose?	8	0	0	72	16777215	130
+1260	When inhaling, use your nose in addition to your mouth	8	0	0	72	16777215	140
+1260	This can increase oxygen uptake a bit	5	0	0	72	16777215	150
+1260	Finally, when controlling the pace of your breathing...	8	0	0	72	16777215	180
+1260	make sure you aren't holding your breath	8	0	0	72	16777215	190
+1260	Sounds like a no-brainer but riders often suppress their breathing...	8	0	0	72	16777215	200
+1260	when they start hurting - just the opposite of what's necessary	8	0	0	72	16777215	210
+1260	Almost to the steps...	8	0	0	72	16777215	280
+1260	so make sure you focus on your belly-breathing & nose/mouth inhales	8	0	0	72	16777215	290
+1560	Little more work with the same smooth pedaling action	8	0	0	72	16777215	0
+1620	Bump it up again but don't show your change in effort	8	0	0	72	16777215	0
+1680	Above FTP now so the better you breathe, the better your odds of finishing	8	0	0	72	16777215	0
+1740	Try to breathe through that burning sensation in your legs	8	0	0	72	16777215	0
+1800	Final minute, 30 seconds at a time!	5	0	0	72	16777215	0
+1800	30 seconds, 10 seconds at a time!	8	0	0	72	16777215	30
+1800	Next 10 seconds, hang on!	5	0	0	72	16777215	40
+1800	Final 10, keep it together!	5	0	0	72	16777215	50
+1860	Very well done! Shake out those cooked legs	8	0	0	72	16777215	0
+1860	This next set has twice the amount of steps...	8	0	0	72	16777215	90
+1860	but they only last half as long while building to the same 115% FTP	8	0	0	72	16777215	100
+1860	So the increase will feel more gradual, perhaps more tolerable	8	0	0	72	16777215	110
+1860	One way you can try to keep yourself focused throughout this set...	8	0	0	72	16777215	120
+1860	is to imagine you are on a climb that gets progressively steeper	8	0	0	72	16777215	130
+1860	We'll also work on body positioning and technique before the steps	8	0	0	72	16777215	140
+2028	Bring your spin up, 95rpm ballpark if you can	5	0	0	72	16777215	0
+2040	Alright, so this climb starts off with a steady flat section	8	0	0	72	16777215	0
+2040	The pace is high and won't let up despite the increasing grade	8	0	0	72	16777215	10
+2040	So conserve a bit of energy now...	8	0	0	72	16777215	20
+2040	by maintaining a quick cadence and proper positioning & breathing	8	0	0	72	16777215	30
+2040	When approaching a climb...	8	0	0	72	16777215	60
+2040	it's  important to remember a few things	5	0	0	72	16777215	70
+2040	1. Make sure you are prepared...	8	0	0	72	16777215	80
+2040	with the necessary hydration & nutrition - easy enough	8	0	0	72	16777215	90
+2040	2. Make sure you are wearing the proper apparel...	8	0	0	72	16777215	100
+2040	by removing extra layers to keep cool	8	0	0	72	16777215	110
+2040	3. Make sure you are in the right gear...	8	0	0	72	16777215	120
+2040	by choosing a lighter, "spinnier" gear to start	8	0	0	72	16777215	130
+2040	Pretty straightforward but all beneficial	5	0	0	72	16777215	140
+2040	As the climb progresses, body position is key	8	0	0	72	16777215	150
+2040	Riding in the drops or with excessive bend in the waist...	8	0	0	72	16777215	160
+2040	effectively reduces your ability to expand your breathing cavity	8	0	0	72	16777215	170
+2040	This will make it harder to breathe when it really counts	8	0	0	72	16777215	180
+2040	So try riding from the hoods or tops, seated pretty upright	8	0	0	72	16777215	190
+2040	And of equal importance is where you are located in the saddle	8	0	0	72	16777215	200
+2040	Let your hips roll backward...	8	0	0	72	16777215	210
+2040	thereby placing your body's pressure on your sit bones	8	0	0	72	16777215	220
+2040	But perhaps most important of all...	8	0	0	72	16777215	230
+2040	don't let your cadence drop too much	5	0	0	72	16777215	240
+2040	If you find yourself dipping below 80rpm...	8	0	0	72	16777215	250
+2040	do all you can to get back on top of things, backpedaling as a last resort	8	0	0	72	16777215	260
+2040	It will pay off big time as you progress through the climb	8	0	0	72	16777215	270
+2340	Here's the climb, 30 seconds at a time	8	0	0	72	16777215	0
+2370	Focus on your breathing for this entire 30 seconds	8	0	0	72	16777215	0
+2400	Still breathing fully, shift focus to kicking your feet forward	8	0	0	72	16777215	0
+2430	Focus on your body positioning for 30 seconds	8	0	0	72	16777215	0
+2460	Spend 30 seconds focusing on pulling your heels backward	8	0	0	72	16777215	0
+2490	30 seconds of keeping your cadence steady	8	0	0	72	16777215	0
+2520	30 seconds of ditching tension from your upper body	8	0	0	72	16777215	0
+2550	30 seconds of reminding yourself how tough you are	8	0	0	72	16777215	0
+2580	30 seconds of NOT letting your cadence fall	8	0	0	72	16777215	0
+2610	Annnnnd 30 seconds of making this look easy...	8	0	0	72	16777215	0
+2610	even though you're just clinging to reality ;-)	8	0	0	72	16777215	10
+2640	Nice work! Spin out that heavy muscle fatigue	8	0	0	72	16777215	0
+2640	That was a tough workout, so if you need more recovery time...	8	0	0	72	16777215	10
+2640	feel free to keep spinning well past the end of the workout	8	0	0	72	16777215	20
+2640	We'll see you next time!	8	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	2700	Workout
+180	300	Sweet Spot 1
+480	780	Sweet Spot 2
+780	840	Threshold 1
+840	900	Threshold 2
+900	960	VO2 Max 1
+960	1020	VO2 Max 2
+1020	1080	VO2 Max 3
+1260	1560	Sweet Spot 3
+1560	1620	Sweet Spot 4
+1620	1680	Threshold 3
+1680	1740	Threshold 4
+1740	1800	VO2 Max 4
+1800	1860	VO2 Max 5
+2040	2340	Sweet Spot 5
+2340	2370	Threshold 5
+2370	2400	Threshold 6
+2400	2430	Threshold 7
+2430	2460	Threshold 8
+2460	2490	Threshold 9
+2490	2520	VO2 Max 6
+2520	2550	VO2 Max 7
+2550	2580	VO2 Max 8
+2580	2610	VO2 Max 9
+2610	2640	VO2 Max 10
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

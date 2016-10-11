@@ -1,0 +1,400 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Grassy Ridge,79,62. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	72
+12.5	72
+12.5	115
+13	115
+13	60
+13.5	60
+13.5	115
+14	115
+14	60
+14.5	60
+14.5	115
+15	115
+15	10
+16	10
+16	40
+20	40
+20	116
+20.5	116
+20.5	60
+21	60
+21	115
+21.5	115
+21.5	60
+22	60
+22	115
+22.5	115
+22.5	60
+23	60
+23	115
+23.5	115
+23.5	60
+24	60
+24	115
+24.5	115
+24.5	60
+25	60
+25	115
+25.5	115
+25.5	60
+26	60
+26	115
+26.5	115
+26.5	60
+27	60
+27	115
+27.5	115
+27.5	60
+28	60
+28	115
+28.5	115
+28.5	40
+32.5	40
+32.5	115
+33	115
+33	60
+33.5	60
+33.5	115
+34	115
+34	60
+34.5	60
+34.5	115
+35	115
+35	60
+35.5	60
+35.5	115
+36	115
+36	60
+36.5	60
+36.5	115
+37	115
+37	60
+37.5	60
+37.5	115
+38	115
+38	60
+38.5	60
+38.5	115
+39	115
+39	60
+39.5	60
+39.5	115
+40	115
+40	60
+40.5	60
+40.5	115
+41	115
+41	40
+45	40
+45	115
+45.5	115
+45.5	60
+46	60
+46	115
+46.5	115
+46.5	60
+47	60
+47	115
+47.5	115
+47.5	60
+48	60
+48	115
+48.5	115
+48.5	60
+49	60
+49	115
+49.5	115
+49.5	60
+50	60
+50	115
+50.5	115
+50.5	60
+51	60
+51	115
+51.5	115
+51.5	60
+52	60
+52	115
+52.5	115
+52.5	60
+53	60
+53	115
+53.5	115
+53.5	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome! Since you're doing Grassy Ridge...	8	0	0	72	16777215	10
+0	chances are you're prepping for MTB racing, cyclocross racing or criteriums	8	0	0	72	16777215	20
+0	This is a perfect workout for these events...	8	0	0	72	16777215	30
+0	because it closely simulates the unrelenting, on/off demands...	8	0	0	72	16777215	40
+0	that come fast & hard in all of these types of races	8	0	0	72	16777215	50
+0	Having big power is great, but it doesn't guarantee results	8	0	0	72	16777215	60
+0	It's what you do with that power that makes you faster	8	0	0	72	16777215	70
+0	Being able to put out big power time after time with little rest...	8	0	0	72	16777215	80
+0	will make you a serious threat in races and group rides	8	0	0	72	16777215	90
+0	And that's exactly what the intervals ahead are all about	8	0	0	72	16777215	100
+0	Warm up and get ready to do some work	8	0	0	72	16777215	110
+360	Keep your spin light & reasonably quick throughout this warmup	8	0	0	72	16777215	0
+360	Time to get a little taste of what you're up against	8	0	0	72	16777215	370
+360	Shoot for a high cadence during each of these, 90-110rpm	8	0	0	72	16777215	380
+750	At least 90rpm during this first one	6	0	0	72	16777215	0
+780	Ease off the gas but keep your legs fairly quick	8	0	0	72	16777215	0
+810	Try for 100rpm this time	5	0	0	72	16777215	0
+840	Back things off and get ahold of your breathing	8	0	0	72	16777215	0
+870	Last one, 110rpm if you can do it without bouncing	8	0	0	72	16777215	0
+900	Take it easy for a minute, backspin if you feel the need...	8	0	0	72	16777215	0
+900	and bring your breathing & HR back down a ways	8	0	0	72	16777215	10
+960	Easy spin while you continue to recover...	8	0	0	72	16777215	0
+960	and we'll take a look at the 3 sets awaiting you	8	0	0	72	16777215	10
+960	Each set is 9 efforts at 115% FTP lasting 30 seconds each	8	0	0	72	16777215	20
+960	The breaks in between are 30 seconds long...	8	0	0	72	16777215	30
+960	which isn't enough time to allow your breathing to drop very far	8	0	0	72	16777215	40
+960	This is by design because the idea is to keep your breathing elevated...	8	0	0	72	16777215	50
+960	such that you're working at a high level of oxygen uptake	8	0	0	72	16777215	60
+960	Keep your cadence high during each of these intervals	8	0	0	72	16777215	70
+960	Ideally, you'll be above 100rpm but this depends on your control	8	0	0	72	16777215	80
+960	If you can't be smooth & efficient with such a quick spin...	8	0	0	72	16777215	90
+960	trim your cadence until you're able to keep your form the entire time	8	0	0	72	16777215	100
+960	The idea is to keep yourself from getting bogged down...	8	0	0	72	16777215	110
+960	with a cadence that's too slow for watts this high...	8	0	0	72	16777215	120
+960	as well as keep the stress shifted more toward your heart & lungs...	8	0	0	72	16777215	130
+960	and slightly away from your muscles & joints	8	0	0	72	16777215	140
+960	20 seconds out - pick up your cadence and be ready	8	0	0	72	16777215	220
+960	Quick, smooth spin & strong, controlled breaths	8	0	0	72	16777215	230
+1200	Quick, controlled legs	5	0	0	72	16777215	0
+1230	Keep those legs spinning, reasonably quickly	5	0	0	72	16777215	0
+1260	Each time you hit the gas, try to be smooth about it	8	0	0	72	16777215	0
+1290	And each time you ease up, try to be equally smooth about it	8	0	0	72	16777215	0
+1320	Practice accelerating with great control and minimal wasted energy	8	0	0	72	16777215	0
+1350	Then practice DE-celerating in much the same way...	8	0	0	72	16777215	0
+1350	lots of control, no wasted movement & energy	8	0	0	72	16777215	9
+1380	This is all best accomplished by staying relaxed	8	0	0	72	16777215	0
+1380	And this may sound contradictory to the nature of these repeats...	8	0	0	72	16777215	10
+1380	but "relaxed" is clearly a relative term	8	0	0	72	16777215	20
+1440	During each repeat, see how "relaxed" you can become...	8	0	0	72	16777215	0
+1440	by effectively hiding the work	5	0	0	72	16777215	10
+1440	This means you'll blur the line between working & resting...	8	0	0	72	16777215	17
+1470	by looking equally as composed during the rests & the repeats	8	0	0	72	16777215	0
+1470	Find that "relaxed", composed appearance now...	8	0	0	72	16777215	10
+1470	then carry it into this next VO2 Max interval	5	0	0	72	16777215	20
+1500	Work harder but don't show it	8	0	0	72	16777215	0
+1500	Breathe harder but don't get carried away	8	0	0	72	16777215	10
+1500	Keep your poker face for 10 more seconds	8	0	0	72	16777215	20
+1530	Good! Now don't crumble just because it's rest time	8	0	0	72	16777215	0
+1530	Instead, keep your composure, your quick legs...	8	0	0	72	16777215	10
+1530	and your full, deep breaths while you pedal off the fatigue	8	0	0	72	16777215	20
+1560	Just as fluid as that last one...	5	0	0	72	16777215	0
+1560	with barely a visible distinction between effort levels	5	0	0	72	16777215	6
+1560	Make other riders wonder if you're actually hurting	5	0	0	72	16777215	13
+1560	Get in their heads while actually conserving energy!	5	0	0	72	16777215	20
+1620	Two left but keep your focus on a short leash...	8	0	0	72	16777215	0
+1620	only allowing it to get as far ahead as THIS interval	8	0	0	72	16777215	10
+1650	Big, belly-breaths & drop those shoulders	8	0	0	72	16777215	0
+1680	Last one!	3	0	0	72	16777215	0
+1680	Make it look downright boring  with how relaxed you appear	8	0	0	72	16777215	5
+1710	Well done	5	0	0	72	16777215	2
+1710	Take your time to regroup while you spin...	8	0	0	72	16777215	10
+1710	keeping your legs moving & flushing them out	8	0	0	72	16777215	20
+1710	With efforts like these, metabolic byproducts gradually build up	8	0	0	72	16777215	30
+1710	Think of them like the exhaust of your muscle contractions	8	0	0	72	16777215	40
+1710	If you stop moving your legs, then the exhaust stays put...	8	0	0	72	16777215	50
+1710	but if you keep them moving, you will increase removal...	8	0	0	72	16777215	60
+1710	and flush that waste out of your muscles	5	0	0	72	16777215	70
+1710	Might seem backwards, but the best way to recover is to stay active	8	0	0	72	16777215	80
+1710	Alright, during this next set, let's work on your breathing	8	0	0	72	16777215	150
+1710	Do your best to breathe with ALL of your lungs	8	0	0	72	16777215	160
+1710	One way to make sure this happens...	8	0	0	72	16777215	170
+1710	is to breathe with your diaphragm or "from your belly"	8	0	0	72	16777215	180
+1710	If you focus more on exhaling than inhaling...	8	0	0	72	16777215	190
+1710	and exhale strongly from your diaphragm...	8	0	0	72	16777215	200
+1710	you'll find the waste clears and the inhales handle  themselves quite nicely	8	0	0	72	16777215	210
+1710	Then it's just a matter of maintaining a breathing rhythm...	8	0	0	72	16777215	220
+1710	that works sufficiently for the level of effort you're exerting	8	0	0	72	16777215	230
+1950	Increase your effort and deepen your exhales a bit	8	0	0	72	16777215	0
+1950	Strong & deliberate breaths	5	0	0	72	16777215	10
+1980	Try not to neglect your breathing...	8	0	0	72	16777215	0
+1980	because the moment you do, your intervals will begin to degrade	8	0	0	72	16777215	10
+1980	These are highly aerobic efforts, so feed them!	8	0	0	72	16777215	20
+2010	Breathe from your belly...	5	0	0	72	16777215	0
+2010	by letting it distend and then draw in	8	0	0	72	16777215	6
+2040	Keep that same deliberate breathing pattern going	8	0	0	72	16777215	0
+2040	Recoveries are THE time to clear large amounts of accumulation...	8	0	0	72	16777215	10
+2040	so do yourself a favor and breathe fully	8	0	0	72	16777215	20
+2070	You'll basically breathe pretty heavily throughout each entire set	8	0	0	72	16777215	0
+2070	But at no point should you reach the point of gasping	8	0	0	72	16777215	10
+2070	Should that happen, backspin while lowering your respiration a bit	8	0	0	72	16777215	20
+2100	You can do this during the recovery valleys, of course...	8	0	0	72	16777215	0
+2100	but you can also skip a repeat & grow one rest period to 90 seconds	8	0	0	72	16777215	10
+2100	But try to postpone these "bailouts" until you know you NEED them	8	0	0	72	16777215	20
+2130	As you get fitter, you get tougher	8	0	0	72	16777215	0
+2130	Or you get tougher which allows you to get fitter...	8	0	0	72	16777215	10
+2130	The order doesn't really matter at the moment, but what does...	8	0	0	72	16777215	20
+2160	is the way you LEARN to push yourself harder & farther	8	0	0	72	16777215	0
+2160	And this is done by learning the difference...	5	0	0	72	16777215	10
+2160	between NEEDING rest and WANTING rest	8	0	0	72	16777215	16
+2190	We all WANT to rest when the discomfort sets in...	8	0	0	72	16777215	0
+2190	but do we really NEED that downtime in order to keep riding?	8	0	0	72	16777215	10
+2190	Not likley	3	0	0	72	16777215	20
+2220	But make no mistake, you NEED that hard work to make you stronger...	8	0	0	72	16777215	0
+2220	and anyone who says otherwise is just plain wrong	8	0	0	72	16777215	10
+2220	So when you start hurting, and you will at SOME point...	8	0	0	72	16777215	20
+2250	avoid assuming that you NEED rest just because it hurts	8	0	0	72	16777215	0
+2250	Pain is part of the package with interval training	8	0	0	72	16777215	10
+2250	And you're doing a real fine job of tolerating it RIGHT now	8	0	0	72	16777215	20
+2280	Keep it going, just one at a time...	5	0	0	72	16777215	0
+2280	recover well afterward...	3	0	0	72	16777215	6
+2280	and you WILL be stronger because of this very workout	8	0	0	72	16777215	10
+2280	Both in mind & body	5	0	0	72	16777215	20
+2310	Be relaxed & fluid...	5	0	0	72	16777215	0
+2310	and continue to hide the effort, hide the pain	6	0	0	72	16777215	6
+2340	Keep your legs turning forward if you can...	8	0	0	72	16777215	0
+2340	backward if you need to lighten the load a little further	8	0	0	72	16777215	9
+2340	But get spinning forward no later than 10 seconds out	8	0	0	72	16777215	19
+2370	Relaxed upper body, placid expression, smooth spin	8	0	0	72	16777215	0
+2400	Ease off the gas and tell yourself, "I've got this!"	8	0	0	72	16777215	0
+2400	Because if you've gotten this far, you know you can do ONE MORE	8	0	0	72	16777215	10
+2430	Just as "effortless" as the first one!	8	0	0	72	16777215	0
+2460	Really well done, take 'er easy for a while	6	0	0	72	16777215	2
+2460	Take a few minutes to spin away some heaviness & corral your breathing	8	0	0	72	16777215	10
+2460	Feel free to get out of the saddle too	8	0	0	72	16777215	30
+2460	Altering your position on the bike during recoveries is a good idea	8	0	0	72	16777215	40
+2460	It will work different muscle groups and give others a rest	8	0	0	72	16777215	50
+2460	But remember that standing requires more from your body...	8	0	0	72	16777215	60
+2460	so change positions for a brief period, but go back to sitting...	8	0	0	72	16777215	70
+2460	so you can get back to resting	5	0	0	72	16777215	80
+2460	For this last set, we'll work on technique	8	0	0	72	16777215	150
+2460	But remember what we worked on last set...	5	0	0	72	16777215	160
+2460	and put your breathing on autopilot	5	0	0	72	16777215	166
+2460	We'll work on a few different things...	5	0	0	72	16777215	180
+2460	all of which aim to make you a faster, more efficient rider	8	0	0	72	16777215	186
+2460	Time to get back in there, get your spin up	8	0	0	72	16777215	230
+2700	Try to keep your cadence above 100rpm if possible...	8	0	0	72	16777215	0
+2700	but more critical than leg speed is technique, so be sensible	8	0	0	72	16777215	10
+2730	Use this "rest" to get your technique on point	8	0	0	72	16777215	0
+2730	Relax your neck, shoulders, arms & put focus on your legs	8	0	0	72	16777215	10
+2730	Let them spin without mashing - constant pressure, smooth circles	8	0	0	72	16777215	20
+2760	Now minimize the extra noise in your pedalstroke	8	0	0	72	16777215	0
+2760	Kick forward at the top of the stroke...	5	0	0	72	16777215	10
+2760	back at the bottom of the stroke...	5	0	0	72	16777215	16
+2760	and up at the back of the stroke	5	0	0	72	16777215	22
+2790	Notice there was no mention of the downstroke?	8	0	0	72	16777215	0
+2790	That's one part of the pedalstroke that few riders neglect	8	0	0	72	16777215	10
+2820	Think of your feet as paint brushes painting perfect circles	8	0	0	72	16777215	10
+2820	No sudden movements or jerks, just smooth, controlled motions	8	0	0	72	16777215	20
+2850	Enough pedastroke refinement for now, let's work on body positioning	8	0	0	72	16777215	0
+2850	Start by relaxing your head, neck, shoulders, arms & hands	8	0	0	72	16777215	10
+2850	Needless muscle tension is not only wasteful but can lead to injury	8	0	0	72	16777215	20
+2880	So even when the pace kicks up, keep that unnecessary tension at bay	8	0	0	72	16777215	0
+2880	Keep your jaw relaxed too, and your face slack or smiling...	8	0	0	72	16777215	10
+2880	which is the only acceptable expression today ;-)	8	0	0	72	16777215	20
+2910	Excellent, get a handle on your breathing as quickly as possible	8	0	0	72	16777215	0
+2910	As you do, take inventory of every muscle carrying tension	8	0	0	72	16777215	10
+2910	Does it need to be tight? If not, let it go!	8	0	0	72	16777215	20
+2940	Pick up the pace while keeping a light grip on the bars	8	0	0	72	16777215	0
+2940	Gripping the bike with gorilla-like strength won't help you here	8	0	0	72	16777215	10
+2940	To be frank, it seldom helps outdoors either	8	0	0	72	16777215	20
+2970	Keep that relaxed upper body and let's  work on saddle position	8	0	0	72	16777215	0
+2970	Sit bones are the bones in your butt that you feel when you sit	8	0	0	72	16777215	10
+2970	Try to keep your weight placed mostly on these particular bones	8	0	0	72	16777215	20
+3000	When you start working harder, try to hold this position	8	0	0	72	16777215	0
+3000	During a big effort, many riders have a tendency to tip forward...	8	0	0	72	16777215	10
+3000	which pulls weight off the saddle, and often, out of the pedalstroke	8	0	0	72	16777215	20
+3030	Do your best to fight this and keep those sit bones anchored	8	0	0	72	16777215	0
+3030	To "anchor" your hips, try rolling your pelvis back slightly	8	0	0	72	16777215	10
+3030	You'll feel your weight become situated on your sit bones	8	0	0	72	16777215	20
+3060	Hips anchored, sit bones glued to the saddle...	8	0	0	72	16777215	10
+3060	drive the power up and continue hiding the effort	8	0	0	72	16777215	20
+3090	Use these last efforts to work on what we've just covered	8	0	0	72	16777215	0
+3090	Breathing, cadence, pedalstroke & body positioning	8	0	0	72	16777215	10
+3120	Pick one thing and give it most of your focus	8	0	0	72	16777215	0
+3120	And if you're at a loss, hide the work & breathe fully	8	0	0	72	16777215	10
+3150	Take it easy, you're almost there!	5	0	0	72	16777215	0
+3180	Get in the habit of making the last one look like the first one	8	0	0	72	16777215	0
+3180	Look smooth, fresh, controlled... in no way suffering	8	0	0	72	16777215	10
+3180	Even though you most certainly are	5	0	0	72	16777215	20
+3210	Well done! Ease up and start to cool down	8	0	0	72	16777215	2
+3210	As your breathing & HR start to return to normal levels...	8	0	0	72	16777215	10
+3210	start contemplating or even taking on your recovery nutrition	8	0	0	72	16777215	20
+3210	Your body is particularly receptive to carbohydrate right now...	8	0	0	72	16777215	30
+3210	and almost definitley a bit dehydrated, but this is easily remedied	8	0	0	72	16777215	40
+3210	However you go about it, get nourished and rehydrated soon...	8	0	0	72	16777215	50
+3210	and we'll see you next time	5	0	0	72	16777215	60
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+360	750	Endurance 1
+750	780	VO2 Max 1
+780	810	Endurance 2
+810	840	VO2 Max 2
+840	870	Endurance 3
+870	900	VO2 Max 3
+1200	1230	VO2 Max 4
+1230	1260	Endurance 4
+1260	1290	VO2 Max 5
+1290	1320	Endurance 5
+1320	1350	VO2 Max 6
+1350	1380	Endurance 6
+1380	1410	VO2 Max 7
+1410	1440	Endurance 7
+1440	1470	VO2 Max 8
+1470	1500	Endurance 8
+1500	1530	VO2 Max 9
+1530	1560	Endurance 9
+1560	1590	VO2 Max 10
+1590	1620	Endurance 10
+1620	1650	VO2 Max 11
+1650	1680	Endurance 11
+1680	1710	VO2 Max 12
+1950	1980	VO2 Max 13
+1980	2010	Endurance 12
+2010	2040	VO2 Max 14
+2040	2070	Endurance 13
+2070	2100	VO2 Max 15
+2100	2130	Endurance 14
+2130	2160	VO2 Max 16
+2160	2190	Endurance 15
+2190	2220	VO2 Max 17
+2220	2250	Endurance 16
+2250	2280	VO2 Max 18
+2280	2310	Endurance 17
+2310	2340	VO2 Max 19
+2340	2370	Endurance 18
+2370	2400	VO2 Max 20
+2400	2430	Endurance 19
+2430	2460	VO2 Max 21
+2700	2730	VO2 Max 22
+2730	2760	Endurance 20
+2760	2790	VO2 Max 23
+2790	2820	Endurance 21
+2820	2850	VO2 Max 24
+2850	2880	Endurance 22
+2880	2910	VO2 Max 25
+2910	2940	Endurance 23
+2940	2970	VO2 Max 26
+2970	3000	Endurance 24
+3000	3030	VO2 Max 27
+3030	3060	Endurance 25
+3060	3090	VO2 Max 28
+3090	3120	Endurance 26
+3120	3150	VO2 Max 29
+3150	3180	Endurance 27
+3180	3210	VO2 Max 30
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

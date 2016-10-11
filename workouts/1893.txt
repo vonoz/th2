@@ -1,0 +1,109 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Cartago,76,174. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	70
+15	70
+15	80
+16	80
+16	85
+17	85
+17	90
+18	90
+18	85
+19	85
+19	80
+20	80
+20	60
+30	60
+30	88
+50	88
+50	50
+58	50
+58	92
+78	92
+78	50
+86	50
+86	70
+96	70
+96	110
+99	110
+99	40
+109	40
+109	115
+112	115
+112	40
+124	40
+124	120
+127	120
+127	40
+137	40
+137	60
+147	60
+147	50
+152	50
+152	60
+154	60
+154	80
+155	80
+155	85
+156	85
+156	90
+157	90
+157	85
+158	85
+158	80
+159	80
+159	65
+180	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	We'll start a spin triangle next	8	0	0	72	16777215	870
+0	each minute you'll increase your cadence by 10	8	0	0	72	16777215	878
+0	Start this next minute at 110 rpm or something that is fast for you but not full speed	8	0	0	72	16777215	886
+960	Bump up your cadence by 10 rpm	8	0	0	72	16777215	-1
+1020	+10 rpm more	8	0	0	72	16777215	-1
+1080	Drop your cadence down by 10	8	0	0	72	16777215	-1
+1140	Drop 10 more rpm from your cadence	8	0	0	72	16777215	-1
+1200	Go back to soft pedaling and get ready for a few 20 minute Sweet Spot intervals	8	0	0	72	16777215	-1
+3480	One hour down, two to go	8	0	0	72	16777215	120
+6720	One hour left	8	0	0	72	16777215	480
+9120	We've got another spin triangle coming up.	8	0	0	72	16777215	90
+9120	Remember to change your cadence by 10 rpm each minute	8	0	0	72	16777215	98
+9120	So for the 5 minutes you might do: 110, 120, 130, 120, 110	8	0	0	72	16777215	106
+9540	Wow! You made it! 3 hours is a long ride on the trainer	8	0	0	72	16777215	1230
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	10800	Workout
+0	900	Endurance 1
+900	960	Tempo 1
+960	1020	Sweet Spot 1
+1020	1080	Sweet Spot 2
+1080	1140	Sweet Spot 3
+1140	1200	Tempo 2
+1200	1800	Endurance 2
+1800	3000	Sweet Spot 4
+3480	4680	Sweet Spot 5
+5160	5760	Endurance 3
+5760	5940	VO2 Max 1
+6540	6720	VO2 Max 2
+7440	7620	VO2 Max 3
+8220	8820	Endurance 4
+9120	9240	Endurance 5
+9240	9300	Tempo 3
+9300	9360	Sweet Spot 6
+9360	9420	Sweet Spot 7
+9420	9480	Sweet Spot 8
+9480	9540	Tempo 4
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

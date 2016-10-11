@@ -1,0 +1,291 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = East Vidette,88,117. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	65
+4	95
+7	95
+7	40
+9	40
+9	130
+10	130
+10	40
+15	40
+15	130
+16	130
+16	97
+19	97
+19	94
+23	94
+23	40
+28	40
+28	130
+29	130
+29	97
+32	97
+32	94
+36	94
+36	40
+41	40
+41	130
+42	130
+42	97
+45	97
+45	94
+49	94
+49	40
+54	40
+54	130
+55	130
+55	97
+58	97
+58	94
+62	94
+62	40
+67	40
+67	130
+68	130
+68	97
+71	97
+71	94
+75	94
+75	40
+80	40
+80	130
+81	130
+81	97
+84	97
+84	94
+88	94
+88	40
+90	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Everybody loves a drag race, am I right?	8	0	0	72	16777215	10
+0	But top fuel drag racing hasn't yet translated to cycling	8	0	0	72	16777215	20
+0	So while there are plenty of moments LIKE a drag race...	8	0	0	72	16777215	30
+0	the race continues on afterwards in most cases	8	0	0	72	16777215	40
+0	In cycling, this happens repeatedly in a group ride or race	8	0	0	72	16777215	50
+0	Today's "hard start" intervals will build fitness for this scenario...	8	0	0	72	16777215	60
+0	and also give you fitness benefits across the board	8	0	0	72	16777215	80
+0	For now though, use the next several minutes to open up your lungs & legs	8	0	0	72	16777215	90
+240	3 minutes with a quick, relaxed spin above 85rpm	8	0	0	72	16777215	0
+420	Ease off the effort but keep your legs fairly quick	8	0	0	72	16777215	0
+540	One minute, spin quickly, above 100rpm if possible	8	0	0	72	16777215	0
+600	Excellent, spin off that little bit of fatigue & ride easy	8	0	0	72	16777215	0
+600	Ok, our first set is a minute away	5	0	0	72	16777215	240
+600	We'll let you go this one alone to get a feel for the profile	8	0	0	72	16777215	250
+600	Do the best you can to meter your effort wisely...	4	0	0	72	16777215	260
+600	knowing you have 8 minutes of work ahead	4	0	0	72	16777215	265
+600	5 seconds, get ready	3	0	0	72	16777215	295
+900	1-minute push!	3	0	0	72	16777215	0
+960	Might feel rough, but don't back off too far...	5	0	0	72	16777215	0
+960	and keep your legs ticking along quickly	5	0	0	72	16777215	6
+1140	Hold strong & wait for the relief that's on its way	5	0	0	72	16777215	0
+1380	Nicely done	3	0	0	72	16777215	2
+1380	Take it easy and relax while you slow your HR & breathing...	8	0	0	72	16777215	10
+1380	but keep spinning your legs, forward or backward	8	0	0	72	16777215	20
+1380	If you need to, backpedal a few times throughout this break	8	0	0	72	16777215	30
+1380	The key to these hard-start intervals...	8	0	0	72	16777215	120
+1380	is managing that initial surge	3	0	0	72	16777215	130
+1380	It can either flood your legs and spike your heart rate...	8	0	0	72	16777215	140
+1380	or you can use it to establish a quick cadence & strong breathing	8	0	0	72	16777215	150
+1380	The best way to do that is be prepared	5	0	0	72	16777215	160
+1380	Pick your cadence up to a higher level than normal...	8	0	0	72	16777215	170
+1380	and shift into the proper gear just prior to the interval's start...	8	0	0	72	16777215	180
+1380	and build as smoothly as possible while still maintaining Target Power	8	0	0	72	16777215	190
+1380	Once you get to your power target...	5	0	0	72	16777215	200
+1380	keep a quick cadence and focus on strong controlled breaths	8	0	0	72	16777215	206
+1380	Being ahead of the curve...	3	0	0	72	16777215	220
+1380	will give you an advantage throughout the rest of the set	5	0	0	72	16777215	224
+1380	30 seconds to go so start picking up your cadence	8	0	0	72	16777215	270
+1380	High cadence & strong breathing	5	0	0	72	16777215	285
+1380	Be ready with your cadence & gearing	5	0	0	72	16777215	292
+1680	Shift & go!	5	0	0	72	16777215	0
+1680	Spin quickly, spin lightly	5	0	0	72	16777215	10
+1680	Powerful exhaling, controlled breathing	5	0	0	72	16777215	30
+1680	Keep it up! Just 20 seconds	5	0	0	72	16777215	40
+1740	Now keep your cadence high!	5	0	0	72	16777215	0
+1740	Slowly bring it down to a manageable level...	5	0	0	72	16777215	10
+1740	but don't let it drop so low that you are muscling the pedals	8	0	0	72	16777215	16
+1740	Spin quickly enough that the pressure is relatively light	8	0	0	72	16777215	30
+1740	Stay strong, you're halfway	5	0	0	72	16777215	90
+1920	Keep spinning at the same cadence...	5	0	0	72	16777215	0
+1920	but let the intensity drop just slightly	5	0	0	72	16777215	6
+1920	Just take the edge off but don't get comfortable	5	0	0	72	16777215	13
+2160	Done!	3	0	0	72	16777215	2
+2160	Nice job! Spin & relax	5	0	0	72	16777215	10
+2160	These hard-start intervals are perfect for MTB or cyclocross events...	8	0	0	72	16777215	60
+2160	as well as some forms of track racing & definitely criteriums	8	0	0	72	16777215	70
+2160	It's common for racers to go all-out from the gun...	5	0	0	72	16777215	80
+2160	as every other racer shakes their head knowing that they'll pop	8	0	0	72	16777215	86
+2160	But, if you frequently train like this...	5	0	0	72	16777215	100
+2160	you'll be able to throw them a curve ball, catch 'em snoozing...	5	0	0	72	16777215	106
+2160	by going hard & then continuing to maintain a strong pace...	5	0	0	72	16777215	112
+2160	whether during a race or a fast group ride	5	0	0	72	16777215	118
+2160	So during this next interval, let's treat it like a true race start	5	0	0	72	16777215	125
+2160	For now, keep your cadence light and control your breathing...	5	0	0	72	16777215	132
+2160	and we'll soon go over how to ideally approach the starting line	8	0	0	72	16777215	138
+2160	After a great warmup, it's common to sit on the line for 10 minutes	8	0	0	72	16777215	180
+2160	This is a necessary evil with mass start events so don't let it psych you out	8	0	0	72	16777215	190
+2160	You won't lose the benefit of your warmup inside of 10 minutes...	8	0	0	72	16777215	200
+2160	but it might make that initial surge a bit uncomfortable, so brace for that	8	0	0	72	16777215	210
+2160	To somewhat simulate this, stop spinning 30 seconds before this next interval	8	0	0	72	16777215	220
+2160	Imagine working your way into the front of the starting grid...	8	0	0	72	16777215	270
+2160	then standing in position, not spinning, getting in the zone	8	0	0	72	16777215	280
+2160	10 seconds left, get ready to pounce	5	0	0	72	16777215	290
+2460	Hammer!	3	0	0	72	16777215	0
+2460	Establish a strong & controlled breathing pattern ASAP	8	0	0	72	16777215	10
+2460	Stay focused, no point in looking back	5	0	0	72	16777215	20
+2460	That can give your competition the impression you don't have confidence	8	0	0	72	16777215	30
+2460	You're getting a gap now, keep pushing!	5	0	0	72	16777215	40
+2460	Stretch your lead!	3	0	0	72	16777215	50
+2520	Good! Settle into a strong but manageable pace	8	0	0	72	16777215	0
+2520	This pace should approximate the pace of the pack...	8	0	0	72	16777215	10
+2520	but still allow you to recover at least a little bit	8	0	0	72	16777215	20
+2520	If it feels like it's too hard...	5	0	0	72	16777215	60
+2520	get that out of your head and tell yourself you can do this	8	0	0	72	16777215	66
+2520	It's below your FTP, you can hold this pace a while	8	0	0	72	16777215	80
+2520	It's working!	3	0	0	72	16777215	120
+2520	Your lead is expanding & the pack has settled down	5	0	0	72	16777215	124
+2700	Go ahead and drop the pace a bit so you can recover a little more	8	0	0	72	16777215	0
+2700	Although the pace is high, your focus should be on recovery	8	0	0	72	16777215	60
+2700	Hit your marks, but gain ground by recovering while working	8	0	0	72	16777215	70
+2700	Managing your lead is a learned skill...	5	0	0	72	16777215	120
+2700	that involves analyzing your form on race day	5	0	0	72	16777215	126
+2700	Where are you strong or weak on the course?	5	0	0	72	16777215	133
+2700	How are the conditions that affect you and the pack?	5	0	0	72	16777215	140
+2700	How will you manage your energy stores optimally?	5	0	0	72	16777215	147
+2700	Going all-out the whole time is sure to yield a disaster...	5	0	0	72	16777215	155
+2700	so practice managing your effort like this sometimes	5	0	0	72	16777215	161
+2940	Good work! Another one down	5	0	0	72	16777215	2
+2940	Now we'll simulate a breakaway situation	8	0	0	72	16777215	120
+2940	Breakaways are often misunderstood scenarios in racing	8	0	0	72	16777215	130
+2940	A breakaway isn't necessarily a hard effort...	5	0	0	72	16777215	140
+2940	but more a result of a well-placed, hard effort...	5	0	0	72	16777215	146
+2940	and is dependent upon MANY circumstances	5	0	0	72	16777215	152
+2940	We won't go into too much detail right now...	5	0	0	72	16777215	160
+2940	but we'll give just enough to provide context	5	0	0	72	16777215	166
+2940	First off, launch breakaways where you can gain an advantage	8	0	0	72	16777215	173
+2940	On a hill, technical descent, crosswind section, etc.	5	0	0	72	16777215	183
+2940	And when you do so, try to avoid attacking from the front	5	0	0	72	16777215	190
+2940	If you can, position yourself away from your main competitors...	8	0	0	72	16777215	197
+2940	so that when you attack, they can't easily grab your wheel	8	0	0	72	16777215	207
+2940	And give yourself enough room to accelerate...	5	0	0	72	16777215	217
+2940	so that when you pass them...	4	0	0	72	16777215	223
+2940	you have too much momentum for them to latch on	5	0	0	72	16777215	228
+2940	OK, imagine you are cruising along towards the front of the group	8	0	0	72	16777215	270
+2940	Your main competition is on the left of the group, you're on the right	8	0	0	72	16777215	280
+2940	Get into a position with a clear path ahead of you...	8	0	0	72	16777215	290
+3240	then shift and go for it!	5	0	0	72	16777215	0
+3240	Focus on staying aero & pushing hard	5	0	0	72	16777215	10
+3240	No time for looking back, you're looking ahead, you're focused	8	0	0	72	16777215	20
+3240	You're not breaking away for kicks, you're breaking away to WIN!	8	0	0	72	16777215	30
+3240	You've got two other riders with you, but they aren't major threats	8	0	0	72	16777215	40
+3240	Keep pushing, the gap is growing!	5	0	0	72	16777215	50
+3300	Nice! One of your breakmates jumped in front	8	0	0	72	16777215	0
+3300	Many hands make light work!	5	0	0	72	16777215	10
+3300	Settle in behind & follow the draft	8	0	0	72	16777215	20
+3300	But if they start slowing down, motivate & encourage them	8	0	0	72	16777215	30
+3300	You initiated the breakaway, you get to manage it	8	0	0	72	16777215	40
+3300	Front rider's putting in a good pull!	5	0	0	72	16777215	90
+3300	You three are still opening up a gap on the field	8	0	0	72	16777215	97
+3300	Looks like the rider in front is starting to get tired	8	0	0	72	16777215	120
+3300	Gradually move to the front and take your turn keeping up the pace	8	0	0	72	16777215	130
+3300	Good! Maintain this pace for a little longer	8	0	0	72	16777215	140
+3480	Excellent! Now get the third rider to take a pull	8	0	0	72	16777215	0
+3480	Looks like that pace is a bit lower, but you're still moving away from the field	8	0	0	72	16777215	10
+3480	So use this time to recover while in the draft	8	0	0	72	16777215	20
+3480	You're all holding a steady pace...	5	0	0	72	16777215	60
+3480	but watch to make sure your lead rider doesn't slow down	8	0	0	72	16777215	66
+3480	Since that rider wasn't anxious to take a pull...	5	0	0	72	16777215	76
+3480	there's a concern of some breakaway sabotage	5	0	0	72	16777215	82
+3480	Just keep an eye on your breakmates, try to understand their motivation	8	0	0	72	16777215	90
+3480	You're all still working so maybe this is a break with a chance!	8	0	0	72	16777215	180
+3720	Well done!	5	0	0	72	16777215	2
+3720	Backpedal for a few seconds if needed	5	0	0	72	16777215	10
+3720	Relax and breathe deeply	5	0	0	72	16777215	17
+3720	We only have two left now	5	0	0	72	16777215	120
+3720	While two more may seem overwhelming...	8	0	0	72	16777215	130
+3720	take confidence in what you've done so far	5	0	0	72	16777215	140
+3720	You've already done 4 of these, you can handle 2 more	8	0	0	72	16777215	150
+3720	You've felt spent after each one, yet still recovered for another	8	0	0	72	16777215	160
+3720	So doing it two more times is totally doable	8	0	0	72	16777215	170
+3720	Spend this next one imagining the scenario of your choice	8	0	0	72	16777215	240
+3720	We'll be here for support  & occasional encouragement	8	0	0	72	16777215	250
+3720	10 seconds to go, get ready	5	0	0	72	16777215	290
+4020	Go for it!	3	0	0	72	16777215	0
+4020	Clean, smooth technique - be fluid & fast	8	0	0	72	16777215	10
+4020	High cadence too! Many, light turns of the pedals	8	0	0	72	16777215	20
+4080	Keep your cadence high despite the drop in intensity	8	0	0	72	16777215	0
+4080	Keep efficiency in mind too, no excess body movement	8	0	0	72	16777215	10
+4080	Clean & smooth technique	5	0	0	72	16777215	20
+4080	Big, controlled breaths	5	0	0	72	16777215	60
+4260	Don't drop the cadence, just slightly ease off the intensity	8	0	0	72	16777215	0
+4260	Stay strong for a minute at a time	5	0	0	72	16777215	120
+4260	Final minute! Make it pretty	5	0	0	72	16777215	180
+4500	Good job, yet again!	5	0	0	72	16777215	0
+4500	Evaluate how you did that last time	8	0	0	72	16777215	120
+4500	Did you find yourself struggling to maintain cadence?	8	0	0	72	16777215	130
+4500	Was your breathing controlled?	5	0	0	72	16777215	140
+4500	Was your body quiet & smooth or bobbing with each pedalstroke?	8	0	0	72	16777215	150
+4500	Make a mental note of what you want to improve...	8	0	0	72	16777215	160
+4500	and work on it during this last one	5	0	0	72	16777215	170
+4500	20 seconds to go-time	5	0	0	72	16777215	280
+4500	Spin up to around 90rpm	5	0	0	72	16777215	290
+4800	Kick this off at +100rpm!	5	0	0	72	16777215	0
+4800	Good! Stay strong, be smooth & efficient	5	0	0	72	16777215	10
+4800	Breathe with power & control - force those exhales	8	0	0	72	16777215	20
+4860	If you feel the need to drop your cadence, do so gradually	8	0	0	72	16777215	0
+4860	Exhale with power from your abdomen	5	0	0	72	16777215	10
+4860	Push ALL of the old air out of your lungs...	5	0	0	72	16777215	20
+4860	and bring in fresh air through your nose & mouth	5	0	0	72	16777215	26
+4860	Focus on a controlled & comfortable breathing rhythm	8	0	0	72	16777215	60
+4860	Keep your rhythm, relax your shoulders	5	0	0	72	16777215	120
+5040	Even though it may not feel like a big change...	5	0	0	72	16777215	0
+5040	the intensity DID drop	5	0	0	72	16777215	6
+5040	But your cadence doesn't need to drop with it	5	0	0	72	16777215	13
+5040	2 minutes down, 2 minutes left	5	0	0	72	16777215	120
+5040	You've got this!	3	0	0	72	16777215	180
+5040	30 seconds, keep pushing!	3	0	0	72	16777215	210
+5280	Very nicely done! Spin it out	5	0	0	72	16777215	2
+5280	That's a tough workout, no doubt about it...	5	0	0	72	16777215	10
+5280	and now you're even tougher...and tired ;-)	5	0	0	72	16777215	16
+5280	Start thinking about your recovery nutrition, grab some water...	8	0	0	72	16777215	30
+5280	and we'll see you next time	5	0	0	72	16777215	39
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+240	420	Sweet Spot 1
+540	600	Anaerobic Capacity 1
+900	960	Anaerobic Capacity 2
+960	1140	Threshold 1
+1140	1380	Sweet Spot 2
+1680	1740	Anaerobic Capacity 3
+1740	1920	Threshold 2
+1920	2160	Sweet Spot 3
+2460	2520	Anaerobic Capacity 4
+2520	2700	Threshold 3
+2700	2940	Sweet Spot 4
+3240	3300	Anaerobic Capacity 5
+3300	3480	Threshold 4
+3480	3720	Sweet Spot 5
+4020	4080	Anaerobic Capacity 6
+4080	4260	Threshold 5
+4260	4500	Sweet Spot 6
+4800	4860	Anaerobic Capacity 7
+4860	5040	Threshold 6
+5040	5280	Sweet Spot 7
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

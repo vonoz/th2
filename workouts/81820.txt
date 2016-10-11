@@ -1,0 +1,111 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Carson TC,81,33. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	50
+3	90
+5	90
+5	40
+7	40
+7	88
+12	88
+12	40
+14	40
+14	92
+20	92
+20	40
+22	40
+22	90
+29	90
+29	40
+30	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Settle into a quick but comfortable spin for a few minutes	8	0	0	72	16777215	15
+0	Light stress on the legs & comfortable breathing while you warm	8	0	0	72	16777215	25
+0	Get ready for two steady minutes close to FTP	8	0	0	72	16777215	170
+180	Try to keep your cadence & effort steady, spinning between 85-95rpm	8	0	0	72	16777215	-1
+300	Nice job, time to talk about today's Sweet Spot intervals ranging from 5-7 minutes	8	0	0	72	16777215	-1
+300	These steady-effort intervals are all high-end aerobic base	8	0	0	72	16777215	10
+300	And while they aren't completely aerobic (they'll definitely burn some sugar)...	8	0	0	72	16777215	30
+300	they will improve your aerobic fitness, or rather...	8	0	0	72	16777215	40
+300	how hard you can work & still rely mostly on clean, plentiful oxygen	8	0	0	72	16777215	50
+300	The effort falls right between Tempo & Threshold work...	8	0	0	72	16777215	60
+300	so it's a bit tougher than Tempo, but a bit more forgiving than Threshold...	8	0	0	72	16777215	70
+300	and all about establishing a strong base to later build FTP improvements upon	8	0	0	72	16777215	80
+300	It's uncomfortable, requires focus to stay there & gets the heart goin' pretty good...	8	0	0	72	16777215	90
+300	but it's low enough in intensity that you can actually do quite a lot of it...	8	0	0	72	16777215	100
+300	without overreaching too far or fatiguing yourself too greatly	8	0	0	72	16777215	110
+420	Bring your cadence down to 85rpm	8	0	0	72	16777215	-1
+420	If you don't have cadence data, then imagine a steady climb	8	0	0	72	16777215	10
+420	Not too steep, but something that keeps you under 13mph	8	0	0	72	16777215	20
+420	Many riders naturally spin at about 85rpm, so this might even be your natural cadence	8	0	0	72	16777215	30
+420	If that's the case, start seeing a spin this slow as a climbing spin ONLY	8	0	0	72	16777215	40
+420	85rpm is typically too slow to spin unless the road is tipping upwards	8	0	0	72	16777215	50
+420	But we'll target leg speed & pedal economy in other workouts	8	0	0	72	16777215	60
+420	Keep on grinding away, but try to keep your upper body pretty still	8	0	0	72	16777215	90
+420	A mild sway is permitted - for now - but keep it subtle	8	0	0	72	16777215	100
+420	And relax your grip on the bars - use your midsection to remain steady, not your arms	8	0	0	72	16777215	110
+420	2 minutes left, staying pretty relaxed?	5	0	0	72	16777215	180
+420	How about your knee alignment?	5	0	0	72	16777215	193
+420	Watch your left knee - make it move straight up, straight down	8	0	0	72	16777215	200
+420	Now your right knee - moving like a piston, right?	8	0	0	72	16777215	210
+420	If either knee wobbles at the top of your pedalstroke...	8	0	0	72	16777215	220
+420	now's the time to start gradually eliminating that wobble	8	0	0	72	16777215	230
+420	1 minute - knees like pistons	5	0	0	72	16777215	240
+720	Nice job. Knees OK with that sort cadence?	8	0	0	72	16777215	-1
+720	Keep your spin quick & light for a couple minutes	8	0	0	72	16777215	10
+720	Get ready for round 2 with a spin at 85rpm or quicker	8	0	0	72	16777215	110
+840	6 minutes of seated climbing this time	8	0	0	72	16777215	-1
+840	Climbing doesn't have to mean a slow cadence	8	0	0	72	16777215	10
+840	In fact, most of the best climbers in the world do it with a relatively quick spin	8	0	0	72	16777215	20
+840	Because they understand the trade-off between slow & quick cadences	8	0	0	72	16777215	30
+840	Slow grinds are very muscular - which is fine from time to time & in small doses	8	0	0	72	16777215	40
+840	But sustained climbs should favor a quicker, more heart-reliant spin...	8	0	0	72	16777215	50
+840	otherwise you overcook your muscles when it's simply not necessary	8	0	0	72	16777215	60
+840	Save that strength for when you run out of gears and are stuck grinding	8	0	0	72	16777215	70
+840	2 minutes in - watch your left knee for 30 seconds	8	0	0	72	16777215	120
+840	Now the right knee	5	0	0	72	16777215	150
+840	Now both knees when they come to the top of the pedalstroke	8	0	0	72	16777215	180
+840	Any wobble? Focus on your form, ditch the wobble	8	0	0	72	16777215	190
+840	2 minutes to go - climbing quickly & smoothly	8	0	0	72	16777215	240
+1200	Excellent! Couple really easy minutes	8	0	0	72	16777215	-1
+1200	7 minutes this time - all seated at 85rpm	8	0	0	72	16777215	110
+1320	Annnnnnd go!	8	0	0	72	16777215	-1
+1320	How's your position on the bike?	8	0	0	72	16777215	60
+1320	Are you comfortably draped over the handlebars?	8	0	0	72	16777215	70
+1320	Or are you stiff-arming your bars like you're trying to push your bike away?	8	0	0	72	16777215	80
+1320	Guess which one's the superior climbing position?	8	0	0	72	16777215	90
+1320	3 minutes in, upper body still relaxed?	8	0	0	72	16777215	180
+1320	Stability comes from your midsection, not your arms	8	0	0	72	16777215	190
+1320	Tense arms not only add to your fatigue...	8	0	0	72	16777215	200
+1320	but they're downright dangerous when it comes to bike handling	8	0	0	72	16777215	210
+1320	So relaaaaaaaaaaax	5	0	0	72	16777215	220
+1320	Time to watch your knees again, start with your left	8	0	0	72	16777215	240
+1320	Right knee	5	0	0	72	16777215	270
+1320	Both knees at the top of the pedalstroke - no wobble at 85rpm	8	0	0	72	16777215	300
+1320	Good, now just focus on smooth climbing for 90 seconds	8	0	0	72	16777215	330
+1740	Great job! Spin off that heaviness	5	0	0	72	16777215	-1
+1740	Force/strength work like this is tough on the muscles...	8	0	0	72	16777215	10
+1740	so be kind to your legs today AND tomorrow if you aren't used to this type of training	8	0	0	72	16777215	20
+1740	See you next time	5	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	1800	Workout
+180	300	Sweet Spot 1
+420	720	Sweet Spot 2
+840	1200	Sweet Spot 3
+1320	1740	Sweet Spot 4
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

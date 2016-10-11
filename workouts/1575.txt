@@ -1,0 +1,521 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Keith ,92,126. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	80
+6	80
+6	90
+8	90
+8	100
+10	100
+10	40
+14.5	40
+14.5	40
+15	95
+15	95
+15.75	95
+15.75	110
+16	110
+16	95
+16.75	95
+16.75	110
+17	110
+17	95
+17.75	95
+17.75	110
+18	110
+18	95
+18.75	95
+18.75	110
+19	110
+19	95
+19.75	95
+19.75	110
+20	110
+20	100
+20.75	100
+20.75	120
+21	120
+21	100
+21.75	100
+21.75	120
+22	120
+22	100
+22.75	100
+22.75	120
+23	120
+23	105
+23.75	105
+23.75	130
+24	130
+24	105
+24.75	105
+24.75	130
+25	130
+25	40
+29.5	40
+29.5	40
+30	95
+30	95
+30.75	95
+30.75	115
+31	115
+31	95
+31.75	95
+31.75	115
+32	115
+32	95
+32.75	95
+32.75	115
+33	115
+33	95
+33.75	95
+33.75	115
+34	115
+34	95
+34.75	95
+34.75	115
+35	115
+35	100
+35.75	100
+35.75	125
+36	125
+36	100
+36.75	100
+36.75	125
+37	125
+37	100
+37.75	100
+37.75	125
+38	125
+38	105
+38.75	105
+38.75	135
+39	135
+39	105
+39.75	105
+39.75	135
+40	135
+40	40
+44.5	40
+44.5	40
+45	95
+45	95
+45.75	95
+45.75	110
+46	110
+46	95
+46.75	95
+46.75	110
+47	110
+47	95
+47.75	95
+47.75	110
+48	110
+48	95
+48.75	95
+48.75	110
+49	110
+49	95
+49.75	95
+49.75	110
+50	110
+50	100
+50.75	100
+50.75	120
+51	120
+51	100
+51.75	100
+51.75	120
+52	120
+52	100
+52.75	100
+52.75	120
+53	120
+53	105
+53.75	105
+53.75	130
+54	130
+54	105
+54.75	105
+54.75	130
+55	130
+55	40
+59.5	40
+59.5	40
+60	95
+60	95
+60.75	95
+60.75	115
+61	115
+61	95
+61.75	95
+61.75	115
+62	115
+62	95
+62.75	95
+62.75	115
+63	115
+63	95
+63.75	95
+63.75	115
+64	115
+64	95
+64.75	95
+64.75	115
+65	115
+65	100
+65.75	100
+65.75	125
+66	125
+66	100
+66.75	100
+66.75	125
+67	125
+67	100
+67.75	100
+67.75	125
+68	125
+68	105
+68.75	105
+68.75	135
+69	135
+69	105
+69.75	105
+69.75	135
+70	135
+70	40
+74.5	40
+74.5	40
+75	95
+75	95
+75.75	95
+75.75	110
+76	110
+76	95
+76.75	95
+76.75	110
+77	110
+77	95
+77.75	95
+77.75	110
+78	110
+78	95
+78.75	95
+78.75	110
+79	110
+79	95
+79.75	95
+79.75	110
+80	110
+80	100
+80.75	100
+80.75	120
+81	120
+81	100
+81.75	100
+81.75	120
+82	120
+82	100
+82.75	100
+82.75	120
+83	120
+83	105
+83.75	105
+83.75	130
+84	130
+84	105
+84.75	105
+84.75	130
+85	130
+85	40
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Looking at the profile of this workout...	8	0	0	72	16777215	1
+0	it's easy to see how you'll amass a ton of TSS in a hurry	8	0	0	72	16777215	10
+0	This workout is tough, no reason to sugarcoat it	5	0	0	72	16777215	20
+0	It will push you to your so-called limits and past them...	8	0	0	72	16777215	30
+0	60 times to be exact	5	0	0	72	16777215	40
+0	By the end of this workout, you'll have spent 20 minutes above FTP...	8	0	0	72	16777215	50
+0	the majority of which is above 110% FTP	5	0	0	72	16777215	60
+0	All of that being said, this workout is precisely designed...	8	0	0	72	16777215	70
+0	to be barely but definitely achievable	5	0	0	72	16777215	80
+0	So don't worry, you can do this & you've probably done harder things before	8	0	0	72	16777215	90
+0	We'll even give you some tips on how to handle it	8	0	0	72	16777215	100
+0	We'll chat after the warmup	5	0	0	72	16777215	110
+240	Spin at 85rpm or higher	5	0	0	72	16777215	0
+360	Spend a couple minutes at 90rpm or higher	8	0	0	72	16777215	0
+480	Last couple minutes, 95rpm or higher...	8	0	0	72	16777215	0
+480	but no bouncing	5	0	0	72	16777215	10
+600	So the first thing to keep in mind is the number of sets	8	0	0	72	16777215	120
+600	You have 5 sets of high intensity over-under intervals ahead...	8	0	0	72	16777215	130
+600	and you have a finite amount of energy	8	0	0	72	16777215	140
+600	So use it wisely!	5	0	0	72	16777215	150
+600	Maintain a slightly higher cadence than normal...	8	0	0	72	16777215	160
+600	and establish a strong and comfortable breathing rhythm	8	0	0	72	16777215	170
+600	We'll let you work through this first set without too much advice	8	0	0	72	16777215	240
+600	Just be prepared to work hard & take it a minute or two at a time	8	0	0	72	16777215	250
+600	10 seconds left, quick adence & full breathing	8	0	0	72	16777215	260
+870	Ramp up your power & cadence gradually	8	0	0	72	16777215	0
+900	Shoot for a cadence in the 85-95rpm range during these "valleys"	8	0	0	72	16777215	0
+945	WInd it up to 100rpm or higher for 15 seconds	8	0	0	72	16777215	0
+960	And back down to that 85-95rpm range	8	0	0	72	16777215	0
+1005	Pick it up & stay relaxed	5	0	0	72	16777215	0
+1020	You've got the idea, we'll check back in soon	8	0	0	72	16777215	0
+1200	Settle into a slightly higher effort level, same 85-95rpm spin	8	0	0	72	16777215	0
+1245	100rpm or higher as long as you don't bounce around	8	0	0	72	16777215	0
+1260	Smoothly back to 85-95rpm	5	0	0	72	16777215	0
+1380	Settling in a little above your FTP, don't shy away from the pain	8	0	0	72	16777215	0
+1425	15 seconds with even quicker legs	5	0	0	72	16777215	0
+1440	Do your best to stay on top of your spin!	5	0	0	72	16777215	0
+1485	Last kick, hang in there!	5	0	0	72	16777215	0
+1500	Good start! Take it easy for a few minutes	8	0	0	72	16777215	10
+1500	Spin easy & catch your breath	5	0	0	72	16777215	20
+1500	OK, now let's talk about your cadence a bit	8	0	0	72	16777215	210
+1500	Focusing on your technique is a great way...	8	0	0	72	16777215	220
+1500	to make it through hard efforts like this - productive distraction	8	0	0	72	16777215	230
+1500	Do your best to stay above 90rpm at all times except for the surges	8	0	0	72	16777215	240
+1500	During the surges, jump up to above 100rpm, seated for now	8	0	0	72	16777215	250
+1500	If you slow your cadence down, you're only hurting yourself	8	0	0	72	16777215	260
+1770	Gradually ramp up your leg speed & power	8	0	0	72	16777215	0
+1800	Try to keep that cadence between 85-95rpm	5	0	0	72	16777215	0
+1845	+100rpm	3	0	0	72	16777215	0
+1860	Back down to 85-95rpm	5	0	0	72	16777215	0
+1905	If you find yourself bouncing, try to relax your lower legs	8	0	0	72	16777215	0
+1920	Smooth & fast	5	0	0	72	16777215	0
+1920	Steady pressure all the way around	5	0	0	72	16777215	7
+1965	Spin!	8	0	0	72	16777215	0
+1980	When the power decreases, keep your cadence high	8	0	0	72	16777215	0
+1980	This will make it easier to transition to a different pace	8	0	0	72	16777215	10
+2025	Push!	8	0	0	72	16777215	0
+2100	A little higher now, stay relaxed	5	0	0	72	16777215	0
+2145	Keep your cadence high and your body calm	8	0	0	72	16777215	0
+2280	Keep calm and finish this out strongly	5	0	0	72	16777215	0
+2325	Keep your cadence above 100rpm!	5	0	0	72	16777215	0
+2340	Final minute, don't fade!	5	0	0	72	16777215	0
+2385	Final seated push!	5	0	0	72	16777215	0
+2400	Good work!	5	0	0	72	16777215	0
+2400	Catch your breath while you keep your legs spinning lightly	8	0	0	72	16777215	10
+2400	This upcoming third set will carry us over the halfway point	8	0	0	72	16777215	180
+2400	Sounds like a good point to work on breathing	8	0	0	72	16777215	190
+2400	In fact, let's get started on that now	5	0	0	72	16777215	200
+2400	Often enough, we remember to breathe properly...	8	0	0	72	16777215	210
+2400	only once we are out of breath	5	0	0	72	16777215	220
+2400	But this is usually far too late	5	0	0	72	16777215	230
+2400	Proper breathing is a habit to be developed & applied often	8	0	0	72	16777215	240
+2400	So start by breathing in your nose & mouth...	8	0	0	72	16777215	250
+2400	and push all that old air out with full belly exhaling	8	0	0	72	16777215	260
+2670	Build it up & keep breathing fully	8	0	0	72	16777215	0
+2700	Find a comfortable and efficient rhythm, and remember...	8	0	0	72	16777215	0
+2700	while the rhythm may change, keep your breaths full & belly-driven	8	0	0	72	16777215	10
+2745	Just because the pace increased...	8	0	0	72	16777215	0
+2760	doesn't mean your breathing has to	5	0	0	72	16777215	0
+2760	Control your breathing, don't let it control you	8	0	0	72	16777215	10
+2880	Inhale through the nose & mouth	5	0	0	72	16777215	0
+3000	Exhale with force, from your diaphragm/abdomen	8	0	0	72	16777215	0
+3120	If you look down at your stomach when you're breathing...	8	0	0	72	16777215	0
+3120	it should be visibly moving in & out, pooching then drawing in	8	0	0	72	16777215	10
+3120	Don't just breathe with your chest	5	0	0	72	16777215	30
+3180	Higher pace, still the same control over your breathing	8	0	0	72	16777215	0
+3225	Focus your energy on exhaling	5	0	0	72	16777215	0
+3225	Your body will take care of inhaling	5	0	0	72	16777215	7
+3240	A natural vacuum takes care of inhaling if you exhale with force	8	0	0	72	16777215	0
+3285	Last kick, make it smooth	5	0	0	72	16777215	0
+3300	Way to go! Spin out those heavy muscles	8	0	0	72	16777215	0
+3300	Only 2 sets left now, but limit your focus the the next one only	8	0	0	72	16777215	10
+3300	Take it really easy for a few more minutes	8	0	0	72	16777215	20
+3300	Now let's work on mentally handling this type of discomfort	8	0	0	72	16777215	210
+3300	Imagine a scenario where your power file would look like the screen	8	0	0	72	16777215	220
+3300	It's very similar to riding with 3 other riders & trading equal pulls	8	0	0	72	16777215	230
+3300	If you're a racer, it's very much like working in a 4-man breakaway	8	0	0	72	16777215	240
+3300	If you aren't a racer, it's just another fast group ride with a few workers	8	0	0	72	16777215	250
+3570	Build into this one, power & cadence	5	0	0	72	16777215	0
+3600	If you're out there riding hard with 3 other riders...	8	0	0	72	16777215	0
+3600	the pulls will come fast & hard	5	0	0	72	16777215	10
+3600	Remember that the goal isn't to break away...	8	0	0	72	16777215	20
+3600	but instead to work together & share the workload	8	0	0	72	16777215	30
+3645	Your turn at the front, but don't go too hard!	8	0	0	72	16777215	0
+3660	Drop back to the back of the line	8	0	0	72	16777215	0
+3660	One thing you'll realize right away is that you don't get to rest...	8	0	0	72	16777215	10
+3660	when dropping to the back of the line	5	0	0	72	16777215	20
+3660	At that point you're body is recovering from the long pull	8	0	0	72	16777215	30
+3705	Back to the front, SAME cadence	5	0	0	72	16777215	0
+3720	The rest comes once you have spent some time in line again	8	0	0	72	16777215	0
+3720	In this case, maybe 30 seconds into each 45-second stretch	8	0	0	72	16777215	10
+3720	And if you're committed to this visualization, here's another tip...	8	0	0	72	16777215	20
+3720	Keep your spin between 85-95rpm the ENTIRE interval	8	0	0	72	16777215	30
+3765	Your turn! More power, same spin	8	0	0	72	16777215	0
+3780	When you take pulls, focus on fluidity & not disrupting the pace	8	0	0	72	16777215	0
+3780	If you wind it up too much you're likely to cause gaps in the line	8	0	0	72	16777215	10
+3780	But if you hold your cadence, and therefore your speed, steady...	8	0	0	72	16777215	20
+3780	you won't be the rider who repeatedly "harms" the break	8	0	0	72	16777215	30
+3825	You're in the wind so you have to work harder...	5	0	0	72	16777215	0
+3825	but not faster, no change in speed	5	0	0	72	16777215	7
+3840	When you're back in the draft, you get to ease up a little...	8	0	0	72	16777215	0
+3840	but the speed stays the same, make sense?	8	0	0	72	16777215	10
+3840	Work harder for 15 seconds, ease up a little for 45 seconds...	8	0	0	72	16777215	20
+3840	and keep the group's speed consistent the whole time	8	0	0	72	16777215	30
+3885	Same cadence, more power	5	0	0	72	16777215	0
+3900	Looks like the other riders are excited to get to the end!	8	0	0	72	16777215	0
+3900	The overall pace just lifted and you're along for the ride	8	0	0	72	16777215	10
+3945	Bigger pull this time! Same cadence	5	0	0	72	16777215	0
+3960	Good! Now when you drop back...	8	0	0	72	16777215	0
+3960	imagine staying as close to the others as possible	8	0	0	72	16777215	10
+3960	Although minimal, the effects of drafting are felt laterally as well	8	0	0	72	16777215	20
+3960	So be close enough that you are almost touching elbows	8	0	0	72	16777215	30
+4005	Time to pull! Keep it smooth & steady	5	0	0	72	16777215	0
+4020	Search for every bit of draft as you fall back into line	8	0	0	72	16777215	0
+4065	Strong & efficient pull! Don't disrupt the harmony ;-)	8	0	0	72	16777215	0
+4080	Almost to the end, let's pick up the pace for the final couple minutes	8	0	0	72	16777215	0
+4080	Just a couple pulls left	5	0	0	72	16777215	10
+4080	Strong pulls, but maintain unity with the other riders	8	0	0	72	16777215	20
+4125	Pull! Keep it steady	5	0	0	72	16777215	0
+4140	Now that you're even more tired, work harder on efficiency	8	0	0	72	16777215	0
+4140	Be more aero, more fluid, more calm	5	0	0	72	16777215	10
+4140	Breathe deeper & spin quicker	5	0	0	72	16777215	20
+4185	Last pull! Same spin	5	0	0	72	16777215	0
+4200	Awesome! Way to keep things productive while suffering	8	0	0	72	16777215	0
+4200	Only one left now, but not until you recover for a few minutes	8	0	0	72	16777215	10
+4200	Use this final set to work on any of the points we've focused on	8	0	0	72	16777215	240
+4200	We'll be here for encouragement and support :)	5	0	0	72	16777215	250
+4470	Build into this one slowly, the fatigue is undoubtedly high	8	0	0	72	16777215	0
+4500	Good! Now find your rhythm & relax	8	0	0	72	16777215	0
+4500	Remember, you've already done this 4 times...	8	0	0	72	16777215	10
+4500	You can definitely do this again	5	0	0	72	16777215	20
+4545	It's up to you to alternate cadences or keep it steady throughout	8	0	0	72	16777215	0
+4560	Choose which is harder if you're still fresh enough...	8	0	0	72	16777215	0
+4560	choose which is less challenging if you're just hanging in there	8	0	0	72	16777215	10
+4680	Evaluate yourself, make sure you're riding smoothly...	8	0	0	72	16777215	0
+4680	keeping your hips stable, sit bones down...	8	0	0	72	16777215	10
+4680	staying relaxed with low shoulders & soft elbows...	8	0	0	72	16777215	20
+4680	and holding a cadence above 85rpm	5	0	0	72	16777215	30
+4800	Pick up the pace but maintain that calm, cool exterior ;-)	8	0	0	72	16777215	0
+4980	Final bump in pace, stay strong!	5	0	0	72	16777215	0
+5085	Hammer, last time!	5	0	0	72	16777215	0
+5100	Very well done!	5	0	0	72	16777215	0
+5100	That is an impressive amount of work, especially in 90 minutes	8	0	0	72	16777215	10
+5100	Take what you learned & apply it during your next workout...	8	0	0	72	16777215	20
+5100	so you have a better chance of retaining these new habits	8	0	0	72	16777215	30
+5100	But before then, get some recovery nutrition in you right away...	8	0	0	72	16777215	40
+5100	and we'll see you next time	8	0	0	72	16777215	50
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+240	360	Tempo 1
+360	480	Sweet Spot 1
+480	600	Threshold 1
+900	945	Sweet Spot 2
+945	960	VO2 Max 1
+960	1005	Sweet Spot 3
+1005	1020	VO2 Max 2
+1020	1065	Sweet Spot 4
+1065	1080	VO2 Max 3
+1080	1125	Sweet Spot 5
+1125	1140	VO2 Max 4
+1140	1185	Sweet Spot 6
+1185	1200	VO2 Max 5
+1200	1245	Threshold 2
+1245	1260	VO2 Max 6
+1260	1305	Threshold 3
+1305	1320	VO2 Max 7
+1320	1365	Threshold 4
+1365	1380	VO2 Max 8
+1380	1425	Threshold 5
+1425	1440	Sprint 1
+1440	1485	Threshold 6
+1485	1500	Sprint 2
+1800	1845	Sweet Spot 7
+1845	1860	VO2 Max 9
+1860	1905	Sweet Spot 8
+1905	1920	VO2 Max 10
+1920	1965	Sweet Spot 9
+1965	1980	VO2 Max 11
+1980	2025	Sweet Spot 10
+2025	2040	VO2 Max 12
+2040	2085	Sweet Spot 11
+2085	2100	VO2 Max 13
+2100	2145	Threshold 7
+2145	2160	Sprint 3
+2160	2205	Threshold 8
+2205	2220	Sprint 4
+2220	2265	Threshold 9
+2265	2280	Sprint 5
+2280	2325	Threshold 10
+2325	2340	Sprint 6
+2340	2385	Threshold 11
+2385	2400	Sprint 7
+2700	2745	Sweet Spot 12
+2745	2760	VO2 Max 14
+2760	2805	Sweet Spot 13
+2805	2820	VO2 Max 15
+2820	2865	Sweet Spot 14
+2865	2880	VO2 Max 16
+2880	2925	Sweet Spot 15
+2925	2940	VO2 Max 17
+2940	2985	Sweet Spot 16
+2985	3000	VO2 Max 18
+3000	3045	Threshold 12
+3045	3060	VO2 Max 19
+3060	3105	Threshold 13
+3105	3120	VO2 Max 20
+3120	3165	Threshold 14
+3165	3180	VO2 Max 21
+3180	3225	Threshold 15
+3225	3240	Sprint 8
+3240	3285	Threshold 16
+3285	3300	Sprint 9
+3600	3645	Sweet Spot 17
+3645	3660	VO2 Max 22
+3660	3705	Sweet Spot 18
+3705	3720	VO2 Max 23
+3720	3765	Sweet Spot 19
+3765	3780	VO2 Max 24
+3780	3825	Sweet Spot 20
+3825	3840	VO2 Max 25
+3840	3885	Sweet Spot 21
+3885	3900	VO2 Max 26
+3900	3945	Threshold 17
+3945	3960	Sprint 10
+3960	4005	Threshold 18
+4005	4020	Sprint 11
+4020	4065	Threshold 19
+4065	4080	Sprint 12
+4080	4125	Threshold 20
+4125	4140	Sprint 13
+4140	4185	Threshold 21
+4185	4200	Sprint 14
+4500	4545	Sweet Spot 22
+4545	4560	VO2 Max 27
+4560	4605	Sweet Spot 23
+4605	4620	VO2 Max 28
+4620	4665	Sweet Spot 24
+4665	4680	VO2 Max 29
+4680	4725	Sweet Spot 25
+4725	4740	VO2 Max 30
+4740	4785	Sweet Spot 26
+4785	4800	VO2 Max 31
+4800	4845	Threshold 22
+4845	4860	VO2 Max 32
+4860	4905	Threshold 23
+4905	4920	VO2 Max 33
+4920	4965	Threshold 24
+4965	4980	VO2 Max 34
+4980	5025	Threshold 25
+5025	5040	Sprint 15
+5040	5085	Threshold 26
+5085	5100	Sprint 16
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

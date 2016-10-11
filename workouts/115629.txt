@@ -1,0 +1,130 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Chamberlin 45,89,60. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	65
+3	90
+6	95
+6	130
+6.5	130
+6.5	40
+10.5	40
+10.5	129
+11.5	129
+11.5	97
+14.5	97
+14.5	94
+18.5	94
+18.5	40
+22.5	40
+22.5	130
+23.5	130
+23.5	97
+26.5	97
+26.5	94
+30.5	94
+30.5	40
+34.5	40
+34.5	130
+35.5	130
+35.5	97
+38.5	97
+38.5	94
+42.5	94
+42.5	40
+45	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Today's workout is a multi-pronged attack	8	0	0	72	16777215	10
+0	Each interval starts with a strong hit...	8	0	0	72	16777215	20
+0	and is followed by near-FTP, sustained work	8	0	0	72	16777215	30
+0	We'll get into what this does for your fitness a little later...	8	0	0	72	16777215	40
+0	but for now, let's get warmed up	8	0	0	72	16777215	50
+180	Pick up the intensity a bit, cadence too	8	0	0	72	16777215	0
+180	Shoot for something in the 85-95rpm range	8	0	0	72	16777215	10
+360	Quicker without bouncing, over 100rpm if possible	8	0	0	72	16777215	0
+390	Ease off the effort but keep your legs turning	5	0	0	72	16777215	0
+390	While you are spinning through this rest...	8	0	0	72	16777215	20
+390	let's talk about what these intervals are all about	8	0	0	72	16777215	30
+390	The high-intensity effort that starts each interval...	8	0	0	72	16777215	40
+390	will put a heavy load on the muscles you normally use...	8	0	0	72	16777215	50
+390	but after it's finished...	8	0	0	72	16777215	60
+390	the sustained work will require your body...	8	0	0	72	16777215	70
+390	to rely on the less frequently used muscles in your legs	8	0	0	72	16777215	80
+390	This will allow you to utilize additional muscle fibers...	8	0	0	72	16777215	90
+390	thus increasing your strength capacity & your overall work capacity	8	0	0	72	16777215	100
+390	In other words, big power for a longer durations...	8	0	0	72	16777215	110
+390	and even after hard efforts	5	0	0	72	16777215	120
+390	Get ready for your first interval...	5	0	0	72	16777215	225
+390	with a quick but relaxed spin	5	0	0	72	16777215	231
+630	Go, go, go! Fast, controlled spin	5	0	0	72	16777215	0
+690	Good!	3	0	0	72	16777215	0
+690	That effort has sapped your go-to muscle fibers...	8	0	0	72	16777215	10
+690	so now you get to rely more on different ones	8	0	0	72	16777215	20
+690	Stay steady at a comfortable cadence	5	0	0	72	16777215	30
+870	Although the intensity has dropped...	8	0	0	72	16777215	0
+870	I'm sure it doesn't feel any easier since the drop was small	8	0	0	72	16777215	10
+870	But stay strong and try to make it look easy	5	0	0	72	16777215	20
+870	1 minute left, keep it up!	5	0	0	72	16777215	180
+1110	There we go!	5	0	0	72	16777215	0
+1110	1 down, 2 to go	5	0	0	72	16777215	10
+1110	Spin light & easy and catch your breath	8	0	0	72	16777215	20
+1110	We've got 1 minute before your next strip set	8	0	0	72	16777215	180
+1110	If you had trouble maintaining the last one...	8	0	0	72	16777215	190
+1110	make sure you start with a quicker spin, probably over 100rpm	8	0	0	72	16777215	200
+1110	Then, settle into a comfortable 85-95rpm cadence	8	0	0	72	16777215	210
+1110	Here we go...	3	0	0	72	16777215	235
+1350	Speed up!	5	0	0	72	16777215	0
+1410	Catch your breath and find your rhythm...	8	0	0	72	16777215	0
+1410	both pedaling AND breathing	5	0	0	72	16777215	10
+1590	Good! Keep it up!	5	0	0	72	16777215	0
+1590	Try to hide just how hard you're working	8	0	0	72	16777215	10
+1590	This fools everyone into thinking you're the stronger rider...	8	0	0	72	16777215	20
+1590	and it can even fool yourself into believing the work isn't all that tough	8	0	0	72	16777215	30
+1830	Well done!	5	0	0	72	16777215	0
+1830	Make sure you focus on recovery this time	8	0	0	72	16777215	10
+1830	Now when these efforts feels tough...	8	0	0	72	16777215	120
+1830	remember that you are forcing yourself...	8	0	0	72	16777215	130
+1830	to rely on lesser-used muscle fibers, maybe totally unused ones	8	0	0	72	16777215	140
+1830	Patience is key when working on this...	8	0	0	72	16777215	150
+1830	so if you have difficulty maintaining power levels...	8	0	0	72	16777215	160
+1830	that you are normally able to maintain with ease...	8	0	0	72	16777215	170
+1830	don't worry about it, this is part of our masterful plan ;-)	8	0	0	72	16777215	180
+1830	With enough practice, you'll be able to handle these with ease	8	0	0	72	16777215	190
+1830	10 seconds...	5	0	0	72	16777215	230
+2070	Push! 1 hard, fast minute	5	0	0	72	16777215	0
+2130	Good! Now maintain your control...	8	0	0	72	16777215	0
+2130	and try to hold your power as steady & on Target as you can	8	0	0	72	16777215	10
+2310	Ease off the gas only SLIGHTLY	5	0	0	72	16777215	0
+2310	One more minute, try to convince everyone this is EASY!	8	0	0	72	16777215	180
+2550	Way to go!	5	0	0	72	16777215	0
+2550	Strong workouts make strong riders, but only with proper recovery	8	0	0	72	16777215	10
+2550	Take extra time to cool down if you need it, start thinking nutrition...	8	0	0	72	16777215	20
+2550	and we'll see you next time	5	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	2700	Workout
+180	360	Sweet Spot 1
+360	390	Sprint 1
+630	690	Anaerobic Capacity 1
+690	870	Threshold 1
+870	1110	Sweet Spot 2
+1350	1410	Anaerobic Capacity 2
+1410	1590	Threshold 2
+1590	1830	Sweet Spot 3
+2070	2130	Anaerobic Capacity 3
+2130	2310	Threshold 3
+2310	2550	Sweet Spot 4
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

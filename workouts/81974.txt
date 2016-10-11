@@ -1,0 +1,118 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Geiger TC,87,38. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+1	60
+1	85
+2	85
+2	40
+3	40
+3	90
+4	90
+4	90
+5	91
+5	91
+8	88
+8	88
+11	94
+11	94
+16	91
+16	40
+17	40
+17	91
+20	94
+20	94
+23	88
+23	88
+26	91
+26	91
+29	88
+29	40
+30	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Try to keep your spin above 90 rpm - above 100 rpm is even better	8	0	0	72	16777215	10
+0	Get ready for a quick, 1-minute warming effort, keep that cadence quick	8	0	0	72	16777215	50
+60	Nice & quick for a minute	8	0	0	72	16777215	0
+60	30 more seconds, no bouncing in the saddle	8	0	0	72	16777215	30
+120	Take it easy for a minute and then we'll get right to it	8	0	0	72	16777215	0
+180	Settle into the workload & try to stay relaxed	8	0	0	72	16777215	0
+240	We'll spend this first interval at your self-selected, natural cadence	8	0	0	72	16777215	-1
+240	And since the workload is a pretty steady one, your cadence should be as well	8	0	0	72	16777215	10
+300	A few minutes in, make note of where your cadence tends to settle	8	0	0	72	16777215	60
+300	Time to kill the monotony with some efficiency drills	8	0	0	72	16777215	90
+300	If you think of the pedalstroke as having 4 quadrants...	8	0	0	72	16777215	100
+300	you'll probably notice that the 2nd quadrant, aka the downstroke, does most of the work	8	0	0	72	16777215	110
+300	Rightly so since it's the most powerful segment of the pedalstroke, however...	8	0	0	72	16777215	120
+300	if you can learn to harness the power in the remaining 3 quadrants...	8	0	0	72	16777215	130
+300	not only do you spare your quads but you also learn to pedal more efficiently	8	0	0	72	16777215	140
+300	And improving efficiency is like increasing your power for FREE!	8	0	0	72	16777215	150
+300	You don't work harder, you simply work better	8	0	0	72	16777215	160
+300	So let's focus on the 1st & 3rd quadrants, or as we call them, the "kick & pull"	8	0	0	72	16777215	170
+480	Every time your foot hits about 10 o'clock, kick your toes into the fronts of your shoes...	8	0	0	72	16777215	-1
+480	and when you hit about 4 o'clock, pull your heels into the backs of your shoes	8	0	0	72	16777215	10
+480	This is also referred to as 'horizontal pedaling' or 'back & forth pedaling'	8	0	0	72	16777215	20
+480	But whatever you call it, there's very little pressure on the downstroke	8	0	0	72	16777215	30
+480	Almost as though you're pedaling on eggshells & trying not to break them	8	0	0	72	16777215	40
+480	Keep kicking & pulling for a few more seconds...	8	0	0	72	16777215	50
+480	now return to a more balanced pedalstroke for a minute	8	0	0	72	16777215	60
+480	Get ready to focus on the kick & pull again...	8	0	0	72	16777215	110
+480	kick over the top, pull across the bottom, one minute	8	0	0	72	16777215	120
+660	Good, now back to your usual pedaling style	8	0	0	72	16777215	-1
+660	Again, 1 minute of kicking & pulling	8	0	0	72	16777215	50
+660	Lightly kick from 10 o'clock to 2 o'clock...	8	0	0	72	16777215	60
+660	and lightly pull from 4 o'clock to 8 o'clock	8	0	0	72	16777215	70
+660	These are not powerful quadrants, so you don't have to kick or pull very hard...	8	0	0	72	16777215	80
+660	rather, we just want our legs ACTIVE all the way around the pedalstroke	8	0	0	72	16777215	90
+660	Back to your natural pedaling style	5	0	0	72	16777215	120
+660	Once more, pedal like you have eggshells under your arches	8	0	0	72	16777215	180
+660	Try to give your quads a break & make the rest of your leg muscles contribute	8	0	0	72	16777215	190
+660	Good, now finish out this last minute pedaling smoothly & naturally	8	0	0	72	16777215	240
+960	Take it easy for a few minutes	5	0	0	72	16777215	-1
+960	Just lift your knees & let your feet fall	5	0	0	72	16777215	10
+960	Third & final round, comin' up!	5	0	0	72	16777215	50
+1020	Use the first 2 minutes to settle in & get properly positioned on your bike	8	0	0	72	16777215	-1
+1020	Check your sit bones - feel the wings of the saddle?	8	0	0	72	16777215	10
+1020	Let's really mix things up - 1 minute of focus on your kick & pull	8	0	0	72	16777215	120
+1200	Now raise your cadence a little higher than usual	8	0	0	72	16777215	-1
+1200	Back to kicking & pulling	5	0	0	72	16777215	60
+1200	Now slow your spin & really 'muscle' the pedalstroke	8	0	0	72	16777215	120
+1380	Settle back into your natural spin & slightly raise one hand off the bars	8	0	0	72	16777215	-1
+1380	Try not to alter your body's position at all; rather, use your abs & back to hold you steady	8	0	0	72	16777215	10
+1380	Trade hands and keep your body still & relaxed	8	0	0	72	16777215	30
+1380	Both hands on, pick up your spin - shoot for 110+ rpm	8	0	0	72	16777215	60
+1380	Slow it back down & focus on your right leg only	8	0	0	72	16777215	120
+1380	Now your left leg	5	0	0	72	16777215	150
+1560	Back to your right leg, especially its kick & pull	8	0	0	72	16777215	-1
+1560	Left leg, smoothly kick & pull	5	0	0	72	16777215	30
+1560	Even out your focus and pick it up again, just a little quicker than you like	8	0	0	72	16777215	60
+1560	Last minute, just make it pretty - relaxed body & balanced pedalstroke	8	0	0	72	16777215	120
+1740	Nicely done! 24 minutes in the Sweet Spot all inside of a half hour	8	0	0	72	16777215	-1
+1740	Consider your recovery nutrition while you warm down	8	0	0	72	16777215	10
+1740	See ya next time	5	0	0	72	16777215	20
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	1800	Workout
+60	120	Sweet Spot 1
+180	240	Sweet Spot 2
+240	300	Sweet Spot 3
+300	480	Sweet Spot 4
+480	660	Sweet Spot 5
+660	960	Sweet Spot 6
+1020	1200	Sweet Spot 7
+1200	1380	Sweet Spot 8
+1380	1560	Sweet Spot 9
+1560	1740	Sweet Spot 10
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

@@ -1,0 +1,332 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Cardinal,82,68. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	55
+4	55
+6	55
+6	62
+8	62
+8	65
+10	65
+10	40
+15	40
+15	95
+17	95
+17	100
+18	100
+18	97
+20	97
+20	95
+21	95
+21	97
+23	97
+23	99
+24	99
+24	95
+25	95
+25	40
+30	40
+30	97
+32	97
+32	99
+33	99
+33	95
+35	95
+35	98
+36	98
+36	95
+38	95
+38	99
+39	99
+39	97
+40	97
+40	40
+45	40
+45	95
+47	95
+47	97
+48	97
+48	99
+50	99
+50	97
+51	97
+51	95
+53	95
+53	96
+54	96
+54	99
+55	99
+55	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Use this first 4 minutes to wake things up with light, quick legs	8	0	0	72	16777215	10
+0	1 more minute and we'll do some isolated leg training, aka ILT	8	0	0	72	16777215	180
+0	Single-leg pedaling can demonstrate deadspots in your pedalstroke...	8	0	0	72	16777215	190
+0	while also conditioning the lesser-used pedaling muscles	8	0	0	72	16777215	200
+0	By recognizing your pedaling inefficiencies, you can gradually correct them	8	0	0	72	16777215	210
+0	Every ride affords literally hundreds of opportunities for improvement	8	0	0	72	16777215	220
+0	Even thousands of times in just a half-hour ride	8	0	0	72	16777215	230
+240	Unclip one foot and dangle the other over the back of your trainer...	8	0	0	72	16777215	-1
+240	or rest it on a chair or hold it out & away from your bike, whatever works	8	0	0	72	16777215	10
+240	Hearing any dead spots? Most knocking with each turn of the pedals...	8	0	0	72	16777215	20
+240	can be eliminated by emphasizing the top & bottom of your pedalstroke, the kick & pull	8	0	0	72	16777215	30
+240	Try kicking your toes into the fronts of your shoes, pulling your heels into the backs	8	0	0	72	16777215	40
+240	This 'horizontal pedaling' is often all it takes to stop the knocks...	8	0	0	72	16777215	50
+240	but if you're still knocking then slow things down a bit	8	0	0	72	16777215	60
+240	Over time, work toward holding 90rpm with each leg	8	0	0	72	16777215	70
+240	Consistent, frequent practice will get you there...eventually ;)	8	0	0	72	16777215	80
+240	Along the way, consider how many times we turn the pedals...	8	0	0	72	16777215	90
+240	and recognize that ANY improvement matters	8	0	0	72	16777215	100
+240	Get ready to work just a little bit harder, but all the same rules apply...	8	0	0	72	16777215	110
+360	Kick & pull just a little harder but stay relaxed	8	0	0	72	16777215	-1
+360	You've probably switched legs by now, but switch now if you haven't	8	0	0	72	16777215	10
+360	Switch legs anytime the fatigue gets too high or your form slips	8	0	0	72	16777215	20
+360	Over time, learn to endure minute-long intervals before trading legs	8	0	0	72	16777215	30
+360	For now, it is what it is, especially if you're new to ILT	8	0	0	72	16777215	40
+360	15 seconds, 30...42? Switch legs as often as necessary	8	0	0	72	16777215	50
+360	Quickly check your position on the saddle...	8	0	0	72	16777215	60
+360	and make sure you feel both sit bones the whole time	8	0	0	72	16777215	70
+360	Also make sure you aren't trying to strangle your handlebars	8	0	0	72	16777215	80
+360	Stability comes from your hips and midsection, not your arms & hands	8	0	0	72	16777215	90
+360	Anchored sit bones, loose grip, relaxed & 'quiet' upper body	8	0	0	72	16777215	100
+360	Get ready to work slightly harder	8	0	0	72	16777215	110
+480	Time for more effort, even if that means spinning more slowly	8	0	0	72	16777215	-1
+480	Kick your toes over the top of the pedalstroke, 10 o'clock to 2 o'clock	8	0	0	72	16777215	10
+480	Then pull your heel across the bottom, 4 o'clock to 8 o'clock	8	0	0	72	16777215	20
+480	Kick, pull...kick, pull	8	0	0	72	16777215	30
+480	If it helps, think of sliding your feet forward & backward	8	0	0	72	16777215	40
+480	One more minute, switch as often as you need to	8	0	0	72	16777215	60
+480	One more switch then get both feet back in the pedals	8	0	0	72	16777215	90
+600	Excellent, settle back into a quick, comfortable spin	8	0	0	72	16777215	-1
+600	Today we're going to work on muscular endurance	8	0	0	72	16777215	60
+600	We'll ride just below FTP in an effort to increase time to exhaustion...	8	0	0	72	16777215	70
+600	and further the challenge & benefit by moving in & out of the saddle	8	0	0	72	16777215	80
+600	Each 2-minute "valley" will be spent seated...	8	0	0	72	16777215	90
+600	and some or all of each 1-minute "peak" standing	8	0	0	72	16777215	100
+600	How long you stand depends on how well you ride out-of-the-saddle	8	0	0	72	16777215	110
+600	When/if your form slips, simply return to the saddle early	8	0	0	72	16777215	120
+600	The goal isn't to stand for 60 seconds regardless of form...	8	0	0	72	16777215	130
+600	the goal is to refine your form when out-of-the-saddle (OTS)...	8	0	0	72	16777215	140
+600	regardless of how long that form lasts	8	0	0	72	16777215	150
+600	There's no sense in practicing (and learning) poor form	8	0	0	72	16777215	160
+600	Also, try to recognize that proper OTS form...	8	0	0	72	16777215	170
+600	requires plenty of practice just like anything else you want to improve	8	0	0	72	16777215	180
+600	We'll spend the first 2 minutes seated, so settle into a comfortable cadence	8	0	0	72	16777215	270
+600	Ideally, this is above 85rpm	8	0	0	72	16777215	280
+600	If it doesn't already, 90rpm will eventually feel natural or even too slow	8	0	0	72	16777215	290
+900	Spend 2 minutes settling in & holding your power steady	8	0	0	72	16777215	-1
+900	Are your sit bones anchored?	8	0	0	72	16777215	30
+900	If not, tilt your pelvis/hips back a bit	8	0	0	72	16777215	40
+900	Try to feel the wings of your saddle with the bones in your butt	8	0	0	72	16777215	50
+900	And then keep them there anytime you're seated	8	0	0	72	16777215	60
+900	Almost time to rise & put out just a little more power	8	0	0	72	16777215	80
+900	When it's time, try to rise gracefully...	8	0	0	72	16777215	90
+900	as though another rider is glued to your rear wheel...	8	0	0	72	16777215	100
+900	and avoid lunging up too quickly as this will thrust your bike backward	8	0	0	72	16777215	110
+1020	Come on up...	8	0	0	72	16777215	-1
+1020	and immediately pay attention to the weight on your hands	8	0	0	72	16777215	10
+1020	If they feel heavy then slightly shift your body back toward your saddle	8	0	0	72	16777215	20
+1020	The weight stays mostly on your feet, standing or seated	8	0	0	72	16777215	30
+1020	If you feel sloppy, gently have a seat a bit early...	8	0	0	72	16777215	40
+1020	and when you sit, do it as though your saddle is fragile	8	0	0	72	16777215	50
+1080	Excellent, get your power where it needs to be right away...	8	0	0	72	16777215	-1
+1080	and give yourself this first 30 seconds to calm your heart rate a bit	8	0	0	72	16777215	10
+1080	Still feeling pretty rough? Breathe deeply using your belly	8	0	0	72	16777215	30
+1080	Become close friends with your diaphragm, it's your most important breathing muscle	8	0	0	72	16777215	40
+1080	Learn to draw full breaths by distending & then narrowing your belly	8	0	0	72	16777215	50
+1080	And keep in mind that we breathe with our abdomens, not our chests	8	0	0	72	16777215	60
+1080	Almost time to rise, so think about how you'll do it	8	0	0	72	16777215	90
+1080	No pitching your weight forward...	8	0	0	72	16777215	100
+1080	instead, rise slightly up & slightly forward simultaneously	8	0	0	72	16777215	110
+1200	Come on up!	8	0	0	72	16777215	-1
+1200	Did that feel controlled or did you cause a crash? ;)	8	0	0	72	16777215	10
+1200	Focus again on your hands & ease back slightly if they feel heavy	8	0	0	72	16777215	20
+1200	If you feel controlled, hang in there; otherwise, gently find your seat	8	0	0	72	16777215	30
+1200	20 seconds, drop your shoulders if they're up around your ears	8	0	0	72	16777215	40
+1200	Get ready to SMOOTHLY transition back to the saddle	8	0	0	72	16777215	50
+1260	Have a seat, keep your power on target	8	0	0	72	16777215	-1
+1260	Wondering why riding OTS is so hard?	8	0	0	72	16777215	30
+1260	Riding out-of-the-saddle allows us to recruit more muscle mass...	8	0	0	72	16777215	40
+1260	but more muscle mass means more work is being performed...	8	0	0	72	16777215	50
+1260	and a higher level of exertion and fuel consumption as well	8	0	0	72	16777215	60
+1260	It also means greater work capacity...	8	0	0	72	16777215	70
+1260	all of which is why you only stand when you need more power...	8	0	0	72	16777215	80
+1260	or maybe to stretch, but that's a topic for later	8	0	0	72	16777215	90
+1260	Almost time to rise again, but only if you feel you can do it really well	8	0	0	72	16777215	100
+1260	If you're tired, remain seated rather than practice poor form	8	0	0	72	16777215	110
+1380	Come on up...	8	0	0	72	16777215	-1
+1380	and immediately, lighten the load on your hands	8	0	0	72	16777215	10
+1380	Your legs move the bike, not your arms...	8	0	0	72	16777215	20
+1380	so keep your weight on your feet, your power to the pedals	8	0	0	72	16777215	30
+1380	Halfway, only standing if you're fully in control of your form	8	0	0	72	16777215	40
+1380	Get ready to sit, gennntly	8	0	0	72	16777215	50
+1440	Nice, get your watts on target	8	0	0	72	16777215	-1
+1440	Spend the remainder of this minute riding so smoothly you look bored	8	0	0	72	16777215	10
+1440	Fatigue is no excuse for poor form so make your pedalstrokes pretty	8	0	0	72	16777215	20
+1440	30 pretty seconds, hang in there	8	0	0	72	16777215	30
+1500	Excellent job! And a third of the workout is already behind you	8	0	0	72	16777215	-1
+1500	5 minutes of recovery and we'll do it again	8	0	0	72	16777215	10
+1500	Based on that first interval, set a goal OTS duration	8	0	0	72	16777215	120
+1500	Shoot for gradually extended periods out of the saddle	8	0	0	72	16777215	130
+1500	It might not be often that you stand for longer than a few seconds...	8	0	0	72	16777215	140
+1500	so consider how long you felt your control last...	8	0	0	72	16777215	150
+1500	20 seconds? 30? The entire minute?	8	0	0	72	16777215	160
+1500	Only remain OTS if you feel good about your form...	8	0	0	72	16777215	170
+1500	if you feel fluid, efficient, and powerful when standing	8	0	0	72	16777215	180
+1500	Think of your habits as a GIGO system - Garbage In/Garbage Out	8	0	0	72	16777215	190
+1500	Practice poor habits, reap poor performance	8	0	0	72	16777215	200
+1500	Learning to do something well is always a process...	8	0	0	72	16777215	210
+1500	And today we're starting the process of proper OTS technique	8	0	0	72	16777215	220
+1500	We used broad strokes on that first set, now we'll focus more on details	8	0	0	72	16777215	230
+1500	This set, let's suss out our OTS sweet spot	8	0	0	72	16777215	240
+1500	This is the body position where power stays up, exertion stays down	8	0	0	72	16777215	250
+1500	If you feel like you're dying, your power will likely suffer...	8	0	0	72	16777215	260
+1500	but if you feel balanced, you're far more likely to hold your Target Power	8	0	0	72	16777215	270
+1500	Find your OTS sweet spot by shifting forward (fore) & backward (aft)...	8	0	0	72	16777215	280
+1500	And know that these shifts will be subtle ones	8	0	0	72	16777215	290
+1800	OK, 2 minutes to find your groove while staying relaxed	8	0	0	72	16777215	-1
+1800	Sit bones anchored?	8	0	0	72	16777215	30
+1800	Loose grip? Soft elbows? Low shoulders?	8	0	0	72	16777215	40
+1800	All but drape your upper body on the bars...	8	0	0	72	16777215	50
+1800	appear relaxed, BE relaxed	8	0	0	72	16777215	60
+1800	Almost that time again, so start thinking about that transition	8	0	0	72	16777215	90
+1800	Controlled, smooth, graceful	8	0	0	72	16777215	100
+1800	Find your gearing, adjust your cadence...	8	0	0	72	16777215	110
+1920	And come on up	8	0	0	72	16777215	-1
+1920	Your 4 contact points are your hands & feet so let's divide the load	8	0	0	72	16777215	10
+1920	The legs drive the bike so there's most of your weight...	8	0	0	72	16777215	20
+1920	your arms mostly help you balance so they stay light	8	0	0	72	16777215	30
+1920	So fine-tune your position...	8	0	0	72	16777215	40
+1920	a little fore, a little aft, over & over until you find that sweet spot	8	0	0	72	16777215	50
+1980	Gently have a seat & focus on your breathing	8	0	0	72	16777215	-1
+1980	Full, deep breaths and keep that power on target	8	0	0	72	16777215	30
+1980	Remember the other goal of this workout is muscle endurance...	8	0	0	72	16777215	40
+1980	so keep your power as smooth & steady as you can	8	0	0	72	16777215	50
+1980	Only 3 minutes of each interval are spent standing...	8	0	0	72	16777215	80
+1980	but you can flip-flop that if you feel underchallenged	8	0	0	72	16777215	90
+1980	For the rest of us, get ready to rise and seek out that sweet spot	8	0	0	72	16777215	100
+1980	Shift, slow your spin, either/both...	8	0	0	72	16777215	110
+2100	And rise	8	0	0	72	16777215	-1
+2100	Riding too far forward has certain tells...	8	0	0	72	16777215	10
+2100	one is your body's distance from your saddle which should never be very far	8	0	0	72	16777215	20
+2100	Occasionally graze the nose of your saddle to make sure you haven't drifted too far forward	8	0	0	72	16777215	30
+2100	The other tell is a pogo-ing/compressing the front tire	8	0	0	72	16777215	40
+2100	Compressing the front tire is energy you COULD put into your pedals	8	0	0	72	16777215	50
+2160	Great! Gently have a seat & find your form right away	8	0	0	72	16777215	-1
+2160	One more bout of standing coming up	8	0	0	72	16777215	60
+2160	You're probably aware of how far forward you position your body...	8	0	0	72	16777215	70
+2160	so let's make sure you're not too far back/aft of the sweet spot	8	0	0	72	16777215	80
+2160	If your legs well up & start to burn quickly, you're probably too close to your saddle	8	0	0	72	16777215	90
+2160	Try easing your body slightly forward toward your bars	8	0	0	72	16777215	100
+2160	Get ready to impress yourself with a graceful ascent into your sweet spot	8	0	0	72	16777215	110
+2280	Rise like the sun...maybe a little quicker than the sun	8	0	0	72	16777215	-1
+2280	OK, find it	8	0	0	72	16777215	10
+2280	Shift forward, shift back, forward, backward, fore, aft...find it?	8	0	0	72	16777215	20
+2280	You'll know when you do, but it might not happen right away	8	0	0	72	16777215	30
+2280	Perfect practice & high consistency is the recipe for excellence...	8	0	0	72	16777215	40
+2280	So practice well, practice often	8	0	0	72	16777215	50
+2340	Gracefully have a seat...	8	0	0	72	16777215	-1
+2340	and impress yourself with some perfect pedalstrokes	8	0	0	72	16777215	10
+2340	30 seconds to go, sit bones where they should be?	8	0	0	72	16777215	30
+2400	Very well done!	8	0	0	72	16777215	-1
+2400	Take it easy for 5 minutes	8	0	0	72	16777215	10
+2400	Grab a drink, lightly stretch...your call	8	0	0	72	16777215	20
+2400	In a couple minutes we'll tackle that last interval	8	0	0	72	16777215	180
+2400	And since you're practically a pro by now...	8	0	0	72	16777215	190
+2400	we're going to refine that OTS technique a little further	8	0	0	72	16777215	200
+2400	But anytime you feel sloppy, fatigued to the point your form suffers...	8	0	0	72	16777215	210
+2400	just do your work while seated	8	0	0	72	16777215	220
+2400	1 minute, settle back into your natural spin...	8	0	0	72	16777215	240
+2400	or shoot for 85rpm or higher if natural to you is sub-85	8	0	0	72	16777215	250
+2400	Find your sit bones & get relaxed...	8	0	0	72	16777215	270
+2400	Then when the work starts...	8	0	0	72	16777215	280
+2400	keep your sit bones anchored & stay relaxed	8	0	0	72	16777215	290
+2700	2 minutes to settle back into this workload	8	0	0	72	16777215	-1
+2700	Try to smooth out your power right away	8	0	0	72	16777215	10
+2700	Every seated 2-minute stretch is a great time to target smooth power	8	0	0	72	16777215	20
+2700	Minimize how wildly your power fluctuates above/below Target Power	8	0	0	72	16777215	30
+2700	If you typically stray 10 watts either direction, try to limit it to 5	8	0	0	72	16777215	40
+2700	Only a couple opportunities left to practice your OTS technique...	8	0	0	72	16777215	90
+2700	and your saddle transitions...	8	0	0	72	16777215	100
+2700	so make these final 10 minutes matter	8	0	0	72	16777215	110
+2820	Gracefully come on up	8	0	0	72	16777215	-1
+2820	You know you contact points are your hands & feet...	8	0	0	72	16777215	10
+2820	but recognize that your hands only need to grip the bars just hard enough to hang on	8	0	0	72	16777215	20
+2820	And don't neglect your kick & pull just because you're standing	8	0	0	72	16777215	30
+2880	Haaaaaaave a seat	8	0	0	72	16777215	-1
+2880	Right away, get your Target Power	8	0	0	72	16777215	10
+2880	I know it hurts, but every second you hang in there will make you stronger	8	0	0	72	16777215	20
+2880	Make it hurt, tell your body you want more from it...	8	0	0	72	16777215	30
+2880	and do it with excellent form	8	0	0	72	16777215	40
+2880	Form check: shoulders low, elbows soft, grip loose	8	0	0	72	16777215	60
+2880	Sit bones anchored, hips are quiet, spin above 85rpm	8	0	0	72	16777215	70
+2880	Only 2 standing efforts left!	8	0	0	72	16777215	90
+2880	But you only get to join in if you know you can do it well	8	0	0	72	16777215	100
+3000	Come on up!	8	0	0	72	16777215	-1
+3000	Light hands, light feet, flick those knees to the bars	8	0	0	72	16777215	10
+3000	And again, kick & pull to eke the most out of each pedalstroke	8	0	0	72	16777215	20
+3000	30 seconds OTS, assuming you're well in control of your form	8	0	0	72	16777215	30
+3000	Light feet, light hands...float above your bike	8	0	0	72	16777215	40
+3000	Get ready to sit with grace & control	8	0	0	72	16777215	50
+3060	Come on down, find your form & power right away - almost done!	8	0	0	72	16777215	-1
+3060	Returning to the saddle with heavy legs is TOUGH...	8	0	0	72	16777215	10
+3060	but still not an excuse to be sloppy	8	0	0	72	16777215	20
+3060	Don't get hung up on your discomfort, instead focus on your breathing...	8	0	0	72	16777215	30
+3060	or your power, or your pedalstroke...anything productive	8	0	0	72	16777215	40
+3060	Limit that power fluctuation!	8	0	0	72	16777215	50
+3060	1 minute of your smoothest power yet	8	0	0	72	16777215	60
+3060	Coming up on your final out-of-the-saddle effort!	8	0	0	72	16777215	90
+3060	Shoot for the entire minute knowing you're almost done...	8	0	0	72	16777215	100
+3060	but still maintain proper, controlled form or have a seat early	8	0	0	72	16777215	110
+3180	Last time! Come on up	8	0	0	72	16777215	-1
+3180	Stay light & fluid, flick those knees!	8	0	0	72	16777215	30
+3240	Nice! Now keep it together for 1 more minute in the saddle	8	0	0	72	16777215	-1
+3240	30 seconds! Keep it pretty no matter how tired you are	8	0	0	72	16777215	30
+3240	Don't check out yet...	8	0	0	72	16777215	40
+3240	10!	8	0	0	72	16777215	50
+3300	Great job!	8	0	0	72	16777215	-1
+3300	Time for some well-deserved rest	8	0	0	72	16777215	10
+3300	Clear the junk & we'll see you next time	8	0	0	72	16777215	20
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+0	240	Active Recovery 1
+240	360	Endurance 1
+360	480	Endurance 2
+480	600	Endurance 3
+900	1020	Sweet Spot 1
+1020	1080	Threshold 1
+1080	1200	Threshold 2
+1200	1260	Sweet Spot 2
+1260	1380	Threshold 3
+1380	1440	Threshold 4
+1440	1500	Sweet Spot 3
+1800	1920	Threshold 5
+1920	1980	Threshold 6
+1980	2100	Sweet Spot 4
+2100	2160	Threshold 7
+2160	2280	Sweet Spot 5
+2280	2340	Threshold 8
+2340	2400	Threshold 9
+2700	2820	Sweet Spot 6
+2820	2880	Threshold 10
+2880	3000	Threshold 11
+3000	3060	Threshold 12
+3060	3180	Sweet Spot 7
+3180	3240	Threshold 13
+3240	3300	Threshold 14
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

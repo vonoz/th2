@@ -1,0 +1,69 @@
+﻿
+
+html,
+body {
+	height: 100%;
+	margin: 10px;
+	padding: 10px;
+	background-color: #f2f5f7;
+	/*font-family: 'Open Sans', sans-serif;*/
+	font-family: 'Roboto', sans-serif;
+	font-size:14px;
+	    -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+	font-weight: 400;
+}
+
+.navbar-brand {padding: 10px;}
+.navbar-default{background-color:#FFFFFF;max-height:50px;}
+.navbar-divider {
+	border-top: none;
+	border-left: 1px solid #999999;
+	border-left-color: rgba(0, 0, 0, 0.2);
+	/*margin:10px;*/
+	margin-top: 14px;
+	height: 24px;
+}
+.navbar-default .navbar-nav > li > a {
+color: #333333;
+}
+.dropdown-menu{
+	min-width:171px;
+	margin-top:-2px !important;
+}
+
+.navbar-nav .open .dropdown-menu {
+	background-color:white;
+}
+
+.navbar-brand > img {
+		display: inline-block;
+		vertical-align:middle;
+}
+
+.mymodal-header {
+	padding: 9px 15px;
+	border-bottom: 0 solid #eee;
+	background-color: #F6F6F6;
+}
+
+.datepicker {
+	z-index: 1050 !important;
+}
+
+.modal-content, .btn, .form-control, .input-sm, .dropdown-menu, .well, .datepicker, .input-group-addon, .label, .panel, .panel-heading, .list-group-item:first-child, .list-group-item:last-child {
+	border-radius: 0 !important;
+}
+
+.modal-title {
+	font-weight: 300;
+	/*font-family: 'Open Sans', sans-serif;*/
+font-family: 'Roboto', sans-serif;
+
+}
+
+.modal-footer {
+	border: 0;
+}

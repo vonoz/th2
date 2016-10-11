@@ -1,0 +1,133 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Sufferfest Chrysalis,75,60. Created by 1221.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	0
+5.46	0
+5.46	0
+5.95	0
+5.95	54
+6.68	54
+6.68	78
+7.96	78
+7.96	30
+8.96	30
+8.96	66
+10.96	66
+10.96	102
+12.96	102
+12.96	90
+15.96	90
+15.96	42
+16.96	42
+16.96	0
+17.46	0
+17.46	0
+21.46	0
+21.46	0
+21.96	0
+21.96	78
+23.98	78
+23.98	114
+24.96	114
+24.96	54
+26.1	54
+26.1	78
+27.76	78
+27.76	90
+29.98	90
+29.98	0
+30.48	0
+30.48	0
+34.48	0
+34.48	0
+34.98	0
+34.98	54
+36.48	54
+36.48	114
+36.81	114
+36.81	66
+37.5	66
+37.5	102
+38.15	102
+38.15	78
+38.48	78
+38.48	114
+38.81	114
+38.81	30
+39.01	30
+39.01	90
+39.98	90
+39.98	102
+40.98	102
+40.98	90
+41.98	90
+41.98	54
+42.98	54
+42.98	0
+43.48	0
+43.48	0
+47.48	0
+47.48	0
+47.98	0
+47.98	90
+49.98	90
+49.98	54
+51	54
+51	96
+55	96
+55	102
+56	102
+56	0
+56.5	0
+56.5	0
+60.5	0
+60.5	0
+64.61	0
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Chrysalis is a unique workout to TR.	9	0	0	72	16777215	1
+0	This workout incorporates running that you can do off the bike.	12	0	0	72	16777215	10
+0	The running portions don?t have a wattage target	10	0	0	72	16777215	22
+0	...so you'll want to make sure you have the "Don't use cadence to play/pause workouts" option checked.	17	0	0	72	16777215	32
+0	This option is found under the Profile tab of your TR application.	12	0	0	72	16777215	49
+0	Enjoy the workout!	7	0	0	72	16777215	61
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3877	Workout
+357	401	Active Recovery 1
+401	478	Tempo 1
+538	658	Endurance 1
+658	778	Threshold 1
+778	958	Sweet Spot 1
+1318	1439	Tempo 2
+1439	1498	VO2 Max 1
+1498	1566	Active Recovery 2
+1566	1666	Tempo 3
+1666	1799	Sweet Spot 2
+2099	2189	Active Recovery 3
+2189	2209	VO2 Max 2
+2209	2250	Endurance 2
+2250	2289	Threshold 2
+2289	2309	Tempo 4
+2309	2329	VO2 Max 3
+2341	2399	Sweet Spot 3
+2399	2459	Threshold 3
+2459	2519	Sweet Spot 4
+2519	2579	Active Recovery 4
+2879	2999	Sweet Spot 5
+2999	3060	Active Recovery 5
+3060	3300	Threshold 4
+3300	3360	Threshold 5
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

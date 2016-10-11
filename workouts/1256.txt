@@ -1,0 +1,289 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Rose,82,68. Created by 54949.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	55
+6	55
+6	60
+8	60
+8	65
+10	65
+10	40
+15	40
+15	95
+17	95
+17	99
+18	99
+18	97
+20	97
+20	95
+21	95
+21	97
+23	97
+23	99
+24	99
+24	95
+25	95
+25	40
+30	40
+30	97
+32	97
+32	99
+33	99
+33	96
+35	96
+35	98
+36	98
+36	95
+38	95
+38	99
+39	99
+39	97
+40	97
+40	40
+45	40
+45	95
+47	95
+47	97
+48	97
+48	99
+50	99
+50	97
+51	97
+51	95
+53	95
+53	96
+54	96
+54	99
+55	99
+55	40
+60	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Let's get things rolling with 4 easy minutes of spinning	8	0	0	72	16777215	15
+0	Get ready for some ILT (Isolated Leg Training)	8	0	0	72	16777215	180
+0	Known by a less fancy name: One-Leggers	8	0	0	72	16777215	190
+0	One leg pedals the bike while the other is held out of the way	8	0	0	72	16777215	200
+0	Where you put your free leg is up to you	8	0	0	72	16777215	210
+0	Some rest it on a chair, some hang it out & away from the bike...	8	0	0	72	16777215	220
+0	But I prefer to hang it over the back of the trainer	8	0	0	72	16777215	230
+240	Unclip one foot and try hanging it over the back of your trainer	8	0	0	72	16777215	-1
+240	Has the knocking sound started already?	8	0	0	72	16777215	10
+240	Then you're not really kicking and pulling	8	0	0	72	16777215	20
+240	Switch legs - start kicking and pulling right away	8	0	0	72	16777215	30
+240	Knocking again? Big dead spots? Maybe you're spinning too quickly...	8	0	0	72	16777215	40
+240	Get ready to switch legs again...	8	0	0	72	16777215	50
+240	And keep your spin slow and deliberate this time	8	0	0	72	16777215	60
+240	As you improve, your cadence will increase naturally	8	0	0	72	16777215	70
+240	But slow and controlled is key when learning to pedal with just 1 leg	8	0	0	72	16777215	80
+240	Switch legs and start to kick & pull right away	8	0	0	72	16777215	90
+240	Anytime you hear knocking, just slow things down and regain control	8	0	0	72	16777215	100
+360	Time to switch again	8	0	0	72	16777215	-1
+360	Just remember to kick over the top of the pedalstroke...	8	0	0	72	16777215	10
+360	and pull across the bottom of the pedalstroke	8	0	0	72	16777215	20
+360	Switch again	8	0	0	72	16777215	30
+360	As you improve, strive for a cadence similar to your natural cadence	8	0	0	72	16777215	40
+360	ILT done at 90-100rpm is realistic assuming the workload isn't too high	8	0	0	72	16777215	50
+360	Switch again - 3 minutes to go	8	0	0	72	16777215	60
+360	Switch Legs	8	0	0	72	16777215	90
+480	Switch Legs - just a little more effort	8	0	0	72	16777215	-1
+480	Kick a little bit harder, pull a little bit harder	8	0	0	72	16777215	10
+480	And keep it slow enough that you don't feel dead spots	8	0	0	72	16777215	20
+480	Switch!	8	0	0	72	16777215	30
+480	Switch one last time	8	0	0	72	16777215	90
+480	Final 10 seconds...	8	0	0	72	16777215	110
+600	Great job! Don't worry if that felt weak or somewhat out of control	8	0	0	72	16777215	-1
+600	Over time, 1-leg drills can transform even the clumsiest pedalstrokes into marvels of efficiency	8	0	0	72	16777215	10
+600	The key is practice, practice, practice	8	0	0	72	16777215	20
+600	And in that same spirit, today we're going to practice riding out of the saddle	8	0	0	72	16777215	30
+600	Because those who climb well do so because they PRACTICE	8	0	0	72	16777215	40
+600	All three of today's 10-minute intervals will be spent very close to threshold	8	0	0	72	16777215	50
+600	A power range referred to as Steady State	8	0	0	72	16777215	60
+600	Beyond that, we'll increase the challenge & training benefit with climbing drills	8	0	0	72	16777215	70
+600	Most riders will alernate 2 minutes in the saddle and 1 minute standing...	8	0	0	72	16777215	80
+600	But riders are welcome to flip-flop this approach after the first interval	8	0	0	72	16777215	90
+600	Be warned though - Steady State efforts are tough even without drills...	8	0	0	72	16777215	100
+600	And standing for a full minute can challenge even the best out-of-the-saddle riders	8	0	0	72	16777215	110
+600	In either case, the emphasis will be primarily on steady effort	8	0	0	72	16777215	120
+600	Secondarily, we'll target the quality of our transitions	8	0	0	72	16777215	130
+600	That's to say, we want to move smoothly and gracefully in and out of the saddle	8	0	0	72	16777215	140
+600	Take it easy for a couple more minutes and then we'll get started	8	0	0	72	16777215	150
+600	We'll get started in about  a minute, so let's talk briefly about cadence ranges	8	0	0	72	16777215	240
+600	The recommended cadence range while seated is anywhere from 90-110rpm	8	0	0	72	16777215	250
+600	Standing? 60rpm-80rpm	8	0	0	72	16777215	260
+600	Where you ride within those ranges can depend on a number of factors...	8	0	0	72	16777215	270
+600	And we'll get into that during later intervals and later workouts	8	0	0	72	16777215	280
+600	For now, just settle where you feel most comfortable and make note of those cadences	8	0	0	72	16777215	290
+900	Here we go. Stay seated for these opening 2 minutes	8	0	0	72	16777215	-1
+900	Settle in at 90+rpm and keep your breathing full & relaxed	8	0	0	72	16777215	10
+900	Briefly check your position on the saddle...	8	0	0	72	16777215	60
+900	Make sure you feel your sit bones and your pubic bone isn't heavily weighted	8	0	0	72	16777215	70
+900	Now check your kick & pull...	8	0	0	72	16777215	90
+900	Kick lightly over the top, pull across lightly the bottom of the pedalstroke	8	0	0	72	16777215	100
+900	Get ready to stand - shift and/or slow your cadence a bit	8	0	0	72	16777215	110
+1020	Come on up! 1 minute	8	0	0	72	16777215	-1
+1020	Look at your front tire. Is it compressing like you're on a pogo stick?	8	0	0	72	16777215	30
+1020	Then ease off your hands a little and stay a little closer to your saddle	8	0	0	72	16777215	40
+1020	10 seconds - prepare to have a seat	8	0	0	72	16777215	50
+1080	Back down...SOFTLY	8	0	0	72	16777215	-1
+1080	Great, hang on right here for a couple minutes	8	0	0	72	16777215	10
+1080	Start kicking & pulling and bring your breathing back down	8	0	0	72	16777215	20
+1080	Get ready to stand again in about 30 seconds	8	0	0	72	16777215	90
+1080	This time, really focus on keeping your weight on your pedals	8	0	0	72	16777215	100
+1080	The pedals put your power to that rear wheel so don't pull any power OFF them	8	0	0	72	16777215	110
+1200	Up! Keep kicking & pulling	8	0	0	72	16777215	-1
+1200	Yep, you're standing but that doesn't mean the pedalstroke stopped being round	8	0	0	72	16777215	10
+1200	Squash those dead spots, spare your quads a bit	8	0	0	72	16777215	20
+1200	Hands getting heavier as you fatigue?	8	0	0	72	16777215	40
+1200	Then ease back toward your saddle a little	8	0	0	72	16777215	50
+1260	Gently have seat and get your cadence back up	8	0	0	72	16777215	-1
+1260	Gonna stand again in 30	8	0	0	72	16777215	90
+1260	Remember, don't spring forward onto your hands	8	0	0	72	16777215	100
+1260	Done properly, you will rise so smoothly there's no big change in your speed	8	0	0	72	16777215	110
+1380	Come on up! Settle into a cadence that feels manageable	8	0	0	72	16777215	-1
+1380	Note your cadence for later intervals	8	0	0	72	16777215	20
+1380	Are your quads on fire?	8	0	0	72	16777215	30
+1380	Then ease forward toward your bars just a little	8	0	0	72	16777215	40
+1380	Get ready to return to the saddle	8	0	0	72	16777215	50
+1440	Have a seat, shift if need be, and get your seated cadence back	8	0	0	72	16777215	-1
+1440	Note your seated cadence - we'll need this information later	8	0	0	72	16777215	20
+1500	Well done. Take it easy for a full five minutes	8	0	0	72	16777215	-1
+1500	Two things you probably noticed...	8	0	0	72	16777215	60
+1500	1 - Riding at Steady State hurts - it's very demanding	8	0	0	72	16777215	70
+1500	2 - Working out of the saddle hurts too, far more than riding seated	8	0	0	72	16777215	80
+1500	Put the two together and these are tough intervals...	8	0	0	72	16777215	90
+1500	And that's why these recoveries are relatively long ones	8	0	0	72	16777215	100
+1500	Relax and rest up so you feel ready to do it all again	8	0	0	72	16777215	110
+1500	If you feel like you might be able to further the challenge...	8	0	0	72	16777215	180
+1500	You're welcome to ride the 2-minute segments out-of-the-saddle	8	0	0	72	16777215	190
+1500	But all these words of wisdom will be backwards - you've been warned	8	0	0	72	16777215	200
+1500	Round 2, coming up...	8	0	0	72	16777215	210
+1500	This time we're going to try to nail down some cadence goals	8	0	0	72	16777215	220
+1500	If you're currently spinning under 90rpm while seated...	8	0	0	72	16777215	230
+1500	Then you'll strive to hold at least 90rpm every time you're seated	8	0	0	72	16777215	240
+1500	Already above 90rpm? Try adding 3-5rpm while in the saddle	8	0	0	72	16777215	250
+1500	This may only serve to raise your heart rate, but it might work in your favor too	8	0	0	72	16777215	260
+1500	As for standing rpm, if you're lower than 60rpm, do your best to hold 60rpm	8	0	0	72	16777215	270
+1500	Above 60rpm already? Same deal, tack on 3-5rpm and see how it feels	8	0	0	72	16777215	280
+1500	Alright, decide if you're going to stand or remain seated for the 2-minute jobbers	8	0	0	72	16777215	290
+1800	Take a minute to settle in and let your heart & lungs catch up with the work	8	0	0	72	16777215	-1
+1800	Holding your goal cadence? If not, relax and pick it up	8	0	0	72	16777215	60
+1800	Another 30 seconds and we'll switch positions	8	0	0	72	16777215	90
+1800	Up or down, transition smoothly as though another rider is glued to your rear wheel	8	0	0	72	16777215	100
+1800	Start changing gears and/or cadence...	8	0	0	72	16777215	110
+1920	Switch!	8	0	0	72	16777215	-1
+1920	I'm going to assume most riders are standing for 1 minute at a time	8	0	0	72	16777215	10
+1920	Keep those hands light and flick your knees upward	8	0	0	72	16777215	20
+1920	And check your cadence - make yourself hold that slightly higher spin	8	0	0	72	16777215	30
+1920	Get ready to switch - do it smoothly	8	0	0	72	16777215	50
+1980	Switch! Settle in promptly	8	0	0	72	16777215	-1
+1980	Transitions can be difficult and disruptive, but they're part of riding, like them or not	8	0	0	72	16777215	20
+1980	So it pays to practice them, minimize their cost in terms of energy	8	0	0	72	16777215	30
+1980	And chances are, smooth transitions aren't dangerous ones	8	0	0	72	16777215	40
+1980	Don't be the guy with the 5-foot buffer on all sides...we've all seen him	8	0	0	72	16777215	50
+1980	The rider who strikes fear in your heart every time you get too close to him	8	0	0	72	16777215	60
+1980	Instead, be a rider who goes almost unnoticed - one who alarms nobody	8	0	0	72	16777215	70
+1980	Get ready to switch...	8	0	0	72	16777215	110
+2100	Switch! If you're standing, find the sweet spot...	8	0	0	72	16777215	-1
+2100	The position where your hands aren't heavy and your quads aren't burning	8	0	0	72	16777215	10
+2100	You'll know it when you find it	8	0	0	72	16777215	20
+2100	It will be the LEAST uncomfortable position you can maintain when standing	8	0	0	72	16777215	30
+2100	Almost time to switch, get ready...	8	0	0	72	16777215	50
+2160	Switch! Shift, pick it up, slow it down..whichever, just do it smoothly and gracefully	8	0	0	72	16777215	-1
+2160	Pay attention and hold yourself to your cadence modifications	8	0	0	72	16777215	60
+2160	Ideally, you'll stumble onto something that makes the work slightly more tolerable	8	0	0	72	16777215	70
+2160	And you might not. Won't know without a little trial & error though	8	0	0	72	16777215	80
+2160	Again, get ready to switch...	8	0	0	72	16777215	110
+2280	Switch positions so gracefully it looks easy	8	0	0	72	16777215	-1
+2280	If you're up, check your body placement...	8	0	0	72	16777215	10
+2280	No compressing the front tire, no flooding your quads	8	0	0	72	16777215	20
+2280	Find that out-of-the-saddle sweet spot	8	0	0	72	16777215	30
+2280	In 10...	8	0	0	72	16777215	50
+2340	Switch it up! Make it pretty for a minute	8	0	0	72	16777215	-1
+2400	Nicely done! Breaktime	8	0	0	72	16777215	-1
+2400	Time to contemplate your cadence changes...	8	0	0	72	16777215	120
+2400	Was there any decrease in perceived effort or did they only make it seem tougher?	8	0	0	72	16777215	130
+2400	Remember, slow spins really tax the muscles...	8	0	0	72	16777215	140
+2400	Quicker spins shift some of that stress to the heart & lungs	8	0	0	72	16777215	150
+2400	Almost any rider is better off increasing sustainable cadence	8	0	0	72	16777215	160
+2400	How much and how quickly is for you to determine, but it has to be GRADUAL	8	0	0	72	16777215	170
+2400	Try to do it too quickly and you'll only burn yourself out	8	0	0	72	16777215	180
+2400	Small changes made consistently WILL bring measurable improvement	8	0	0	72	16777215	190
+2400	Just be patient and CONSISTENT	8	0	0	72	16777215	200
+2400	OK, final round is just around the corner	8	0	0	72	16777215	240
+2400	Get clear on your standing segments - 1 minute or 2	8	0	0	72	16777215	250
+2400	Get clear on your cadence goals - seated and standing	8	0	0	72	16777215	260
+2400	And if the fatigue is high this late in the workout, sit early	8	0	0	72	16777215	270
+2400	When the form goes, get back in the saddle and reclaim it	8	0	0	72	16777215	280
+2400	Don't teach your body that bad form is acceptable...ever	8	0	0	72	16777215	290
+2700	Let's do this. Settle in for a minute and get acclimated	8	0	0	72	16777215	-1
+2700	Set your cadence based on what you're after	8	0	0	72	16777215	60
+2700	Seated, no lower than 90rpm, working toward 100+rpm	8	0	0	72	16777215	70
+2700	Standing, no lower than 60rpm, working toward 70+rpm	8	0	0	72	16777215	80
+2820	Relax as much as possible, all things considered	8	0	0	72	16777215	30
+2820	Get ready to change position	8	0	0	72	16777215	50
+2880	Switch, find your cadence and form right away	8	0	0	72	16777215	-1
+2880	Relax and draw full breaths, extra emphasis on the exhales	8	0	0	72	16777215	10
+2880	Next switch, coming up...	8	0	0	72	16777215	110
+3000	Switch! Only 5 minutes left in the workout	8	0	0	72	16777215	-1
+3000	If you're standing, really monitor your body position	8	0	0	72	16777215	10
+3000	Just like tired time trialists get less and less aero...	8	0	0	72	16777215	20
+3000	Tired climbers become heavier and heavier on their hands	8	0	0	72	16777215	30
+3000	Keep the power to the pedals!	8	0	0	72	16777215	40
+3000	Get ready to switch...	8	0	0	72	16777215	50
+3060	Saaaa-witch!	8	0	0	72	16777215	-1
+3060	Find your cadence quickly and try to calm your breathing a bit	8	0	0	72	16777215	10
+3060	How's your pedalstroke? Still kicking & pulling?	8	0	0	72	16777215	60
+3060	Here's comes the switch...	8	0	0	72	16777215	110
+3180	Go ahead - you know the drill	8	0	0	72	16777215	-1
+3180	I'm assuming you're standing, so find that sweet spot position	8	0	0	72	16777215	10
+3180	Still feel like you're riding well? Lookin' good?	8	0	0	72	16777215	30
+3180	If not, have a seat a little early	8	0	0	72	16777215	40
+3180	Get ready to switch, last time!	8	0	0	72	16777215	50
+3240	Switch positions - make this final minute look effortless	8	0	0	72	16777215	-1
+3300	Great job! 30 minutes of Steady State in your legs	8	0	0	72	16777215	-1
+3300	Steer your thoughts to your recovery nutrition	8	0	0	72	16777215	10
+3300	Your body is REALLY receptive to nourishment during this next 30 minutes	8	0	0	72	16777215	20
+3300	So give it what it needs to reload those energy stores & begin rebuilding	8	0	0	72	16777215	30
+3300	See you next time!	8	0	0	72	16777215	40
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+240	360	Endurance 1
+360	480	Endurance 2
+480	600	Endurance 3
+900	1020	Sweet Spot 1
+1020	1080	Threshold 1
+1080	1200	Threshold 2
+1200	1260	Sweet Spot 2
+1260	1380	Threshold 3
+1380	1440	Threshold 4
+1440	1500	Sweet Spot 3
+1800	1920	Threshold 5
+1920	1980	Threshold 6
+1980	2100	Threshold 7
+2100	2160	Threshold 8
+2160	2280	Sweet Spot 4
+2280	2340	Threshold 9
+2340	2400	Threshold 10
+2700	2820	Sweet Spot 5
+2820	2880	Threshold 11
+2880	3000	Threshold 12
+3000	3060	Threshold 13
+3060	3180	Sweet Spot 6
+3180	3240	Threshold 14
+3240	3300	Threshold 15
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

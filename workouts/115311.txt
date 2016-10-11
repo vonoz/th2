@@ -1,0 +1,176 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Morgan 45,96,69. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	65
+4	110
+5	110
+5	40
+6	40
+6	120
+7	120
+7	40
+10	40
+10	120
+13	120
+13	40
+16	40
+16	120
+19	120
+19	40
+22	40
+22	120
+25	120
+25	40
+28	40
+28	120
+31	120
+31	40
+34	40
+34	120
+37	120
+37	40
+40	40
+40	120
+43	120
+43	40
+45	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	With all of life's responsibilities...	8	0	0	72	16777215	10
+0	getting in sufficient training time can be extremely difficult	8	0	0	72	16777215	20
+0	But it's workouts like this one...	8	0	0	72	16777215	30
+0	that favor quality over quantity...	8	0	0	72	16777215	40
+0	that can give you the type of fitness gains you need	8	0	0	72	16777215	50
+0	Structured VO2max efforts can be extremely effective...	8	0	0	72	16777215	60
+0	at building fitness in nearly all areas in very little time	8	0	0	72	16777215	70
+0	And today we will have 6 of them in total	8	0	0	72	16777215	80
+0	So get warmed up and we'll discuss the workout post-warmup	8	0	0	72	16777215	90
+240	Quick spin, above 100rpm	5	0	0	72	16777215	0
+300	Make sure you breathe strongly from your diaphragm	8	0	0	72	16777215	0
+360	Even quicker this time, see if you can hold 110rpm...	8	0	0	72	16777215	0
+360	but if you start bouncing, dial it back until you ditch the bounce	8	0	0	72	16777215	10
+360	You can also try relaxing your feet, ankles & calves...	8	0	0	72	16777215	20
+360	all of your lower legs	5	0	0	72	16777215	29
+420	Good, those were just a taste of what's to come	8	0	0	72	16777215	0
+420	Each interval will be 3 minutes long...	8	0	0	72	16777215	60
+420	and each rest period is of equal length	5	0	0	72	16777215	70
+420	Each of these happens at 120% FTP...	8	0	0	72	16777215	80
+420	but you're welcome to adjust the Workout Intensity if necessary...	8	0	0	72	16777215	90
+420	such that you can not only maintain your power...	8	0	0	72	16777215	100
+420	but you can repeat it... barely	5	0	0	72	16777215	110
+420	If you need to turn it down a bit, try 5% at a time...	8	0	0	72	16777215	120
+420	but don't decrease the intensity below 110% FTP	8	0	0	72	16777215	130
+420	There's a chance you can ride these higher than 120%...	8	0	0	72	16777215	140
+420	But give it a couple intervals before making this call	8	0	0	72	16777215	150
+420	But if your FTP is accurate, then you're likely to end up very close to 120%	8	0	0	72	16777215	160
+420	First one coming up...	5	0	0	72	16777215	220
+420	so keep your cadence quick but comfortable...	5	0	0	72	16777215	226
+420	ideally above 100rpm	4	0	0	72	16777215	232
+600	Go time! Keep your spin quick for 3 minutes...	8	0	0	72	16777215	0
+600	one minute at a time	5	0	0	72	16777215	10
+600	Next minute, don't get any farther ahead than that	8	0	0	72	16777215	60
+600	Keep your legs quick even though they're probably on fire	8	0	0	72	16777215	120
+600	30 seconds, don't fade this close to the end!	8	0	0	72	16777215	150
+780	Nice work! Feel free to backpedal for a minute if necessary	8	0	0	72	16777215	2
+780	Each one of these intervals are at the same intensity	8	0	0	72	16777215	120
+780	And if you've dropped the intensity and found your repeatable power...	8	0	0	72	16777215	130
+780	make sure it's not a little too easy, make each one a struggle	8	0	0	72	16777215	140
+780	Let's get rid of the pedal mashing this time too	8	0	0	72	16777215	150
+780	Try for a really smooth & powerful pedalstroke throughout	8	0	0	72	16777215	160
+780	10 seconds left, get your cadence up	8	0	0	72	16777215	170
+960	Spin it up! Shoot for +100rpm	5	0	0	72	16777215	0
+960	Just focus on your right leg for a minute	8	0	0	72	16777215	20
+960	At the top of the stroke, kick forward	8	0	0	72	16777215	30
+960	Then as you come over the top of each pedalstroke...	8	0	0	72	16777215	40
+960	apply pressure like you're stomping directly downward	8	0	0	72	16777215	50
+960	As you come to the bottom of the stroke, lightly pull backwards	8	0	0	72	16777215	60
+960	Then at the back of the stroke, lightly lift your knee upwards	8	0	0	72	16777215	70
+960	Now put all this together and make it smooooooth	8	0	0	72	16777215	80
+960	Switch your focus to the left leg & repeat the process	8	0	0	72	16777215	90
+960	If you start to fade, focus on making both legs...	8	0	0	72	16777215	120
+960	pedal effectively ALL the way around	5	0	0	72	16777215	130
+1140	Well done, almost halfway through the workout!	5	0	0	72	16777215	2
+1140	Let's work on the right & left legs individually again during the next interval	8	0	0	72	16777215	60
+1140	Pick your spin up & stay relaxed	5	0	0	72	16777215	170
+1320	Settle in and keep your shoulders low & relaxed	8	0	0	72	16777215	0
+1320	This time start with your left leg, kick forward at the top	8	0	0	72	16777215	30
+1320	Kick into the downward drive...	8	0	0	72	16777215	40
+1320	and start a light pull backward at the bottom	8	0	0	72	16777215	50
+1320	As you drag your foot back, start to lift your knee upward	8	0	0	72	16777215	60
+1320	Put it all together and stay smooth!	8	0	0	72	16777215	70
+1320	Switch your focus to the right leg and repeat these steps	8	0	0	72	16777215	100
+1320	Keep it together for one more minute!	8	0	0	72	16777215	120
+1320	Final 30 seconds, each one more valuable than the last	8	0	0	72	16777215	150
+1500	Nice work! Spin it out & catch your breath	5	0	0	72	16777215	2
+1500	Now it's time to focus on your breathing	8	0	0	72	16777215	120
+1500	Although breathing is an automatic bodily function...	8	0	0	72	16777215	130
+1500	we all could improve how well we do it	8	0	0	72	16777215	140
+1500	Especially during efforts that require optimal oxygen delivery	8	0	0	72	16777215	150
+1680	Get your power up & settle your cadence right away	8	0	0	72	16777215	0
+1680	First thing to look at is your body's posture	8	0	0	72	16777215	30
+1680	Are you actively trying to give your abdomen room to expand?	8	0	0	72	16777215	40
+1680	Maintain your body in a balanced, strong position with your core	8	0	0	72	16777215	50
+1680	Next, are you breathing with your diaphragm?	8	0	0	72	16777215	90
+1680	Use the muscles in your midsection to expand your lungs...	8	0	0	72	16777215	100
+1680	then use them to powerfully exhale	5	0	0	72	16777215	110
+1680	Regarding rhythm, try tying it to your pedalstroke...	8	0	0	72	16777215	150
+1680	by breathing in for 2-3 revolutions & then out for 2 -3	8	0	0	72	16777215	160
+1680	If 2-3 pedalstrokes isn't a good fit, use however many suits you	8	0	0	72	16777215	170
+1860	Way to go, calm things down & try to relax	8	0	0	72	16777215	0
+1860	Now focus on evaluating the tension in your body	8	0	0	72	16777215	120
+1860	Every muscle contraction requires energy	8	0	0	72	16777215	130
+1860	So your goal should be to contract only what's necessary	8	0	0	72	16777215	140
+1860	Relax thoroughly & often	5	0	0	72	16777215	150
+1860	Let's do this again, bring your cadence up	8	0	0	72	16777215	170
+2040	Here we go! Start out relaxed & do your best to stay that way	8	0	0	72	16777215	0
+2040	Is your face grimaced or tense?	5	0	0	72	16777215	30
+2040	Relax from the crown of you head down through your neck	8	0	0	72	16777215	40
+2040	Are your shoulders shrugged and hands tight on the bars?	8	0	0	72	16777215	60
+2040	Relax, that won't make you ride faster & it makes you a twitchy bike handler	8	0	0	72	16777215	70
+2040	Is your core stable & strong?	5	0	0	72	16777215	90
+2040	Although this requires energy, this WILL make you more efficient	8	0	0	72	16777215	100
+2040	Anchor your sit bones & keep a little tension in your midsection	8	0	0	72	16777215	110
+2040	And on the mental side of things...	8	0	0	72	16777215	120
+2040	are you feeling stressed or discouraged?	8	0	0	72	16777215	130
+2040	Let that go, breathe deeply & trust that you can handle...	8	0	0	72	16777215	140
+2040	another 30 seconds - you've got this!	8	0	0	72	16777215	150
+2220	Good job, way to gut out yet another repeat	8	0	0	72	16777215	0
+2220	This may be the last one...	5	0	0	72	16777215	60
+2220	but there's nothing keeping you from making it your best one yet	8	0	0	72	16777215	66
+2220	Do your best to hold your power as close to your target as possible...	8	0	0	72	16777215	90
+2220	all while pedaling even more smoothly than when you started this workout	8	0	0	72	16777215	100
+2220	Work your cadence back up & get a few deep breaths in	8	0	0	72	16777215	110
+2400	Go hard for a minute at a time	5	0	0	72	16777215	0
+2400	Next minute, dig in and don't get ahead of yourself	8	0	0	72	16777215	60
+2400	FINAL minute of the workout, get through 30 seconds	8	0	0	72	16777215	60
+2400	Final 30 seconds, 10 at a time!	5	0	0	72	16777215	150
+2400	10 more seconds, no fading!	5	0	0	72	16777215	160
+2400	Final 10, make them pretty!	5	0	0	72	16777215	170
+2580	Really well done! That's how you make the most of 45 minutes	8	0	0	72	16777215	0
+2580	Pat yourself on the back and get some recovery nutrition in you...	8	0	0	72	16777215	10
+2580	and we'll see you next time	5	0	0	72	16777215	20
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	2700	Workout
+240	300	VO2 Max 1
+360	420	VO2 Max 2
+600	780	VO2 Max 3
+960	1140	VO2 Max 4
+1320	1500	VO2 Max 5
+1680	1860	VO2 Max 6
+2040	2220	VO2 Max 7
+2400	2580	VO2 Max 8
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

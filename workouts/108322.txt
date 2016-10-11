@@ -1,0 +1,120 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Warren +1,66,97. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+10	50
+10	50
+11	60
+11	60
+16	60
+16	200
+16.25	200
+16.25	20
+16.91	60
+16.91	60
+21.25	60
+21.25	225
+21.5	225
+21.5	20
+22.16	60
+22.16	60
+26.5	60
+26.5	250
+26.75	250
+26.75	20
+27.41	60
+27.41	60
+32	60
+32	60
+33	70
+33	70
+48	70
+48	70
+49	60
+49	60
+76	60
+76	60
+77	70
+77	70
+92	70
+92	70
+93	60
+93	58
+115	58
+115	60
+116	70
+116	70
+131	70
+131	70
+132	50
+132	50
+135	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+660	As you warm up, we're going to throw in a few seated sprints	8	0	0	72	16777215	180
+660	These are short & sweet - short so they don't overly deplete energy stores...	8	0	0	72	16777215	190
+660	and sweet in their ability to get a lot of muscle active all at once	8	0	0	72	16777215	200
+660	These will all be done in the saddle, but we're still looking for max effort here	8	0	0	72	16777215	210
+660	If you fade inside of the 15 seconds allotted, don't sweat it	8	0	0	72	16777215	220
+660	Just go all-out for as long as you can, bail when the power nosedives	8	0	0	72	16777215	230
+660	Over time you'll last longer and be able to repeat more sprints	8	0	0	72	16777215	240
+660	First sprint is in 30 seconds so start to find your gearing	8	0	0	72	16777215	270
+660	Choose a gear you can turn quickly, not one that bogs you down	8	0	0	72	16777215	280
+660	We'll emphasize form & speed over power, but feel free to go for big watts too	8	0	0	72	16777215	290
+960	Stay seated, go all-out!	3	0	0	72	16777215	0
+960	10 seconds to go!	3	0	0	72	16777215	5
+960	Hang on!	3	0	0	72	16777215	10
+975	Well done	3	0	0	72	16777215	0
+975	Dial things back & catch your breath	5	0	0	72	16777215	5
+1275	Go hard!	3	0	0	72	16777215	0
+1275	10 seconds to go!	3	0	0	72	16777215	5
+1275	Keep it!	3	0	0	72	16777215	10
+1290	Well done	3	0	0	72	16777215	0
+1290	Ease way up & breathe deeply	5	0	0	72	16777215	5
+1590	Last time, all-out!	3	0	0	72	16777215	0
+1590	Still seated, quick legs!	3	0	0	72	16777215	5
+1590	5 seconds, keep it!	3	0	0	72	16777215	10
+1605	Nice job	3	0	0	72	16777215	0
+1605	Ease up & catch your breath	5	0	0	72	16777215	5
+1980	Spend 5 of these 15 minutes doing some Endurance Spinning	8	0	0	72	16777215	0
+2940	Add 5 minutes of ILT to this long stretch, 30-60s at a time	8	0	0	72	16777215	0
+4620	Spend one more 5-minute stretch doing some Endurance Spinning	8	0	0	72	16777215	0
+5580	Go ahead and do 3-5 Form Sprints over this 22-minute stretch	8	0	0	72	16777215	0
+6960	If you're not totally shot, add 5 more minute of ILT, 30-60s at a time	8	0	0	72	16777215	0
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	8100	Workout
+0	600	Active Recovery 1
+600	660	Endurance 1
+660	960	Endurance 2
+960	975	Sprint 1
+1015	1275	Endurance 3
+1275	1290	Sprint 2
+1330	1590	Endurance 4
+1590	1605	Sprint 3
+1645	1920	Endurance 5
+1920	1980	Endurance 6
+1980	2880	Endurance 7
+2880	2940	Endurance 8
+2940	4560	Endurance 9
+4560	4620	Endurance 10
+4620	5520	Endurance 11
+5520	5580	Endurance 12
+5580	6900	Endurance 13
+6900	6960	Endurance 14
+6960	7860	Endurance 15
+7860	7920	Endurance 16
+7920	8100	Active Recovery 2
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

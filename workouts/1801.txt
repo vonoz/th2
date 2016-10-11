@@ -1,0 +1,158 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Young,88,77. Created by 44401.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	90
+8	100
+8	40
+12	40
+12	109
+13.5	109
+13.5	40
+14.5	40
+14.5	107
+17.5	107
+17.5	40
+19.5	40
+19.5	103
+24.5	103
+24.5	40
+27.5	40
+27.5	109
+29	109
+29	40
+30	40
+30	105
+33	105
+33	40
+35	40
+35	103
+40	103
+40	40
+43	40
+43	109
+44.5	109
+44.5	40
+45.5	40
+45.5	105
+48.5	105
+48.5	40
+50.5	40
+50.5	103
+55.5	103
+55.5	40
+60	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	VO2max and Aerobic Power are the keys to today's workout	8	0	0	72	16777215	1
+0	With proper recovery, Young will make you faster & help you recover faster	8	0	0	72	16777215	10
+0	That's a lot of fast, yeah?	8	0	0	72	16777215	20
+0	Go ahead and take some time to warm up...	8	0	0	72	16777215	30
+0	and try to do it with a comfortably yet quick spin	8	0	0	72	16777215	40
+0	Keep your spin quick & get ready for a short warming ramp	8	0	0	72	16777215	290
+300	Try to keep your spin above 85rpm, closer to 95rpm if possible	8	0	0	72	16777215	0
+480	Alright, now that you're nice & warmed up...	8	0	0	72	16777215	10
+480	let's see what's on the menu today	5	0	0	72	16777215	20
+480	Three sets of 3 varied-intensity, varied-duration intervals	8	0	0	72	16777215	30
+480	The first interval in each set will be 90 seconds at 109% FTP...	8	0	0	72	16777215	40
+480	followed by 3 minutes at 105% FTP...	8	0	0	72	16777215	50
+480	and capped off with 5 minutes at 103% FTP	8	0	0	72	16777215	60
+480	You will have 1-2 minutes between intervals & 3 minutes to recover between sets	8	0	0	72	16777215	70
+480	But before we get too deep, get your body relaxed & ready	8	0	0	72	16777215	80
+480	One minute until the first set, make sure you're spinning quickly	8	0	0	72	16777215	180
+480	The goal with these efforts is to build your repeatable power	8	0	0	72	16777215	190
+480	So that mean's these intervals will be tough...	8	0	0	72	16777215	200
+480	and your heart rate will be high during & between efforts	8	0	0	72	16777215	210
+480	But remember - done well, these WILL make you faster	8	0	0	72	16777215	220
+480	Start out relaxed & try to stay that way	5	0	0	72	16777215	230
+720	And we're off, well above FTP but only for 90 seconds	8	0	0	72	16777215	0
+720	Try to keep that cadence above 90rpm	8	0	0	72	16777215	10
+810	Nice work!	5	0	0	72	16777215	0
+810	Spin light and breathe from your diaphragm	8	0	0	72	16777215	10
+810	Strong, controlled breaths	5	0	0	72	16777215	20
+810	Interval #2 coming right up	5	0	0	72	16777215	50
+870	Pick it up!	5	0	0	72	16777215	0
+870	Good! Now find your groove	8	0	0	72	16777215	10
+870	Halfway through, keep it up!	5	0	0	72	16777215	90
+1050	Well done!	5	0	0	72	16777215	0
+1050	A little longer to recover this time	8	0	0	72	16777215	10
+1050	Use every last second to relax your body & breathing	8	0	0	72	16777215	20
+1050	Longer, less intense interval coming up	8	0	0	72	16777215	110
+1170	Settle into a rhythm as soon as you can	8	0	0	72	16777215	0
+1170	Halfway, stay focused!	5	0	0	72	16777215	180
+1170	Final minute, try to hide your discomfort	8	0	0	72	16777215	240
+1470	Great job!	5	0	0	72	16777215	0
+1470	Take some time to rest now	8	0	0	72	16777215	10
+1470	Let's talk about intensity	5	0	0	72	16777215	90
+1470	These intervals are specifically designed...	8	0	0	72	16777215	100
+1470	to raise your aerobic capacity, or in other words...	8	0	0	72	16777215	110
+1470	your ability to work hard while using mostly oxygen as fuel	8	0	0	72	16777215	120
+1470	You'll be spending valuable time at/near peak aerobic uptake	8	0	0	72	16777215	130
+1470	Or in other words, we're expanding your aerobic capacity	8	0	0	72	16777215	140
+1470	That way you'll be able to maintain hard efforts for longer...	8	0	0	72	16777215	150
+1470	and repeat them which is the REAL value of this type of intervals	8	0	0	72	16777215	160
+1470	Shoot for a +90rpm spin for 90 seconds	8	0	0	72	16777215	170
+1650	Smoothly build your power	5	0	0	72	16777215	0
+1650	Steadily hold this pace	5	0	0	72	16777215	10
+1740	Good job! Keep your spin light	5	0	0	72	16777215	0
+1740	A little longer, less intense this time	5	0	0	72	16777215	50
+1800	Quick spin, relaxed & stable upper body	8	0	0	72	16777215	0
+1800	At the mid-point, hang in there	5	0	0	72	16777215	90
+1980	Nice work, spin away the fatigue	5	0	0	72	16777215	0
+1980	Relax your body from your head to your toes	8	0	0	72	16777215	10
+1980	Spin lightly & breathe deeply	5	0	0	72	16777215	20
+1980	Last interval of this second set coming up	5	0	0	72	16777215	110
+2100	Roll into it, quick & controlled	5	0	0	72	16777215	0
+2100	Halfway, stay as smooth as you can	5	0	0	72	16777215	150
+2400	Awesome job, spin it out	5	0	0	72	16777215	0
+2400	Since we talked about intensity last time, let's talk about duration this time	8	0	0	72	16777215	60
+2400	The length of these intervals should definitely stress you...	8	0	0	72	16777215	70
+2400	but perhaps the hardest part is the limited recovery time	8	0	0	72	16777215	80
+2400	When you have limited recovery time like this...	8	0	0	72	16777215	90
+2400	you're forced to recover quickly in between hard efforts...	8	0	0	72	16777215	100
+2400	and this is invaluable in racing & riding with groups	8	0	0	72	16777215	110
+2400	Say goodbye to getting dropped ;-)	5	0	0	72	16777215	120
+2400	Alright, 10 seconds until the final set	5	0	0	72	16777215	170
+2580	Quick but sustainable, 90rpm or higher	8	0	0	72	16777215	0
+2670	Nice job	5	0	0	72	16777215	0
+2670	A little longer for interval #2	5	0	0	72	16777215	50
+2730	Still above FTP, try to keep your spin up	8	0	0	72	16777215	0
+2730	Almost there! Don't fade	5	0	0	72	16777215	150
+2910	Nice, time to recover for the final effort	8	0	0	72	16777215	0
+2910	Almost time to hit the gas, relax & focus	8	0	0	72	16777215	110
+3030	Last 5 minutes in the workout, a minute at a time	8	0	0	72	16777215	0
+3030	One minute down, focus on the next minute	8	0	0	72	16777215	60
+3030	Try not to get ahead of yourself	5	0	0	72	16777215	70
+3030	Next minute, don't think any further ahead than that	8	0	0	72	16777215	120
+3030	Good, get through another minute looking smooth & relaxed	8	0	0	72	16777215	180
+3030	Excellent, just keep your focus of one final minute!	8	0	0	72	16777215	240
+3330	Way to go! Wind down and clear your muscles	8	0	0	72	16777215	0
+3330	Start pondering your post-workout nutrition...	8	0	0	72	16777215	10
+3330	and we'll see ya next time!	8	0	0	72	16777215	20
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+300	480	Sweet Spot 1
+720	810	VO2 Max 1
+870	1050	VO2 Max 2
+1170	1470	Threshold 1
+1650	1740	VO2 Max 3
+1800	1980	Threshold 2
+2100	2400	Threshold 3
+2580	2670	VO2 Max 4
+2730	2910	Threshold 4
+3030	3330	Threshold 5
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

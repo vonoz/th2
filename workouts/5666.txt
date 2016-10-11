@@ -1,0 +1,246 @@
+[COURSE HEADER]
+VERSION = 2
+UNITS = ENGLISH
+DESCRIPTION = Power Test 2. 30 Second, 2 Minute and 5 Minute, 87, 75,  5min all-out effort to measure Aerobic Capacity power + 2x30sec all-out efforts to measure short, anaerobic power + 2x2min efforts to measure longer anaerobic power; 4-10RBI.
+FILE NAME = ShortPowerAssessment2.mrc
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0.0	50
+5.0	50
+10.0	65
+10.0	75
+11.0	75
+11.0	60
+12.0	60
+12.0	75
+13.0	75
+13.0	50
+14.0	50
+14.0	150
+15.0	150
+15.0	50
+20.0	50
+20.0	110
+25.0	110
+25.0	50
+32.0	50
+32.0	200
+32.5	200
+32.5	50
+38.0	50
+38.0	200
+38.5	200
+38.5	50
+45.0	50
+45.0	130
+47.0	130
+47.0	50
+53.0	50
+53.0	130
+55.0	130
+55.0	50
+60.0	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+10	Today we'll try to get an idea of your maximum 5-minute power, 30-second power & 2-minute power	8	0	0	72	0xFFFFFF
+20	But first we'll thoroughly warm you up over this next 20 minutes	8	0	0	72	0xFFFFFF
+30	If you'd like a little extra warm-up, pause the workout now and spin for an extra 5-10 minutes	8	0	0	72	0xFFFFFF
+300	Keep your feet quick & light...	8	0	0	72	0xFFFFFF
+310	And work just a little bit harder over the next 5 minutes	8	0	0	72	0xFFFFFF
+320	But keep your power on target - this is just the beginning of the warm-up	8	0	0	72	0xFFFFFF
+540	In 1 minute, you'll do your first of 2 quick-spinning efforts	8	0	0	72	0xFFFFFF
+550	They're each only 1 minute long and the goal is high cadence & low watts	8	0	0	72	0xFFFFFF
+560	This will require a low gear & some smooth, relaxed, but FAST legs	8	0	0	72	0xFFFFFF
+570	But you'll only spin as quickly as you can control	8	0	0	72	0xFFFFFF
+580	Put another way: no bouncing around in the saddle	8	0	0	72	0xFFFFFF
+590	Shift down a gear or two and start to raise your leg speed	8	0	0	72	0xFFFFFF
+600	1 minute!	8	0	0	72	0xFFFFFF
+620	Light, loose feet move really quickly...	8	0	0	72	0xFFFFFF
+630	So do your best to stay relaxed as your leg speed comes up	8	0	0	72	0xFFFFFF
+640	I find it helps to really relax my feet and calves	8	0	0	72	0xFFFFFF
+650	10 more quick-spinning seconds...	8	0	0	72	0xFFFFFF
+660	Excellent. Ride really easy for a minute	8	0	0	72	0xFFFFFF
+690	Next quick-spinning effort in 30 seconds	8	0	0	72	0xFFFFFF
+700	Try to pedal even quicker this time...	8	0	0	72	0xFFFFFF
+710	As long as you can control your spin without bouncing	8	0	0	72	0xFFFFFF
+720	Go!	8	0	0	72	0xFFFFFF
+750	Keep your legs quick for 30 more seconds!	8	0	0	72	0xFFFFFF
+770	10!	8	0	0	72	0xFFFFFF
+780	Good! Now take it easy for a minute...	8	0	0	72	0xFFFFFF
+790	And then you'll have the chance to bury yourself, but only for 1 minute	8	0	0	72	0xFFFFFF
+810	This 1-minute effort is all about big watts & it's followed by a long recovery	8	0	0	72	0xFFFFFF
+820	So don't be afraid to really go for it - it's only a minute	8	0	0	72	0xFFFFFF
+830	Use the first 30sec to put build your watts as high as think you can hold, then hold it for another 30	8	0	0	72	0xFFFFFF
+840	Start to build - working harder every 5 seconds	8	0	0	72	0xFFFFFF
+850	Keep building little by little...	8	0	0	72	0xFFFFFF
+860	Keeeeeep building!	8	0	0	72	0xFFFFFF
+870	Good, now hang on the best you can	8	0	0	72	0xFFFFFF
+880	Keep it! Less than 20 seconds to go	8	0	0	72	0xFFFFFF
+890	10! Don't fade!	8	0	0	72	0xFFFFFF
+900	Excellent. Take it really easy for a couple minutes...	8	0	0	72	0xFFFFFF
+910	And then settle back in to all-day pace for a few more minutes	8	0	0	72	0xFFFFFF
+960	This first assessment effort will give you a good idea of your power at VO2max	8	0	0	72	0xFFFFFF
+970	Otherwise known as your aerobic capacity	8	0	0	72	0xFFFFFF
+980	And while VO2max is largely set by genetics, it IS trainable	8	0	0	72	0xFFFFFF
+990	Especially for less experienced riders	8	0	0	72	0xFFFFFF
+1000	Even better news, the power you can sustain at VO2max is HIGHLY trainable	8	0	0	72	0xFFFFFF
+1010	So even riders with less than exceptional lung capacities can become very powerful	8	0	0	72	0xFFFFFF
+1020	And we accomplish that through VO2max & anaerobic capacity efforts	8	0	0	72	0xFFFFFF
+1030	But today our concern lies in finding out what percentage of your FTP you can hold for 5 minutes	8	0	0	72	0xFFFFFF
+1040	This duration - when ridden all-out - can be an excellent measure of power at VO2max	8	0	0	72	0xFFFFFF
+1050	While you can take in a certain amount of oxygen, how well you utilize it is another story	8	0	0	72	0xFFFFFF
+1060	And that's why we want to measure your current power at VO2max	8	0	0	72	0xFFFFFF
+1070	So that when you improve your fitness, this number will serve as a measure of your progress	8	0	0	72	0xFFFFFF
+1080	For example, maybe today you manage to average115% of your FTP over 5 minutes	8	0	0	72	0xFFFFFF
+1090	And when you finish the effort, you feel pretty sure that you truly went all-out	8	0	0	72	0xFFFFFF
+1100	Then when you reassess in 4-6 weeks you manage to average 120%FTP over the same 5 minutes	8	0	0	72	0xFFFFFF
+1110	While your VO2max might not have changed at all...	8	0	0	72	0xFFFFFF
+1120	The percentage of FTP which you can sustain increased by 5%	8	0	0	72	0xFFFFFF
+1130	In other words, your VO2max didn't change but your POWER at VO2max improved	8	0	0	72	0xFFFFFF
+1140	This 5-minute effort starts in 1 minute, so choose a gear that best suits your riding style	8	0	0	72	0xFFFFFF
+1150	Ideally, you'll spin no lower than 90rpm but this isn't a requirement for today	8	0	0	72	0xFFFFFF
+1160	It IS something that you'd benefit from addressing later on though	8	0	0	72	0xFFFFFF
+1170	In 30 seconds, you'll go out aggressively while holding back a little bit	8	0	0	72	0xFFFFFF
+1180	This is a 5-minute effort, so be a little conservative over the first 30 seconds	8	0	0	72	0xFFFFFF
+1190	Get ready...	8	0	0	72	0xFFFFFF
+1200	Go! But not TOO hard	8	0	0	72	0xFFFFFF
+1210	Gradually lift your pace as long as you feel well in control of your power	8	0	0	72	0xFFFFFF
+1220	Come up a little more as long as you're confident you can sustain your power	8	0	0	72	0xFFFFFF
+1230	Spend the next 30 seconds fine-tuning your effort	8	0	0	72	0xFFFFFF
+1240	A little harder maybe? Back off slightly perhaps?	8	0	0	72	0xFFFFFF
+1250	10 more seconds to settle into the hardest pace you can hold for 4 more minutes	8	0	0	72	0xFFFFFF
+1260	Even things out and try to relax	8	0	0	72	0xFFFFFF
+1290	Are you riding that edge of really pushing yourself without quite burning out?	8	0	0	72	0xFFFFFF
+1300	If not, work slightly harder but make it a subtle increase	8	0	0	72	0xFFFFFF
+1320	Every 30 seconds, make tiny adjustments in effort based on how you're feeling	8	0	0	72	0xFFFFFF
+1350	Is your power pretty smooth? If not, back off slightly and power the pedals more evenly	8	0	0	72	0xFFFFFF
+1380	2 minutes left - micro-adjust your effort if you need to	8	0	0	72	0xFFFFFF
+1410	90 seconds - keep your watts!	8	0	0	72	0xFFFFFF
+1440	Final minute - see if you can lift it just a little bit	8	0	0	72	0xFFFFFF
+1470	30! Pick it up!	8	0	0	72	0xFFFFFF
+1490	Final kick!	8	0	0	72	0xFFFFFF
+1500	Excellent! Shut it down and enjoy the 7-minute break	8	0	0	72	0xFFFFFF
+1560	Good news/bad news...	8	0	0	72	0xFFFFFF
+1570	Good news is that was the only 5-minute effort in this workout	8	0	0	72	0xFFFFFF
+1580	Bad news is...	8	0	0	72	0xFFFFFF
+1590	That was the only 5-minute effort in this workout	8	0	0	72	0xFFFFFF
+1600	So if you feel like you may have underperformed...	8	0	0	72	0xFFFFFF
+1610	Don't hesitate to repeat the first half of this assessment in the near future	8	0	0	72	0xFFFFFF
+1620	Pacing for all-out efforts can be tricky and often requires numerous attempts	8	0	0	72	0xFFFFFF
+1630	Which is why the remaining 2 power durations offer 2 chances to get your best effort	8	0	0	72	0xFFFFFF
+1640	But more on that later. For now, lift your knees & let your feet fall	8	0	0	72	0xFFFFFF
+1740	OK, you're about 3 minutes out so let's talk 30-second power	8	0	0	72	0xFFFFFF
+1750	30 seconds is considered the low end of the AC spectrum	8	0	0	72	0xFFFFFF
+1760	Anaerobic Capacity efforts are short & intense	8	0	0	72	0xFFFFFF
+1770	And they're heavily reliant on sugar which is one reason they're good to measure	8	0	0	72	0xFFFFFF
+1780	Sugar stores are limited, so efforts like these are best saved for when they matter	8	0	0	72	0xFFFFFF
+1790	And knowing how hard you can go, for how long, and how frequently...	8	0	0	72	0xFFFFFF
+1800	Can be crucial when it comes to your key events	8	0	0	72	0xFFFFFF
+1810	And 30-second efforts are probably more common than you realize	8	0	0	72	0xFFFFFF
+1820	So get an idea of just how hard you can go when the effort is this brief...	8	0	0	72	0xFFFFFF
+1830	And then you'll have the chance to improve upon your first effort	8	0	0	72	0xFFFFFF
+1860	One minute away from your first 30-second, all-out effort	8	0	0	72	0xFFFFFF
+1870	And there's no settling-in period with efforts this short	8	0	0	72	0xFFFFFF
+1880	These are HIGH output from the very start	8	0	0	72	0xFFFFFF
+1890	But that's not to say they are sprints, so go out hard but keep just a little in reserve	8	0	0	72	0xFFFFFF
+1900	Most riders can double their FTP for 30 seconds if that gives you a vague idea of how hard to push	8	0	0	72	0xFFFFFF
+1910	Get ready...	8	0	0	72	0xFFFFFF
+1920	GO!	8	0	0	72	0xFFFFFF
+1930	Faster!	8	0	0	72	0xFFFFFF
+1940	Faster!	8	0	0	72	0xFFFFFF
+1950	Excellent! Take 'er easy for a solid 5 minutes	8	0	0	72	0xFFFFFF
+2160	Based on your first 30-second effort, decide how you might approach your final attempt	8	0	0	72	0xFFFFFF
+2170	Did you go out too hard and watch as your watts slipped away no matter how hard you fought?	8	0	0	72	0xFFFFFF
+2180	Then maybe don't go out quite so hard this time	8	0	0	72	0xFFFFFF
+2190	Did you have enough gas in the tank to all but sprint over the final 10 seconds?	8	0	0	72	0xFFFFFF
+2200	Then work a little harder a little earlier	8	0	0	72	0xFFFFFF
+2210	Done properly, you'll be seeing stars during the closing few seconds of this next effort	8	0	0	72	0xFFFFFF
+2220	1 minute and you'll go again...	8	0	0	72	0xFFFFFF
+2230	So start to fish for a good starting gear, one you can get on top of within 3-5 seconds	8	0	0	72	0xFFFFFF
+2240	After that, your job is to either build more watts or keep what you've already built	8	0	0	72	0xFFFFFF
+2250	But no fading, regardless of how hard you go out	8	0	0	72	0xFFFFFF
+2260	This is 30 seconds of focus and nothing you can't handle	8	0	0	72	0xFFFFFF
+2270	Get ready...	8	0	0	72	0xFFFFFF
+2280	GO!	8	0	0	72	0xFFFFFF
+2290	10 down! Faster!	8	0	0	72	0xFFFFFF
+2300	Final 10! FASTER!	8	0	0	72	0xFFFFFF
+2310	Nice!	8	0	0	72	0xFFFFFF
+2320	Take it really easy for a good 6 minutes this time	8	0	0	72	0xFFFFFF
+2330	Next up, a couple cracks at max 2-minute power	8	0	0	72	0xFFFFFF
+2520	Your first 2-minute assault is just a few minutes away...	8	0	0	72	0xFFFFFF
+2530	So hark back to that time you went all-out for 30 seconds	8	0	0	72	0xFFFFFF
+2540	You know, like 3 minutes ago, and consider your power output	8	0	0	72	0xFFFFFF
+2550	Hark back further and consider your 5-minute power output	8	0	0	72	0xFFFFFF
+2560	A 2-minute effort falls somewhere in between...	8	0	0	72	0xFFFFFF
+2570	But where the 2-minute watts fall can be pretty different from rider to rider	8	0	0	72	0xFFFFFF
+2580	Many elite level riders can repeat 2-minute efforts at 130-140% of FTP, even higher	8	0	0	72	0xFFFFFF
+2590	Less experienced riders might fall more toward 120%FTP	8	0	0	72	0xFFFFFF
+2600	When in doubt, err on the side of caution during your first effort knowing that you get another	8	0	0	72	0xFFFFFF
+2610	Going out too hard in a time trial, whether it's 2 minutes long or a full hour...	8	0	0	72	0xFFFFFF
+2620	Can be catastrophic in terms of sustaining your power	8	0	0	72	0xFFFFFF
+2630	So in the case of these 2-minute jobbers...	8	0	0	72	0xFFFFFF
+2640	Hold back just a bit over the course of the first 20-30 seconds	8	0	0	72	0xFFFFFF
+2650	Then use the next 20-30 seconds to fine-tune your gut-wrenching effort	8	0	0	72	0xFFFFFF
+2660	And these will give you an idea of your power toward the higher end of your anaerobic capacity	8	0	0	72	0xFFFFFF
+2670	Find a gear that suits you, one that you can spin up in less than 10 seconds...	8	0	0	72	0xFFFFFF
+2680	And settle into a comfortable cadence	8	0	0	72	0xFFFFFF
+2690	Get ready...	8	0	0	72	0xFFFFFF
+2700	Go!	8	0	0	72	0xFFFFFF
+2710	Working hard but holding back just a little	8	0	0	72	0xFFFFFF
+2720	Work a little harder if you think you can sustain it	8	0	0	72	0xFFFFFF
+2730	Start to settle in and even out your power	8	0	0	72	0xFFFFFF
+2750	If you faded at all, try to make up your power loss now	8	0	0	72	0xFFFFFF
+2760	Here's where 2-minute efforts get interesting	8	0	0	72	0xFFFFFF
+2770	Focus on 10 seconds at a time	8	0	0	72	0xFFFFFF
+2780	Good, another 10	8	0	0	72	0xFFFFFF
+2790	And another - don't let up!	8	0	0	72	0xFFFFFF
+2800	One more, don't fade!	8	0	0	72	0xFFFFFF
+2810	Last one, hang on!	8	0	0	72	0xFFFFFF
+2820	Great job!	8	0	0	72	0xFFFFFF
+2830	Take it really easy for a couple minutes, then back to all-day pace	8	0	0	72	0xFFFFFF
+3000	With the knowledge of all your earlier efforts fresh in mind...	8	0	0	72	0xFFFFFF
+3010	This final effort can be your best example of proper pacing today	8	0	0	72	0xFFFFFF
+3020	You know 30-second power is way too high, 5-minute power is too low	8	0	0	72	0xFFFFFF
+3030	You also know what 2 minutes of high effort feels like, what wattage it yielded	8	0	0	72	0xFFFFFF
+3040	So use allllll that information to create your best pacing strategy yet	8	0	0	72	0xFFFFFF
+3050	And again, done properly an all-out effort leaves you SPENT	8	0	0	72	0xFFFFFF
+3060	Maybe a little dizzy, maybe a little angry...	8	0	0	72	0xFFFFFF
+3070	Probably looking for a bucket to purge some "dead weight" into	8	0	0	72	0xFFFFFF
+3080	But that's the hard truth of assessing max power...	8	0	0	72	0xFFFFFF
+3090	It hurts...real bad	8	0	0	72	0xFFFFFF
+3100	So during this last effort, see just how bad you can make it hurt	8	0	0	72	0xFFFFFF
+3110	But at no point do you get to sacrifice form - even on a trainer	8	0	0	72	0xFFFFFF
+3120	Final effort in 1 minute	8	0	0	72	0xFFFFFF
+3150	Find your gearing...	8	0	0	72	0xFFFFFF
+3160	Set your cadence...	8	0	0	72	0xFFFFFF
+3170	And get ready...	8	0	0	72	0xFFFFFF
+3180	GO!	8	0	0	72	0xFFFFFF
+3210	Settle into something brutally hard but sustainable	8	0	0	72	0xFFFFFF
+3240	Already halfway! Relax but don't let up!	8	0	0	72	0xFFFFFF
+3250	10 seconds at a time!	8	0	0	72	0xFFFFFF
+3260	Another!	8	0	0	72	0xFFFFFF
+3270	10, 10, & 10!	8	0	0	72	0xFFFFFF
+3280	Keep it together for 10!	8	0	0	72	0xFFFFFF
+3290	Final 10! DON'T FADE!	8	0	0	72	0xFFFFFF
+3300	Perfect! Right?	8	0	0	72	0xFFFFFF
+3330	So there you have it - a measure of 3 very useful & soul-sucking power durations	8	0	0	72	0xFFFFFF
+3340	Send it to your coach, brag about it to your friends, grow it over the next month's time	8	0	0	72	0xFFFFFF
+3350	And we'll see you next time	8	0	0	72	0xFFFFFF
+[END COURSE TEXT]
+[INTERVAL DATA]
+0	3600	Workout
+600	660	Fast Spinning 1
+720	780	Fast Spinning 2
+840	900	1min All-Out
+1200	1500	5min Max
+1920	1950	30sec Max 1
+2280	2310	30sec Max 2
+2700	2820	2min Max 1
+3180	3300	2min Max 2
+[END INTERVAL DATA]
+[MODE DATA]
+0	Slope	3
+[END MODE DATA]

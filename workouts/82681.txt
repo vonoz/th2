@@ -1,0 +1,190 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Wynne TC,97,47. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+2	60
+2	95
+3.5	95
+3.5	40
+4.5	40
+4.5	150
+4.75	150
+4.75	40
+5.75	40
+5.75	180
+6	180
+6	40
+8	40
+8	130
+10	130
+10	40
+14	40
+14	130
+16	130
+16	40
+20	40
+20	150
+21	150
+21	40
+23	40
+23	150
+24	150
+24	40
+26	40
+26	180
+26.5	180
+26.5	40
+28.5	40
+28.5	180
+29	180
+29	40
+30	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Today's workout is all about anaerobic capacity	8	0	0	72	16777215	1
+0	While it may not seem too difficult at first glance...	8	0	0	72	16777215	10
+0	this is a precisely developed workout aimed at improving your top-end power	8	0	0	72	16777215	20
+0	We'll get into the mechanics of the workout a little later...	8	0	0	72	16777215	30
+0	but for now, let those legs spin & start warming up	8	0	0	72	16777215	40
+0	We're just getting into the tougher part of the warmup	8	0	0	72	16777215	90
+0	Firstly, a short effort just shy of FTP to get your blood cirulating	8	0	0	72	16777215	100
+0	Maintain your relaxed form & spin up to 85rpm or higher	8	0	0	72	16777215	110
+120	Steady effort, quiet hips	5	0	0	72	16777215	0
+120	Relaxed body, keep things smooth & fast	5	0	0	72	16777215	30
+210	Good, now let your legs spin quickly & lightly	8	0	0	72	16777215	0
+210	Next up we'll have a couple clearing efforts to really blow out the cobwebs	8	0	0	72	16777215	30
+210	Keep your cadence high during and in between these efforts...	8	0	0	72	16777215	40
+210	100rpm or higher, but not so quick you bounce in the saddle	8	0	0	72	16777215	50
+270	Go!	3	0	0	72	16777215	0
+285	Nice! Keep your cadence up	5	0	0	72	16777215	0
+285	Next one in 10 seconds...	5	0	0	72	16777215	50
+345	Wind it up!	3	0	0	72	16777215	0
+360	Keep spinning lightly and we'll look at the workout	5	0	0	72	16777215	10
+360	We have 3 sets of ascending-intensity/descending-duration intervals	8	0	0	72	16777215	20
+360	In other words, they start out longer & moderate and get shorter & harder	8	0	0	72	16777215	30
+360	These are big efforts with big breaks in between, necessarily so	8	0	0	72	16777215	40
+360	Our goal? To make you faster, of course...	5	0	0	72	16777215	50
+360	but whether you're sprinting on flat land or surging up a climb...	8	0	0	72	16777215	60
+360	this workout will help your foster more power...	8	0	0	72	16777215	70
+360	for relatively longer periods of time	5	0	0	72	16777215	80
+360	First interval coming up, loosen up, start bring up your leg speed	8	0	0	72	16777215	90
+360	Find your rhythm & focus, lots of leg speed...	8	0	0	72	16777215	100
+360	probably something in the 100-110rpm range	8	0	0	72	16777215	110
+480	Build it up!	5	0	0	72	16777215	0
+480	As you settle in, focus on drawing full, belly breaths	5	0	0	72	16777215	10
+480	No matter how quickly you spin, do it smoothly	8	0	0	72	16777215	20
+480	In fact, the faster you pedal, the smoother you have to be	8	0	0	72	16777215	30
+480	Halfway through, keep it up	5	0	0	72	16777215	60
+480	Final 30 seconds, keep your focus & don't fade!	5	0	0	72	16777215	90
+600	Well done, catch your breath with big exhales	8	0	0	72	16777215	0
+600	Take the next 5 minutes to spin lightly and recover	8	0	0	72	16777215	10
+600	2-minute efforts like this are great training for short hills...	8	0	0	72	16777215	60
+600	or the always-exciting breakaway!	5	0	0	72	16777215	70
+600	As in those scenarios, you have to dig deep & tell yourself you CAN	8	0	0	72	16777215	80
+600	Don't listen to the pain, just focus on your power	8	0	0	72	16777215	90
+600	These are all about jumping hard & not looking back	8	0	0	72	16777215	100
+600	Next one coming right up, quick legs	5	0	0	72	16777215	230
+840	Go! Gulp in the air!	5	0	0	72	16777215	0
+840	Settle in & breathe from the diaphragm, with your belly	8	0	0	72	16777215	10
+840	First 30 seconds is usually no problem	5	0	0	72	16777215	30
+840	First minute, things start to get pretty uncomfortable	5	0	0	72	16777215	60
+840	Final 30 seconds is where the real overload comes into play...	8	0	0	72	16777215	90
+840	this is the part that matters most - extend your limits!	8	0	0	72	16777215	100
+840	10 more seconds, not ONE less!	5	0	0	72	16777215	110
+960	Way to go! Take some time to catch your breath...	8	0	0	72	16777215	0
+960	and keep those legs spinning, fairly quickly for a minute	8	0	0	72	16777215	10
+960	Alright, next up is a couple shorter intervals, but they're more intense	8	0	0	72	16777215	120
+960	Even though we are cutting the duration in half...	8	0	0	72	16777215	130
+960	it's likely these won't feel any easier at first	5	0	0	72	16777215	140
+960	The trick with these is to look past the initial shock...	8	0	0	72	16777215	150
+960	and avoid letting the intensity psych you out - the strength is there	8	0	0	72	16777215	160
+960	Remember, you can do ANYTHING for 1 minute! ;-)	5	0	0	72	16777215	170
+960	Take a minute to gradually bring up your cadence...	8	0	0	72	16777215	180
+960	as well as your breathing & your HR, less shock that way	8	0	0	72	16777215	190
+960	30 seconds out, be settling into the spin you'll aim to keep	8	0	0	72	16777215	210
+960	Cadence high, mind focused, sit bones glued to your saddle	8	0	0	72	16777215	230
+1200	Drill it!	3	0	0	72	16777215	0
+1200	Quick & controlled legs	5	0	0	72	16777215	5
+1200	Halfway there, no slip in form - hips anchored & quiet	8	0	0	72	16777215	30
+1200	Get another 10 seconds in!	5	0	0	72	16777215	40
+1200	Final 10! No bailing out early, not even a second!	5	0	0	72	16777215	50
+1260	Excellent! Keep your legs turning lightly, kinda quickly	8	0	0	72	16777215	0
+1260	Spinning slowly is tempting, but...	5	0	0	72	16777215	10
+1260	it only ends up putting more stress on your muscles	8	0	0	72	16777215	17
+1260	Spinning quickly & lightly "shifts the workload" just a bit...	8	0	0	72	16777215	27
+1260	from your legs to your heart & lungs	5	0	0	72	16777215	37
+1260	During rest, during the hard work, use your cadence to shift that workload	8	0	0	72	16777215	60
+1260	Muscles cook pretty quickly at efforts this high...	8	0	0	72	16777215	70
+1260	so shift some of the stress to your far less fatiguable heart	8	0	0	72	16777215	80
+1260	Ready to go again? Keep ramping your spin & breathing	8	0	0	72	16777215	90
+1380	Build!	3	0	0	72	16777215	0
+1380	Settle in and be strong, smooth, fast	8	0	0	72	16777215	5
+1380	Sit bones anchored? Shoulders low? Jaw & neck relaxed?	8	0	0	72	16777215	30
+1380	Loosen your grip on the bars, soften your elbows a bit	8	0	0	72	16777215	40
+1380	10 more seconds, make them smooooooth!	5	0	0	72	16777215	50
+1440	Nice! You handled that like a BOSS!	5	0	0	72	16777215	0
+1440	These last couple of efforts are only 30 seconds long...	8	0	0	72	16777215	0
+1440	but the 180% FTP is brutal	5	0	0	72	16777215	10
+1440	Keep a fast cadence through these efforts, but...	8	0	0	72	16777215	20
+1440	make sure your pedaling technique is super clean	8	0	0	72	16777215	30
+1440	Try not to simply mash down on the pedals...	5	0	0	72	16777215	40
+1440	instead, think of your pedalstroke as full circles	8	0	0	72	16777215	50
+1440	At the bottom of the stroke, pull your heels backward...	5	0	0	72	16777215	60
+1440	then at the back of the stroke lift your knees up lightly	5	0	0	72	16777215	67
+1440	At the top of the stroke kick forward lightly...	5	0	0	72	16777215	74
+1440	then as you hit the ever-important downstroke...	5	0	0	72	16777215	81
+1440	try to avoid overpowering that downward push, keep it smooth	8	0	0	72	16777215	88
+1440	Perhaps the most important part is to keep all 4 parts seamless	8	0	0	72	16777215	100
+1440	Fluid, circular motion with stable hips & a quiet upper body	8	0	0	72	16777215	110
+1560	Go, go, go!	3	0	0	72	16777215	0
+1560	10 down, 10 more!	3	0	0	72	16777215	10
+1560	Final 10, keep it!	3	0	0	72	16777215	20
+1560	3...	1	0	0	72	16777215	27
+1560	2...	1	0	0	72	16777215	28
+1560	1...	1	0	0	72	16777215	29
+1590	Done! Slow your spin a bit, stay light & quick though	8	0	0	72	16777215	0
+1590	If you found yourself slowing down towards the end...	8	0	0	72	16777215	10
+1590	focus on keeping your cadence high	5	0	0	72	16777215	20
+1590	Also, try to distract yourself from the general difficulty	5	0	0	72	16777215	27
+1590	Too often, riders treat Anaerobic work like a painful chore...	5	0	0	72	16777215	34
+1590	only seeing the end of the effort & rushing toward it	5	0	0	72	16777215	41
+1590	Resist! Break the effort into chunks & make each one productive	8	0	0	72	16777215	48
+1590	And by that we mean fluid, stable both in your power & your body...	8	0	0	72	16777215	58
+1590	minimally wasteful - don't fight your bike	5	0	0	72	16777215	68
+1590	As the discomfort grows, don't give it the upper hand by filling with tension	8	0	0	72	16777215	75
+1590	Concentrate as much on staying relaxed as you do on working hard	5	0	0	72	16777215	85
+1590	Start working your spin up to 100rpm or higher	8	0	0	72	16777215	92
+1590	Get ready!	3	0	0	72	16777215	115
+1710	Drill it!	3	0	0	72	16777215	0
+1710	First 10 done! Stay relaxed	5	0	0	72	16777215	10
+1710	Final 10 seconds, don't quit!	3	0	0	72	16777215	20
+1740	Fantastic job! Ease off the gas	5	0	0	72	16777215	0
+1740	Make sure you take time to recover from those efforts...	8	0	0	72	16777215	10
+1740	by spinning out the heaviness, getting plenty of water...	8	0	0	72	16777215	20
+1740	and taking on some proper recovery nutrition in the near future	8	0	0	72	16777215	30
+1740	We'll see you next time	5	0	0	72	16777215	40
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	1800	Workout
+120	210	Sweet Spot 1
+270	285	Sprint 1
+345	360	Sprint 2
+480	600	Anaerobic Capacity 1
+840	960	Anaerobic Capacity 2
+1200	1260	Anaerobic Capacity 3
+1380	1440	Anaerobic Capacity 4
+1560	1590	Sprint 3
+1710	1740	Sprint 4
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

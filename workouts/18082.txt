@@ -1,0 +1,193 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Dardanelles,91,102. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	76
+12	76
+12	96
+15	96
+15	10
+16	10
+16	50
+21	50
+21	50
+21.5	95
+21.5	95
+31	95
+31	95
+31.5	97
+31.5	97
+41	97
+41	97
+41.5	99
+41.5	100
+51	100
+51	100
+51.5	98
+51.5	97
+61	97
+61	97
+61.5	99
+61.5	99
+71	99
+71	50
+75	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Settle in for 20 minutes of warmup...	8	0	0	72	16777215	10
+0	with a quick, light spin over this first 6 minutes	8	0	0	72	16777215	20
+360	A bit of a bump in effort will start to open your lungs, increase your heart rate	8	0	0	72	16777215	0
+360	And as always, it's a good idea to keep your spin above 85rpm	8	0	0	72	16777215	10
+720	Final 3 minutes, really close to FTP	8	0	0	72	16777215	0
+720	Increase your spin to 90rpm or higher...	8	0	0	72	16777215	10
+720	if you aren't already zinging along with legs that quick	8	0	0	72	16777215	20
+720	Start your long, full belly-breaths...	8	0	0	72	16777215	30
+720	then completely clear your lungs with a little extra effort	8	0	0	72	16777215	40
+900	Feel free to backpedal for a minute...	8	0	0	72	16777215	0
+900	come to a stop & sit up if you're using the LSCT warmup...	8	0	0	72	16777215	10
+900	or simply pedal easy for a minute while you soak in the warmup	8	0	0	72	16777215	20
+960	Alright, get your spin up around 85-95rpm with light, quick pedalstrokes	8	0	0	72	16777215	0
+960	As we draw near to your peak event, or maybe just your peak fitness...	8	0	0	72	16777215	10
+960	these end-of-week endurance rides become very much like your target event	8	0	0	72	16777215	20
+960	Whether it's a 40k TT, a triathlon, or you simply want higher sustainable power...	8	0	0	72	16777215	30
+960	it's now crucial to push you right to the brink of your current capabilities	8	0	0	72	16777215	40
+960	To this end, you'll spend 50 continous minutes on the verge of your highest sustainable power	8	0	0	72	16777215	50
+960	In 10-minute segments, just to keep things mildly interesting...	8	0	0	72	16777215	60
+960	you'll hold your watts between 95-99% of your FTP	8	0	0	72	16777215	70
+960	Not only will this foster greater endurance really near your time trial power...	8	0	0	72	16777215	80
+960	but it will mentally prepare you for the discomfort that comes with sustained threshold power	8	0	0	72	16777215	90
+960	Just by subjecting yourself to demands very similar to your ultimate season goal...	8	0	0	72	16777215	100
+960	you'll know exactly what needs to be done come race day...	8	0	0	72	16777215	110
+960	both physiologically & psychologically	8	0	0	72	16777215	120
+960	Don't underestimate the mind's ability to restrict the body's commitment	8	0	0	72	16777215	130
+960	That is, if your brain knows that your body has handled a similar workload...	8	0	0	72	16777215	140
+960	it's far more likely to allow you to repeat it & even improve upon the effort	8	0	0	72	16777215	150
+960	But all that aside, this will feel just about as tough as your eventual event	8	0	0	72	16777215	160
+960	Perhaps even tougher since your indoors without all the potential outdoor motivation...and cooling!	8	0	0	72	16777215	170
+1260	30 seconds to ease into your first 10-minutes of nearly time trial effort	8	0	0	72	16777215	0
+1260	As you ramp up, see to it that your breaths are full & cleansing - really breath out	8	0	0	72	16777215	10
+1260	And try to hold a tight cadence - stable & very close to what you'll use outdoors	8	0	0	72	16777215	20
+1290	Take a minute or two to adjust to the workload & find a breathing rhythm...	8	0	0	72	16777215	0
+1290	and then settle into your aero position...	8	0	0	72	16777215	10
+1290	as soon as you feel you can hold it for a couple minutes at a time	8	0	0	72	16777215	20
+1290	OK, if you haven't settled into aero by now, try to get down there for a minute or two	8	0	0	72	16777215	150
+1290	If staying aero while working this hard is killing you though, make your aero endeavors short ones	8	0	0	72	16777215	160
+1290	Often enough, residual fatigue from workouts earlier in the week...	8	0	0	72	16777215	170
+1290	will put you in a place where you're just not quite fresh enough to do it all	8	0	0	72	16777215	180
+1290	So if you have to ride upright a lot today, no big deal...	8	0	0	72	16777215	190
+1290	because your power output is your top priority	8	0	0	72	16777215	200
+1290	If, however, you can spend some time down low without dropping watts...	8	0	0	72	16777215	210
+1290	integrate some patches of aero positioning over the course of each segment	8	0	0	72	16777215	220
+1290	Halfway through your first stretch of work, make sure you're relaxed	8	0	0	72	16777215	270
+1290	And don't forget to keep your eyes aligned with an imaginary horizon	8	0	0	72	16777215	280
+1290	At some point, you'll be outdoors and you don't want to strain to see the road	8	0	0	72	16777215	290
+1860	Well done, keep your spin & mildly nudge up your watts	8	0	0	72	16777215	0
+1890	This next segemnt is only a 2% increase in power, something you'll barely notice...	8	0	0	72	16777215	0
+1890	but it gives you something to work toward, and it keeps a long workout...	8	0	0	72	16777215	10
+1890	more manageable by breaking things into less intimidating durations	8	0	0	72	16777215	20
+1890	Much like a century rider won't dwell on the entire 100-mile course ahead...	8	0	0	72	16777215	30
+1890	these segments help keep you more in the moment, more focused on the task at hand...	8	0	0	72	16777215	40
+1890	not the ones ahead	5	0	0	72	16777215	50
+1890	Do your best to incorporate some time down low, as much as you can handle...	8	0	0	72	16777215	150
+1890	keeping in mind that Target Power is the top objective today	8	0	0	72	16777215	160
+1890	Just because you can't hold 97% FTP while in your aero position TODAY...	8	0	0	72	16777215	170
+1890	doesn't mean you won't EVER be able handle it - different days, different levels of recovery	8	0	0	72	16777215	180
+1890	Halfway through this second segment - RELAX	8	0	0	72	16777215	270
+1890	The more hours you accumulate on the bike, the more efficient you can become	8	0	0	72	16777215	280
+1890	Your body learns where tension is useful & where it's wasted	8	0	0	72	16777215	290
+1890	As this happens, you perform the same amount of work using less energy	8	0	0	72	16777215	300
+1890	And this transition is more rapid when you give yourself to the process...	8	0	0	72	16777215	310
+1890	by consciously getting rid of needless & often limiting muscle tension	8	0	0	72	16777215	320
+2460	Once more, step things up slightly & gradually...	8	0	0	72	16777215	0
+2460	put yourself right on the brink of where you load up & have to back off	8	0	0	72	16777215	10
+2490	Holding 99% FTP is just as good as full time trial power	8	0	0	72	16777215	0
+2490	I mean, who amongst us can hold Target Power to the exact watt?	8	0	0	72	16777215	10
+2490	We're always fluctuating under & over our target power output...	8	0	0	72	16777215	20
+2490	but the more you ride, the more you practice your form & engrain those habits...	8	0	0	72	16777215	30
+2490	the smoother your power will become - you can actually see it in your graphs from week to week	8	0	0	72	16777215	40
+2490	If/when you settle into your aero position, keep close tabs on your sit bones	8	0	0	72	16777215	150
+2490	Even when seated upright, both sit bones are still crucial to your power output...	8	0	0	72	16777215	160
+2490	not to mention the good health of your undercarriage ;-)	8	0	0	72	16777215	170
+2490	Halfway through this segment, halfway through the main set!	8	0	0	72	16777215	270
+2490	Stay smooth & relaxed, pedal so well it looks like you're hardly working	8	0	0	72	16777215	280
+2490	The more labored you allow yourself to appear, the more wastefully you're riding	8	0	0	72	16777215	290
+2490	Limit your upper body's movement with stable yet supple hips	8	0	0	72	16777215	300
+2490	You don't have to be rigid & tense, just strive to be controlled...	8	0	0	72	16777215	310
+2490	by holding JUST enough tension in your hips & midsection	8	0	0	72	16777215	320
+3060	Well done, back things down just a hair & keep at it	8	0	0	72	16777215	0
+3090	Backing down a couple percentage points won't feel restful...	8	0	0	72	16777215	0
+3090	but it can be enough of a power reduction to take off the edge...	8	0	0	72	16777215	10
+3090	and reignite your motivation & focus	8	0	0	72	16777215	20
+3090	Plus, this means you're wearing this brute of a workout down!	8	0	0	72	16777215	30
+3090	If you've managed to spend some time riding down low...	8	0	0	72	16777215	90
+3090	try to maintain your aero time throughout the workout	8	0	0	72	16777215	100
+3090	Unless, of course, your power starts to suffer as a result of getting aero	8	0	0	72	16777215	110
+3090	With that said, get accustomed to the idea of staying low no matter the discomfort	8	0	0	72	16777215	120
+3090	There will absolutely come a time when you're out on course & desperately want to sit up	8	0	0	72	16777215	130
+3090	What do you do? Stretch and suffer the aero consequence?	8	0	0	72	16777215	140
+3090	Stay low & suffer a possible drop in watts because you're in misery?	8	0	0	72	16777215	150
+3090	That will be for you to determine when the time comes, but until then...	8	0	0	72	16777215	160
+3090	you can anticipate the issue and try to toughen up, dial in your bike fit...	8	0	0	72	16777215	170
+3090	and very seriously & consistently address any flexibility limitations	8	0	0	72	16777215	180
+3090	Time trialiasts HAVE to cultivate top-notch flexibility if they don't already have it	8	0	0	72	16777215	190
+3090	You'll never be as fast as personally possible if you're fighting tight muscles	8	0	0	72	16777215	200
+3090	Just 4 minutes left in this segment, make them as pretty as the first 4 minutes of today's workout	8	0	0	72	16777215	330
+3090	Fatigue never forgives poor form, it simply means you have to concentrate a bit harder	8	0	0	72	16777215	340
+3090	So as the workout pushes onward, stuff those feelings of fatigue...	8	0	0	72	16777215	350
+3090	and instead focus on something productive & encouraging	8	0	0	72	16777215	360
+3090	Remind yourself of ALL the work you've done to get to this moment	8	0	0	72	16777215	370
+3090	How consistently you've trained, how your capabilities have grown...	8	0	0	72	16777215	380
+3090	how much tougher you've become by enduring some downright brutal workouts	8	0	0	72	16777215	390
+3090	And remind yourself as often as you like, "I got this"	8	0	0	72	16777215	400
+3660	Final push, gonna bring things back up to the very brink of loading up	8	0	0	72	16777215	0
+3690	If your fatigue is so high that 99% FTP is flooding your muscles...	8	0	0	72	16777215	0
+3690	knock the Workout Intensity down a couple points, nothing drastic though	8	0	0	72	16777215	10
+3690	A very small decrease in Workout Intensity can make a substantial difference...	8	0	0	72	16777215	20
+3690	in your form, your cadence, your overall workout productivity	8	0	0	72	16777215	30
+3690	Still managing to spend some time in aero?	8	0	0	72	16777215	150
+3690	No worries if you just cussed at me, power is the priority	8	0	0	72	16777215	160
+3690	But if you're still managing time down low with your power on Target...	8	0	0	72	16777215	170
+3690	keep it up, no sense in making things less painful at this point in the workout!	8	0	0	72	16777215	180
+3690	Final 5 minutes of the workout, time for some baby steps	8	0	0	72	16777215	270
+3690	Focus for 1 minute at a time, no more than that	8	0	0	72	16777215	280
+3690	Next minute, give a little extra attention to how well you rest your quads	8	0	0	72	16777215	330
+3690	What!? Rest my quads? Yup, each time you push down, relax your quads immediately afterward	8	0	0	72	16777215	340
+3690	It may only be a fraction of a second, but it adds up quickly when you pedal 90 times a minute	8	0	0	72	16777215	350
+3690	Next minute, focus on a light kick & pull, both legs	8	0	0	72	16777215	390
+3690	This too is a good way to "rest" your quads while working hard	8	0	0	72	16777215	400
+3690	Next minute, shift back to relaxing each quad once per pedalstroke...	8	0	0	72	16777215	450
+3690	downstroke, relax...downstroke, relax	8	0	0	72	16777215	460
+3690	Final minute of the workout! Stay seated, stay aero if possible	8	0	0	72	16777215	510
+3690	30 seconds of the prettiest pedaling you've demonstrated all workout	8	0	0	72	16777215	540
+4260	Really well done, you basically just did a 50-minute time trial!	8	0	0	72	16777215	0
+4260	Indoors, no less - that's something to stoke that motivation, yeah?	8	0	0	72	16777215	10
+4260	Eat up, drink up, rest up...	8	0	0	72	16777215	20
+4260	and we'll see you next time	8	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	4500	Workout
+360	720	Tempo 1
+720	900	Threshold 1
+1290	1860	Sweet Spot 1
+1860	1890	Threshold 2
+1890	2460	Threshold 3
+2460	2490	Threshold 4
+2490	3060	Threshold 5
+3060	3090	Threshold 6
+3090	3660	Threshold 7
+3660	3690	Threshold 8
+3690	4260	Threshold 9
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

@@ -1,0 +1,247 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = McDuffie TC,85,36. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+2	50
+2	90
+3	90
+3	40
+4	40
+4	150
+4.1	150
+4.1	40
+4.5	40
+4.5	200
+4.6	200
+4.6	40
+7	40
+7	200
+7.2	200
+7.2	40
+8	40
+8	200
+8.2	200
+8.2	40
+9	40
+9	200
+9.2	200
+9.2	40
+10	40
+10	105
+13	105
+13	40
+15	40
+15	200
+15.2	200
+15.2	40
+16	40
+16	200
+16.2	200
+16.2	40
+17	40
+17	200
+17.2	200
+17.2	40
+18	40
+18	105
+21	105
+21	40
+23	40
+23	200
+23.2	200
+23.2	40
+24	40
+24	200
+24.2	200
+24.2	40
+25	40
+25	200
+25.2	200
+25.2	40
+26	40
+26	105
+29	105
+29	40
+30	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	The time-crunched version of McDuffie consists of 3  adorably-named "sprint-ervals"	8	0	0	72	16777215	10
+0	Sprintervals consist of short sprints followed by sustainable yet supra-Threshold work	8	0	0	72	16777215	20
+0	In this case, 3x12-second sprints at 200% FTP are followed by 3 minutes at 105% FTP	8	0	0	72	16777215	30
+0	Most combination workouts like this one have 2 objectives:	8	0	0	72	16777215	40
+0	The first is to increase muscle fiber recruitment via the sprints	8	0	0	72	16777215	50
+0	Hitting it super hard allows you to activate more muscle than even VO2 Max intervals	8	0	0	72	16777215	60
+0	And by keeping them really brief, their isn't a high fatigue toll	8	0	0	72	16777215	70
+0	The second goal is to make the most out of this muscle fiber recruitment...	8	0	0	72	16777215	80
+0	by powering through an almost immediate, sustained effort above FTP	8	0	0	72	16777215	90
+0	The overall goal being to wake up a lot of muscle & then put it to work	8	0	0	72	16777215	100
+0	Time to warm a little further, keep your spin above 85rpm	8	0	0	72	16777215	110
+120	One quick minute at 90% FTP, cadence light & quick	8	0	0	72	16777215	0
+180	Ease up & get ready for two, brief sprints in about a minute	8	0	0	72	16777215	0
+180	Each sprint is just 6 seconds long & will require a lot of leg speed	8	0	0	72	16777215	30
+180	Use them as an opportunity to find your cadence for the sprint efforts	8	0	0	72	16777215	40
+180	Get ready...	3	0	0	72	16777215	52
+180	3...	1	0	0	72	16777215	57
+180	2...	1	0	0	72	16777215	58
+180	1...	1	0	0	72	16777215	59
+240	Go!	3	0	0	72	16777215	0
+246	Quick break, keep your legs fairly quick	5	0	0	72	16777215	0
+246	Get ready...	3	0	0	72	16777215	16
+246	3...	1	0	0	72	16777215	21
+246	2...	1	0	0	72	16777215	22
+246	1...	1	0	0	72	16777215	23
+270	Sprint!	3	0	0	72	16777215	0
+276	Good, take it easy for a couple minutes...	8	0	0	72	16777215	4
+276	with a comfortably quick spin & relaxed upper body	8	0	0	72	16777215	14
+276	You'll have 48 seconds of rest following each sprint	8	0	0	72	16777215	24
+276	During that time, breathe deeply while spinning quickly & lightly	8	0	0	72	16777215	44
+276	You'll want to get your breathing under control ASAP, full breaths help a lot	8	0	0	72	16777215	54
+276	During each short break, exhale completely, really clear the junk	8	0	0	72	16777215	64
+276	First sprint in 30 seconds so start finding your gearing & cadence	8	0	0	72	16777215	114
+276	Riders on electronic trainers in Ergo mode, pick up your spin now	8	0	0	72	16777215	124
+276	Get ready...	3	0	0	72	16777215	136
+276	3...	1	0	0	72	16777215	141
+276	2...	1	0	0	72	16777215	142
+276	1...	1	0	0	72	16777215	143
+420	Go! 12 seconds!	3	0	0	72	16777215	0
+432	No problem right? Over before you know it	5	0	0	72	16777215	0
+432	Make the next two look just as easy as that first one	8	0	0	72	16777215	10
+432	Get ready...	3	0	0	72	16777215	40
+432	3...	1	0	0	72	16777215	45
+432	2...	1	0	0	72	16777215	46
+432	1...	1	0	0	72	16777215	47
+480	Hit it!	3	0	0	72	16777215	0
+492	Ease off the gas but keep most of your quick spin	8	0	0	72	16777215	0
+492	One more, get ready...	3	0	0	72	16777215	40
+492	3...	1	0	0	72	16777215	45
+492	2...	1	0	0	72	16777215	46
+492	1...	1	0	0	72	16777215	47
+540	12-second sprint!	3	0	0	72	16777215	0
+552	Excellent! Full, deep breaths, try to relax	5	0	0	72	16777215	0
+552	3 minutes at 105% coming up, try to settle into 85-95rpm	8	0	0	72	16777215	10
+600	Start out relaxed then do your best to stay that way	8	0	0	72	16777215	0
+600	Take the first 30 seconds or so to adjust to the workload	8	0	0	72	16777215	10
+600	Again, holding a cadence between 85-95rpm, maybe even a little higher	8	0	0	72	16777215	20
+600	Try to hold that cadence as steady as possible for 2 more minutes	8	0	0	72	16777215	60
+600	Remember, this interval is only 5% above what you can sustain for about an hour...	8	0	0	72	16777215	70
+600	and it's only a 3-minute interval - tough but certainly doable	5	0	0	72	16777215	80
+600	In fact, if you're feeling particularly good today...	8	0	0	72	16777215	90
+600	an intensity bump of 5-10% could make things even more interesting	8	0	0	72	16777215	100
+600	Even though you're probably in quite an uncomfortable place...	8	0	0	72	16777215	120
+600	this is where your ever-growing mental toughness comes into play	8	0	0	72	16777215	130
+600	So when the going gets tougher & tougher, remind yourself...	5	0	0	72	16777215	150
+600	"This is only a 3-minute interval"	5	0	0	72	16777215	157
+600	Final 15 seconds, don't let your power fall off Target	8	0	0	72	16777215	165
+780	Nice! One set down	5	0	0	72	16777215	0
+780	2 minutes of recovery, make each one count	5	0	0	72	16777215	7
+780	Draw complete breaths...	5	0	0	72	16777215	20
+780	and don't let your cadence drop too low	8	0	0	72	16777215	27
+780	Do your best to keep your cadence above 85rpm, even during recoveries	8	0	0	72	16777215	37
+780	Another minute of easy riding...	5	0	0	72	16777215	60
+780	and then we're back to some 12-second sprints	8	0	0	72	16777215	67
+780	Make sure you find your cadence & gearing before the interval is upon you	8	0	0	72	16777215	77
+780	Get ready...	5	0	0	72	16777215	112
+780	3...	1	0	0	72	16777215	117
+780	2...	1	0	0	72	16777215	118
+780	1...	1	0	0	72	16777215	119
+900	Go! 12 seconds!	3	0	0	72	16777215	0
+912	Ease up, get control of your spin	5	0	0	72	16777215	0
+912	Get ready...	3	0	0	72	16777215	40
+912	3...	1	0	0	72	16777215	45
+912	2...	1	0	0	72	16777215	46
+912	1...	1	0	0	72	16777215	47
+960	Go! Lots of leg speed!	3	0	0	72	16777215	0
+972	2 down, ease up & stay fairly quick	5	0	0	72	16777215	0
+972	Get ready, last one for now...	3	0	0	72	16777215	40
+972	3...	1	0	0	72	16777215	45
+972	2...	1	0	0	72	16777215	46
+972	1...	1	0	0	72	16777215	47
+1020	All-out!	3	0	0	72	16777215	0
+1032	Nicely done, try to clear some of the fatigue...	5	0	0	72	16777215	0
+1032	with a light, quick spin & full belly-breaths	5	0	0	72	16777215	7
+1080	Check your cadence as you adjust to the effort	8	0	0	72	16777215	10
+1080	Are you between 85-95rpm? Get there if possible	8	0	0	72	16777215	20
+1080	Check your position on the bike too	5	0	0	72	16777215	30
+1080	Are your sit-bones planted on the wings of your saddle?	8	0	0	72	16777215	37
+1080	Anchor them now	5	0	0	72	16777215	44
+1080	Is your upper body relaxed?	5	0	0	72	16777215	51
+1080	Be sure you're not carrying any unnecessary tension anywhere	8	0	0	72	16777215	60
+1080	90 seconds left, hang in there!	5	0	0	72	16777215	90
+1260	Well done! Keep the pedals turning forward for a minute if you can	8	0	0	72	16777215	0
+1260	As you've probably noticed by now...	5	0	0	72	16777215	10
+1260	rest is not exactly in abundance during this workout	8	0	0	72	16777215	17
+1260	That means one of the benefits derived from this workout...	8	0	0	72	16777215	27
+1260	is increased muscular endurance	5	0	0	72	16777215	37
+1260	This is in addition to better muscular activation	8	0	0	72	16777215	44
+1260	And there are psychological benefits as well	5	0	0	72	16777215	54
+1260	So if you can stay tough for the duration of this workout...	8	0	0	72	16777215	60
+1260	you'll continually prove to yourself that you CAN work hard with less rest	8	0	0	72	16777215	70
+1260	All too often, your thoughts allow you to limit just how hard you can push	8	0	0	72	16777215	80
+1260	Don't let that be the case today, accept that you can do this, then do it	8	0	0	72	16777215	90
+1260	Next set is in 20 seconds, prep your cadence & gearing	8	0	0	72	16777215	100
+1260	Get ready...	3	0	0	72	16777215	112
+1260	3...	1	0	0	72	16777215	117
+1260	2...	1	0	0	72	16777215	118
+1260	1...	1	0	0	72	16777215	119
+1380	Stomp on the pedals!	3	0	0	72	16777215	0
+1392	Ease up, stay quick	5	0	0	72	16777215	0
+1392	Get ready again...	3	0	0	72	16777215	40
+1392	3...	1	0	0	72	16777215	45
+1392	2...	1	0	0	72	16777215	46
+1392	1...	1	0	0	72	16777215	47
+1440	Go fast!	3	0	0	72	16777215	0
+1452	Two down, ease up & breeeeeeathe	5	0	0	72	16777215	0
+1452	Last one, get ready...	3	0	0	72	16777215	40
+1452	3...	1	0	0	72	16777215	45
+1452	2...	1	0	0	72	16777215	46
+1452	1...	1	0	0	72	16777215	47
+1500	Hit it HARD!	3	0	0	72	16777215	0
+1512	If you have to, take a few seconds to backpedal	8	0	0	72	16777215	0
+1512	Just make sure you get back on top of things...	5	0	0	72	16777215	10
+1512	at least 20 seconds before the interval starts	5	0	0	72	16777215	17
+1560	If you're feeling up to it...	5	0	0	72	16777215	30
+1560	go ahead and get in your drops or aero bars	8	0	0	72	16777215	37
+1560	Don't worry about getting low if you're just hanging on though	8	0	0	72	16777215	47
+1560	Let's try to spend 1 minute, optional, in the aero position	8	0	0	72	16777215	60
+1560	Try to make this look relaxed & easy...	5	0	0	72	16777215	70
+1560	even though you're in an uncomfortable spot	5	0	0	72	16777215	77
+1560	30 more seconds staying aero	5	0	0	72	16777215	90
+1560	Good job! Come on up, ride tall & "comfortably"	8	0	0	72	16777215	120
+1560	Let's get aero again if you can	5	0	0	72	16777215	150
+1560	Find that aero position and try to hold it for the final seconds	8	0	0	72	16777215	157
+1560	10 more seconds of aero time	5	0	0	72	16777215	170
+1740	Really well done! Nasty but productive buggers	8	0	0	72	16777215	0
+1740	Feel free to cool down longer than the 1 minute the workout allots...	8	0	0	72	16777215	10
+1740	and get on top of your recovery nutrition right away	8	0	0	72	16777215	20
+1740	We'll see you next time	5	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	1800	Workout
+120	180	Sweet Spot 1
+240	246	Sprint 1
+270	276	Sprint 2
+420	432	Sprint 3
+480	492	Sprint 4
+540	552	Sprint 5
+600	780	Threshold 1
+900	912	Sprint 6
+960	972	Sprint 7
+1020	1032	Sprint 8
+1080	1260	Threshold 2
+1380	1392	Sprint 9
+1440	1452	Sprint 10
+1500	1512	Sprint 11
+1560	1740	Threshold 3
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

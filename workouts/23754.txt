@@ -1,0 +1,115 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = H.A. & A.C. Power Profile Test,88,111. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	65
+15	75
+15	90
+16	90
+16	65
+17	65
+17	90
+18	90
+18	65
+19	65
+19	90
+20	90
+20	65
+21	65
+21	100
+26	100
+26	65
+30	65
+30	150
+31	150
+31	65
+41	65
+41	115
+46	115
+46	65
+56	65
+56	150
+57	150
+57	65
+62	65
+62	150
+63	150
+63	65
+68	65
+68	204
+68.25	204
+68.25	65
+70.25	65
+70.25	200
+70.5	200
+70.5	65
+85.5	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Warm Up with easy peddling	8	0	0	72	16777215	10
+0	Fast Peddling, 110 RPM for 1 minute	8	0	0	72	16777215	890
+960	1 min rest	8	0	0	72	16777215	0
+960	Fast Peddling, 110 RPM for 1 minute	8	0	0	72	16777215	50
+1080	1 minute rest	8	0	0	72	16777215	0
+1080	Fast Peddling, 110 RPM for 1 Minute	8	0	0	72	16777215	50
+1200	1 minute rest	8	0	0	72	16777215	0
+1200	FTP Effort	8	0	0	72	16777215	50
+1560	1 minute all our effort	8	0	0	72	16777215	230
+1860	10 minute easy riding	8	0	0	72	16777215	0
+2460	Out of the saddle, all out effort....    Hammer the last 45 seconds	8	0	0	72	16777215	255
+2760	10 minute easy peddling	8	0	0	72	16777215	0
+3360	Out of the saddle, all out effort.  Be seated to drive to the finish	8	0	0	72	16777215	0
+3420	5 minute easy peddling	8	0	0	72	16777215	0
+3720	All out effort	8	0	0	72	16777215	0
+3780	5 minute rest	8	0	0	72	16777215	0
+3780	Out of the Saddle, hard Sprint from 15 mph	8	0	0	72	16777215	290
+4095	2 minute rest	8	0	0	72	16777215	0
+4095	Out of the saddle,hard Sprint from 15 mph	8	0	0	72	16777215	110
+4230	Easy Riding	8	0	0	72	16777215	0
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5130	Workout
+0	900	Endurance 1
+900	960	Sweet Spot 1
+960	1020	Endurance 2
+1020	1080	Sweet Spot 2
+1080	1140	Endurance 3
+1140	1200	Sweet Spot 3
+1200	1260	Endurance 4
+1260	1560	Threshold 1
+1560	1800	Endurance 5
+1800	1860	Anaerobic Capacity 1
+1860	2460	Endurance 6
+2460	2760	VO2 Max 1
+2760	3360	Endurance 7
+3360	3420	Anaerobic Capacity 2
+3420	3720	Endurance 8
+3720	3780	Anaerobic Capacity 3
+3780	4080	Endurance 9
+4080	4095	Sprint 1
+4095	4215	Endurance 10
+4215	4230	Sprint 2
+[END INTERVAL DATA]
+
+[MODE DATA]
+1790	Slope	3
+1860	Erg	0
+2450	Slope	3
+2760	Erg	0
+3350	Slope	3
+3420	Erg	0
+3710	Slope	3
+3780	Erg	0
+4070	Slope	3
+4095	Erg	0
+4205	Slope	3
+4230	Erg	0
+[END MODE DATA]
+

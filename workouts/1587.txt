@@ -1,0 +1,339 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Broken Finger ,91,125. Created by 54949.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	60
+6	80
+7	80
+7	40
+7.5	40
+7.5	95
+8.5	95
+8.5	40
+9	40
+9	115
+10	115
+10	40
+15	40
+15	115
+17	115
+17	41
+17.5	41
+17.5	105
+20	105
+20	40
+20.5	40
+20.5	95
+23.5	95
+23.5	40
+24	40
+24	105
+26.5	105
+26.5	40
+27	40
+27	115
+29	115
+29	40
+32	40
+32	115
+34	115
+34	40
+34.5	40
+34.5	105
+37	105
+37	40
+37.5	40
+37.5	95
+40.5	95
+40.5	40
+41	40
+41	105
+43.5	105
+43.5	40
+44	40
+44	115
+46	115
+46	40
+49	40
+49	115
+51	115
+51	40
+51.5	40
+51.5	105
+54	105
+54	40
+54.5	40
+54.5	95
+57.5	95
+57.5	40
+58	40
+58	105
+60.5	105
+60.5	40
+61	40
+61	115
+63	115
+63	40
+68	40
+68	110
+69	110
+69	95
+72	95
+72	40
+74	40
+74	125
+75	125
+75	105
+77	105
+77	40
+79	40
+79	105
+81	105
+81	95
+83	95
+83	40
+85	40
+85	130
+86	130
+86	100
+88	100
+88	40
+90	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Broken Finger...	5	0	0	72	16777215	10
+0	which is made up of 2 distinct portions	5	0	0	72	16777215	17
+0	The first consists of 2 to 3-minute intervals...	5	0	0	72	16777215	24
+0	all between 95-115% FTP	3	0	0	72	16777215	31
+0	The second part is made up of breakaway simulations	5	0	0	72	16777215	38
+0	These breakaway efforts consist of 1-2 minutes above FTP...	5	0	0	72	16777215	45
+0	followed by another few minutes very close to FTP	5	0	0	72	16777215	52
+0	Let's get the blood pumping with a trio...	5	0	0	72	16777215	330
+0	of closely spaced, 1-minute clearing efforts	5	0	0	72	16777215	337
+0	Do your best to keep your cadence in the 90-110rpm range	5	0	0	72	16777215	344
+0	Go ahead & settle in to this cadence now	5	0	0	72	16777215	351
+360	Quick legs, 90rpm or higher	3	0	0	72	16777215	0
+420	Keep your legs turning at the same cadence	5	0	0	72	16777215	0
+450	Even quicker this time...	3	0	0	72	16777215	0
+450	but with plenty of control	3	0	0	72	16777215	5
+510	Same quick spin during 30 seconds of recovery	5	0	0	72	16777215	0
+540	Final effort with quick, controlled legs	5	0	0	72	16777215	0
+600	If you're doing this workout as part of a TR training plan...	5	0	0	72	16777215	10
+600	chances are you've already established a significant level of fitness	5	0	0	72	16777215	17
+600	This workout isn't so much about growing your current aerobic capacity...	5	0	0	72	16777215	21
+600	as it is about fully exploiting that capacity...	5	0	0	72	16777215	28
+600	with intervals spent at the high end of your aerobic power...	5	0	0	72	16777215	35
+600	and minimal resting	3	0	0	72	16777215	42
+600	This workout was created with the intent of pushing limits	5	0	0	72	16777215	60
+600	So if you're having an off day...	3	0	0	72	16777215	67
+600	consider dropping the Workout Intensity 5%	5	0	0	72	16777215	72
+600	Or save Broken Finger  for a day when you're completely fresh	5	0	0	72	16777215	79
+600	First aerobic power interval coming up in a minute	5	0	0	72	16777215	240
+600	Short, 30-seconds of rests are all you'll see for a while...	5	0	0	72	16777215	247
+600	so be prepared to work through changing levels of discomfort...	5	0	0	72	16777215	254
+600	that come from relentlessly hitting you...	5	0	0	72	16777215	261
+600	again & again with minimal downtime	5	0	0	72	16777215	268
+600	Shoot for a high cadence...	3	0	0	72	16777215	280
+600	preferably above 90rpm for the whole set	5	0	0	72	16777215	285
+600	This first one's 2 minutes long at 115% FTP	3	0	0	72	16777215	292
+900	Keep your legs quick...	3	0	0	72	16777215	0
+900	and your upper body as still as possible	5	0	0	72	16777215	5
+1020	Try to keep your legs turning...	5	0	0	72	16777215	0
+1020	and ride off any burn	3	0	0	72	16777215	7
+1020	2.5 minutes at 105% FTP coming up	5	0	0	72	16777215	22
+1050	Same quick spin...	3	0	0	72	16777215	0
+1050	just a little less intensity	3	0	0	72	16777215	5
+1200	Nicely done	5	0	0	72	16777215	0
+1200	time to dip a little below FTP for a few minutes	5	0	0	72	16777215	7
+1200	3 minutes at 95% FTP just ahead	5	0	0	72	16777215	22
+1230	Try to spin in the 90-100rpm range...	5	0	0	72	16777215	0
+1230	as long as you can control it	3	0	0	72	16777215	7
+1230	So no bouncing & no panting	5	0	0	72	16777215	12
+1230	Halfway through this segment...	3	0	0	72	16777215	90
+1230	stay relaxed with smooth power output	5	0	0	72	16777215	95
+1410	If need be...	3	0	0	72	16777215	2
+1410	backpedal through 10-15 seconds of these recoveries	5	0	0	72	16777215	7
+1410	A bit of backpedaling now is okay...	5	0	0	72	16777215	14
+1410	if it helps you maintain full power during the intervals	5	0	0	72	16777215	21
+1440	Stepping things back up to 105% FTP for 2.5 minutes	5	0	0	72	16777215	0
+1440	Keep your legs quick...	3	0	0	72	16777215	7
+1440	body relaxed...	2	0	0	72	16777215	12
+1440	breaths full	2	0	0	72	16777215	16
+1590	Final 2 minutes ahead...	3	0	0	72	16777215	2
+1590	followed by a 3-minute break, so hang on!	5	0	0	72	16777215	7
+1620	Just a two-minute push with a quick, controlled spin	5	0	0	72	16777215	0
+1620	Final minute, don't fade now!	5	0	0	72	16777215	60
+1740	Take it nice & easy for a few minutes	5	0	0	72	16777215	0
+1740	Start finding your cadence for the next set...	5	0	0	72	16777215	167
+1740	preferably above 90rpm	3	0	0	72	16777215	174
+1920	2 minutes of quick legs...	5	0	0	72	16777215	0
+1920	and full belly-breaths	3	0	0	72	16777215	7
+2040	Ease up...	3	0	0	72	16777215	0
+2040	but try to keep your legs turning reasonably quickly	5	0	0	72	16777215	5
+2070	2.5 minute this time...	3	0	0	72	16777215	0
+2070	try to limit your power fluctuations	5	0	0	72	16777215	5
+2070	The less your power wavers...	3	0	0	72	16777215	10
+2070	the lower the muscular toll	3	0	0	72	16777215	15
+2070	So be steady	3	0	0	72	16777215	20
+2220	Make the most out of these short recoveries...	5	0	0	72	16777215	2
+2220	by taking full, deep breaths	3	0	0	72	16777215	9
+2220	An easy way to accomplish this...	5	0	0	72	16777215	14
+2220	is by focusing on exhaling completely	5	0	0	72	16777215	21
+2250	Middle stretch, under your FTP this time	5	0	0	72	16777215	0
+2250	Since this is more manageable...	3	0	0	72	16777215	7
+2250	try riding a bit lower	3	0	0	72	16777215	12
+2250	Softening your elbows & bring your body...	5	0	0	72	16777215	17
+2250	a little closer to your bike	5	0	0	72	16777215	24
+2430	Good, clear off the fatigue...	5	0	0	72	16777215	2
+2430	by strongly clearing your lungs each breath	5	0	0	72	16777215	9
+2460	A little above FTP again...	3	0	0	72	16777215	0
+2460	make sure you're breathing effectively	5	0	0	72	16777215	5
+2460	No panting or gasping...	3	0	0	72	16777215	12
+2460	wide open mouth during each inhale	5	0	0	72	16777215	17
+2460	Then fully clear out the used air with each exhale	5	0	0	72	16777215	24
+2610	Almost done, spin away the fatigue	5	0	0	72	16777215	0
+2640	Last 2 minutes...	3	0	0	72	16777215	0
+2640	take it 30 seconds at a time	3	0	0	72	16777215	5
+2640	Next 30 seconds...	3	0	0	72	16777215	30
+2640	keep your spin light & quick	3	0	0	72	16777215	35
+2640	Next 30 seconds...	3	0	0	72	16777215	60
+2640	no decline in power or cadence	3	0	0	72	16777215	65
+2640	Final 30 seconds...	3	0	0	72	16777215	90
+2640	pretty form throughout	3	0	0	72	16777215	95
+2760	Great job so far!	5	0	0	72	16777215	2
+2760	Only one more set of these to go!	5	0	0	72	16777215	9
+2760	Take it very easy for a few minutes...	5	0	0	72	16777215	16
+2760	feel free to backpedal a little if you like	5	0	0	72	16777215	23
+2940	Last time, wind it up to 90rpm or higher	5	0	0	72	16777215	0
+3060	Quick break...	3	0	0	72	16777215	2
+3060	draw full breaths & drop your heart rate	5	0	0	72	16777215	7
+3090	Pick things up again...	3	0	0	72	16777215	0
+3090	2.5 minutes of riding so well that it looks easy	5	0	0	72	16777215	5
+3240	Backpedal briefly if you need to...	5	0	0	72	16777215	2
+3240	but no more than 15 seconds	3	0	0	72	16777215	9
+3240	Spin forward, get your legs moving quickly	5	0	0	72	16777215	17
+3270	If you've made it this far without bailing...	5	0	0	72	16777215	0
+3270	you'll be able to stay strong for the remainder of the set	5	0	0	72	16777215	7
+3270	Last 3-minute stretch just under FTP...	5	0	0	72	16777215	14
+3270	so let's try to cut a smaller hole in the wind again	5	0	0	72	16777215	21
+3270	Soften your elbows...	3	0	0	72	16777215	28
+3270	and make your body just a little smaller	5	0	0	72	16777215	33
+3450	Spin out the heaviness, backward or forward	5	0	0	72	16777215	2
+3480	Settle in to your 90+rpm spin...	5	0	0	72	16777215	0
+3480	and try to stay relaxed	3	0	0	72	16777215	7
+3480	And as the fatigue grows...	5	0	0	72	16777215	12
+3480	don't let excess tension creep into your body	5	0	0	72	16777215	19
+3630	Well done	5	0	0	72	16777215	2
+3630	ease up in prep for your last push	5	0	0	72	16777215	9
+3660	Final 2 minutes before you get a REAL break...	5	0	0	72	16777215	0
+3660	30 seconds at a time	3	0	0	72	16777215	7
+3660	Next 30 seconds...	3	0	0	72	16777215	30
+3660	keep your form, power & cadence	5	0	0	72	16777215	35
+3660	Next 30 seconds...	3	0	0	72	16777215	60
+3660	stay smooth & relaxed	3	0	0	72	16777215	65
+3660	Final 30 seconds...	3	0	0	72	16777215	90
+3660	no backing off now!	3	0	0	72	16777215	95
+3780	Well done!	5	0	0	72	16777215	0
+3780	The aerobic power intervals are behind you	5	0	0	72	16777215	7
+3780	Take some time to spin lightly	5	0	0	72	16777215	14
+3780	Next up are 4 muscle endurance efforts...	5	0	0	72	16777215	260
+3780	kicking off with Target Power above your FTP...	5	0	0	72	16777215	267
+3780	to simulate a mild surge in effort...	5	0	0	72	16777215	273
+3780	one you'll follow with a longer stretch...	5	0	0	72	16777215	280
+3780	at a more sustainable percentage of FTP	5	0	0	72	16777215	287
+3780	Bring your cadence up, 100+rpm	3	0	0	72	16777215	294
+4080	Shoot for very quick legs for the next minute	5	0	0	72	16777215	0
+4140	Now settle in, ideally above 90rpm	5	0	0	72	16777215	0
+4140	If you picture these intervals in a race context...	5	0	0	72	16777215	10
+4140	the initial jump is where you surge of the front of the pack...	5	0	0	72	16777215	17
+4140	and the 3 minutes you're currently enjoying...	5	0	0	72	16777215	24
+4140	is the effort needed to make your move stick	5	0	0	72	16777215	31
+4140	Of course, breaks are usually caught...	5	0	0	72	16777215	38
+4140	so multiple attempts are necessary...	5	0	0	72	16777215	45
+4140	to establish a break that sticks	5	0	0	72	16777215	52
+4320	Good! Take a couple easy minutes	5	0	0	72	16777215	0
+4320	Time to attempt another breakaway!	5	0	0	72	16777215	112
+4440	Hit it!	2	0	0	72	16777215	0
+4440	Fast legs, 1 minute	3	0	0	72	16777215	4
+4500	You're away from the pack...	3	0	0	72	16777215	2
+4500	so now work hard to STAY away	5	0	0	72	16777215	7
+4500	Riders who make breaks stick have to be tough	5	0	0	72	16777215	14
+4500	They have to embrace the discomfort...	5	0	0	72	16777215	21
+4500	and recognize it as necessary to the task...	5	0	0	72	16777215	28
+4500	and know that if  THEY'RE hurting...	5	0	0	72	16777215	35
+4500	it's likely everyone else is too	5	0	0	72	16777215	42
+4620	Nicely done, take it easy for a couple minutes	5	0	0	72	16777215	0
+4740	Subtler differences in power output this time...	5	0	0	72	16777215	0
+4740	but still just as tough	3	0	0	72	16777215	7
+4740	Try to keep your cadence over 90rpm	5	0	0	72	16777215	12
+4860	2 more minutes down at 95% FTP...	5	0	0	72	16777215	0
+4860	which is far from comfortable...	3	0	0	72	16777215	7
+4860	but given time will seem manageable	5	0	0	72	16777215	12
+4860	So hang in there...	3	0	0	72	16777215	19
+4860	and try to draw full, belly-driven breaths	5	0	0	72	16777215	24
+4980	Well done	5	0	0	72	16777215	0
+4980	Spin out the junk, clear the heaviness	5	0	0	72	16777215	7
+4980	Last chance to make a break stick...	5	0	0	72	16777215	105
+4980	so hit it even harder this time!	5	0	0	72	16777215	112
+5100	Hard jump for a full minute...	3	0	0	72	16777215	0
+5100	keep your legs quick!	3	0	0	72	16777215	5
+5160	Ease up but don't back off too far...	5	0	0	72	16777215	0
+5160	otherwise your hard work was for nothing	5	0	0	72	16777215	7
+5160	Another 30 seconds, hang in there!	3	0	0	72	16777215	30
+5160	Final minute, stay TOUGH	3	0	0	72	16777215	60
+5160	Last 30 seconds...	3	0	0	72	16777215	90
+5160	don't back off even a little!	3	0	0	72	16777215	95
+5160	20 seconds, keep it together	3	0	0	72	16777215	100
+5160	Final 10, you got this!	3	0	0	72	16777215	110
+5280	That's it, great job!	5	0	0	72	16777215	0
+5280	Being able to repeat hard efforts...	5	0	0	72	16777215	7
+5280	time & time again...	3	0	0	72	16777215	14
+5280	is what separates great riders from the rest...	5	0	0	72	16777215	19
+5280	and it takes top conditioning	5	0	0	72	16777215	26
+5280	But handling a workout like this is a good indication...	5	0	0	72	16777215	33
+5280	that a rider is nearing peak fitness	5	0	0	72	16777215	40
+5280	Don't hesitate to continue cooling down...	5	0	0	72	16777215	50
+5280	after the clock runs out	3	0	0	72	16777215	57
+5280	We'll see you next time	5	0	0	72	16777215	62
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+360	420	Tempo 1
+450	510	Sweet Spot 1
+540	600	VO2 Max 1
+900	1020	VO2 Max 2
+1050	1200	Threshold 1
+1230	1410	Sweet Spot 2
+1440	1590	Threshold 2
+1620	1740	VO2 Max 3
+1920	2040	VO2 Max 4
+2070	2220	Threshold 3
+2250	2430	Sweet Spot 3
+2460	2610	Threshold 4
+2640	2760	VO2 Max 5
+2940	3060	VO2 Max 6
+3090	3240	Threshold 5
+3270	3450	Sweet Spot 4
+3480	3630	Threshold 6
+3660	3780	VO2 Max 7
+4080	4140	VO2 Max 8
+4140	4320	Sweet Spot 5
+4440	4500	Anaerobic Capacity 1
+4500	4620	Threshold 7
+4740	4860	Threshold 8
+4860	4980	Sweet Spot 6
+5100	5160	Anaerobic Capacity 2
+5160	5280	Threshold 9
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

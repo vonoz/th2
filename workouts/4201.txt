@@ -1,0 +1,122 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Crag,88,78. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	55
+5	60
+5	60
+10	65
+10	65
+15	65
+15	90
+15.5	90
+15.5	65
+16	65
+16	92
+16.5	92
+16.5	65
+17	65
+17	95
+17.5	95
+17.5	65
+18	65
+18	97
+18.5	97
+18.5	65
+19	65
+19	100
+19.5	100
+19.5	65
+20	70
+20	70
+22.5	75
+22.5	75
+25	75
+25	105
+29	105
+29	60
+29.75	60
+29.75	105
+33.75	105
+33.75	60
+34.5	60
+34.5	105
+38.5	105
+38.5	60
+39.25	60
+39.25	105
+43.25	105
+43.25	60
+44	60
+44	105
+48	105
+48	60
+48.75	60
+48.75	105
+52.75	105
+52.75	60
+53.5	65
+53.5	65
+55	60
+55	60
+57.5	55
+57.5	55
+60	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Hi, I am Coach Jorge!	8	0	0	72	16777215	10
+0	Head Coach for E3 Training Solutions	8	0	0	72	16777215	20
+0	This session is geared to improve your 20 min Power	8	0	0	72	16777215	30
+0	This is one of my signature workouts; the 6x4 min of hell...	8	0	0	72	16777215	60
+0	For now, enjoy the warm up...!	8	0	0	72	16777215	90
+600	The On/Off efforts are coming	8	0	0	72	16777215	168
+1350	The 6x4 min of hell is about to start, get ready!	8	0	0	72	16777215	120
+2310	Half way there!	8	0	0	72	16777215	-1
+2880	Last set, push 3-5 watts higher!	8	0	0	72	16777215	-1
+3165	That wasn't so hard, right?	8	0	0	72	16777215	-1
+3300	Make sure you finish this out and cool down	8	0	0	72	16777215	30
+3300	www.e3ts.com	15	0	0	72	16777215	113
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+0	300	Endurance 1
+300	600	Endurance 2
+600	900	Endurance 3
+900	930	Sweet Spot 1
+930	960	Endurance 4
+960	990	Sweet Spot 2
+990	1020	Endurance 5
+1020	1050	Sweet Spot 3
+1050	1080	Endurance 6
+1080	1110	Threshold 1
+1110	1140	Endurance 7
+1140	1170	Threshold 2
+1170	1200	Endurance 8
+1200	1350	Endurance 9
+1350	1500	Endurance 10
+1500	1740	Threshold 3
+1740	1785	Endurance 11
+1785	2025	Threshold 4
+2025	2070	Endurance 12
+2070	2310	Threshold 5
+2310	2355	Endurance 13
+2355	2595	Threshold 6
+2595	2640	Endurance 14
+2640	2880	Threshold 7
+2880	2925	Endurance 15
+2925	3165	Threshold 8
+3165	3210	Endurance 16
+3210	3300	Endurance 17
+3300	3450	Endurance 18
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

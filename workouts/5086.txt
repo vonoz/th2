@@ -1,0 +1,300 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Silliman,86,111. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+10	50
+10	115
+11	115
+11	40
+12	40
+12	120
+13	120
+13	40
+14	40
+14	130
+15	130
+15	40
+20	40
+20	120
+21	120
+21	40
+22	40
+22	120
+23	120
+23	40
+24	40
+24	120
+25	120
+25	40
+26	40
+26	120
+27	120
+27	40
+28	40
+28	120
+29	120
+29	40
+30	40
+30	120
+31	120
+31	40
+32	40
+32	120
+33	120
+33	40
+34	40
+34	120
+35	120
+35	40
+45	40
+45	130
+46	130
+46	40
+47	40
+47	130
+48	130
+48	40
+49	40
+49	130
+50	130
+50	40
+51	40
+51	130
+52	130
+52	40
+53	40
+53	130
+54	130
+54	40
+55	40
+55	130
+56	130
+56	40
+57	40
+57	130
+58	130
+58	40
+59	40
+59	130
+60	130
+60	40
+70	40
+70	115
+71	115
+71	39
+72	39
+72	115
+73	115
+73	40
+74	40
+74	115
+75	115
+75	40
+76	40
+76	115
+77	115
+77	40
+78	40
+78	115
+79	115
+79	39
+80	39
+80	115
+81	115
+81	40
+82	40
+82	115
+83	115
+83	40
+84	40
+84	115
+85	115
+85	40
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Silliman	8	0	0	72	16777215	10
+0	Today's workout consists of three 15-minute sets...	8	0	0	72	16777215	20
+0	each made up of 1 minute-on/1 minute-off intervals	8	0	0	72	16777215	30
+0	The "On" segments are spent at 115-130% FTP...	8	0	0	72	16777215	40
+0	and the "Off" segments are all spent at 40% FTP	8	0	0	72	16777215	50
+0	Today's intervals all fall within the VO2Max & Anaerobic zones...	8	0	0	72	16777215	60
+0	but will serve to improve your aerobic power & aerobic capacity	8	0	0	72	16777215	70
+0	Think of Capacity as how much work you can create, Power as how often you can use it	8	0	0	72	16777215	80
+0	These adaptations occur when repeating short but intense efforts...	8	0	0	72	16777215	90
+0	with too-short periods of recovery	8	0	0	72	16777215	100
+0	You still have a substantial amount of warm up ahead of you...	8	0	0	72	16777215	110
+0	including a few 1-minute clearing efforts	8	0	0	72	16777215	120
+0	Use these brief but tough efforts not only as an opportunity to prepare your legs...	8	0	0	72	16777215	130
+0	but to find a reasonable cadence to strive for during the bulk of the workout	8	0	0	72	16777215	140
+0	Since these efforts are short & intense...	8	0	0	72	16777215	150
+0	you'll want to maintain fast legs, 100rpm or higher is recommended	8	0	0	72	16777215	160
+0	Keep spinning between at least 85-95rpm for another 7 minutes though	8	0	0	72	16777215	170
+0	Clearing efforts fast approaching, 30 seconds out	8	0	0	72	16777215	570
+0	Start brining your cadence up now, and remember...	8	0	0	72	16777215	580
+0	shoot for a cadence of at least 100rpm	8	0	0	72	16777215	590
+600	Fast legs for 1 minute at 115% FTP	8	0	0	72	16777215	0
+660	Ease up but keep spinning fairly quickly	8	0	0	72	16777215	0
+720	120% FTP, quick legs & lots of control	8	0	0	72	16777215	0
+780	Good, back off & calm your breathing a bit	8	0	0	72	16777215	0
+840	Last time, all the way up at 130% FTP!	8	0	0	72	16777215	0
+900	Although that should have given you an idea of what you're up against today...	8	0	0	72	16777215	3
+900	don't be too concerned if your legs felt a bit heavy	8	0	0	72	16777215	13
+900	You still have about another 5 minutes to warm the legs	8	0	0	72	16777215	23
+900	This is a pretty straightforward workout, but...	8	0	0	72	16777215	230
+900	let's briefly discuss what to do during the 1-minute rest periods	8	0	0	72	16777215	240
+900	The urge to backpedal immediately following an interval...	8	0	0	72	16777215	250
+900	will increase as you progress through the sets & fatigue starts to build up	8	0	0	72	16777215	260
+900	So do your best to avoid backpedaling through the rest valleys for as long as possible	8	0	0	72	16777215	270
+900	If you decide to backpedal, make sure you're back on top of your pedalstroke...	8	0	0	72	16777215	280
+900	well before the next interval starts, at least 20 seconds prior	8	0	0	72	16777215	290
+1200	First round at 120%FTP, quick legs!	8	0	0	72	16777215	0
+1200	Try to hold your spin steady for the entire 60 seconds	8	0	0	72	16777215	10
+1260	Ease off the effort but keep most of your leg speed	8	0	0	72	16777215	0
+1320	Treat each of these 1-minute repeats as though it's the only one	8	0	0	72	16777215	0
+1320	No sense in getting ahead of yourself & becoming distracted or discouraged	8	0	0	72	16777215	10
+1380	Ease up, keep you legs quick	5	0	0	72	16777215	0
+1440	Each time you start, try to build your power in just a few seconds	8	0	0	72	16777215	0
+1620	Halfway through! Do your best to keep those legs fast	8	0	0	72	16777215	0
+1620	Another way to approach this second half...	8	0	0	72	16777215	10
+1620	is to make these upcoming intervals look as easy as those in the first half	8	0	0	72	16777215	20
+1620	You may not FEEL as fresh, but try to LOOK like you are	8	0	0	72	16777215	30
+1680	Quick legs, lots of control	5	0	0	72	16777215	0
+1860	You have a full 10 minutes to recover after the next 2 intervals...	8	0	0	72	16777215	0
+1860	so make the most out of each interval by not letting your form, cadence or watts slip	8	0	0	72	16777215	10
+1920	1 minute worth of form & focus	5	0	0	72	16777215	0
+1980	Good, almost there! Calm your breathing as best you can	8	0	0	72	16777215	0
+2040	Last interval, make it the smoothest one yet	8	0	0	72	16777215	0
+2100	Nicely done, keep those pedals turning forward for at least 30 seconds...	8	0	0	72	16777215	0
+2100	and enjoy the next 10 minutes of recovery	8	0	0	72	16777215	10
+2100	Next set in about 1 minute	8	0	0	72	16777215	540
+2100	This will be the highest wattage you put out during this workout...	8	0	0	72	16777215	550
+2100	but approach these 130% FTP intervals just as you did the last set	8	0	0	72	16777215	560
+2100	Keep a high cadence as to not let your legs get bogged down...	8	0	0	72	16777215	570
+2100	relax your upper body...	5	0	0	72	16777215	580
+2100	and do your best to stay focused on the work at hand...	5	0	0	72	16777215	587
+2100	One interval at a time	5	0	0	72	16777215	594
+2700	1 minute's worth of fast legs, 100+rpm if possible	8	0	0	72	16777215	0
+2760	Don't let that first interval scare you, they're often the worst	8	0	0	72	16777215	0
+2760	Keep your legs quick, above 90rpm if you can	8	0	0	72	16777215	10
+2820	Again, quick legs & a relaxed upper body...	8	0	0	72	16777215	0
+2820	and make sure to ramp your breathing up BEFORE you're in debt	8	0	0	72	16777215	10
+2880	So far so good, get through one more & we'll assess how things are going	8	0	0	72	16777215	50
+2940	Each time you start, try to be as relaxed as possible	8	0	0	72	16777215	0
+2940	A high workload doesn't mean you have to bunch up like you're sprinting	8	0	0	72	16777215	10
+2940	Try to hide the effort & look as though you're hardly working	8	0	0	72	16777215	20
+3000	Good, take a few seconds to catch your breath	8	0	0	72	16777215	0
+3000	If you've been completing the intervals so far, shoot for 3 more...	8	0	0	72	16777215	10
+3000	but if your cadence has plummeted or your power is off Target...	8	0	0	72	16777215	20
+3000	or if you've had to bail out a little early, try a Workout Intensity reduction	8	0	0	72	16777215	30
+3000	Start with 5% for these next 3 intervals then we'll reassess again	8	0	0	72	16777215	40
+3120	Already halfway through! Let's discuss mental toughness	8	0	0	72	16777215	0
+3120	As a cyclist, you're becoming well aware that pushing to an uncomfortable spot...	8	0	0	72	16777215	10
+3120	is an essential part of getting faster and improving your capabilities	8	0	0	72	16777215	20
+3120	Workouts like this one are great opportunities to prove to yourself...	8	0	0	72	16777215	30
+3120	that you're capable of ignoring the burn in your legs, the searing lungs...	8	0	0	72	16777215	40
+3120	and hanging in there when the going gets tough	8	0	0	72	16777215	50
+3360	2 more of these bad boys until a well-deserved break	8	0	0	72	16777215	0
+3360	Ride the next intervals as if you're in the midst of a race or hard group ride...	8	0	0	72	16777215	10
+3360	and you don't want anyone to see how hard you're working	8	0	0	72	16777215	20
+3360	Make these look EASY even though you're suffering	8	0	0	72	16777215	30
+3360	And drop the Workout Intensity by another 5% if you're bailing out in any way	8	0	0	72	16777215	40
+3360	Get ready...	3	0	0	72	16777215	55
+3420	Fast, well-controlled legs!	8	0	0	72	16777215	0
+3420	Ditch that tension in the upper body...	8	0	0	72	16777215	10
+3420	so the other riders think this is easy for you	8	0	0	72	16777215	20
+3420	Make 'em think that you're scary tough, scary fit	8	0	0	72	16777215	30
+3480	Brief rest to psych yourself up for the last interval	8	0	0	72	16777215	0
+3480	Riding outside, you'd already be in the other riders' heads	8	0	0	72	16777215	10
+3480	All you need to do for the final interval is keep the legs quick & get through it	8	0	0	72	16777215	20
+3540	High cadence, low drama	5	0	0	72	16777215	0
+3540	If need be, shift forward on the saddle...	8	0	0	72	16777215	10
+3540	into that slightly more powerful position over the pedals	8	0	0	72	16777215	20
+3540	30 more seconds to display your ability to ignore pain	8	0	0	72	16777215	30
+3600	Awesome! Keep 'em turning forward for at least another 30 seconds	8	0	0	72	16777215	0
+3600	Not backpedaling immediately after a hard interval (or set)...	8	0	0	72	16777215	10
+3600	will ultimately help you clear the junk from your legs faster	8	0	0	72	16777215	20
+3600	A bit over 1 minute more of rest until the final set	8	0	0	72	16777215	520
+3600	This last set will put you at 115% FTP for the "on" minutes	8	0	0	72	16777215	530
+3600	Although this is the "easiest" set thus far...	8	0	0	72	16777215	540
+3600	you've already put your legs through two, grueling sets...	8	0	0	72	16777215	550
+3600	so you may be carrying a fair amount of fatigue into this final set	8	0	0	72	16777215	560
+3600	Do your best to hold at least 100rpm for as long as possible...	8	0	0	72	16777215	570
+3600	but shoot for at least 90rpm if your form starts to fail at a quicker spin	8	0	0	72	16777215	580
+4200	As always, just focus on the work at hand	8	0	0	72	16777215	0
+4200	One interval at a time, keep yourself present	8	0	0	72	16777215	10
+4260	Each recovery valley is an opportunity to reestablish any form you may have lost	8	0	0	72	16777215	0
+4260	If you need to backpedal in order to do so, limit it to 20-30 seconds	8	0	0	72	16777215	10
+4320	Try to get your spin up over 100rpm, 90rpm at the minimum	8	0	0	72	16777215	0
+4380	Ease up & spin out the junk, backward or forward	8	0	0	72	16777215	0
+4380	Use this next interval, and the 2 prior, to determine...	8	0	0	72	16777215	30
+4380	if you need to drop the Workout Intensity a little bit	8	0	0	72	16777215	40
+4380	But probably no more than 5% since this round is at 115% FTP	8	0	0	72	16777215	50
+4440	Wind it up, settle in & stay relaxed	5	0	0	72	16777215	0
+4500	3 down! Make sure you're keeping that upper body relaxed	8	0	0	72	16777215	0
+4500	And if anything is failing early, drop your watts as much as 5%	8	0	0	72	16777215	10
+4740	Final 3 intervals ahead	8	0	0	72	16777215	0
+4740	Don't finish this workout feeling like you could have tried harder	8	0	0	72	16777215	10
+4740	It is this point in the workout, race, group ride...	8	0	0	72	16777215	20
+4740	where the strongest riders distinguish themselves from the less conditioned riders	8	0	0	72	16777215	30
+4740	And often, that distinction is not determined on a basis of fitness alone...	8	0	0	72	16777215	40
+4740	but the willingness to bury yourself, to handle pain exceptionally well	8	0	0	72	16777215	50
+4800	Be tough! Be strong!	5	0	0	72	16777215	0
+4860	Make the final 2 intervals your best yet	8	0	0	72	16777215	30
+4860	Impeccable form, exceptional toughness & an intimidating poker face	8	0	0	72	16777215	40
+4920	1 minute of focus!	5	0	0	72	16777215	0
+4920	Just 30 more seconds, don't fade!	5	0	0	72	16777215	30
+4980	Final interval coming up...	5	0	0	72	16777215	40
+4980	No holding back, nothing to save yourself for at this point!	8	0	0	72	16777215	47
+5040	Final minute, make it your best interval yet	8	0	0	72	16777215	0
+5040	Final 30 seconds, you got this	5	0	0	72	16777215	30
+5100	Excellent job!	5	0	0	72	16777215	0
+5100	If you can stay that tough indoors...	8	0	0	72	16777215	10
+5100	there's a really good chance you can work even harder outdoors...	8	0	0	72	16777215	20
+5100	in the midst of all sorts of further motivation	8	0	0	72	16777215	30
+5100	As you cool down, start planning your recovery nutrition	8	0	0	72	16777215	40
+5100	And feel free to load a Free Ride if you'd like to cool down longer	8	0	0	72	16777215	50
+5100	We'll see you next time	8	0	0	72	16777215	60
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+600	660	VO2 Max 1
+720	780	VO2 Max 2
+840	900	Anaerobic Capacity 1
+1200	1260	VO2 Max 3
+1320	1380	VO2 Max 4
+1440	1500	VO2 Max 5
+1560	1620	VO2 Max 6
+1680	1740	VO2 Max 7
+1800	1860	VO2 Max 8
+1920	1980	VO2 Max 9
+2040	2100	VO2 Max 10
+2700	2760	Anaerobic Capacity 2
+2820	2880	Anaerobic Capacity 3
+2940	3000	Anaerobic Capacity 4
+3060	3120	Anaerobic Capacity 5
+3180	3240	Anaerobic Capacity 6
+3300	3360	Anaerobic Capacity 7
+3420	3480	Anaerobic Capacity 8
+3540	3600	Anaerobic Capacity 9
+4200	4260	VO2 Max 11
+4320	4380	VO2 Max 12
+4440	4500	VO2 Max 13
+4560	4620	VO2 Max 14
+4680	4740	VO2 Max 15
+4800	4860	VO2 Max 16
+4920	4980	VO2 Max 17
+5040	5100	VO2 Max 18
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

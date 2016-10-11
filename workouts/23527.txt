@@ -1,0 +1,85 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Slide Mountain,77,59. Created by 29233.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	72
+12	72
+12	96
+15	96
+15	10
+16	10
+16	40
+19	50
+19	85
+29	85
+29	50
+33	50
+33	85
+43	85
+43	50
+47	50
+47	85
+57	85
+57	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+1140	Let's ride this first interval below your natural cadence	8	0	0	72	16777215	0
+1140	So if your spin is comfortable, slow things down by 10-20rpm...	8	0	0	72	16777215	10
+1140	But don't go any lower than 70rpm	8	0	0	72	16777215	20
+1140	Do your best to remain here over the course of this interval	8	0	0	72	16777215	30
+1140	If you're specifically targeting your climbing ability...	8	0	0	72	16777215	60
+1140	Your front wheel is elevated & your hands are on the tops or hoods	8	0	0	72	16777215	70
+1140	And don't be afraid to move in & out of the saddle...	8	0	0	72	16777215	80
+1140	But keep your power as steady as possible	8	0	0	72	16777215	90
+1140	If your specialty is time trials or you're a multisport athlete...	8	0	0	72	16777215	120
+1140	You're riding your TT/tri-bike & spending time in your aero position	8	0	0	72	16777215	130
+1140	Understand that it takes time to adapt to your position...	8	0	0	72	16777215	140
+1140	And spend increasingly longer periods of time in your tuck	8	0	0	72	16777215	150
+1140	It's a great time of year for adjustments to balance your comfort vs power	8	0	0	72	16777215	160
+1140	Optimal aerodynamics take time, trial & error, and high repetition of both	8	0	0	72	16777215	170
+1140	All other riders, spend time in positions you plan to utilize	8	0	0	72	16777215	180
+1140	Plan to race in your drops? Spend intermittent time there now	8	0	0	72	16777215	190
+1140	Plan to move in & out of the seat? Practice occasionally	8	0	0	72	16777215	200
+1140	Try to find your standing sweet spot where you're balanced & light	8	0	0	72	16777215	210
+1140	Practice smooth transitions up from the saddle & back into it	8	0	0	72	16777215	220
+1140	And practice keeping your power steady during those transitions	8	0	0	72	16777215	230
+1740	Go ahead and settle back into a more natural cadence...	8	0	0	72	16777215	0
+1740	Preferably above 80rpm	8	0	0	72	16777215	10
+1980	This interval will be spent at a cadence that's higher than usual	8	0	0	72	16777215	0
+1980	Pick it up 5-10rpm above your natural spin	8	0	0	72	16777215	10
+1980	And just like the last interval, practice specific positions & drills	8	0	0	72	16777215	20
+1980	Climb like a climber, get low like a triathlete...	8	0	0	72	16777215	30
+1980	Or simply ride like you plan to ride outdoors	8	0	0	72	16777215	40
+2580	Time to return to your natural cadence, 80rpm or higher	8	0	0	72	16777215	0
+2820	Which interval was more challenging?	8	0	0	72	16777215	0
+2820	The slower spin or the quicker one?	8	0	0	72	16777215	10
+2820	Whichever took more focus, caused more discomfort, repeat it	8	0	0	72	16777215	20
+2820	So if the slow spin was harder for you, reduce your cadence by 10-20rpm	8	0	0	72	16777215	30
+2820	If the quicker spin was rougher, increase your cadence 5-10rpm	8	0	0	72	16777215	40
+2820	And don't forget to practice emulating your specific outdoor demands	8	0	0	72	16777215	50
+2820	Don't just practice what you're already good at...	8	0	0	72	16777215	60
+2820	Challenge yourself & address those weaknesses	8	0	0	72	16777215	70
+2820	Especially if they limit your performance outdoors	8	0	0	72	16777215	80
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+360	720	Endurance 1
+720	900	Threshold 1
+1140	1740	Sweet Spot 1
+1980	2580	Sweet Spot 2
+2820	3420	Sweet Spot 3
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

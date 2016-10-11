@@ -1,0 +1,137 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Hesperus,69,119. Created by 54951.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+10	50
+10	50
+11	60
+11	60
+17	60
+17	200
+17.16	200
+17.16	20
+18	60
+18	60
+24	60
+24	200
+24.16	200
+24.16	20
+25	60
+25	60
+31	60
+31	200
+31.16	200
+31.16	20
+32	60
+32	60
+41	60
+41	60
+42	65
+42	65
+52	65
+52	65
+53	80
+53	80
+68	80
+68	80
+69	60
+69	60
+83	60
+83	60
+84	85
+84	85
+99	85
+99	85
+100	65
+100	65
+125	65
+125	65
+126	70
+126	70
+146	70
+146	70
+147	50
+147	50
+150	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+660	In about 2 minutes you'll face your first Power Sprint	8	0	0	72	16777215	240
+660	Power Sprints combine the speed of Form Sprints...	8	0	0	72	16777215	250
+660	and the force of Strength Sprints	8	0	0	72	16777215	260
+660	The objective is to overcome a lot of resistance quickly	8	0	0	72	16777215	270
+660	You'll roll into these sprints with reasonable leg speed	8	0	0	72	16777215	280
+660	Try using a cadence between 85-95rpm	8	0	0	72	16777215	290
+660	Then you'll stand and drive your feet forward & down HARD	8	0	0	72	16777215	300
+660	Feel free to lead with either foot - find what works best	8	0	0	72	16777215	310
+660	You'll sprint for 10 seconds or about 24 pedalstrokes...	8	0	0	72	16777215	320
+660	and you should be able to get on top of your gear choice quickly...	8	0	0	72	16777215	330
+660	and reach 130rpm or higher	8	0	0	72	16777215	340
+660	But stay CONTROLLED. Get ready!	8	0	0	72	16777215	350
+1020	Go!	5	0	0	72	16777215	0
+1020	3...	1	0	0	72	16777215	7
+1020	2...	1	0	0	72	16777215	8
+1020	1...	1	0	0	72	16777215	9
+1030	Shut it down	8	0	0	72	16777215	0
+1080	1 minute until Power Sprint #2	8	0	0	72	16777215	300
+1080	If you ran out of gears last time & couldn't sustain your sprint power...	8	0	0	72	16777215	310
+1080	choose a bigger gear this time	8	0	0	72	16777215	320
+1080	But choose a gear that you can wind up very quickly	8	0	0	72	16777215	330
+1080	130rpm or higher depending on your level of control	8	0	0	72	16777215	340
+1080	Get ready...	8	0	0	72	16777215	350
+1440	Go!	5	0	0	72	16777215	0
+1440	3...	1	0	0	72	16777215	7
+1440	2...	1	0	0	72	16777215	8
+1440	1...	1	0	0	72	16777215	9
+1450	Shut it down	8	0	0	72	16777215	0
+1500	Last Power Sprint is about a minute out	8	0	0	72	16777215	300
+1500	Same rules apply & consider leading with your other foot if you haven't yet	8	0	0	72	16777215	310
+1500	Remember, a big gear but one you can get on top of quickly	8	0	0	72	16777215	320
+1500	Wind it up, keep the power high, stay controlled...	8	0	0	72	16777215	330
+1500	all for 10 seconds or about 24 pedalstrokes	8	0	0	72	16777215	340
+1500	Get ready...	8	0	0	72	16777215	350
+1860	Go!	5	0	0	72	16777215	0
+1860	3...	1	0	0	72	16777215	7
+1860	2...	1	0	0	72	16777215	8
+1860	1...	1	0	0	72	16777215	9
+1870	Shut it down, you're done sprinting today	8	0	0	72	16777215	0
+2520	Spend some of this 10-minutes alternating your Single Leg Focus	8	0	0	72	16777215	0
+3180	During this 15 minutes, include a 5-minute Endurance Spin	8	0	0	72	16777215	-1
+4140	Spend a minute at a time targeting Single Leg Focus - 10 minutes total	8	0	0	72	16777215	-1
+5040	One more 5-minute Endurance Spin over this 15-minute span	8	0	0	72	16777215	-1
+6000	Break things up with a little more Single Leg Focus	8	0	0	72	16777215	-1
+7560	If you're not too tired, try to include another 5-minute Endurance Spin	8	0	0	72	16777215	-1
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	9000	Workout
+660	1020	Endurance 1
+1020	1030	Sprint 1
+1080	1440	Endurance 2
+1440	1450	Sprint 2
+1500	1860	Endurance 3
+1860	1870	Sprint 3
+1920	2460	Endurance 4
+2460	2520	Endurance 5
+2520	3120	Endurance 6
+3120	3180	Endurance 7
+3180	4080	Tempo 1
+4080	4140	Endurance 8
+4140	4980	Endurance 9
+4980	5040	Endurance 10
+5040	5940	Sweet Spot 1
+5940	6000	Endurance 11
+6000	7500	Endurance 12
+7500	7560	Endurance 13
+7560	8760	Endurance 14
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

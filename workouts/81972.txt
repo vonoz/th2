@@ -1,0 +1,191 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Ericsson TC,83,35. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+2	60
+2	94
+3	94
+3	40
+4.5	40
+4.5	94
+6.5	94
+6.5	90
+8.5	90
+8.5	88
+9.5	88
+9.5	40
+11	40
+11	94
+13	94
+13	90
+15	90
+15	88
+16	88
+16	40
+17.5	40
+17.5	94
+19.5	94
+19.5	90
+21.5	90
+21.5	88
+22.5	88
+22.5	40
+24	40
+24	94
+26	94
+26	90
+28	90
+28	88
+29	88
+29	40
+30	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Time for a little Sweet Spot work, 4x5-minute intervals to be specific	8	0	0	72	16777215	10
+0	Spend a few minutes pedaling quickly but comfortably	8	0	0	72	16777215	20
+0	And we'll talk details a little later	5	0	0	72	16777215	30
+120	Here's a quick 1-minute effort to get the blood flowing	8	0	0	72	16777215	0
+120	Try to spin quickly but comfortably	5	0	0	72	16777215	10
+120	Get a sense of what cadence suits you...	8	0	0	72	16777215	20
+120	or at least what sort of leg speed your body prefers	8	0	0	72	16777215	30
+180	Well done, spin easy for about 90 seconds and we'll talk spin-ups	8	0	0	72	16777215	0
+180	In a minute, you'll do your first of four Spin-Ups	8	0	0	72	16777215	30
+180	This form of interval is all about speed & control...	8	0	0	72	16777215	40
+180	but we're also working on muscle endurance today	8	0	0	72	16777215	50
+180	If you feel you can't do both well...	8	0	0	72	16777215	60
+180	lower the Workout Intensity 5-10% to focus more on form work...	8	0	0	72	16777215	70
+180	or simply ignore the cadence suggestions and keep your spin between 85-95rpm	8	0	0	72	16777215	80
+270	Settle into a cadence that suits you, ideally something above 85rpm	8	0	0	72	16777215	0
+270	But leave yourself some room to grow since these intervals only get faster & faster	8	0	0	72	16777215	10
+270	A pedalstroke tends to get sloppy when riders spin too quickly...	8	0	0	72	16777215	20
+270	without any focus on the top & bottom of their pedalstrokes	8	0	0	72	16777215	30
+270	So lightly but actively kick forward & pull back	8	0	0	72	16777215	40
+270	The downstroke will always be the power phase...	8	0	0	72	16777215	50
+270	but the top & bottom can make a subtle yet productive difference	8	0	0	72	16777215	60
+270	Less than a minute & then the speed kicks up a bit	8	0	0	72	16777215	70
+270	Already tense? Lower your shoulders, soften your elbows	8	0	0	72	16777215	80
+270	Unclench your jaw, relax your grip...and breeeeeeeathe	8	0	0	72	16777215	90
+270	Quick pedaling doesn't have to mean fast breathing...	8	0	0	72	16777215	100
+270	instead, remind yourself to draw fuller breaths the quicker you pedal	8	0	0	72	16777215	110
+390	Time to pick things up a bit	5	0	0	72	16777215	0
+390	Not trying to set any records here...	8	0	0	72	16777215	10
+390	just trying to manage more leg speed	8	0	0	72	16777215	20
+390	So shift down a gear, maybe two, and go faster	8	0	0	72	16777215	30
+390	Unless you're on an electronic trainer in Ergo mode...	8	0	0	72	16777215	40
+390	in which case, just pedal more quickly, no shifting necessary	8	0	0	72	16777215	50
+390	The strongest riders don't just push hard on the pedals...	8	0	0	72	16777215	60
+390	they push hard while spinning quickly	5	0	0	72	16777215	70
+390	Today, just focus on the "quickly" part of that combination	8	0	0	72	16777215	80
+390	This is why the watts will drop twice each interval...	8	0	0	72	16777215	90
+390	to coax more speed out of those legs	5	0	0	72	16777215	100
+390	Final minute just ahead, get ready!	5	0	0	72	16777215	110
+510	Really pick things up, but no bouncing	8	0	0	72	16777215	0
+510	Every minute is about CONTROL	5	0	0	72	16777215	10
+510	Fast but controlled	5	0	0	72	16777215	20
+510	Any slop and you're just reinforcing bad habits	5	0	0	72	16777215	30
+510	And bad habits are tough to break	5	0	0	72	16777215	40
+510	Much harder than learning good ones	5	0	0	72	16777215	50
+570	Nice job! Slow things down again, but try to keep your legs moving	8	0	0	72	16777215	0
+570	Next round in just over a minute, so plan your approach based on the first interval	8	0	0	72	16777215	10
+570	If you started bouncing, consider starting just a little slower...	8	0	0	72	16777215	20
+570	or don't speed up so much when the watts drop	8	0	0	72	16777215	30
+570	OR, more likely, relax more	5	0	0	72	16777215	40
+570	Excess tension, anywhere in your body...	8	0	0	72	16777215	50
+570	only worsens your spin, especially at higher cadences	8	0	0	72	16777215	60
+570	So do your best to stay relaxed	5	0	0	72	16777215	70
+570	"Smooth & Relaxed" is your mantra today	5	0	0	72	16777215	80
+660	Settle into something quick & controlled	8	0	0	72	16777215	0
+660	Something you can sustain for a few minutes, but something you can grow	8	0	0	72	16777215	10
+660	90 more seconds to stay quick, smooth & relaxed	8	0	0	72	16777215	30
+660	And to contemplate why you're doing this	8	0	0	72	16777215	40
+660	A quick, light spin is just that: light on the muscles	8	0	0	72	16777215	50
+660	When you spin slowly, 80 rpm, 70...60!?	8	0	0	72	16777215	60
+660	Your muscles get drained far more quickly than necessary	8	0	0	72	16777215	70
+660	While it may seem easier to spin slowly, it's very taxing on your legs	8	0	0	72	16777215	80
+660	Think of it like walking up a steep hill...	8	0	0	72	16777215	90
+660	long, slow strides versus quick, choppy steps	8	0	0	72	16777215	100
+660	You get to the top at the same time, but which leaves your legs fresher?	8	0	0	72	16777215	110
+780	Less power, more speed...	5	0	0	72	16777215	0
+780	same high level of control	5	0	0	72	16777215	10
+780	Still relaxed?	3	0	0	72	16777215	60
+780	Still drawing full, slow breaths?	3	0	0	72	16777215	70
+780	Still lightly kicking & pulling?	3	0	0	72	16777215	80
+780	One more minute of quick control, get ready!	5	0	0	72	16777215	110
+900	Final minute, even faster!	5	0	0	72	16777215	0
+900	But no bouncing, no knocking	5	0	0	72	16777215	10
+900	Just controlled, relaxed speed	5	0	0	72	16777215	20
+960	Well done, that's 2 down!	5	0	0	72	16777215	0
+960	Take it easy for a few minutes	5	0	0	72	16777215	10
+960	Clear any heaviness, spin comfortably	5	0	0	72	16777215	20
+960	In about a minute, round 3	5	0	0	72	16777215	30
+960	If the leg fatigue is building & keeping you from riding quickly...	8	0	0	72	16777215	60
+960	lower the Workout Intensity a couple points	5	0	0	72	16777215	70
+960	Speed is the first objective today, muscle endurance is just a bonus	8	0	0	72	16777215	80
+1050	Time to settle into your starting cadence	5	0	0	72	16777215	0
+1050	Preferably 85rpm or higher	5	0	0	72	16777215	10
+1050	If 85rpm isn't realistic now, it soon will be	5	0	0	72	16777215	20
+1050	A cadence of 90-95 will soon seem like your norm	5	0	0	72	16777215	30
+1050	But it takes time and practice...	5	0	0	72	16777215	40
+1050	and PROPER practice at that, no bad habits	5	0	0	72	16777215	50
+1050	Final minute before you pick things up...	5	0	0	72	16777215	60
+1050	Keep it quick, stay relaxed	5	0	0	72	16777215	70
+1050	And don't forget to lightly kick & pull	5	0	0	72	16777215	80
+1050	so make sure you've left yourself room to grow your speed	8	0	0	72	16777215	90
+1170	Little bit quicker, little less power	5	0	0	72	16777215	0
+1170	And remember, the quicker you spin...	8	0	0	72	16777215	10
+1170	the more relaxed you need to be	5	0	0	72	16777215	20
+1170	So start with your forehead, end with your toes...	8	0	0	72	16777215	30
+1170	and get rid of any tension that's not helping you turn the pedals	8	0	0	72	16777215	40
+1170	One minute before you go all-out	5	0	0	72	16777215	60
+1170	Stay relaxed, breathe fully & slowly	5	0	0	72	16777215	70
+1290	Pick it up!	3	0	0	72	16777215	0
+1290	As much speed as you can control	5	0	0	72	16777215	10
+1290	And keep your watts down...	5	0	0	72	16777215	20
+1290	this is form work, not power work	5	0	0	72	16777215	30
+1350	Nicely done!	5	0	0	72	16777215	0
+1350	Only one to go, so take it easy for a few minutes	8	0	0	72	16777215	10
+1350	Last interval coming up!	5	0	0	72	16777215	60
+1350	Start to bring your spin to your starting cadence	5	0	0	72	16777215	70
+1440	Settle in - quick, light, controlled	5	0	0	72	16777215	0
+1440	And relax, right from the start	5	0	0	72	16777215	10
+1440	Too often, the anticipation of hard work...	5	0	0	72	16777215	20
+1440	is all riders need to tense up	5	0	0	72	16777215	30
+1440	Just stay relaxed, pedal smoothly & quickly	5	0	0	72	16777215	40
+1560	Pick things up again, keep that control	5	0	0	72	16777215	0
+1560	Don't hesitate to shoot for higher leg speeds...	8	0	0	72	16777215	10
+1560	but don't sacrifice your technique for a higher cadence	8	0	0	72	16777215	20
+1680	Final minute!	3	0	0	72	16777215	0
+1680	Go fast, don't bounce	3	0	0	72	16777215	10
+1740	Very well done!	5	0	0	72	16777215	0
+1740	This is a quick cool-down...	5	0	0	72	16777215	10
+1740	but you're more than welcome to keep spinning after the clock stops	8	0	0	72	16777215	20
+1740	See ya next time	5	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	1800	Workout
+120	180	Sweet Spot 1
+270	390	Sweet Spot 2
+390	510	Sweet Spot 3
+510	570	Sweet Spot 4
+660	780	Sweet Spot 5
+780	900	Sweet Spot 6
+900	960	Sweet Spot 7
+1050	1170	Sweet Spot 8
+1170	1290	Sweet Spot 9
+1290	1350	Sweet Spot 10
+1440	1560	Sweet Spot 11
+1560	1680	Sweet Spot 12
+1680	1740	Sweet Spot 13
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

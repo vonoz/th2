@@ -1,0 +1,215 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = 8DC - Stage 6,85,73. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	55
+10	55
+10	55
+13.25	60
+13.25	85
+18.25	95
+18.25	40
+21.25	40
+21.25	105
+22	110
+22	40
+24.25	40
+24.25	115
+25	120
+25	40
+27.25	40
+27.25	125
+28	130
+28	40
+33	40
+33	40
+34.66	98
+34.66	98
+37.91	102
+37.91	102
+40.33	104
+40.33	104
+44.5	106
+44.5	85
+45.33	85
+45.33	85
+45.66	104
+45.66	105
+48.33	108
+48.33	108
+53	110
+53	50
+60	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	The first & only solo effort is upon us, Team	8	0	0	72	16777215	30
+0	So we're going to run through our usual TT warm-up...	8	0	0	72	16777215	40
+0	...a little over 30 minutes worth of work	8	0	0	72	16777215	50
+0	Following the warm-up, we'll turn the reins over to you...	8	0	0	72	16777215	60
+0	...and just how hard you dole out effort on the TT interval...	8	0	0	72	16777215	70
+0	...can be used to establish a new FTP if you really kill it	8	0	0	72	16777215	80
+0	So spin quickly but comfortably...	8	0	0	72	16777215	90
+0	...and we'll all roll through our warm-up together	8	0	0	72	16777215	100
+0	As things stand, we're doing surprisingly well	8	0	0	72	16777215	180
+0	We have 2 riders sitting in the Top-20 in the GC	8	0	0	72	16777215	190
+0	But this tour is far from over with the TT & Queen Stage still on tap	8	0	0	72	16777215	200
+0	And then there's the final stage too, of course	8	0	0	72	16777215	210
+0	We'll soon see just how great a toll 5 stages...	8	0	0	72	16777215	240
+0	...has taken on our staying power...	8	0	0	72	16777215	260
+0	...both as individuals & as a team	8	0	0	72	16777215	270
+600	Start to bring up the effort a little bit at a time...	8	0	0	72	16777215	0
+600	...and we'll prep our legs & lungs for the harder stuff	8	0	0	72	16777215	10
+600	This initial warming ramp is a good opportunity...	8	0	0	72	16777215	135
+600	...to gain a sense of how you feel close to your FTP	8	0	0	72	16777215	145
+600	But don't let if psyche you out if you don't feel great	8	0	0	72	16777215	155
+600	Often, the best performances follow the worst feeling warm-ups	8	0	0	72	16777215	165
+795	Let's start to do a little work	8	0	0	72	16777215	0
+795	Even if you time trial using a low cadence...	8	0	0	72	16777215	10
+795	...keep your spin on the higher side of things for the warm-up	8	0	0	72	16777215	20
+795	90rpm is a good place to be	5	0	0	72	16777215	30
+795	If you haven't done so yet, get into your aero position	8	0	0	72	16777215	120
+795	Prep the muscles in the same manner you'll use them	8	0	0	72	16777215	130
+795	2 minutes left...	5	0	0	72	16777215	180
+795	...move in & out of your aero position if necessary	8	0	0	72	16777215	187
+795	Final minute	5	0	0	72	16777215	240
+795	...get aero & stay there	5	0	0	72	16777215	247
+1095	A few easy minutes & we'll hit the higher-intensity stuff	8	0	0	72	16777215	15
+1095	These short intervals are about high power & high cadence...	8	0	0	72	16777215	120
+1095	...and can be done in any position, but aero is preferred	8	0	0	72	16777215	130
+1095	If possible, keep your spin over 100rpm...	8	0	0	72	16777215	140
+1095	...as long as that doesn't involve bouncing	8	0	0	72	16777215	150
+1095	These efforts ramp up, so your watts start high & get higher	8	0	0	72	16777215	160
+1095	Get ready...	5	0	0	72	16777215	170
+1275	Pick it up	5	0	0	72	16777215	0
+1275	Keep your watts climbing	5	0	0	72	16777215	25
+1320	One down	5	0	0	72	16777215	15
+1320	Same drill coming up, just a little more power	8	0	0	72	16777215	75
+1320	The idea here is to recruit all the muscle you'll rely on...	8	0	0	72	16777215	85
+1320	...and get everything "awake" & firing	8	0	0	72	16777215	95
+1320	And it's good to show your mind as well as your body...	8	0	0	72	16777215	105
+1320	...what you'll soon expect of them both	8	0	0	72	16777215	115
+1320	Get ready...	5	0	0	72	16777215	125
+1455	Pick it up	5	0	0	72	16777215	0
+1455	20 more seconds, keep growing those watts	8	0	0	72	16777215	25
+1500	Good, two down	8	0	0	72	16777215	15
+1500	Last time, hardest of the three	8	0	0	72	16777215	75
+1500	Don't worry that you're spending too much energy warming	8	0	0	72	16777215	85
+1500	The old rule is "the shorter the race, the longer the warm-up"	8	0	0	72	16777215	95
+1500	We'll just keep things even today...	8	0	0	72	16777215	105
+1500	...30-minute warm-up for a 30-minute race	8	0	0	72	16777215	115
+1500	Get ready...	5	0	0	72	16777215	125
+1635	One last time, pick it up	5	0	0	72	16777215	0
+1635	20 seconds, don't let up	5	0	0	72	16777215	25
+1680	Take it really easy for about 5 minutes	8	0	0	72	16777215	15
+1680	If you need to take a quick time-out to stretch, get a drink...	8	0	0	72	16777215	30
+1680	...calibrate your power meter, then now's the time	5	0	0	72	16777215	40
+1680	For the time trial itself, we can use this 20 minutes...	8	0	0	72	16777215	120
+1680	...to assess your sustainable power output	8	0	0	72	16777215	130
+1680	Taking part in all preceding stages is likely to have...	8	0	0	72	16777215	140
+1680	...a negative impact on your power output	8	0	0	72	16777215	150
+1680	But this doesn't hold true for all riders	8	0	0	72	16777215	160
+1680	Some riders actually get stronger over a series of stages	8	0	0	72	16777215	170
+1680	While most riders start to suffer less encouraging effects	8	0	0	72	16777215	180
+1680	But who knows!?	8	0	0	72	16777215	190
+1680	You might be amongst the lucky minority	8	0	0	72	16777215	200
+1680	Regardless, be patient early in the time trial...	8	0	0	72	16777215	210
+1680	...starting out pretty hard but leaving room to grow	8	0	0	72	16777215	220
+1680	And don't forget that this TT ends with a climb...	8	0	0	72	16777215	230
+1680	...which is going to require a bit more effort...	8	0	0	72	16777215	240
+1680	...than a flat TT finish, even for the very best pacers	8	0	0	72	16777215	250
+1680	Grab a last drink, a few big deep breaths...	8	0	0	72	16777215	260
+1680	...and accept that this is going to hurt...	8	0	0	72	16777215	270
+1680	...but you KNOW you can handle it	8	0	0	72	16777215	280
+1680	Get ready...	5	0	0	72	16777215	290
+1680	3...	1	0	0	72	16777215	297
+1680	2...	1	0	0	72	16777215	298
+1680	1...	1	0	0	72	16777215	299
+1980	GO! Drive up that power...	5	0	0	72	16777215	0
+1980	...but don't get carried away	5	0	0	72	16777215	7
+1980	Plenty of time to go fast later	8	0	0	72	16777215	15
+1980	For now, practice restraint	5	0	0	72	16777215	30
+2080	Start to settle in to something difficult but sustainable	8	0	0	72	16777215	0
+2080	Use these next few minutes to figure that out	8	0	0	72	16777215	10
+2080	If it feels too fast, back off A LITTLE	8	0	0	72	16777215	20
+2080	Slightly too comfortable, speed up A LITTLE	8	0	0	72	16777215	30
+2080	Repeat as often as necessary	8	0	0	72	16777215	40
+2080	Find that sweet spot & focus on staying there	8	0	0	72	16777215	50
+2275	Time check #1	5	0	0	72	16777215	5
+2275	One quarter the way through this	5	0	0	72	16777215	12
+2275	If you've managed to pace well...	8	0	0	72	16777215	20
+2275	...your power is steadily rising ever so slightly...	8	0	0	72	16777215	30
+2275	...or you've leveled out	5	0	0	72	16777215	40
+2275	In either case, don't let your watts fall	8	0	0	72	16777215	50
+2420	Time check #2	5	0	0	72	16777215	160
+2420	Halfway point...	5	0	0	72	16777215	167
+2420	You're on pace for a very fast time!	8	0	0	72	16777215	175
+2420	So keep it up!	5	0	0	72	16777215	185
+2420	A short descent is coming up	5	0	0	72	16777215	192
+2420	Time to choose 1 of 2 strategies	5	0	0	72	16777215	199
+2420	1: Push hard on the descent, stay steady on the climb	8	0	0	72	16777215	206
+2420	2: Back off on the descent, push HARD on the climb	8	0	0	72	16777215	216
+2420	The first strategy is all about even pacing...	8	0	0	72	16777215	226
+2420	...and the second is about resting & then hammering	8	0	0	72	16777215	236
+2420	Best to decide now	8	0	0	72	16777215	240
+2670	Follow your strategy!	5	0	0	72	16777215	0
+2720	Foot of the climb!	5	0	0	72	16777215	0
+2720	Under 8 minutes to the top!	8	0	0	72	16777215	7
+2740	You're part way into the first of the 2 final segments	8	0	0	72	16777215	0
+2740	About 3 minutes & 5 minutes respectively	8	0	0	72	16777215	10
+2740	If you can do it, keep raising your power	8	0	0	72	16777215	20
+2740	Even if it's just 1 or 2 watts, keep it growing!	8	0	0	72	16777215	30
+2740	Time Check #3	5	0	0	72	16777215	140
+2740	5 minutes to go	5	0	0	72	16777215	147
+2900	Final stretch, under 5 minutes!	8	0	0	72	16777215	0
+2900	No fading now, all eyes are on you	8	0	0	72	16777215	10
+2900	4 minutes!	5	0	0	72	16777215	40
+2900	Don't back off...	5	0	0	72	16777215	47
+2900	...or everyone will see you crumble	8	0	0	72	16777215	54
+2900	Final 3 minutes!	5	0	0	72	16777215	100
+2900	Hold pace or lift it slightly	5	0	0	72	16777215	110
+2900	2 minutes!	5	0	0	72	16777215	160
+2900	It hurts, but this climb's almost over!	8	0	0	72	16777215	190
+2900	Final minute!	5	0	0	72	16777215	220
+2900	Everything you have left!	5	0	0	72	16777215	227
+2900	30 seconds! Do NOT let up!	5	0	0	72	16777215	250
+2900	10 seconds!	5	0	0	72	16777215	270
+2900	3...	1	0	0	72	16777215	277
+2900	2...	1	0	0	72	16777215	278
+2900	1...	1	0	0	72	16777215	279
+3180	Nice! Shut it down, spin out the fatigue	8	0	0	72	16777215	0
+3180	Several of the top riders are still on course...	8	0	0	72	16777215	10
+3180	...so we'll have to wait till later to see how everyone stacked up	8	0	0	72	16777215	20
+3180	Tomorrow's stage promises to set the final standings...	8	0	0	72	16777215	90
+3180	...as we bury ourselves over 3 mountain passes...	8	0	0	72	16777215	100
+3180	...including a hilltop finish!	8	0	0	72	16777215	50
+3180	Cool down, get rested up...	8	0	0	72	16777215	60
+3180	...and we'll see you tomorrow	8	0	0	72	16777215	70
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+795	1095	Sweet Spot 1
+1275	1320	VO2 Max 1
+1455	1500	VO2 Max 2
+1635	1680	Anaerobic Capacity 1
+2080	2275	Threshold 1
+2275	2420	Threshold 2
+2420	2670	Threshold 3
+2670	2720	Sweet Spot 2
+2720	2740	Sweet Spot 3
+2740	2900	VO2 Max 3
+2900	3180	VO2 Max 4
+[END INTERVAL DATA]
+
+[MODE DATA]
+2080	Slope	3
+3180	Erg	0
+[END MODE DATA]
+
+

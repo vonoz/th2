@@ -1,0 +1,99 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Mount Cook,69,144. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+10	50
+10	50
+11	70
+11	70
+31	70
+31	70
+32	60
+32	60
+56	60
+56	60
+57	80
+57	80
+65	80
+65	80
+66	60
+66	60
+71	60
+71	60
+72	80
+72	80
+82	80
+82	80
+83	65
+83	65
+104	65
+104	65
+105	85
+105	85
+114	85
+114	85
+115	60
+115	60
+122	60
+122	60
+123	85
+123	85
+132	85
+132	85
+133	60
+133	60
+155	60
+155	60
+156	70
+156	70
+176	70
+176	70
+177	50
+177	50
+180	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+660	Let's kick things off with 5 minutes of Endurance Spinning	8	0	0	72	16777215	120
+1920	Here's a nice long stretch to use for 3-5 Form Sprints	8	0	0	72	16777215	0
+3420	Spend 5 of these 8 minutes doing some Endurance Spinning	8	0	0	72	16777215	-1
+4980	Another stretch to focus on some 30 to 60-second ILT efforts	8	0	0	72	16777215	0
+6300	How about another 5-minute Endurance Spin during this 9 minutes?	8	0	0	72	16777215	-1
+7980	Try 3-5 late-ride Form Sprints to see if you can still manage good form	8	0	0	72	16777215	0
+9360	Annnnd one more 5-minute Endurance Spin unless you're just too tired	8	0	0	72	16777215	-1
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	10800	Workout
+660	1860	Endurance 1
+1860	1920	Endurance 2
+1920	3360	Endurance 3
+3360	3420	Endurance 4
+3420	3900	Tempo 1
+3900	3960	Endurance 5
+3960	4260	Endurance 6
+4260	4320	Endurance 7
+4320	4920	Tempo 2
+4920	4980	Endurance 8
+4980	6240	Endurance 9
+6240	6300	Endurance 10
+6300	6840	Sweet Spot 1
+6840	6900	Endurance 11
+6900	7320	Endurance 12
+7320	7380	Endurance 13
+7380	7920	Sweet Spot 2
+7920	7980	Endurance 14
+7980	9300	Endurance 15
+9300	9360	Endurance 16
+9360	10560	Endurance 17
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

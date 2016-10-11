@@ -1,0 +1,430 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Kearsarge,82,102. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	50
+8	80
+8	80
+10	80
+10	120
+10.3	120
+10.3	80
+11.5	80
+11.5	120
+11.8	120
+11.8	80
+13	80
+13	120
+13.3	120
+13.3	80
+14.5	80
+14.5	120
+14.8	120
+14.8	80
+16	80
+16	120
+16.3	120
+16.3	80
+17.5	80
+17.5	120
+17.8	120
+17.8	60
+21.8	60
+21.8	130
+22.1	130
+22.1	70
+23	70
+23	130
+23.3	130
+23.3	70
+24.2	70
+24.2	130
+24.5	130
+24.5	70
+25.4	70
+25.4	130
+25.7	130
+25.7	70
+26.6	70
+26.6	130
+26.9	130
+26.9	70
+27.8	70
+27.8	130
+28.1	130
+28.1	60
+32.1	60
+32.1	140
+32.5	140
+32.5	50
+33.7	50
+33.7	140
+34.1	140
+34.1	50
+35.3	50
+35.3	140
+35.7	140
+35.7	50
+36.9	50
+36.9	140
+37.3	140
+37.3	50
+38.5	50
+38.5	140
+38.9	140
+38.9	50
+43.1	50
+43.1	140
+43.5	140
+43.5	50
+44.7	50
+44.7	140
+45.1	140
+45.1	50
+46.3	50
+46.3	140
+46.7	140
+46.7	50
+47.9	50
+47.9	140
+48.3	140
+48.3	50
+49.5	50
+49.5	140
+49.9	140
+49.9	50
+53.9	50
+53.9	150
+54.3	150
+54.3	70
+55.9	70
+55.9	150
+56.3	150
+56.3	70
+57.9	70
+57.9	150
+58.3	150
+58.3	60
+59.9	60
+59.9	150
+60.3	150
+60.3	60
+61.9	60
+61.9	150
+62.3	150
+62.3	50
+63.9	50
+63.9	150
+64.3	150
+64.3	50
+65.9	50
+65.9	150
+66.3	150
+66.3	50
+67.9	50
+67.9	150
+68.3	150
+68.3	40
+72.9	40
+72.9	150
+73.3	150
+73.3	70
+74.9	70
+74.9	150
+75.3	150
+75.3	70
+76.9	70
+76.9	150
+77.3	150
+77.3	60
+78.9	60
+78.9	150
+79.3	150
+79.3	60
+80.9	60
+80.9	150
+81.3	150
+81.3	50
+82.9	50
+82.9	150
+83.3	150
+83.3	50
+84.9	50
+84.9	150
+85.3	150
+85.3	50
+86.9	50
+86.9	150
+87.3	150
+87.3	40
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Kearsarge!	5	0	0	72	16777215	10
+0	Today's workout consists of 6 sets of Anaerobic power repeats	8	0	0	72	16777215	17
+0	Each set of repeats ranges from 120-150% FTP...	8	0	0	72	16777215	27
+0	and each interval lasts 18-24 seconds with 1-1.5 minutes of rest between intervals...	8	0	0	72	16777215	37
+0	and you'll have about 4 minutes of rest between sets	8	0	0	72	16777215	47
+0	The goal of today's workout is to help you improve your ability...	8	0	0	72	16777215	57
+0	to generate & use lactate as your predominant (anaerobic) fuel source	8	0	0	72	16777215	67
+0	This fosters an ability to work really hard when the time comes...repeatedly	8	0	0	72	16777215	77
+0	This workout's intervals are purposely placed close together	8	0	0	72	16777215	87
+0	This will improve your ability to utilize existing work capacity over & over...	8	0	0	72	16777215	97
+0	because while most riders can ride for 20 seconds at 140% FTP once or twice...	8	0	0	72	16777215	107
+0	just how repeatable is their ability to dole out this sort of effort?	8	0	0	72	16777215	117
+0	This workout serves to make hard efforts more repeatable & more effective	8	0	0	72	16777215	127
+300	3-minute ramp up to 80% FTP...	8	0	0	72	16777215	0
+300	then we'll do a set of clearing intervals at 120%	8	0	0	72	16777215	10
+300	You should be sufficiently warm following these 120% FTP intervals	8	0	0	72	16777215	20
+480	Settle into a cadence between 85-95rpm	8	0	0	72	16777215	0
+480	Couple more minutes until the Anaerobic power repeats start	8	0	0	72	16777215	10
+480	30 seconds to go, perform this first interval in the saddle	8	0	0	72	16777215	90
+480	Make sure you have a high cadence, over 100rpm is ideal	8	0	0	72	16777215	100
+480	Start brining that cadence up now	5	0	0	72	16777215	110
+600	Quick legs! 18 seconds	5	0	0	72	16777215	0
+618	And back down to a cadence between 85-95rpm	8	0	0	72	16777215	0
+618	Next one in 15 seconds, start bringing that cadence up	8	0	0	72	16777215	57
+690	Fast legs, high power!	5	0	0	72	16777215	0
+708	Ease up but keep your spin fairly quick	8	0	0	72	16777215	0
+780	Go! Get your speed & power in a hurry	8	0	0	72	16777215	0
+798	3 down, 3 to go	8	0	0	72	16777215	0
+798	Let's try this next one out of the saddle	8	0	0	72	16777215	10
+798	Make sure your transition out of the saddle is smooth	8	0	0	72	16777215	20
+798	That probably means starting to find your cadence BEFORE the interval starts	8	0	0	72	16777215	30
+798	Shoot for a standing cadence of at least 75rpm	8	0	0	72	16777215	40
+870	And up! Run on the pedals	8	0	0	72	16777215	0
+888	Nicely done, sit back down with control - no plopping down ;-)	8	0	0	72	16777215	0
+888	Stay in the saddle for the next interval, over 100rpm	8	0	0	72	16777215	62
+960	Stay seated, use LOTS of leg speed	8	0	0	72	16777215	0
+978	Back down to 85-95rpm & try to catch your breath	8	0	0	72	16777215	0
+978	Let's stand again for this last one, no less than 75rpm	8	0	0	72	16777215	57
+1050	Up! Quick & controlled running on the pedals	8	0	0	72	16777215	0
+1068	Well done, that's the first set out of the way	8	0	0	72	16777215	0
+1068	Take 3 minutes to spin above 85rpm	8	0	0	72	16777215	10
+1068	Next set starts in about 45 seconds, keep your legs light & quick	8	0	0	72	16777215	192
+1068	The upcoming intervals are at 130% FTP, well above threshold	8	0	0	72	16777215	202
+1068	We'll do the first few in the saddle, all of them seated if necessary	8	0	0	72	16777215	212
+1068	Make sure your cadence above 100rpm during the intervals	8	0	0	72	16777215	222
+1308	Here we go! Keep that fast cadence for the entire 18 seconds	8	0	0	72	16777215	0
+1326	Shut it down but stay above 85rpm	8	0	0	72	16777215	0
+1380	Again, fast legs & high power	8	0	0	72	16777215	0
+1398	Ease up, stay quick though	5	0	0	72	16777215	0
+1452	Again! Get your power as fast as you can	8	0	0	72	16777215	0
+1470	Halfway! Stand for the next interval if you can do it well	8	0	0	72	16777215	0
+1470	Again, spin at 75rpm or higher	8	0	0	72	16777215	10
+1470	Quick legs will prevent you from lumbering from side to side	8	0	0	72	16777215	20
+1470	Get ready to stand & bring your cadence up in a hurry	8	0	0	72	16777215	30
+1524	Up! Run on your pedals!	8	0	0	72	16777215	0
+1542	And sit back down smoothly	5	0	0	72	16777215	0
+1542	We'll stay seated for the next interval, quicker legs if you can control them	8	0	0	72	16777215	10
+1596	Go! As fast as you can control	8	0	0	72	16777215	0
+1614	Good! One more at 130% FTP!	8	0	0	72	16777215	0
+1614	We'll stand again for this last one if you're able to do it well	8	0	0	72	16777215	10
+1668	Up! Final 18 seconds	5	0	0	72	16777215	0
+1668	Just 10 seconds, return to the saddle if necessary	8	0	0	72	16777215	8
+1686	And back down, 4 minutes of recovery	8	0	0	72	16777215	0
+1686	Next set consists of 24-second intervals at 140% FTP	8	0	0	72	16777215	174
+1686	Not to worry though, you should be plenty warm by now & ready to take these on	8	0	0	72	16777215	184
+1686	We'll start off seated again with a spin above 100rpm	8	0	0	72	16777215	194
+1686	Try "saddle shifting" to get a bit of extra power	8	0	0	72	16777215	204
+1686	Plant your sit bones on the wings of your saddle, where they usually should be...	8	0	0	72	16777215	214
+1686	then slide (don't lean) forward towards the nose of your saddle	8	0	0	72	16777215	224
+1926	Wind it up! 24 seconds	8	0	0	72	16777215	0
+1950	We'll stay seated for the next one as well, high cadence	8	0	0	72	16777215	0
+2022	Quick legs! 120rpm if you can hold it with control	8	0	0	72	16777215	0
+2022	Maintain this leg speed the entire interval	8	0	0	72	16777215	10
+2046	If you find your watts or cadence dropping during the intervals...	8	0	0	72	16777215	0
+2046	use10-20 seconds to backpedal during the recoveries	8	0	0	72	16777215	10
+2046	We'll do this next one out of the saddle IF you can control it	8	0	0	72	16777215	20
+2046	Make sure your cadence is at least 75rpm while standing...	8	0	0	72	16777215	30
+2046	and return to the saddle early if you start to fall apart	8	0	0	72	16777215	40
+2118	And up! Firm but not-too-tight grip on the handlebars	8	0	0	72	16777215	0
+2118	Halfway there, stay up if your form is still there	8	0	0	72	16777215	12
+2142	Good job, bring your heart rate down as soon as you can...	8	0	0	72	16777215	0
+2142	...by taking full & deep breaths emphasizing the exhale	8	0	0	72	16777215	10
+2142	Think of exhaling completely as a means to clear the used air	8	0	0	72	16777215	20
+2142	We'll do the next one seated, get ready!	8	0	0	72	16777215	58
+2214	High leg speed from start to finish!	5	0	0	72	16777215	0
+2214	Halfway, don't fade!	5	0	0	72	16777215	12
+2238	Once again, you can get out of the saddle for the last interval of the set	8	0	0	72	16777215	0
+2238	When you stand, hover not far above your saddle & run on your pedals	8	0	0	72	16777215	10
+2238	This will prevent you from leaning on your handlebars too much	8	0	0	72	16777215	20
+2310	Rise out of the saddle in a smooth & powerful motion...	8	0	0	72	16777215	0
+2310	and be sure to not lean too far forward	8	0	0	72	16777215	10
+2334	Well done! 4 minutes to clear the legs & recover your breathing	8	0	0	72	16777215	0
+2334	If you're doing this workout as part of a training plan...	8	0	0	72	16777215	10
+2334	chances are, you've established a solid work capacity	8	0	0	72	16777215	20
+2334	These closely-stacked intervals serve to increase your ability...	8	0	0	72	16777215	30
+2334	to utilize the work capacity you've worked so hard to establish	8	0	0	72	16777215	40
+2334	Not only does this workout improve your body's ability to hit the gas time & time again...	8	0	0	72	16777215	50
+2334	but it can improve your mental ability to handle the discomfort...	8	0	0	72	16777215	60
+2334	that comes with repeating high-intensity, anaerobic efforts	8	0	0	72	16777215	70
+2334	Next set in about 30 seconds	5	0	0	72	16777215	216
+2334	We'll spend the entire set in the saddle...	8	0	0	72	16777215	226
+2334	so be sure you keep those legs spinning quick the entire time	8	0	0	72	16777215	236
+2586	Quick legs from start to finish!	8	0	0	72	16777215	0
+2610	Ease off the gas but keep your legs turning if possible	8	0	0	72	16777215	0
+2610	Save the backpedaling for later in the set if you can	8	0	0	72	16777215	10
+2682	Hit it hard! 24 seconds	8	0	0	72	16777215	0
+2706	Shut it down, spin lightly & quickly	8	0	0	72	16777215	0
+2778	Go! 24 seconds of fast, smooth pedalstrokes	8	0	0	72	16777215	0
+2778	If you start to fade, stand & save your interval	8	0	0	72	16777215	10
+2802	Do your best to not let your cadence drop as the fatigue grows...	8	0	0	72	16777215	0
+2802	but recognize when you've lost your momentum & stand	8	0	0	72	16777215	10
+2802	Don't ALWAYS rely on this tactic, but certainly use it to grow your capabilities	8	0	0	72	16777215	20
+2874	Fast legs, seated to start, standing later if necessary	8	0	0	72	16777215	0
+2874	Rise if necessary, stay seated if possible	8	0	0	72	16777215	10
+2898	Just one to go! Spin out the heaviness	8	0	0	72	16777215	0
+2898	Backward or forward, your choice	8	0	0	72	16777215	10
+2898	Just make sure your spinning forward 20 seconds prior to each interval	8	0	0	72	16777215	20
+2970	Last time, smoothest sprint yet!	8	0	0	72	16777215	0
+2970	Halfway, keep it above 100rpm as long as possible	8	0	0	72	16777215	12
+2994	Nice! Enjoy another 4 minutes of recovery	8	0	0	72	16777215	0
+2994	These final sets may look a bit daunting...	8	0	0	72	16777215	156
+2994	so avoid psyching yourself out by breaking them down into smaller sets...	8	0	0	72	16777215	166
+2994	and by reminding yourself that for every 24 seconds of work...	8	0	0	72	16777215	176
+2994	you get at least 3 times that duration to recover	8	0	0	72	16777215	186
+2994	Additionally, keep in mind that as the set progresses...	8	0	0	72	16777215	196
+2994	the percentage of FTP at which you rest becomes increasingly easier	8	0	0	72	16777215	206
+2994	We'll start off seated in a little under 30 seconds	8	0	0	72	16777215	216
+2994	Get ready for quick legs, 100rpm or higher, much higher if reasonable	8	0	0	72	16777215	226
+3234	Go fast, focus on not letting your cadence drop	8	0	0	72	16777215	0
+3258	Do your best to keep the pedals turning forward	8	0	0	72	16777215	0
+3258	Your muscles will slowly start to recover, so be patient	8	0	0	72	16777215	10
+3258	but this is a tough "recovery" at 70% FTP	8	0	0	72	16777215	20
+3354	High leg speed, low drama...make it look easy	8	0	0	72	16777215	0
+3354	Stay well in control despite the high level of work & power	8	0	0	72	16777215	10
+3378	Try to keep 'em turning forward for at least 30 seconds	8	0	0	72	16777215	0
+3378	Limit your focus to the next 24 seconds, then...	8	0	0	72	16777215	10
+3378	you'll be rewarded with rest at a lower percentage of your FTP	8	0	0	72	16777215	20
+3474	Hit it! 24 seconds of refusing to back off	8	0	0	72	16777215	0
+3474	Halfway! Do...not...FADE!	8	0	0	72	16777215	12
+3498	Excellent, pedal forward for 30 seconds and your legs should start to clear	8	0	0	72	16777215	0
+3594	24 seconds, powerful & pretty	5	0	0	72	16777215	0
+3618	Are you able to maintain a high cadence & wattage for the ENTIRE interval?	8	0	0	72	16777215	0
+3618	If not, consider backpedaling for 10-30 seconds during each recovery valley	8	0	0	72	16777215	10
+3618	It's more realistic if you can keep your legs turning forward...	8	0	0	72	16777215	20
+3618	but a bit of backpedaling here and there is far preferable to skipping intervals	8	0	0	72	16777215	30
+3618	If you're feeling up to it, do (some of) the next interval out of the saddle	8	0	0	72	16777215	40
+3714	Up! Smoothly & powerfully	5	0	0	72	16777215	0
+3714	Halfway, have a seat & muscle it IF you've lost your form	8	0	0	72	16777215	12
+3738	Nice! We'll ease up a bit more during the rest intervals	8	0	0	72	16777215	0
+3738	Stay seated for this one & shoot for a spin above 110rpm	8	0	0	72	16777215	82
+3834	High, seated power for 24 seconds!	8	0	0	72	16777215	0
+3834	Halfway, keep your leg speed!	5	0	0	72	16777215	12
+3858	Over 90 seconds to recover, take it really easy	8	0	0	72	16777215	0
+3858	Exhale completely & clear out the waste	8	0	0	72	16777215	10
+3954	Get your leg speed & power quickly!	8	0	0	72	16777215	0
+3954	Fight the fatigue & hold your power!	8	0	0	72	16777215	12
+3978	Final interval in the set! Seated or standing, your choice	8	0	0	72	16777215	82
+4074	Go hard! Keep your control HIGH	8	0	0	72	16777215	0
+4074	Last 12 seconds, don't ease up even a little!	8	0	0	72	16777215	12
+4098	Good work! We'll repeat that set once more...	8	0	0	72	16777215	0
+4098	allowing you to accumulate a LOT of work well above FTP	8	0	0	72	16777215	10
+4098	Take it nice & easy for another 4 minutes though	8	0	0	72	16777215	20
+4098	Final set starts in a bit under 30 seconds, light but quick spin	8	0	0	72	16777215	252
+4374	Go fast! The quicker your spin the better	8	0	0	72	16777215	0
+4398	Keep those legs turning forward if you can, backpedal if you need to	8	0	0	72	16777215	0
+4494	Lots of leg speed, especially as your muscles fatigue	8	0	0	72	16777215	0
+4518	Legs forward if possible, concentrate of slowing your breathing	8	0	0	72	16777215	0
+4518	No backpedaling with 20 seconds to go though...	8	0	0	72	16777215	10
+4518	you'll need that time to get your spin & power back up	8	0	0	72	16777215	20
+4518	Next interval in 10, get ready...	8	0	0	72	16777215	86
+4614	Go! 24 solid seconds of high, smooth power	8	0	0	72	16777215	0
+4638	Ease up, the recovery valleys just got a little friendlier	8	0	0	72	16777215	0
+4734	Hit it! 24 seconds of nearly all-out effort	8	0	0	72	16777215	0
+4734	Halfway, be tough & hold that power!	8	0	0	72	16777215	12
+4758	Excellent, ease up & backpedal for 30-40 seconds if necessary	8	0	0	72	16777215	0
+4854	Once more! 24 seconds of brutality	5	0	0	72	16777215	0
+4854	Halfway, stay on it - TOUGH & FOCUSED	5	0	0	72	16777215	12
+4878	Great job, you only have three intervals left in the workout	8	0	0	72	16777215	0
+4878	At this point, any urge to cut an interval short...	8	0	0	72	16777215	10
+4878	can be squashed by the reminder that you're so close to the end	8	0	0	72	16777215	20
+4878	Ride that wave of psychological encouragement & gut out 3 flawless intervals	8	0	0	72	16777215	30
+4974	Stay strong & don't let that cadence drop!	8	0	0	72	16777215	0
+4974	Halfway, you know the drill - keep your speed!	8	0	0	72	16777215	12
+4998	Good, take it easy & backpedal for as long as a minute if you need to	8	0	0	72	16777215	0
+5094	Two to go but ALL your focus is here, 24 seconds	8	0	0	72	16777215	0
+5118	Excellent, spin out the fatigue, backward or forward	8	0	0	72	16777215	0
+5214	Last one! Make it the best looking effort yet	8	0	0	72	16777215	0
+5214	Strong & controlled all the way to the end!	8	0	0	72	16777215	12
+5238	And that's it, you made it!	5	0	0	72	16777215	0
+5238	Cool down & clear the heaviness, drop your breathing & HR	8	0	0	72	16777215	10
+5238	Make sure to take your post-workout nutrition seriously...	8	0	0	72	16777215	20
+5238	and we'll see you next time	5	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+480	600	Tempo 1
+600	618	VO2 Max 1
+618	690	Tempo 2
+690	708	VO2 Max 2
+708	780	Tempo 3
+780	798	VO2 Max 3
+798	870	Tempo 4
+870	888	VO2 Max 4
+888	960	Tempo 5
+960	978	VO2 Max 5
+978	1050	Tempo 6
+1050	1068	VO2 Max 6
+1068	1308	Endurance 1
+1308	1326	Sprint 1
+1326	1380	Endurance 2
+1380	1398	Sprint 2
+1398	1452	Endurance 3
+1452	1470	Sprint 3
+1470	1524	Endurance 4
+1524	1542	Sprint 4
+1542	1596	Endurance 5
+1596	1614	Sprint 5
+1614	1668	Endurance 6
+1668	1686	Sprint 6
+1686	1926	Endurance 7
+1926	1950	Sprint 7
+2022	2046	Sprint 8
+2118	2142	Sprint 9
+2214	2238	Sprint 10
+2310	2334	Sprint 11
+2586	2610	Sprint 12
+2682	2706	Sprint 13
+2778	2802	Sprint 14
+2874	2898	Sprint 15
+2970	2994	Sprint 16
+3234	3258	Sprint 17
+3258	3354	Endurance 8
+3354	3378	Sprint 18
+3378	3474	Endurance 9
+3474	3498	Sprint 19
+3498	3594	Endurance 10
+3594	3618	Sprint 20
+3618	3714	Endurance 11
+3714	3738	Sprint 21
+3834	3858	Sprint 22
+3954	3978	Sprint 23
+4074	4098	Sprint 24
+4374	4398	Sprint 25
+4398	4494	Endurance 12
+4494	4518	Sprint 26
+4518	4614	Endurance 13
+4614	4638	Sprint 27
+4638	4734	Endurance 14
+4734	4758	Sprint 28
+4758	4854	Endurance 15
+4854	4878	Sprint 29
+4974	4998	Sprint 30
+5094	5118	Sprint 31
+5214	5238	Sprint 32
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

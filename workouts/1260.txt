@@ -1,0 +1,497 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Huffaker,87,76. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	65
+6	105
+7	105
+7	40
+8	40
+8	110
+9	110
+9	40
+10	40
+10	115
+11	115
+11	40
+12	40
+12	120
+13	120
+13	40
+18	40
+18	90
+18.5	110
+18.5	110
+21	110
+21	40
+24	40
+24	90
+24.5	115
+24.5	115
+27	115
+27	40
+30	40
+30	90
+30.5	120
+30.5	120
+33	120
+33	40
+41	40
+41	90
+41.5	120
+41.5	120
+44	120
+44	40
+47	40
+47	90
+47.5	115
+47.5	115
+50	115
+50	40
+53	40
+53	90
+53.5	110
+53.5	110
+56	110
+56	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Huffaker	5	0	0	72	16777215	10
+0	The efforts ahead make up a basic foray...	4	0	0	72	16777215	17
+0	into the mystical realm of VO2max work	4	0	0	72	16777215	22
+0	Mystical in the sense that efforts this short in duration...	5	0	0	72	16777215	28
+0	and not excessively high in intensity...	4	0	0	72	16777215	34
+0	can yield such a powerful training response	4	0	0	72	16777215	39
+0	By working at a very high percentage...	4	0	0	72	16777215	45
+0	of your maximal aerobic power...	3	0	0	72	16777215	50
+0	it's possible to see improvements in both...	3	0	0	72	16777215	54
+0	your high-power, anaerobic capabilities...	4	0	0	72	16777215	58
+0	as well as your lower-end, aerobic capabilities	4	0	0	72	16777215	62
+0	What all this fancy talk means...	4	0	0	72	16777215	68
+0	will be explained over the course of the warmup ahead	5	0	0	72	16777215	73
+0	While we do so...	3	0	0	72	16777215	80
+0	try to keep your spin within the 85-95rpm range	4	0	0	72	16777215	84
+0	VO2max work can be used to peak an athlete's fitness...	5	0	0	72	16777215	90
+0	but it can also be used to raise more general capabilities...	5	0	0	72	16777215	96
+0	especially when training time is limited	4	0	0	72	16777215	102
+0	Regardless of a low or high-volume training approach...	5	0	0	72	16777215	108
+0	each interval's objective...	3	0	0	72	16777215	114
+0	is to push you up to a high level of oxygen intake...	4	0	0	72	16777215	118
+0	and really stress your body's ability...	3	0	0	72	16777215	123
+0	to put that oxygen to use	3	0	0	72	16777215	127
+0	In the case of the efforts ahead...	3	0	0	72	16777215	132
+0	the goal is more about building capacity...	4	0	0	72	16777215	136
+0	than furthering endurance...	3	0	0	72	16777215	141
+0	and the recoveries are relatively generous as a result	5	0	0	72	16777215	145
+0	Make no mistake...	3	0	0	72	16777215	152
+0	the breaks between intervals aren't exactly generous...	5	0	0	72	16777215	156
+0	but as your capacity tops out and the emphasis shifts to endurance...	5	0	0	72	16777215	162
+0	these "long" recoveries will shrink substantially	4	0	0	72	16777215	168
+0	But by that time...	3	0	0	72	16777215	174
+0	you'll be ready to handle that type of challenge	4	0	0	72	16777215	178
+0	For now though...	3	0	0	72	16777215	184
+0	the goal is to see just how hard you can work...	4	0	0	72	16777215	188
+0	while keeping the interval quality high throughout the workout	5	0	0	72	16777215	193
+0	You'll face a couple ways to make this determination	5	0	0	72	16777215	200
+0	The first happens via short, 1-minute efforts...	5	0	0	72	16777215	207
+0	at high percentages of your FTP	3	0	0	72	16777215	213
+0	These short repeats will not only warm you up...	4	0	0	72	16777215	218
+0	but they'll also expose you to the wattage levels...	4	0	0	72	16777215	223
+0	you'll be expected to sustain for 3 minutes at a time	4	0	0	72	16777215	228
+0	Then after this informative warming series...	4	0	0	72	16777215	234
+0	you'll recover and then face an ascending set of intervals	5	0	0	72	16777215	239
+0	These will ease you closer to your repeatable 3-minute power...	5	0	0	72	16777215	246
+0	by starting at the lower end of VO2max work...	4	0	0	72	16777215	252
+0	and gradually increasing the workload twice...	4	0	0	72	16777215	257
+0	until you reach a typically sustainable...	4	0	0	72	16777215	262
+0	(but very demanding)...	3	0	0	72	16777215	267
+0	power output very close to your power...	4	0	0	72	16777215	271
+0	at your maximum aerobic uptake, i.e VO2max	4	0	0	72	16777215	276
+0	For many riders, this happens around 120% FTP...	4	0	0	72	16777215	282
+0	but plenty of riders fall outside of this percentage of FTP	5	0	0	72	16777215	287
+0	Where you'll land remains to be seen...	4	0	0	72	16777215	294
+0	but it's important that you're clear on one thing...	5	0	0	72	16777215	299
+0	These are HARD work	4	0	0	72	16777215	306
+0	So be willing to push yourself...	3	0	0	72	16777215	312
+0	but be sensibile too	3	0	0	72	16777215	316
+0	These aren't knock-down, drag-out affairs...	4	0	0	72	16777215	321
+0	where you fall off your bike after each interval	4	0	0	72	16777215	326
+0	But done properly...	3	0	0	72	16777215	331
+0	you might find yourself a little light-headed...	4	0	0	72	16777215	335
+0	perhaps a little angry...	3	0	0	72	16777215	340
+0	and maybe even looking for a bucket near the end ;-)	5	0	0	72	16777215	344
+0	Not so with these warmers though...	4	0	0	72	16777215	351
+0	so relax for now...	3	0	0	72	16777215	356
+360	and spin quickly, smooth & relaxed	4	0	0	72	16777215	0
+360	Ideally you'll keep your spin above 90rpm...	4	0	0	72	16777215	6
+360	and optimally you'll remain above 100rpm	4	0	0	72	16777215	11
+360	In any case though...	3	0	0	72	16777215	17
+360	don't spin so quickly that you bounce in the saddle	5	0	0	72	16777215	21
+420	Take it easy for a minute...	3	0	0	72	16777215	0
+420	but keep your legs fairly quick	4	0	0	72	16777215	4
+420	This next minute's a bit tougher...	4	0	0	72	16777215	47
+420	and quite possibly where you'll spend your longer intervals	5	0	0	72	16777215	52
+480	Keep your hands light & your legs quick...	5	0	0	72	16777215	0
+480	and see if you can stay above 90rpm	4	0	0	72	16777215	6
+540	Take it easy for another minute...	4	0	0	72	16777215	0
+540	but keep most of your leg speed...	4	0	0	72	16777215	5
+540	as you "breathe off" the heaviness	4	0	0	72	16777215	10
+540	This one is likely to flood the legs a little...	5	0	0	72	16777215	45
+540	but don't let that worry you...	3	0	0	72	16777215	51
+540	you're still warming up	3	0	0	72	16777215	55
+600	Keep using that quick, controlled spin...	4	0	0	72	16777215	0
+600	and see if you can nudge it closer to 100rpm	5	0	0	72	16777215	5
+660	Ease off the power...	3	0	0	72	16777215	0
+660	but keep most of the leg speed	4	0	0	72	16777215	4
+660	If that last one loaded up your legs...	4	0	0	72	16777215	10
+660	or dragged down your cadence...	3	0	0	72	16777215	15
+660	try to breathe a little more fully this time	4	0	0	72	16777215	19
+660	These highly aerobic efforts require a lot of air...	4	0	0	72	16777215	25
+660	so really tax your diaphragm and abdominals...	4	0	0	72	16777215	30
+660	as you pooch out your belly to fill up...	4	0	0	72	16777215	35
+660	and then narrow your waist to actively clear the used air	5	0	0	72	16777215	40
+660	This is especially important during this last one...	4	0	0	72	16777215	47
+660	where you'll touch the high end of the work ahead	5	0	0	72	16777215	52
+720	Stay relaxed and keep that spin high...	4	0	0	72	16777215	0
+720	and breathe fully & actively...	3	0	0	72	16777215	5
+720	using your belly rather than your chest	5	0	0	72	16777215	9
+720	30 seconds of spinning quickly & breathing fully...	4	0	0	72	16777215	30
+720	and staying as relaxed as possible as you do it	5	0	0	72	16777215	35
+780	Take it easy for a few minutes...	4	0	0	72	16777215	0
+780	and we'll talk about the intervals 2 minutes prior	5	0	0	72	16777215	5
+780	VO2max work is an odd creature...	4	0	0	72	16777215	180
+780	in the way your body can do it...	4	0	0	72	16777215	185
+780	as long as your mind lets it	4	0	0	72	16777215	190
+780	So while the efforts might become tougher psychologically...	5	0	0	72	16777215	196
+780	your body is actually quite capable of completing them	5	0	0	72	16777215	202
+780	Like so many aspects of endurance sport...	4	0	0	72	16777215	209
+780	the mental component cannot be underestimated...	4	0	0	72	16777215	214
+780	and you have to mentally brace yourself for the discomfort...	5	0	0	72	16777215	219
+780	while also committing to enduring that discomfort...	4	0	0	72	16777215	225
+780	as each interval moves forward and the pain mounts	5	0	0	72	16777215	230
+780	But again, your body CAN do this...	4	0	0	72	16777215	237
+780	if you can get your mind on board	4	0	0	72	16777215	242
+780	There's even a term for this...	4	0	0	72	16777215	248
+780	Mental Tenacity	3	0	0	72	16777215	253
+780	A simpler term?	3	0	0	72	16777215	258
+780	Toughness	2	0	0	72	16777215	263
+780	So just be tough...	3	0	0	72	16777215	267
+780	and the minutes will roll by...	3	0	0	72	16777215	271
+780	each one making you a stronger athlete in the process	4	0	0	72	16777215	275
+780	(assuming you recover sufficiently)	3	0	0	72	16777215	281
+780	Spin quickly but stay controlled...	4	0	0	72	16777215	286
+780	and this first 30 seconds will ease you into the interval	5	0	0	72	16777215	291
+1080	Quick & steady spin...	4	0	0	72	16777215	-1
+1080	preferably above 100rpm...	4	0	0	72	16777215	4
+1080	but at least higher than 90rpm	4	0	0	72	16777215	9
+1110	Now just settle in...	3	0	0	72	16777215	0
+1110	and keep those legs moving quickly	4	0	0	72	16777215	4
+1110	Keep those belly-driven breaths flowing...	4	0	0	72	16777215	10
+1110	so your breathing is keeping up with the workload	5	0	0	72	16777215	15
+1110	1 minute down, try to relax	4	0	0	72	16777215	30
+1110	Loosen your grip on the bars...	3	0	0	72	16777215	36
+1110	soften your shoulders a bit...	3	0	0	72	16777215	40
+1110	and lower your shoulders	3	0	0	72	16777215	44
+1110	Halfway there...	3	0	0	72	16777215	60
+1110	and a good time to make sure you're not tipping forward	5	0	0	72	16777215	64
+1110	It's okay to slide up the saddle a bit...	4	0	0	72	16777215	71
+1110	but try to avoid TIPPING foward...	4	0	0	72	16777215	76
+1110	and placing undue stress on your soft tissue	5	0	0	72	16777215	81
+1110	2 minutes in...	3	0	0	72	16777215	90
+1110	and here's where the real work begins	4	0	0	72	16777215	94
+1110	If you're having trouble keeping your spin quick...	4	0	0	72	16777215	100
+1110	feel free to downshift...	3	0	0	72	16777215	105
+1110	as long as your Power stays on Target	4	0	0	72	16777215	109
+1110	Final 30 seconds...	3	0	0	72	16777215	120
+1110	and the most productive segment of these intervals!	4	0	0	72	16777215	124
+1110	Keep breathing through the discomfort...	4	0	0	72	16777215	130
+1110	and hold that Target power!	3	0	0	72	16777215	135
+1110	10 seconds, not ONE less!	4	0	0	72	16777215	140
+1260	Done!	3	0	0	72	16777215	0
+1260	That wasn't so bad, right?	4	0	0	72	16777215	5
+1260	Keep your legs moving...	3	0	0	72	16777215	11
+1260	even if that involves a bit of no-load backspinning	5	0	0	72	16777215	15
+1260	As mentioned earlier....	3	0	0	72	16777215	25
+1260	these recoveries match the work efforts...	4	0	0	72	16777215	29
+1260	and since you worked for 3 minutes...	4	0	0	72	16777215	34
+1260	you'll rest for 3 minutes as well	4	0	0	72	16777215	39
+1260	Also referred to as a 1:1 work-to-rest ratio...	5	0	0	72	16777215	45
+1260	the idea is to refresh you enough to go again...	4	0	0	72	16777215	51
+1260	but not give you so much recovery...	4	0	0	72	16777215	56
+1260	that you begin cooling down	4	0	0	72	16777215	61
+1260	Ideally, this is just enough recovery...	4	0	0	72	16777215	67
+1260	to get you through each interval in its entirety	4	0	0	72	16777215	72
+1260	such that you eke every bit of productivity from each	5	0	0	72	16777215	77
+1260	With intervals this short...	3	0	0	72	16777215	84
+1260	the quality of every minute matters	4	0	0	72	16777215	88
+1260	So keep things easy now...	3	0	0	72	16777215	94
+1260	so you can work hard when the time comes	4	0	0	72	16777215	98
+1260	Almost time to go again...	4	0	0	72	16777215	120
+1260	and this next one lifts the power demand noticeably	5	0	0	72	16777215	125
+1260	You might not feel it right away...	3	0	0	72	16777215	132
+1260	but it will become increasingly apparent with each passing minute	5	0	0	72	16777215	136
+1260	So if you barely made it through that first one...	5	0	0	72	16777215	143
+1260	consider a drop in Workout Intensity	4	0	0	72	16777215	149
+1260	Mabye the entire 5% or perhaps just a couple points...	5	0	0	72	16777215	155
+1260	as you work toward determining what's repeatable	4	0	0	72	16777215	161
+1260	If you rode strongly throughout though...	4	0	0	72	16777215	167
+1260	leave things just as they are	4	0	0	72	16777215	172
+1440	Establish a spin somewhere above 100rpm if you can...	5	0	0	72	16777215	0
+1440	or at least try to keep things quicker than 90rpm	5	0	0	72	16777215	6
+1440	And as the workload ramps up...	4	0	0	72	16777215	13
+1440	do your best to stay quick but relaxed	4	0	0	72	16777215	18
+1470	Halfway through the first minute...	4	0	0	72	16777215	0
+1470	and well on your way to your highest oxygen IN-take	5	0	0	72	16777215	5
+1470	This isn't the same as your oxygen UP-take...	4	0	0	72	16777215	12
+1470	but uptake is more a matter of conditioning...	4	0	0	72	16777215	17
+1470	while intake is tied to the size & function of your lungs	5	0	0	72	16777215	22
+1470	One minute in, try to stay relaxed...	4	0	0	72	16777215	30
+1470	and keep those full, belly-driven breaths flowing...	4	0	0	72	16777215	35
+1470	and provide as much air to your working muscles...	4	0	0	72	16777215	40
+1470	as your lungs can inhale & your blood can carry	4	0	0	72	16777215	45
+1470	Then it's a matter of conditioning your muscles...	4	0	0	72	16777215	51
+1470	to put the incoming oxygen to use...	4	0	0	72	16777215	56
+1470	and intervals like these are very effective in that sense	5	0	0	72	16777215	61
+1470	Working at this high level of breathing & power...	4	0	0	72	16777215	68
+1470	is just the sort of stress that spurs the muscular changes...	5	0	0	72	16777215	73
+1470	necessary for greater oxygen usage...	4	0	0	72	16777215	79
+1470	and greater aerobic capacity	4	0	0	72	16777215	84
+1470	Final minute, stay focused...	3	0	0	72	16777215	90
+1470	stay quick, stay relaxed	3	0	0	72	16777215	94
+1470	So it's not enough to simply deliver the oxygen to your muscles...	5	0	0	72	16777215	99
+1470	because you also have to have the capabilities...	4	0	0	72	16777215	105
+1470	the "capacity"...	3	0	0	72	16777215	110
+1470	to utilize that oxygen for muscle contractions	4	0	0	72	16777215	114
+1470	30 seconds of focus...	3	0	0	72	16777215	120
+1470	10 seconds at a time	3	0	0	72	16777215	124
+1470	Another 10 seconds, keep it together	4	0	0	72	16777215	130
+1470	Final 10 seconds, DON'T FADE	4	0	0	72	16777215	140
+1620	Done! Catch your breath...	4	0	0	72	16777215	0
+1620	by strongly clearing the air from your lungs...	4	0	0	72	16777215	5
+1620	each time you breathe out	3	0	0	72	16777215	10
+1620	Think of each exhale as exactly what it is...	4	0	0	72	16777215	15
+1620	waste removal	3	0	0	72	16777215	20
+1620	You're clearing the waste products that come from aerobic effort...	5	0	0	72	16777215	25
+1620	with each forceful breath out	3	0	0	72	16777215	31
+1620	Breathe well while you just lift your knees & let them fall...	5	0	0	72	16777215	35
+1620	and we'll touch base in about a minute	4	0	0	72	16777215	41
+1620	Time to contemplate that second interval	4	0	0	72	16777215	120
+1620	Manage to sustain your quick cadence throughout?	4	0	0	72	16777215	126
+1620	This is an important aspect of intervals like these...	4	0	0	72	16777215	132
+1620	because if you turn them into slow, lumbering grinds...	4	0	0	72	16777215	137
+1620	the intended cardiovascular stress we're aiming for...	4	0	0	72	16777215	142
+1620	becomes far more muscular than intended	4	0	0	72	16777215	147
+1620	So it's important that your spin stays high throughout...	5	0	0	72	16777215	153
+1620	even if that means a drop in Workout Intensity is necessary	5	0	0	72	16777215	159
+1620	As long as you're operating at least 10% above your FTP...	4	0	0	72	16777215	166
+1620	you're staying on track with the objectives of VO2max work	5	0	0	72	16777215	171
+1800	As you ramp into this third interval...	4	0	0	72	16777215	0
+1800	find that 90+rpm cadence and relax	4	0	0	72	16777215	5
+1800	And the more quickly you spin...	4	0	0	72	16777215	11
+1800	the more relaxed you have to remain	4	0	0	72	16777215	16
+1830	Get through the remainder of this first minute...	4	0	0	72	16777215	0
+1830	AHEAD of your breathing...	3	0	0	72	16777215	5
+1830	by drawing those full belly-breaths before you're forced to	5	0	0	72	16777215	9
+1830	Really task your breathing muscles...	4	0	0	72	16777215	16
+1830	since how hard & how long you can work...	4	0	0	72	16777215	21
+1830	is largely dependent on how well they do their job	4	0	0	72	16777215	26
+1830	Next minute requires a little more focus than the first...	4	0	0	72	16777215	32
+1830	on breathing well, staying quick, staying relaxed	5	0	0	72	16777215	37
+1830	Make sure you aren't overgripping the bars...	4	0	0	72	16777215	44
+1830	and that there's a little bit of a bend in your elbows...	4	0	0	72	16777215	49
+1830	and that your shoulders are low & loose	4	0	0	72	16777215	54
+1830	For 30 seconds...	3	0	0	72	16777215	60
+1830	focus on keeping your sit-bones anchored on your saddle...	4	0	0	72	16777215	64
+1830	and your hips as calm as possible	4	0	0	72	16777215	69
+1830	Just 30 seconds of focus for now...	4	0	0	72	16777215	90
+1830	as you resist the urge to ease up	4	0	0	72	16777215	95
+1830	If it helps, stare at your Power...	3	0	0	72	16777215	101
+1830	then try to steady it as much as you can...	4	0	0	72	16777215	105
+1830	by pedaling fluidly & fairly quickly	4	0	0	72	16777215	110
+1830	10 seconds of focus, 3 times!	4	0	0	72	16777215	120
+1830	10 more seconds of focus!	4	0	0	72	16777215	130
+1830	Final 10 seconds, you've got this!	4	0	0	72	16777215	140
+1980	Great job! Now where's that bucket?	5	0	0	72	16777215	0
+1980	Time for a long break...	3	0	0	72	16777215	7
+1980	so just keep things easy and try to keep your legs moving...	5	0	0	72	16777215	11
+1980	unless you're in need of a bit of light stretching	4	0	0	72	16777215	17
+1980	We'll chat again about 3 minutes prior to the next round	5	0	0	72	16777215	23
+1980	And we're back...	3	0	0	72	16777215	300
+1980	with some more details on the nature of VO2max training	5	0	0	72	16777215	304
+1980	Many riders top out aerobically at around 120% FTP...	5	0	0	72	16777215	311
+1980	meaning that they need to ride about 20% above their FTP...	5	0	0	72	16777215	317
+1980	in order to operate at their highest aerobic uptake, or VO2max	5	0	0	72	16777215	323
+1980	If you've done a VO2max test...	3	0	0	72	16777215	330
+1980	then you might have the luxury of knowing how many watts...	4	0	0	72	16777215	334
+1980	you can crank out when your breathing is maxed out	4	0	0	72	16777215	339
+1980	But for most of us...	3	0	0	72	16777215	345
+1980	we determine this work level through "dose & measure"	5	0	0	72	16777215	349
+1980	Try a 3-minute interval, succeed, try a harder one	4	0	0	72	16777215	356
+1980	Keep trying until you fall short...	3	0	0	72	16777215	362
+1980	then back up a bit and you may have found your repeatable power	5	0	0	72	16777215	366
+1980	The objective is then to spend increasing amounts of time...	5	0	0	72	16777215	373
+1980	at that very high, but REPEATABLE effort level...	4	0	0	72	16777215	379
+1980	commonly around 120% FTP...	3	0	0	72	16777215	384
+1980	in order to accumulate time at the intensity level...	4	0	0	72	16777215	388
+1980	and drive further improvements in fitness & power...	4	0	0	72	16777215	393
+1980	collectively referred to as "training adaptation"	4	0	0	72	16777215	398
+1980	This basically means you can improve the length of time...	5	0	0	72	16777215	404
+1980	you can ride at or near your VO2max	4	0	0	72	16777215	410
+1980	And to a lesser degree...	3	0	0	72	16777215	416
+1980	you can even improve your VO2max itself	4	0	0	72	16777215	420
+1980	That's much harder, especially as you become fitter...	4	0	0	72	16777215	426
+1980	so we focus mostly on increasing your time at VO2max...	4	0	0	72	16777215	431
+1980	and pulling your FTP upward in the process	4	0	0	72	16777215	436
+1980	So this makes the objective simple:	4	0	0	72	16777215	442
+1980	Spend as much time near VO2max as possible...	4	0	0	72	16777215	448
+1980	without overdoing it and requiring excessive recovery	4	0	0	72	16777215	453
+1980	In line with this intention...	3	0	0	72	16777215	459
+1980	get ready for about 9 more minutes of work...	4	0	0	72	16777215	463
+1980	at or near your VO2max power	4	0	0	72	16777215	468
+2460	As you ramp up with a quick cadence...	4	0	0	72	16777215	0
+2460	be clear on one thing	3	0	0	72	16777215	4
+2460	Your goal is to last the entire 3 minutes	4	0	0	72	16777215	9
+2460	If this requires a drop in Workout Intensity...	4	0	0	72	16777215	15
+2460	so be it...	3	0	0	72	16777215	20
+2460	as long as you drop no lower than 110% FTP	4	0	0	72	16777215	24
+2490	This round will be more about the mental component...	4	0	0	72	16777215	0
+2490	of sustaining effort this high...	3	0	0	72	16777215	5
+2490	as fatigue starts to take a toll on your muscles	4	0	0	72	16777215	9
+2490	And there are a number of coping mechanisms...	4	0	0	72	16777215	15
+2490	we can exploit to keep your head in the game	4	0	0	72	16777215	20
+2490	Let's start with...	3	0	0	72	16777215	26
+2490	limiting your focus to 30 seconds of work at a time	5	0	0	72	16777215	30
+2490	Try to make each 30 seconds fluid, relaxed & on-Target...	4	0	0	72	16777215	37
+2490	before thinking any further ahead	4	0	0	72	16777215	42
+2490	It's easy to get overwhelmed or discouraged by long durations...	5	0	0	72	16777215	48
+2490	so just focus on smaller spans of time	4	0	0	72	16777215	54
+2490	Next 30 seconds...	3	0	0	72	16777215	60
+2490	no need to think any further ahead than that	4	0	0	72	16777215	64
+2490	Keep your hips calm, breaths full & belly-driven...	4	0	0	72	16777215	70
+2490	and don't let your cadence fall	4	0	0	72	16777215	75
+2490	Find another 30 seconds of focus...	3	0	0	72	16777215	90
+2490	and frequently remind yourself...	3	0	0	72	16777215	94
+2490	-I can do this	3	0	0	72	16777215	99
+2490	-I've got this	3	0	0	72	16777215	104
+2490	Because you can...	3	0	0	72	16777215	109
+2490	you do	2	0	0	72	16777215	113
+2490	Smaller spans, just 10 seconds at a time!	4	0	0	72	16777215	120
+2490	10 more seconds of fluid, on-Target power	4	0	0	72	16777215	130
+2490	Final 10! You've got this	4	0	0	72	16777215	140
+2490	Don't bail early!	3	0	0	72	16777215	146
+2640	Done! Take it easy but keep moving	5	0	0	72	16777215	0
+2640	Efforts like these can do a lot for your fitness...	5	0	0	72	16777215	30
+2640	in a pretty short amount of time	3	0	0	72	16777215	36
+2640	And whether you're using VO2max work to peak...	4	0	0	72	16777215	41
+2640	or your mixing it in to further your aerobic power...	4	0	0	72	16777215	46
+2640	a very limited amount of work is all that's required...	5	0	0	72	16777215	51
+2640	to help you accomplish either	3	0	0	72	16777215	57
+2640	And as your fitness grows...	3	0	0	72	16777215	62
+2640	you'll find yourself capable of doing more intervals...	4	0	0	72	16777215	66
+2640	or perhaps longer intervals...	3	0	0	72	16777215	71
+2640	at this same high percentage of your FTP...	4	0	0	72	16777215	75
+2640	as your body adapts to these short but highly demanding efforts	5	0	0	72	16777215	80
+2640	And it's important to understand...	3	0	0	72	16777215	87
+2640	that doing these at higher power isn't the goal...	4	0	0	72	16777215	91
+2640	rather aerobic adaptation is	4	0	0	72	16777215	96
+2640	This happens with more TIME at intensity...	4	0	0	72	16777215	102
+2640	but not necessarily more power	3	0	0	72	16777215	107
+2640	So when you land on your repeatable power...	4	0	0	72	16777215	112
+2640	a power you can repeatedly sustain for a solid 3 minutes...	4	0	0	72	16777215	117
+2640	your training should move toward more intervals or longer ones...	5	0	0	72	16777215	122
+2640	at that same percentage of FTP	4	0	0	72	16777215	128
+2640	At least if aerobic improvement is the objective...	4	0	0	72	16777215	134
+2640	and with VO2max work, it is	3	0	0	72	16777215	139
+2640	This power output will rise over time, of course...	4	0	0	72	16777215	144
+2640	because VO2max work lifts your FTP...	4	0	0	72	16777215	149
+2640	and improved FTP affects all intervals based on FTP...	5	0	0	72	16777215	154
+2640	So the percentage will remain the same...	4	0	0	72	16777215	160
+2640	but the raw power will grow because...	4	0	0	72	16777215	165
+2640	the same percentage of a higher FTP is...	4	0	0	72	16777215	170
+2640	higher ;-)	3	0	0	72	16777215	175
+2820	Again, again!	3	0	0	72	16777215	0
+2820	Stay relaxed as you ramp up...	4	0	0	72	16777215	5
+2820	keep your spin quick & fluid...	4	0	0	72	16777215	10
+2820	and commit yourself to 3 solid minutes of work	5	0	0	72	16777215	15
+2850	Now settle in & make it look easy...	4	0	0	72	16777215	0
+2850	for 30 seconds at a time	4	0	0	72	16777215	5
+2850	Another 30 seconds or reminding yourself...	4	0	0	72	16777215	30
+2850	that every second you hang in there...	4	0	0	72	16777215	35
+2850	will make you a stronger, tougher athlete	4	0	0	72	16777215	40
+2850	Plain & simple	3	0	0	72	16777215	46
+2850	30 more seconds of becoming tougher...	4	0	0	72	16777215	60
+2850	and making it look easy as you do it	4	0	0	72	16777215	65
+2850	Just because you're suffering on the inside...	4	0	0	72	16777215	71
+2850	doesn't mean you need to show it on the outside	4	0	0	72	16777215	76
+2850	Make it pretty	3	0	0	72	16777215	82
+2850	Another 30 seconds of pushing old limits...	4	0	0	72	16777215	90
+2850	as you make yourself into one of the riders...	4	0	0	72	16777215	95
+2850	with a reputation for knowing how to suffer	4	0	0	72	16777215	100
+2850	10 seconds, 3 times, no fading	4	0	0	72	16777215	120
+2850	10 seconds...	2	0	0	72	16777215	130
+2850	-I've got this	3	0	0	72	16777215	133
+2850	Final 10, no bailing now!	3	0	0	72	16777215	140
+2850	5 seconds, not one less!	3	0	0	72	16777215	145
+3000	Done! Lightly spin...	4	0	0	72	16777215	0
+3000	and breathe through the nausea	5	0	0	72	16777215	5
+3000	Keep things light & easy for a couple minutes...	4	0	0	72	16777215	12
+3000	and we'll discuss your last interval a minute prior	5	0	0	72	16777215	17
+3000	With only one interval left...	4	0	0	72	16777215	120
+3000	you probably have a good idea of your repeatable percentage...	5	0	0	72	16777215	125
+3000	as well as your level of fatigue	4	0	0	72	16777215	131
+3000	And with the objective still being to last the entire 3 minutes...	5	0	0	72	16777215	137
+3000	you need to decide if a slight Workout Intensity reduction is necessary...	5	0	0	72	16777215	143
+3000	to keep you in there for the entire final interval	4	0	0	72	16777215	149
+3000	Again, nothing lower than 110% FTP though	4	0	0	72	16777215	155
+3000	If 110% is your highest repeatable power...	4	0	0	72	16777215	161
+3000	then last as long as you can...	3	0	0	72	16777215	166
+3000	backpedal for 10 seconds at the most...	4	0	0	72	16777215	170
+3000	then finish it out	3	0	0	72	16777215	175
+3180	Last ramp of the day, relax	5	0	0	72	16777215	-1
+3210	30 seconds at a time	5	0	0	72	16777215	-1
+3210	1 minute behind ya!	5	0	0	72	16777215	30
+3210	Halfway there already, stay with it	5	0	0	72	16777215	60
+3210	Another 30! Do you need to shift to keep your legs quick?	8	0	0	72	16777215	90
+3210	Last 30, you've got this!	5	0	0	72	16777215	120
+3210	20 seconds, hang on!	5	0	0	72	16777215	130
+3210	Nobody quits with only 10 to go!	5	0	0	72	16777215	140
+3210	3	1	0	0	72	16777215	147
+3210	2	1	0	0	72	16777215	148
+3210	1	1	0	0	72	16777215	149
+3360	DONE! Come back to reality, the pain's over	8	0	0	72	16777215	-1
+3360	Lightly spin while you warm down...	5	0	0	72	16777215	10
+3360	and start thinking about your recovery nutrition	5	0	0	72	16777215	17
+3360	We'll see you next time	5	0	0	72	16777215	24
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+360	420	Threshold 1
+480	540	VO2 Max 1
+600	660	VO2 Max 2
+720	780	VO2 Max 3
+1080	1110	Threshold 2
+1110	1260	VO2 Max 4
+1440	1470	Threshold 3
+1470	1620	VO2 Max 5
+1800	1830	Threshold 4
+1830	1980	VO2 Max 6
+2460	2490	Threshold 5
+2490	2640	VO2 Max 7
+2820	2850	Threshold 6
+2850	3000	VO2 Max 8
+3180	3210	Threshold 7
+3210	3360	VO2 Max 9
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

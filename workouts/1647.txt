@@ -1,0 +1,457 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Haeckel,86,74. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	52
+3	52
+3	55
+5	55
+5	60
+7	60
+7	65
+9	65
+9	40
+12	40
+12	90
+15	90
+15	40
+16	40
+16	95
+19	95
+19	41
+20	41
+20	100
+23	100
+23	40
+24	40
+24	105
+27	105
+27	40
+28	40
+28	90
+31	90
+31	40
+32	40
+32	95
+35	95
+35	40
+36	40
+36	100
+39	100
+39	40
+40	40
+40	105
+43	105
+43	40
+44	40
+44	90
+47	90
+47	40
+48	40
+48	95
+51	95
+51	40
+52	40
+52	100
+55	100
+55	40
+56	40
+56	105
+59	105
+59	40
+60	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Haeckel!	3	0	0	72	16777215	10
+0	Use these first 3 minutes...	3	0	0	72	16777215	15
+0	to wake things up with light, quick legs	5	0	0	72	16777215	19
+0	Shortly, we'll begin some ILT drills...	4	0	0	72	16777215	120
+0	or Isolated Leg Training drills	4	0	0	72	16777215	126
+0	Single-leg pedaling is excellent at demonstrating...	4	0	0	72	16777215	132
+0	deadspots in your pedalstroke	3	0	0	72	16777215	137
+0	It also helps condition...	3	0	0	72	16777215	142
+0	some lesser-used pedaling muscles	4	0	0	72	16777215	146
+0	Recognizing your pedaling inefficiencies...	4	0	0	72	16777215	152
+0	can go a long way toward gradually correcting them	5	0	0	72	16777215	157
+0	And every ride affords literally hundreds...	4	0	0	72	16777215	165
+0	usually thousands...	2	0	0	72	16777215	169
+0	of opportunities for improvement	5	0	0	72	16777215	172
+180	First things first...	3	0	0	72	16777215	0
+180	Go Slow	3	0	0	72	16777215	4
+180	Unless you're well-versed in ILT...	4	0	0	72	16777215	9
+180	speed comes later	3	0	0	72	16777215	14
+180	Unclip one foot when you're ready...	4	0	0	72	16777215	19
+180	and trade legs when one leg feels cooked	5	0	0	72	16777215	24
+180	There's a learning curve to switching legs	5	0	0	72	16777215	31
+180	Same with learning to pedal with one leg	5	0	0	72	16777215	37
+180	So be PATIENT with yourself...	3	0	0	72	16777215	44
+180	because this is a process...	3	0	0	72	16777215	48
+180	and no one is a pro their first time	5	0	0	72	16777215	52
+180	Just practice switching legs when one gets tired	5	0	0	72	16777215	60
+180	Nothing more complex than that for now	5	0	0	72	16777215	67
+180	You'll either start to burn...	3	0	0	72	16777215	74
+180	or you'll just feel sloppy	3	0	0	72	16777215	78
+180	Anytime this happens...	3	0	0	72	16777215	83
+180	come to a stop, switch feet...	4	0	0	72	16777215	87
+180	then get pedaling again	4	0	0	72	16777215	92
+180	Soon enough...	3	0	0	72	16777215	98
+180	your stops & switches will be things of beauty	5	0	0	72	16777215	102
+300	Slight increase in resistance...	3	0	0	72	16777215	0
+300	but nothing that will slow you down	4	0	0	72	16777215	4
+300	Often enough...	3	0	0	72	16777215	10
+300	a little extra resistance makes for better control	5	0	0	72	16777215	14
+300	Keep your spin slow & controlled...	4	0	0	72	16777215	21
+300	and you'll avoid the telltale "knocks"	4	0	0	72	16777215	26
+300	These knocks occur at the top & bottom...	4	0	0	72	16777215	32
+300	of each pedalstroke	3	0	0	72	16777215	37
+300	They demonstrate how little...	3	0	0	72	16777215	42
+300	you're kicking & pulling	3	0	0	72	16777215	46
+300	So whenever the knocks start...	4	0	0	72	16777215	51
+300	either slow down...	3	0	0	72	16777215	56
+300	or focus more on kicking your toes forward...	5	0	0	72	16777215	60
+300	and dragging your heel backward	4	0	0	72	16777215	66
+300	Kick & Pull	3	0	0	72	16777215	67
+300	Put another way...	3	0	0	72	16777215	72
+300	kick over the top...	3	0	0	72	16777215	76
+300	pull across the bottom	3	0	0	72	16777215	80
+300	30 more seconds...	3	0	0	72	16777215	90
+300	of kicking & pulling...	3	0	0	72	16777215	94
+300	as slowly as necessary	3	0	0	72	16777215	98
+420	Next little increase in effort...	3	0	0	72	16777215	0
+420	maybe a bit more control too	3	0	0	72	16777215	4
+420	Remember to switch legs...	3	0	0	72	16777215	10
+420	when you start to fatigue	3	0	0	72	16777215	14
+420	Don't set any time goals yet...	4	0	0	72	16777215	20
+420	just focus on pedaling well...	4	0	0	72	16777215	25
+420	even if it's only 10 seconds at a time	5	0	0	72	16777215	30
+420	Think of your leg as one hand of a clock...	4	0	0	72	16777215	40
+420	and kick from 10 to 2 o'clock	4	0	0	72	16777215	45
+420	Then pull from 4 to 8 o'clock	4	0	0	72	16777215	50
+420	Kick & pull...	3	0	0	72	16777215	56
+420	kick & pull	3	0	0	72	16777215	60
+420	kick & pull	3	0	0	72	16777215	64
+420	And relax your grip on the bars	5	0	0	72	16777215	70
+420	Only time for one last switch	4	0	0	72	16777215	90
+420	And when this leg is cooked...	4	0	0	72	16777215	96
+420	get both feet back in & leave 'em there	5	0	0	72	16777215	101
+540	Both feet back in, bring your spin up	5	0	0	72	16777215	0
+540	Today's intervals range from 90-105% FTP...	5	0	0	72	16777215	7
+540	so muscular endurance is clearly one goal	4	0	0	72	16777215	13
+540	The other goal is optional...	3	0	0	72	16777215	19
+540	and is a focus on slow force production	5	0	0	72	16777215	23
+540	Doing both at once is a tall order...	4	0	0	72	16777215	30
+540	though completely possible, BUT...	4	0	0	72	16777215	35
+540	decide right now which is more important	5	0	0	72	16777215	40
+540	Then you can devote all of your focus...	4	0	0	72	16777215	47
+540	to one goal anytime you're overwhelmed	5	0	0	72	16777215	52
+540	Force work is often done at lower effort levels...	5	0	0	72	16777215	60
+540	but we want to keep these specific	4	0	0	72	16777215	67
+540	Specific to what you'll likely encounter outdoors	5	0	0	72	16777215	73
+540	Slow cadences usually come with high force...	4	0	0	72	16777215	80
+540	like climbing a steep grade	3	0	0	72	16777215	85
+540	So we'll target high-ish power...	3	0	0	72	16777215	90
+540	with the intent of making these practical	4	0	0	72	16777215	94
+540	This assumes you can effectively split your focus...	5	0	0	72	16777215	100
+540	between force & power	3	0	0	72	16777215	106
+540	If not, skip the slow-force work...	4	0	0	72	16777215	111
+540	and simply maintain Target Power	4	0	0	72	16777215	116
+540	Just 1 minute till we begin...	4	0	0	72	16777215	120
+540	so consider your cadence for this first set	5	0	0	72	16777215	125
+540	Ideally, you'll maintain steady watts	4	0	0	72	16777215	130
+540	As importantly, you shouldn't feel sloppy...	4	0	0	72	16777215	136
+540	and your knees aren't allowed to ache	5	0	0	72	16777215	141
+540	In either case, you're BELOW your danger point...	5	0	0	72	16777215	148
+540	But the fix is easy enough...	4	0	0	72	16777215	155
+540	just spin a bit more quickly	4	0	0	72	16777215	160
+540	Lets make 50rpm the floor...	3	0	0	72	16777215	166
+540	no need to go any slower than that	4	0	0	72	16777215	170
+720	Start things off quick & light...	4	0	0	72	16777215	0
+720	and settle your spin somewhere around 90rpm	5	0	0	72	16777215	5
+720	Now hold your Target Power...	4	0	0	72	16777215	30
+720	and slow your spin a little at a time	5	0	0	72	16777215	35
+720	Take your time...	3	0	0	72	16777215	42
+720	and watch your Power closely	4	0	0	72	16777215	46
+720	If it starts to fall or becomes erratic...	5	0	0	72	16777215	52
+720	bring your spin back up a little...	3	0	0	72	16777215	58
+720	and get back to your Target Power	4	0	0	72	16777215	62
+720	Slow things down even more...	4	0	0	72	16777215	90
+720	IF you can sustain your Target Power	5	0	0	72	16777215	95
+720	And it becomes increasingly important...	4	0	0	72	16777215	102
+720	that your knees track well	3	0	0	72	16777215	107
+720	Really control any side-to-side knee movement...	5	0	0	72	16777215	112
+720	especially at the top of each pedalstroke	4	0	0	72	16777215	119
+720	If your knees waver or jerk...	4	0	0	72	16777215	125
+720	think about pistons in an engine	4	0	0	72	16777215	130
+720	Straight up, straight down	3	0	0	72	16777215	135
+720	Lateral movement is both wasteful...	4	0	0	72	16777215	140
+720	and potentially dangerous...	3	0	0	72	16777215	145
+720	especially as the force increases	4	0	0	72	16777215	149
+720	20 seconds to go!	3	0	0	72	16777215	160
+720	Keep your power smooooooooth	5	0	0	72	16777215	165
+900	Well done	3	0	0	72	16777215	2
+900	Bring your spin back up for a minute...	4	0	0	72	16777215	7
+900	85rpm or higher	3	0	0	72	16777215	12
+960	Take 30 seconds...	3	0	0	72	16777215	0
+960	to adjust to a slightly higher power output	5	0	0	72	16777215	4
+960	Start to slow your spin...	3	0	0	72	16777215	30
+960	and keep your watts on Target	4	0	0	72	16777215	34
+960	Are your knees moving vertically?	4	0	0	72	16777215	60
+960	No side-to-side wobble?	3	0	0	72	16777215	65
+960	Even so, frequently check your knees...	4	0	0	72	16777215	70
+960	to confirm their control	3	0	0	72	16777215	75
+960	Lower your cadence a bit more...	4	0	0	72	16777215	90
+960	IF you can maintain smooth Target Power	5	0	0	72	16777215	95
+960	If you start to drift...	3	0	0	72	16777215	102
+960	check the top & bottom of your pedalstroke	5	0	0	72	16777215	106
+960	Mashing your feet straight down...	4	0	0	72	16777215	113
+960	makes for inconsistent power...	3	0	0	72	16777215	118
+960	so lightly kick & pull too	3	0	0	72	16777215	122
+960	Lightly kick your toes over the top of each pedalstroke...	5	0	0	72	16777215	127
+960	then lightly pull your heels across the bottom	4	0	0	72	16777215	133
+960	Kick & Pull	4	0	0	72	16777215	139
+960	The far majority of your power...	3	0	0	72	16777215	145
+960	comes from the downstroke...	3	0	0	72	16777215	149
+960	but not all of it	3	0	0	72	16777215	153
+960	Learn to eke a little more power...	4	0	0	72	16777215	158
+960	from the rest of your spin...	3	0	0	72	16777215	163
+960	and in the process...	3	0	0	72	16777215	167
+960	improve the smoothness of your power output	5	0	0	72	16777215	171
+1140	Excellent	3	0	0	72	16777215	2
+1140	Speed up your cadence for a minute	5	0	0	72	16777215	7
+1200	Settle into your Target power & cadence	5	0	0	72	16777215	0
+1200	By now you may have noticed...	4	0	0	72	16777215	30
+1200	the lack of cadence suggestions	4	0	0	72	16777215	35
+1200	Force work & natural cadences are highly subjective	5	0	0	72	16777215	40
+1200	Same goes for high-cadence training...	4	0	0	72	16777215	47
+1200	because "fast" for one rider may be slow for another	5	0	0	72	16777215	52
+1200	So rather than specify an rpm range...	5	0	0	72	16777215	60
+1200	make your changes small, consistent...	4	0	0	72	16777215	67
+1200	and specific to YOU	3	0	0	72	16777215	72
+1200	Slow-force work is typically done at 50-60rpm...	5	0	0	72	16777215	77
+1200	but that's a GOAL cadence...	4	0	0	72	16777215	83
+1200	and can take time to achieve	4	0	0	72	16777215	88
+1200	It can also wreak havoc on joints & connective tissue...	5	0	0	72	16777215	94
+1200	if done improperly or progressed too quickly	5	0	0	72	16777215	100
+1200	So again...	3	0	0	72	16777215	107
+1200	make changes that work for YOU...	4	0	0	72	16777215	111
+1200	not the local hero	3	0	0	72	16777215	116
+1200	Let's spend the remaining minute...	4	0	0	72	16777215	121
+1200	steadying that upper body	3	0	0	72	16777215	126
+1200	These intervals are  just as much...	4	0	0	72	16777215	130
+1200	about upper body control as lower	4	0	0	72	16777215	135
+1200	The most talented, practiced riders...	4	0	0	72	16777215	141
+1200	can make any spin look smooth & controlled	4	0	0	72	16777215	146
+1200	They recognize there's nothing to be gained...	4	0	0	72	16777215	152
+1200	by wrestling with the bike	4	0	0	72	16777215	157
+1200	Every movement costs energy...	4	0	0	72	16777215	163
+1200	so don't spend yours...	3	0	0	72	16777215	168
+1200	flailing around on the saddle	4	0	0	72	16777215	172
+1380	Nicely done, comfortably quick again	5	0	0	72	16777215	2
+1440	This time you're working a little above FTP...	5	0	0	72	16777215	0
+1440	so pay especially close attention to your knees	5	0	0	72	16777215	6
+1440	Both how they track...	3	0	0	72	16777215	13
+1440	and how they feel	3	0	0	72	16777215	17
+1440	Any aching at all means a quicker spin	5	0	0	72	16777215	22
+1440	Any sharp pain might mean you're done for the day	5	0	0	72	16777215	29
+1440	No pain other than muscle burn ;-)	5	0	0	72	16777215	36
+1440	Over this last minute...	3	0	0	72	16777215	120
+1440	spend time watching each of your knees	4	0	0	72	16777215	124
+1440	20 seconds, watch your left knee	5	0	0	72	16777215	130
+1440	No lateral movement - up & down only	5	0	0	72	16777215	137
+1440	Right knee, straight up, straight down	5	0	0	72	16777215	150
+1440	Both knees now, like pistons	4	0	0	72	16777215	170
+1620	Very nice	3	0	0	72	16777215	2
+1620	Ease your cadence back up	5	0	0	72	16777215	7
+1680	Quickly find your cadence...	4	0	0	72	16777215	0
+1680	while holding your Target Power	4	0	0	72	16777215	5
+1680	Before the fatigue ramps up...	4	0	0	72	16777215	20
+1680	get relaxed & comfortable	3	0	0	72	16777215	25
+1680	Start with your hands	3	0	0	72	16777215	30
+1680	A death grip on the bars...	4	0	0	72	16777215	35
+1680	translates to wasted energy & twitchy bike handling	5	0	0	72	16777215	40
+1680	Regardless of how hard you work...	4	0	0	72	16777215	47
+1680	staying relaxed is crucial to riding well	5	0	0	72	16777215	52
+1680	Too often, nervous riders overgrip the handlebars...	5	0	0	72	16777215	59
+1680	and set off a chain of ill effects	5	0	0	72	16777215	65
+1680	A light grip on the bars...	3	0	0	72	16777215	72
+1680	sets the tone for the rest of your upper body...	5	0	0	72	16777215	76
+1680	so lighten up	3	0	0	72	16777215	82
+1680	And relax your face while you're at it	5	0	0	72	16777215	87
+1680	A slack expression or a smile are your best bets	5	0	0	72	16777215	94
+1680	Let's revisit the knees briefly	4	0	0	72	16777215	120
+1680	Still tracking like pistons?	3	0	0	72	16777215	125
+1680	How about your hips?	3	0	0	72	16777215	130
+1680	Are you wobbling from one side to the other?	5	0	0	72	16777215	134
+1680	It's a common tendency during slow-force efforts...	5	0	0	72	16777215	141
+1680	but one you want to correct	4	0	0	72	16777215	147
+1680	It takes a lot of concentration...	3	0	0	72	16777215	153
+1680	to pedal slowly & forcefully...	3	0	0	72	16777215	157
+1680	and a lot of concentration...	3	0	0	72	16777215	161
+1680	to keep that upper body steady & relaxed	4	0	0	72	16777215	165
+1680	So stay focused	4	0	0	72	16777215	171
+1860	Nicely done	3	0	0	72	16777215	2
+1860	Pick things up for a bit	4	0	0	72	16777215	7
+1920	You know the drill...	3	0	0	72	16777215	0
+1920	slow it down, hold the power	4	0	0	72	16777215	4
+1920	Let's spend this interval...	3	0	0	72	16777215	10
+1920	with added focus on your power output	4	0	0	72	16777215	14
+1920	Specifically, let's make it as smooth as possible	5	0	0	72	16777215	20
+1920	How much does your power fluctuate up & down?	5	0	0	72	16777215	27
+1920	10, 20... 30 watts?	3	0	0	72	16777215	33
+1920	Try to cut that in half...	3	0	0	72	16777215	38
+1920	by "rounding out" your pedalstroke	4	0	0	72	16777215	42
+1920	Pedaling slowly makes it easier...	3	0	0	72	16777215	48
+1920	to break your pedalstroke into its 4 quadrants	5	0	0	72	16777215	52
+1920	For 30 seconds...	3	0	0	72	16777215	60
+1920	think of how well you're kicking over the top	4	0	0	72	16777215	64
+1920	10 o'clock to 2 o'clock	3	0	0	72	16777215	70
+1920	30 more seconds...	3	0	0	72	16777215	90
+1920	to think of pulling across the bottom more actively	5	0	0	72	16777215	94
+1920	4 o'clock to 8 o'clock	3	0	0	72	16777215	101
+1920	Now target your upstroke for 30 seconds	4	0	0	72	16777215	120
+1920	Knees to the sky, heels to the butt	4	0	0	72	16777215	126
+1920	Now let's get the "full pull"	4	0	0	72	16777215	150
+1920	Pull each heel across the bottom...	4	0	0	72	16777215	155
+1920	then pull it up toward your butt	4	0	0	72	16777215	160
+1920	Back & up, back & up	3	0	0	72	16777215	166
+2100	Nice, spin it back up for a minute	5	0	0	72	16777215	2
+2160	There's a lot of work today...	4	0	0	72	16777215	0
+2160	and not a lot of recovery	3	0	0	72	16777215	5
+2160	If that adds up to any joint discomfort...	4	0	0	72	16777215	10
+2160	whether in your knees, hips or low back...	4	0	0	72	16777215	15
+2160	bring your cadence up a bit	4	0	0	72	16777215	20
+2160	Even feel free to get out of the saddle...	4	0	0	72	16777215	26
+2160	for a few seconds to stretch	4	0	0	72	16777215	31
+2160	Otherwise, spin slowly...	3	0	0	72	16777215	37
+2160	and keep things as controlled as possible	5	0	0	72	16777215	41
+2160	15 seconds watching each knee again	5	0	0	72	16777215	113
+2160	Left knee first	3	0	0	72	16777215	120
+2160	Right knee, 15 seconds	3	0	0	72	16777215	135
+2160	Left knee	3	0	0	72	16777215	150
+2160	Annnnnd right	3	0	0	72	16777215	165
+2340	Excellent, spin off the heaviness	5	0	0	72	16777215	2
+2400	Once again, up above your FTP...	4	0	0	72	16777215	0
+2400	and more important than ever...	4	0	0	72	16777215	5
+2400	to ride almost perfectly	3	0	0	72	16777215	10
+2400	Slow-motion pedalstrokes...	3	0	0	72	16777215	15
+2400	and perfectly tracking knees	3	0	0	72	16777215	19
+2400	Gentle kicks over the top...	4	0	0	72	16777215	25
+2400	gentle pulls across the bottom	4	0	0	72	16777215	30
+2400	1 more minute, how's your breathing?	4	0	0	72	16777215	120
+2400	It's a bit easier to keep your respiration down...	5	0	0	72	16777215	126
+2400	when pedaling slowly	3	0	0	72	16777215	140
+2400	But working above FTP will change that	5	0	0	72	16777215	145
+2400	So breathe fully, actively using your belly...	4	0	0	72	16777215	150
+2400	and stay ahead of that burn	4	0	0	72	16777215	155
+2580	Very nice, spin it back up	5	0	0	72	16777215	2
+2640	OK, get to where ya need to be	5	0	0	72	16777215	0
+2640	A slower pedalstroke really targets the muscular system...	5	0	0	72	16777215	30
+2640	so heavy muscle fatigue is normal...	4	0	0	72	16777215	37
+2640	even at sub-FTP power outputs	4	0	0	72	16777215	42
+2640	This is why higher-cadence spinning...	4	0	0	72	16777215	52
+2640	lends better to endurance than low-rpm grinding does	5	0	0	72	16777215	57
+2640	Consider the difference in muscle contractions	4	0	0	72	16777215	64
+2640	Quick, short contractions...	3	0	0	72	16777215	69
+2640	vs slow, forceful contractions	4	0	0	72	16777215	73
+2640	In terms of preserving your muscles...	4	0	0	72	16777215	79
+2640	shorter, lighter, more aerobic contractions are key	5	0	0	72	16777215	84
+2640	Just like lifting weights, really	4	0	0	72	16777215	91
+2640	Imagine the muscle toll...	3	0	0	72	16777215	96
+2640	squatting a weight you can barely move 3 times	5	0	0	72	16777215	100
+2640	Compare that to the toll exacted...	4	0	0	72	16777215	110
+2640	by a far lighter, 25-repetition weight	4	0	0	72	16777215	115
+2640	Big difference in the muscular toll	3	0	0	72	16777215	121
+2640	So slow-force work may not the best way to race...	4	0	0	72	16777215	127
+2640	and it's a downright risky endeavor...	4	0	0	72	16777215	132
+2640	when you're 40 miles from home	4	0	0	72	16777215	137
+2640	So when you work on force outdoors...	4	0	0	72	16777215	144
+2640	keep this "toll concept" in mind	4	0	0	72	16777215	149
+2640	Potentially very costly in terms of muscle stress	5	0	0	72	16777215	156
+2820	Nicely done, spin lightly & quickly	5	0	0	72	16777215	2
+2880	Let's do this again,  settle in	5	0	0	72	16777215	0
+2880	Less talk this time...	3	0	0	72	16777215	10
+2880	but remember a few things	3	0	0	72	16777215	14
+2880	Knees track like pistons...	3	0	0	72	16777215	19
+2880	upper body is still & relaxed...	3	0	0	72	16777215	23
+2880	and power is on Target regardless of cadence	5	0	0	72	16777215	27
+2880	2 minutes of near-perfection left	5	0	0	72	16777215	60
+2880	Again, knees like pistons, calm upper body...	5	0	0	72	16777215	67
+2880	and steady, on-Target power	3	0	0	72	16777215	73
+2880	Final minute!	3	0	0	72	16777215	120
+2880	Watch those knees & steady that power	5	0	0	72	16777215	125
+2880	30!	2	0	0	72	16777215	150
+2880	So pretty that it looks effortless	5	0	0	72	16777215	154
+3060	Nice!	3	0	0	72	16777215	2
+3060	Nearly there, get your spin back up	5	0	0	72	16777215	7
+3120	Back at FTP, find your rhythm...	4	0	0	72	16777215	0
+3120	both your pedaling & breathing	4	0	0	72	16777215	5
+3120	Often, grinding a big gear slowly...	4	0	0	72	16777215	60
+3120	results in excess tension across the body	5	0	0	72	16777215	65
+3120	But much of this tension is unnecessary & unproductive	5	0	0	72	16777215	72
+3120	So briefly scan your body parts...	4	0	0	72	16777215	79
+3120	from your forehead to your toes...	3	0	0	72	16777215	84
+3120	and let go of any tension that isn't helpful	5	0	0	72	16777215	88
+3120	If it doesn't help you turn the pedals...	4	0	0	72	16777215	95
+3120	stabilize your body or control the bike...	4	0	0	72	16777215	100
+3120	it's probably wasted energy	3	0	0	72	16777215	105
+3120	Use that energy to rider longer, farther, faster	5	0	0	72	16777215	110
+3120	Do it by relaxing...	3	0	0	72	16777215	117
+3120	and making it look easy...	3	0	0	72	16777215	121
+3120	no matter how high your effort gets	4	0	0	72	16777215	125
+3120	30 pretty seconds	3	0	0	72	16777215	150
+3300	Nice job, only 1 to go!	5	0	0	72	16777215	2
+3360	Be particularly careful on this last one...	5	0	0	72	16777215	0
+3360	and spin at a normal, 85+ cadence...	4	0	0	72	16777215	7
+3360	if you have any joint concerns at all	5	0	0	72	16777215	12
+3360	It's tough to modify a workout on the final interval...	5	0	0	72	16777215	20
+3360	but keep the bigger picture in mind	4	0	0	72	16777215	27
+3360	A mild nag right now...	3	0	0	72	16777215	33
+3360	can escalate into something far worse...	4	0	0	72	16777215	37
+3360	something that could haunt you chronically...	4	0	0	72	16777215	42
+3360	for years to come	3	0	0	72	16777215	47
+3360	So be smart...	3	0	0	72	16777215	52
+3360	and grind that big gear only if you can do it pain-free	5	0	0	72	16777215	56
+3360	Well, pain-free in your joints anyway	4	0	0	72	16777215	63
+3360	Your muscles should be plenty angry by now	5	0	0	72	16777215	69
+3360	Final minute!	3	0	0	72	16777215	120
+3360	No slip in form - NONE	4	0	0	72	16777215	125
+3360	Final 30 seconds	3	0	0	72	16777215	150
+3360	Make 'em pretty	3	0	0	72	16777215	155
+3540	Well done!	5	0	0	72	16777215	2
+3540	Super quick warm-down on the clock...	4	0	0	72	16777215	10
+3540	but you're welcome & encouraged to spin longer	4	0	0	72	16777215	15
+3540	In any case...	3	0	0	72	16777215	21
+3540	keep your spin light...	3	0	0	72	16777215	25
+3540	start contemplating your post-workout nutrition...	4	0	0	72	16777215	29
+3540	and we'll see you next time	5	0	0	72	16777215	35
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+0	180	Active Recovery 1
+180	300	Endurance 1
+300	420	Endurance 2
+420	540	Endurance 3
+720	900	Sweet Spot 1
+960	1140	Sweet Spot 2
+1200	1380	Threshold 1
+1440	1620	Threshold 2
+1680	1860	Sweet Spot 3
+1920	2100	Sweet Spot 4
+2160	2340	Threshold 3
+2400	2580	Threshold 4
+2640	2820	Sweet Spot 5
+2880	3060	Sweet Spot 6
+3120	3300	Threshold 5
+3360	3540	Threshold 6
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

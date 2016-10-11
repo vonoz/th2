@@ -1,0 +1,291 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Acrodectes,86,112. Created by 44401.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+10	65
+10	115
+11	115
+11	40
+12	40
+12	120
+13	120
+13	40
+14	40
+14	130
+15	130
+15	40
+20	40
+20	120
+21	120
+21	40
+22	40
+22	120
+23	120
+23	40
+24	40
+24	120
+25	120
+25	40
+26	40
+26	120
+27	120
+27	40
+28	40
+28	120
+29	120
+29	40
+30	40
+30	120
+31	120
+31	40
+32	40
+32	120
+33	120
+33	40
+34	40
+34	120
+35	120
+35	40
+45	40
+45	130
+46	130
+46	40
+47	40
+47	130
+48	130
+48	40
+49	40
+49	130
+50	130
+50	40
+51	40
+51	130
+52	130
+52	40
+53	40
+53	130
+54	130
+54	40
+55	40
+55	130
+56	130
+56	40
+57	40
+57	130
+58	130
+58	40
+59	40
+59	130
+60	130
+60	40
+70	40
+70	115
+71	115
+71	40
+72	40
+72	115
+73	115
+73	40
+74	40
+74	115
+75	115
+75	40
+76	40
+76	115
+77	115
+77	40
+78	40
+78	115
+79	115
+79	40
+80	40
+80	115
+81	115
+81	40
+82	40
+82	115
+83	115
+83	40
+84	40
+84	115
+85	115
+85	40
+90	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Acrodectes consists of three, 15-minute sets of VO2max intervals	8	0	0	72	16777215	10
+0	Each interval is 1 minute long followed by 1 minute of rest	8	0	0	72	16777215	20
+0	Rest between sets is ample at 10 minutes each	8	0	0	72	16777215	30
+0	These short but intense efforts are very effective for a few reasons	8	0	0	72	16777215	40
+0	Repeating short & intense  efforts with short recovery...	8	0	0	72	16777215	50
+0	fosters greater aerobic power, and can improve aerobic capacity	8	0	0	72	16777215	60
+0	Additionally, these efforts are beneficial in terms of improving mental toughness	8	0	0	72	16777215	70
+0	As your fitness & mental conditioning improve...	8	0	0	72	16777215	80
+0	you'll be able to grow your time spent above threshold...	8	0	0	72	16777215	90
+0	as well as shrink your recovery durations	8	0	0	72	16777215	100
+0	Keep warming up for the next 8 or so minutes	8	0	0	72	16777215	110
+0	We have three 1-minute clearing efforts coming up...	8	0	0	72	16777215	560
+0	and they'll give you a good idea of what's to come	8	0	0	72	16777215	570
+0	Try to hold your cadence between 90-95rpm...	8	0	0	72	16777215	580
+0	above 100rpm if you can control quicker legs	8	0	0	72	16777215	590
+600	1 minute at 115% FTP, here we go!	8	0	0	72	16777215	0
+660	Ease up for a minute	8	0	0	72	16777215	0
+720	1 minute at 120% FTP, keep your legs quick	8	0	0	72	16777215	0
+780	Slow things down, catch your breath	8	0	0	72	16777215	0
+840	1 minute all the way up at 130% FTP	8	0	0	72	16777215	0
+900	Good, ease up for 5 minutes of easy spinning	8	0	0	72	16777215	0
+900	Don't worry if those warm-up intervals felt a little tough...	8	0	0	72	16777215	10
+900	You're probably not completely warm just yet	8	0	0	72	16777215	20
+900	If you suspect you're still far from warm enough for this first set...	8	0	0	72	16777215	30
+900	do a couple of 10-second, high-cadence spin-ups in the next few minutes	8	0	0	72	16777215	40
+900	About 90 seconds until the first set begins...	8	0	0	72	16777215	210
+900	and this first set is at 120% of FTP	8	0	0	72	16777215	220
+900	30 seconds out, start to settle in to a quick spin	8	0	0	72	16777215	270
+900	Shoot for a cadence of 100+rpm  for each interval if possible...	8	0	0	72	16777215	280
+900	but no lower than 90rpm at any point	8	0	0	72	16777215	290
+1200	1 minute of work followed by 1 minute of rest	8	0	0	72	16777215	0
+1260	Good, ease up & breathe deeply	8	0	0	72	16777215	0
+1320	Again, quick legs, lots of power	8	0	0	72	16777215	0
+1380	Ease up, really clear your lungs	8	0	0	72	16777215	0
+1440	Wind it up, no bouncing in the saddle	8	0	0	72	16777215	0
+1500	That's 3 intervals down!	8	0	0	72	16777215	0
+1500	Do you feel like you can repeat these efforts 5 more times?	8	0	0	72	16777215	10
+1500	If your watts & cadence are already starting to lag...	8	0	0	72	16777215	20
+1500	focus harder or consider lowering the Workout Intensity by 5%	8	0	0	72	16777215	30
+1500	Not everyday can be a great day ;-)	8	0	0	72	16777215	40
+1500	That said, these are meant to hurt so don't drop watts unless you NEED to	8	0	0	72	16777215	50
+1560	Again, quick legs with power on Target	8	0	0	72	16777215	0
+1620	Ease up, reclaim any form you might have lost	8	0	0	72	16777215	0
+1680	Wind it up but try to hide your effort	8	0	0	72	16777215	0
+1740	Back it off, shake out your muscles if necessary	8	0	0	72	16777215	0
+1800	Again, make it look easy by pedaling smoooothly	8	0	0	72	16777215	0
+1860	Couple more to go!	8	0	0	72	16777215	0
+1860	The fatigue begins to grow as the sets progress...	8	0	0	72	16777215	10
+1860	so it's really important that you stay mentally tough	8	0	0	72	16777215	20
+1920	1 minute of ignoring your discomfort	8	0	0	72	16777215	0
+1920	It's OK to acknowledge the pain, just don't let it own you	8	0	0	72	16777215	10
+1980	Nice! Ease up one last time	8	0	0	72	16777215	0
+2040	Last one! Prettiest form yet	8	0	0	72	16777215	0
+2100	Well done! Keep the pedals turning forward for at least 30 seconds	8	0	0	72	16777215	0
+2100	Keeping your legs turning with some level of resistance...	8	0	0	72	16777215	10
+2100	helps your body metabolize the lactate that has built up	8	0	0	72	16777215	20
+2100	Of course, keeping the pedals turning forward...	8	0	0	72	16777215	30
+2100	in the midst of a difficult set can be easier said than done	8	0	0	72	16777215	40
+2100	If you find the need to backpedal between the 1-minute efforts...	8	0	0	72	16777215	50
+2100	the rest between intervals is long enough to take 30-40 seconds to do so	8	0	0	72	16777215	60
+2100	Forward or backward, enjoy 9 more minutes of recovery	8	0	0	72	16777215	70
+2100	Try not to let your cadence drop too low though	8	0	0	72	16777215	80
+2100	Ideally, stay in the 85-95rpm range, even during recovery	8	0	0	72	16777215	90
+2100	Next set starts in 1 minute	8	0	0	72	16777215	540
+2100	Definitely the most difficult set of the workout...	8	0	0	72	16777215	550
+2100	but by now, you're nice & warm...	8	0	0	72	16777215	560
+2100	and have a good idea of what you're up against	8	0	0	72	16777215	570
+2100	Remember to keep a high cadence, over 100rpm if possible...	8	0	0	72	16777215	580
+2100	and backpedal through recoveries instead of dropping watts during intervals	8	0	0	72	16777215	590
+2700	1 minute at 130% FTP	8	0	0	72	16777215	0
+2700	Quick legs! Don't let them get bogged down by a slow cadence	8	0	0	72	16777215	30
+2760	Take deep, full breaths & make sure you're exhaling completely	8	0	0	72	16777215	0
+2820	Again, lots of leg speed, lots of air	8	0	0	72	16777215	0
+2880	Good, clear your lungs strongly each time you breathe out	8	0	0	72	16777215	0
+2940	Make these truly aerobic by breathing REALLY well	8	0	0	72	16777215	0
+2940	The better you breathe, the longer you last	8	0	0	72	16777215	10
+2940	That goes for inhaling AND exhaling	8	0	0	72	16777215	20
+3000	Ease up, backpedal if necessary	8	0	0	72	16777215	0
+3000	If you backpedaled, spin forward now	8	0	0	72	16777215	40
+3060	Annnnnd wind it up!	8	0	0	72	16777215	0
+3120	Halfway! Take these 1 minute at a time if you're starting to struggle	8	0	0	72	16777215	0
+3120	Don't hold back, you have 10 full minutes of recovery coming up soon!	8	0	0	72	16777215	10
+3180	Quick legs, big breaths, relaxed body	8	0	0	72	16777215	0
+3240	Ease up, backpedal if you need to...	8	0	0	72	16777215	0
+3240	just make sure you're spinning forward with 20 seconds to go	8	0	0	72	16777215	10
+3300	Recovery's in sight! Don't give up	8	0	0	72	16777215	0
+3300	Try to keep your cadence from dropping	8	0	0	72	16777215	10
+3300	This is your opportunity to show yourself that you're fully capable...	8	0	0	72	16777215	20
+3300	of being truly tough!	8	0	0	72	16777215	30
+3360	Clear the junk by exhaling fully	8	0	0	72	16777215	0
+3420	Only 2 to go, but THIS is the only one that matters	8	0	0	72	16777215	0
+3420	Get in the habit of treating each interval as though it's the only one	8	0	0	72	16777215	10
+3480	Only 1 to go! Ease up, backpedal if you need to	8	0	0	72	16777215	0
+3540	Last minute, not a problem!	8	0	0	72	16777215	0
+3540	Make this one look as good as your first interval	8	0	0	72	16777215	10
+3540	Don't abandon good form just because you're fatigued	8	0	0	72	16777215	20
+3600	Awesome! Take 10 minutes of well-earned recovery	8	0	0	72	16777215	0
+3600	Final set starts in about 90 seconds	8	0	0	72	16777215	510
+3600	This last set's intervals are at 115% FTP	8	0	0	72	16777215	520
+3600	These are the lowest intervals of the workout...	8	0	0	72	16777215	530
+3600	...because you've already done a lot of work & fatigue has built up...	8	0	0	72	16777215	540
+3600	to its highest point, but if you've made it this far...	8	0	0	72	16777215	550
+3600	There's nothing preventing you from owning this last set	8	0	0	72	16777215	560
+3600	You can even bump the intensity up 5 or so percent if you're on a good day	8	0	0	72	16777215	570
+3600	But if you were hanging on by a thread towards the end of the last set...	8	0	0	72	16777215	580
+3600	leave the intensity as is	8	0	0	72	16777215	590
+4200	Here we go! Quick cadence & proper breathing right off the bat	8	0	0	72	16777215	0
+4200	Full, deep breaths, exhale completely	8	0	0	72	16777215	10
+4260	Use each of these breaks to maximize your work intervals	8	0	0	72	16777215	0
+4260	If that means backpedaling for 40 seconds, do it	8	0	0	72	16777215	10
+4320	Early in the set, limit your focus to ONE interval at a time	8	0	0	72	16777215	0
+4320	This is the ONLY interval that matters	8	0	0	72	16777215	10
+4380	Goooood, clear the junk by exhaling fully	8	0	0	72	16777215	0
+4440	Again, this is the ONLY interval you care about	8	0	0	72	16777215	0
+4500	Quick backpedals during the recoveries if you need 'em	8	0	0	72	16777215	0
+4500	Just make sure you're back on top of your cadence with 20 seconds to go	8	0	0	72	16777215	10
+4560	Quick, controlled spin, 1 minute	8	0	0	72	16777215	0
+4620	Halfway there! Try to relax	8	0	0	72	16777215	0
+4680	Try to keep your power output as smooth as possible	8	0	0	72	16777215	0
+4680	Keep your watts within 10 watts of your Target Power...	8	0	0	72	16777215	10
+4680	within 5 watts if you're an overachiever ;-)	8	0	0	72	16777215	20
+4740	Final three intervals coming up, stay tough!	8	0	0	72	16777215	0
+4740	Don't let that cadence drop, keep it steady & quick...	8	0	0	72	16777215	10
+4740	unless you're backpedaling, of course	8	0	0	72	16777215	20
+4800	Final 3 but THIS is the only interval you see	8	0	0	72	16777215	0
+4860	Dial things way down, you're almost there	8	0	0	72	16777215	0
+4920	Treat this one like it's the last one - perfect form & power	8	0	0	72	16777215	0
+4980	Excellent! Spin it out, backward or forward	8	0	0	72	16777215	0
+5040	Final minute! Make it look easy	8	0	0	72	16777215	0
+5040	30 seconds, keep it together!	8	0	0	72	16777215	30
+5100	Excellent! Take at least 5 minutes to cool down, longer if you'd like	8	0	0	72	16777215	0
+5100	Get on your post-workout nutrition promptly...	8	0	0	72	16777215	10
+5100	and we'll see you next time	8	0	0	72	16777215	20
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+600	660	VO2 Max 1
+720	780	VO2 Max 2
+840	900	Anaerobic Capacity 1
+1200	1260	VO2 Max 3
+1320	1380	VO2 Max 4
+1440	1500	VO2 Max 5
+1560	1620	VO2 Max 6
+1680	1740	VO2 Max 7
+1800	1860	VO2 Max 8
+1920	1980	VO2 Max 9
+2040	2100	VO2 Max 10
+2700	2760	Anaerobic Capacity 2
+2820	2880	Anaerobic Capacity 3
+2940	3000	Anaerobic Capacity 4
+3060	3120	Anaerobic Capacity 5
+3180	3240	Anaerobic Capacity 6
+3300	3360	Anaerobic Capacity 7
+3420	3480	Anaerobic Capacity 8
+3540	3600	Anaerobic Capacity 9
+4200	4260	VO2 Max 11
+4320	4380	VO2 Max 12
+4440	4500	VO2 Max 13
+4560	4620	VO2 Max 14
+4680	4740	VO2 Max 15
+4800	4860	VO2 Max 16
+4920	4980	VO2 Max 17
+5040	5100	VO2 Max 18
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

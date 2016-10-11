@@ -1,0 +1,352 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Twin Peaks,92,84. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	50
+4	90
+6	95
+6	40
+7	40
+7	115
+8	115
+8	40
+12	40
+12	100
+12.5	100
+12.5	103
+13	103
+13	106
+13.5	106
+13.5	109
+14	109
+14	112
+14.5	112
+14.5	115
+15	115
+15	112
+15.5	112
+15.5	109
+16	109
+16	106
+16.5	106
+16.5	103
+17	103
+17	100
+17.5	100
+17.5	97
+18	97
+18	94
+18.5	94
+18.5	91
+19	91
+19	94
+19.5	94
+19.5	97
+20	97
+20	100
+20.5	100
+20.5	103
+21	103
+21	106
+21.5	106
+21.5	103
+22	103
+22	100
+22.5	100
+22.5	97
+23	97
+23	94
+23.5	94
+23.5	91
+24	91
+24	40
+29	40
+29	100
+29.5	100
+29.5	103
+30	103
+30	106
+30.5	106
+30.5	109
+31	109
+31	112
+31.5	112
+31.5	115
+32	115
+32	112
+32.5	112
+32.5	109
+33	109
+33	106
+33.5	106
+33.5	103
+34	103
+34	100
+34.5	100
+34.5	97
+35	97
+35	94
+35.5	94
+35.5	91
+36	91
+36	94
+36.5	94
+36.5	97
+37	97
+37	100
+37.5	100
+37.5	103
+38	103
+38	106
+38.5	106
+38.5	103
+39	103
+39	100
+39.5	100
+39.5	97
+40	97
+40	94
+40.5	94
+40.5	91
+41	91
+41	40
+46	40
+46	100
+46.5	100
+46.5	103
+47	103
+47	106
+47.5	106
+47.5	109
+48	109
+48	112
+48.5	112
+48.5	115
+49	115
+49	112
+49.5	112
+49.5	109
+50	109
+50	106
+50.5	106
+50.5	103
+51	103
+51	100
+51.5	100
+51.5	97
+52	97
+52	94
+52.5	94
+52.5	91
+53	91
+53	94
+53.5	94
+53.5	97
+54	97
+54	100
+54.5	100
+54.5	103
+55	103
+55	106
+55.5	106
+55.5	103
+56	103
+56	100
+56.5	100
+56.5	97
+57	97
+57	94
+57.5	94
+57.5	91
+58	91
+58	40
+60	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	While Twin Peaks may sound majestic...	8	0	0	72	16777215	0
+0	it's pretty unlikely it will feel that way	8	0	0	72	16777215	10
+0	But that's GOOD news!	5	0	0	72	16777215	20
+0	This type of workout gets you results, plain & simple	8	0	0	72	16777215	30
+0	We've got 3 sets of intervals lasting 12 minutes each	8	0	0	72	16777215	40
+0	Within each set are two seamless intervals, but they're different from one another	8	0	0	72	16777215	50
+0	Each interval is composed of 30-second steps of 3% FTP each	8	0	0	72	16777215	60
+0	These steps go all the way to 115% FTP...	8	0	0	72	16777215	70
+0	before dropping back down to 91% FTP	5	0	0	72	16777215	80
+0	At that point, you start your second segment of the set...	8	0	0	72	16777215	90
+0	and build back up to 91% FTP	5	0	0	72	16777215	100
+0	Each of the 3 sets are separated by 5 minute recoveries	8	0	0	72	16777215	110
+0	But enough chatter, time to warm up!	8	0	0	72	16777215	120
+0	Let's ramp things up a bit, spin at 85rpm or higher	8	0	0	72	16777215	230
+240	Smooth & relaxed while drawing full, belly-breaths	8	0	0	72	16777215	0
+360	Keep a quick cadence before this 1-minute clearing effort	8	0	0	72	16777215	0
+420	Quick spin, above 100rpm if you can control it	8	0	0	72	16777215	0
+480	Good! A little closer to warmed up now	8	0	0	72	16777215	0
+480	The key to these intervals is...	8	0	0	72	16777215	120
+480	fighting the urge to let your cadence decline	5	0	0	72	16777215	130
+480	It will get harder to resist with each upward step...	8	0	0	72	16777215	140
+480	and it doesn't get much easier on the downward ones	8	0	0	72	16777215	150
+480	If it starts to feel like too much to handle...	8	0	0	72	16777215	160
+480	consider a short 10-second backpedal...	8	0	0	72	16777215	170
+480	instead of slowing your cadence to a crawl	8	0	0	72	16777215	180
+480	Almost to our first set, establish your +85rpm spin	8	0	0	72	16777215	220
+480	As you pick up your cadence, keep your body as still as you can	8	0	0	72	16777215	230
+720	And we're off, start your deep breathing right away	8	0	0	72	16777215	0
+750	Same spin, a little more work	5	0	0	72	16777215	0
+810	Well above FTP, probably quite the burn developing...	8	0	0	72	16777215	0
+810	but you can combat that burn with deep breathing...	8	0	0	72	16777215	10
+810	with an emphasis on your exhales	5	0	0	72	16777215	20
+870	Alright, we're at the top!	5	0	0	72	16777215	0
+870	Stick to your cadence the best you can	8	0	0	72	16777215	10
+870	If you start to grind lower than 80rpm...	8	0	0	72	16777215	20
+870	it might be time for one of those brief backpedals	8	0	0	72	16777215	30
+870	Just long enough to clear a LITTLE fatigue & reestablish your spin	8	0	0	72	16777215	40
+900	Hold that spin & hang in there for a minute at a time	8	0	0	72	16777215	0
+900	Relief WILL come, it just might take a little while	8	0	0	72	16777215	10
+990	Are things starting to feel a little more manageable?	8	0	0	72	16777215	0
+990	If not, focus more on your breathing	5	0	0	72	16777215	10
+1050	Below threshold now, you've got this!	8	0	0	72	16777215	0
+1110	So far so good, you're all the way at the "bottom"	8	0	0	72	16777215	0
+1140	Let's pick things back up ever so slightly	8	0	0	72	16777215	0
+1260	At our second peak, hold that cadence!	8	0	0	72	16777215	0
+1320	You've got this, resist the urge to backpedal	8	0	0	72	16777215	0
+1320	But use the quick breaks if you need them...	8	0	0	72	16777215	10
+1320	and try to recognize the difference between WANTING and NEEDING	8	0	0	72	16777215	20
+1380	Excellent, hang in there for another minute	8	0	0	72	16777215	0
+1410	Final minute, no problem!	5	0	0	72	16777215	0
+1440	And there you have it, nice job!	5	0	0	72	16777215	0
+1440	Spin that heaviness out of your legs	8	0	0	72	16777215	10
+1440	Take a look back at how the last set went	8	0	0	72	16777215	180
+1440	If you found it difficult to maintain your cadence...	8	0	0	72	16777215	190
+1440	try spinning lightly and building into the set more gradually	8	0	0	72	16777215	200
+1440	Starting out behind the curve is never good	8	0	0	72	16777215	210
+1440	So be proactive with your cadence	5	0	0	72	16777215	220
+1440	Next set coming right up, relax as much as possible	8	0	0	72	16777215	280
+1440	Keep your cadence high, 12 full minutes	5	0	0	72	16777215	290
+1740	Roll it up!	8	0	0	72	16777215	0
+1800	Good start, keep those full breaths comin'	8	0	0	72	16777215	0
+1860	How's your cadence? Above 80rpm, closer to 90rpm?	8	0	0	72	16777215	0
+1860	If you can do it, try for something even closer to 100rpm	8	0	0	72	16777215	10
+1890	At the peak, relax & keep clearing that used air	8	0	0	72	16777215	0
+1920	Be patient, one minute at a time	5	0	0	72	16777215	0
+1950	Again, be patient. If all you dwell on is your discomfort...	8	0	0	72	16777215	0
+1950	it's hard to practice patience	5	0	0	72	16777215	10
+1950	So focus on something productively distracting like...	5	0	0	72	16777215	17
+1950	your spin, breathing, power, position...whatever!	5	0	0	72	16777215	24
+2040	Right at FTP, that burn is about to start clearing	8	0	0	72	16777215	0
+2070	Breathe off that burn	5	0	0	72	16777215	0
+2130	First, harder stretch done! Let that boost your confidence	8	0	0	72	16777215	0
+2130	If you can handle that beast, then this part is as good as handled	8	0	0	72	16777215	10
+2220	Check your spin, at least 80rpm, preferably between 90-100rpm	8	0	0	72	16777215	0
+2280	Already to the peak, keep it up!	5	0	0	72	16777215	0
+2340	One minute at a time, be patient	5	0	0	72	16777215	0
+2400	Excellent, find your form if it slipped a bit	8	0	0	72	16777215	0
+2460	Well done! 2 of 3 sets out of the way!	8	0	0	72	16777215	0
+2460	This time, pay attention to how you react to each step	8	0	0	72	16777215	240
+2460	Even though each step is only 3%...	8	0	0	72	16777215	250
+2460	when added together they can feel overwhelming	8	0	0	72	16777215	260
+2460	But don't fall into this mental rut	5	0	0	72	16777215	270
+2460	You've already done this twice, so what's one more time?	8	0	0	72	16777215	280
+2460	Last set is upon us, stay mentally strong!	8	0	0	72	16777215	290
+2760	Pick it up! Try to outspin your last effort	8	0	0	72	16777215	0
+2850	Halfway up, keep your legs quick & smooth	8	0	0	72	16777215	0
+2910	Good! You're already to the peak, try to relax	8	0	0	72	16777215	0
+3030	Halfway down, working toward clearing those legs	8	0	0	72	16777215	0
+3150	You made it! Time to build it back up now	8	0	0	72	16777215	0
+3240	Use your breathing to keep your muscles from loading up	8	0	0	72	16777215	0
+3300	Second & final peak, hang in there!	5	0	0	72	16777215	0
+3360	Excellent, stay patient & keep your legs fluid & light	8	0	0	72	16777215	0
+3450	30 seconds left! No fading this close to the end	8	0	0	72	16777215	0
+3480	Great job! No two ways about it...	8	0	0	72	16777215	0
+3480	those are TOUGH	5	0	0	72	16777215	10
+3480	Spin out the fatigue, start your nutrition now or soon...	8	0	0	72	16777215	20
+3480	and we'll see you next time	8	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+240	360	Sweet Spot 1
+420	480	VO2 Max 1
+720	750	Threshold 1
+750	780	Threshold 2
+780	810	VO2 Max 2
+810	840	VO2 Max 3
+840	870	VO2 Max 4
+870	900	VO2 Max 5
+900	930	VO2 Max 6
+930	960	VO2 Max 7
+960	990	VO2 Max 8
+990	1020	Threshold 3
+1020	1050	Threshold 4
+1050	1080	Threshold 5
+1080	1110	Sweet Spot 2
+1110	1140	Sweet Spot 3
+1140	1170	Sweet Spot 4
+1170	1200	Threshold 6
+1200	1230	Threshold 7
+1230	1260	Threshold 8
+1260	1290	VO2 Max 9
+1290	1320	Threshold 9
+1320	1350	Threshold 10
+1350	1380	Threshold 11
+1380	1410	Sweet Spot 5
+1410	1440	Sweet Spot 6
+1740	1770	Threshold 12
+1770	1800	Threshold 13
+1800	1830	VO2 Max 10
+1830	1860	VO2 Max 11
+1860	1890	VO2 Max 12
+1890	1920	VO2 Max 13
+1920	1950	VO2 Max 14
+1950	1980	VO2 Max 15
+1980	2010	VO2 Max 16
+2010	2040	Threshold 14
+2040	2070	Threshold 15
+2070	2100	Threshold 16
+2100	2130	Sweet Spot 7
+2130	2160	Sweet Spot 8
+2160	2190	Sweet Spot 9
+2190	2220	Threshold 17
+2220	2250	Threshold 18
+2250	2280	Threshold 19
+2280	2310	VO2 Max 17
+2310	2340	Threshold 20
+2340	2370	Threshold 21
+2370	2400	Threshold 22
+2400	2430	Sweet Spot 10
+2430	2460	Sweet Spot 11
+2760	2790	Threshold 23
+2790	2820	Threshold 24
+2820	2850	VO2 Max 18
+2850	2880	VO2 Max 19
+2880	2910	VO2 Max 20
+2910	2940	VO2 Max 21
+2940	2970	VO2 Max 22
+2970	3000	VO2 Max 23
+3000	3030	VO2 Max 24
+3030	3060	Threshold 25
+3060	3090	Threshold 26
+3090	3120	Threshold 27
+3120	3150	Sweet Spot 12
+3150	3180	Sweet Spot 13
+3180	3210	Sweet Spot 14
+3210	3240	Threshold 28
+3240	3270	Threshold 29
+3270	3300	Threshold 30
+3300	3330	VO2 Max 25
+3330	3360	Threshold 31
+3360	3390	Threshold 32
+3390	3420	Threshold 33
+3420	3450	Sweet Spot 15
+3450	3480	Sweet Spot 16
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

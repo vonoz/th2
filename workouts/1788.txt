@@ -1,0 +1,174 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Royce,89,80. Created by 44401.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	50
+3	90
+5	90
+5	40
+8	40
+8	95
+12	95
+12	50
+13	50
+13	100
+17	100
+17	55
+19	55
+19	105
+23	105
+23	60
+26	60
+26	95
+30	95
+30	50
+31	50
+31	100
+35	100
+35	55
+37	55
+37	105
+41	105
+41	60
+44	60
+44	95
+48	95
+48	50
+49	50
+49	100
+53	100
+53	55
+55	55
+55	105
+59	105
+59	40
+60	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Royce consists of three 4-minute efforts...	8	0	0	72	16777215	10
+0	each done at a higher intensity than the last	8	0	0	72	16777215	20
+0	Additionally, the recovery increases in length & intensity as the set progresses	8	0	0	72	16777215	30
+0	Royce's primary goal is to improve both muscular endurance...	8	0	0	72	16777215	40
+0	and increase your time to exhaustion	5	0	0	72	16777215	50
+0	All said & done, you'll have spent 36 minutes close to or above FTP	8	0	0	72	16777215	60
+0	That's packing a lot of work into an hour-long workout!	8	0	0	72	16777215	70
+0	The good news is that this workout is structured such that...	8	0	0	72	16777215	80
+0	you'll get enough rest to accumulate that amount of Threshold work...	8	0	0	72	16777215	90
+0	in a relatively short amount of time	5	0	0	72	16777215	100
+0	This workout will help you grow your ability to push those pedals harder...	8	0	0	72	16777215	110
+0	and to do it for longer periods of time	5	0	0	72	16777215	120
+0	Even more, this workout will help you address the repeatability of such efforts	8	0	0	72	16777215	130
+0	Next up is a 2-minute clearing effort at 90% FTP	8	0	0	72	16777215	150
+180	Try to spin between 85-95rpm, higher if you prefer	8	0	0	72	16777215	0
+300	Each of the upcoming 4-minute intervals will increase in intensity...	8	0	0	72	16777215	0
+300	And as the intensity of the intervals increase, the intensity and length of recoveries increase as well	8	0	0	72	16777215	10
+300	The increasing intensity of the recoveries...	8	0	0	72	16777215	20
+300	will help you learn to recover at higher & higher percentages of FTP	8	0	0	72	16777215	30
+300	First interval at 95% FTP coming up soon	8	0	0	72	16777215	160
+300	Make sure you're spinning between 85-95rpm	8	0	0	72	16777215	170
+480	Here we go! Take the first 45 seconds to find your cadence & breathing rhythm	8	0	0	72	16777215	0
+480	These intervals are all about increasing endurance & time to exhaustion...	8	0	0	72	16777215	10
+480	so an efficient, high cadence is very important	8	0	0	72	16777215	20
+480	As your aerobic endurance increases...	8	0	0	72	16777215	30
+480	it's likely that your average cadence will too	8	0	0	72	16777215	40
+720	1 minute of recovery, take deep, full breaths to make the most of this short break	8	0	0	72	16777215	0
+780	4 minutes right at FTP, try for the same 85-95rpm spin	8	0	0	72	16777215	0
+780	Check your position on the saddle	8	0	0	72	16777215	10
+780	Are your sit bones in contact with the wings of your saddle? Anchor them	8	0	0	72	16777215	20
+780	Are your shoulders relaxed? Drop 'em	8	0	0	72	16777215	30
+780	Are you gripping the handlebars too tightly? Loosen up	8	0	0	72	16777215	40
+1020	2 minutes of recovery at a slightly higher wattage level	8	0	0	72	16777215	0
+1020	If you let your cadence drop, bring it back up	8	0	0	72	16777215	110
+1140	This interval is slightly above your hour-power...	8	0	0	72	16777215	0
+1140	so if you can theoretically hold 100% FTP for an hour...	8	0	0	72	16777215	10
+1140	holding 105% FTP for 4 minutes is achievable - tough, but achievable	8	0	0	72	16777215	20
+1140	It's not going to be comfortable, but we believe in you ;-)	8	0	0	72	16777215	30
+1380	First set out of the way! 3 full minutes of recovery way down at 60% FTP	8	0	0	72	16777215	0
+1380	Even though 60% FTP isn't as restful as recovery at 40% FTP...	8	0	0	72	16777215	10
+1380	your legs will still be able to clear the junk & be ready for the next set	8	0	0	72	16777215	20
+1380	Just make sure you keep a reasonably quick cadence above 85rpm	8	0	0	72	16777215	30
+1380	Second set right around the corner, you should be fully warmed by now	8	0	0	72	16777215	160
+1380	Bring your cadence up towards 95rpm	8	0	0	72	16777215	170
+1560	4 minutes of sub-Threshold work, no problem!	8	0	0	72	16777215	0
+1560	Halfway, make sure you're staying smooth & relaxed	8	0	0	72	16777215	120
+1560	Drop your shoulders, soften your elbows, loosen your grip	8	0	0	72	16777215	130
+1800	Quick recovery, make the most of it	6	0	0	72	16777215	0
+1800	If your cadence or watts are dropping during the intervals...	8	0	0	72	16777215	8
+1800	take 20-30 seconds to backpedal during the recovery valleys	8	0	0	72	16777215	18
+1860	Settle into a spin above 85rpm & adjust to the workload	8	0	0	72	16777215	0
+1860	When you're ready, try to get just a little more aero	8	0	0	72	16777215	10
+1860	Ride in your aero bars, ride in your drop bars...	8	0	0	72	16777215	20
+1860	or simply lower your body a little closer to your bike	8	0	0	72	16777215	30
+1860	Halfway through this one, keep your focus	8	0	0	72	16777215	120
+2100	2 minutes recovery, backpedal for 20-30 seconds if you need to	8	0	0	72	16777215	0
+2100	Bring your cadence back up for the last interval in set #2	8	0	0	72	16777215	110
+2220	Here we go, set your cadence between 85-95rpm & settle in	8	0	0	72	16777215	0
+2220	And if you feel up to raising the challenge a little bit...	8	0	0	72	16777215	10
+2220	you can come up into a standing position at the top of every minute	8	0	0	72	16777215	20
+2220	Optional standing drill in 10 seconds	8	0	0	72	16777215	50
+2220	Come on up & count your left knee 10 times...	8	0	0	72	16777215	60
+2220	then gently have a seat	5	0	0	72	16777215	70
+2220	Get ready to rise again, optional of course	5	0	0	72	16777215	110
+2220	Rise & count your right knee 10 times	8	0	0	72	16777215	120
+2220	Have a seat as soon as you've counted 10 pedalstrokes	8	0	0	72	16777215	130
+2220	One last time, in 10 seconds	5	0	0	72	16777215	170
+2220	Come on up, count your left foot at the bottom of each pedalstroke	5	0	0	72	16777215	180
+2220	Once you're seated, settle into 85-95rpm	5	0	0	72	16777215	190
+2460	Great job! Only one set left	8	0	0	72	16777215	0
+2460	Think about outdoor training or a race situation...	8	0	0	72	16777215	10
+2460	where it's not often that each period of recovery falls at a very manageable 40% FTP	8	0	0	72	16777215	20
+2460	In fact, you often have to recover well above 40% FTP, especially in a race situation	8	0	0	72	16777215	30
+2460	It's important to train your body & mind to recover at higher percentages of FTP	8	0	0	72	16777215	40
+2460	It may not be comfortable, but it certainly can be done	8	0	0	72	16777215	50
+2460	Find your cadence for the next interval, 85-95rpm	8	0	0	72	16777215	170
+2640	Here we go again, try to start out as relaxed as possible	8	0	0	72	16777215	0
+2640	Then, as the fatigue mounts, rely on your practiced relaxation	8	0	0	72	16777215	10
+2640	Use it to help you conserve energy, even at high power outputs	8	0	0	72	16777215	20
+2640	Halfway through this short stretch, make sure you're drawing full breaths	8	0	0	72	16777215	120
+2880	Good, ease off the gas & try to clear your legs a bit	8	0	0	72	16777215	0
+2940	Another stretch right at FTP, or hour-power	8	0	0	72	16777215	0
+2940	Be tough, this is a demanding but manageable workload...	8	0	0	72	16777215	120
+2940	and it requires focus the entire time or you'll miss the mark	8	0	0	72	16777215	130
+3180	If need be, take 20-30 seconds to backpedal...	8	0	0	72	16777215	0
+3180	but only if you're in need of a more restful break	8	0	0	72	16777215	10
+3300	Up above FTP again, but nothing you can't handle for 4 minutes	8	0	0	72	16777215	0
+3300	Feel free to stand every minute on the minute for 10 pedalstrokes	8	0	0	72	16777215	30
+3300	But omit these drills if your cadence plummets when you return to the saddle	8	0	0	72	16777215	40
+3300	Come on up, count your left foot at the bottom of each pedalstroke	8	0	0	72	16777215	60
+3300	Halfway there! Come up for 10 counts of your left knee	8	0	0	72	16777215	120
+3300	Up again, 10 pedalstrokes on your right knee	8	0	0	72	16777215	180
+3540	Nicely done! Spin out the heaviness & slow your breathing	6	0	0	72	16777215	0
+3540	The workout clock will only run for about another minute...	8	0	0	72	16777215	10
+3540	...but you're very welcome to cool down longer than that	8	0	0	72	16777215	20
+3540	Start planning or taking on your post-workout nutrition...	8	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+180	300	Sweet Spot 1
+480	720	Sweet Spot 2
+780	1020	Threshold 1
+1020	1140	Endurance 1
+1140	1380	Threshold 2
+1380	1560	Endurance 2
+1560	1800	Sweet Spot 3
+1860	2100	Threshold 3
+2100	2220	Endurance 3
+2220	2460	Threshold 4
+2460	2640	Endurance 4
+2640	2880	Sweet Spot 4
+2940	3180	Threshold 5
+3180	3300	Endurance 5
+3300	3540	Threshold 6
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

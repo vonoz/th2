@@ -1,0 +1,318 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Granite,69,47. Created by 54949.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	40
+4	50
+4	30
+6	30
+6	40
+8	40
+8	50
+10	50
+10	90
+11	90
+11	85
+12	85
+12	80
+13	80
+13	75
+14	75
+14	80
+15	80
+15	85
+16	85
+16	90
+17	90
+17	40
+20	40
+20	85
+21	85
+21	80
+22	80
+22	75
+23	75
+23	70
+24	70
+24	75
+25	75
+25	80
+26	80
+26	85
+27	85
+27	30
+30	30
+30	65
+31	65
+31	50
+34	50
+34	65
+35	65
+35	30
+38	30
+38	85
+39	85
+39	80
+40	80
+40	75
+41	75
+41	70
+42	70
+42	75
+43	75
+43	80
+44	80
+44	85
+45	85
+45	40
+48	40
+48	90
+49	90
+49	85
+50	85
+50	80
+51	80
+51	75
+52	75
+52	80
+53	80
+53	85
+54	85
+54	90
+55	90
+55	40
+60	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Today we're going to work on improving pedaling efficiency	8	0	0	72	16777215	60
+0	And we'll do it in a couple of ways	8	0	0	72	16777215	70
+0	We'll start with some ILT, aka Isolated Leg Training...	8	0	0	72	16777215	80
+0	Do a couple rounds of cadence ladders, throw in a round of bookend wind-ups...	8	0	0	72	16777215	90
+0	And then wrap things up with another set of ladders	8	0	0	72	16777215	100
+0	But for the next couple minutes, just spin quickly & comfortably	8	0	0	72	16777215	110
+0	Today's intervals will require some shifting, but once you find the right gearing you won't need to shift often	8	0	0	72	16777215	150
+0	Because the changes in resistance/effort will be counterbalanced with changes in pedal-speed	8	0	0	72	16777215	160
+0	So when the power is high, the speed drops a little...	8	0	0	72	16777215	170
+0	And when the power is lower, you'll increase your speed	8	0	0	72	16777215	180
+0	But more on that later	8	0	0	72	16777215	190
+0	Get ready for the first round of 1-leggers	8	0	0	72	16777215	210
+0	Start to slow your cadence to a point where you can unclip one of your feet	8	0	0	72	16777215	220
+0	At the 4-minute mark, unclip one foot and hang it over the back of your trainer	8	0	0	72	16777215	230
+240	From the very first single-leg pedal stroke, you'll probably notice how well (or poorly) rounded your pedal strokes are	8	0	0	72	16777215	-1
+240	And if it's THAT obvious then my guess is you're neglecting the top & bottom quadrants	8	0	0	72	16777215	10
+240	So try focusing on kicking your toes into the fronts of your shoes...	8	0	0	72	16777215	20
+240	And pulling your heels into the backs of your shoes...	8	0	0	72	16777215	30
+240	Or put more simply, focus on the kick & pull	8	0	0	72	16777215	40
+240	Kick over the top, pull across the bottom	8	0	0	72	16777215	50
+240	If you haven't slowed to a crawl or changed legs already, then your 1-leg pedaling is better than most	8	0	0	72	16777215	60
+240	More likely, your form has deteriorated substantially and it's time to change legs	8	0	0	72	16777215	70
+240	While we're shooting for efforts in the 30-60 second range, there's no sense in pushing on when your form is shot	8	0	0	72	16777215	80
+240	Rather, it's FAR better to change legs more frequently and perform your ILT's with excellent form	8	0	0	72	16777215	90
+240	This might mean trading legs every 15-20 seconds - so be it	8	0	0	72	16777215	100
+240	As you improve, you'll retain your form for longer and longer periods, but it's a process	8	0	0	72	16777215	110
+360	Don't expect perfection without practice, nor improvement without consistency	8	0	0	72	16777215	-1
+360	By now, you've likely pushed to the point where "the knocks" have set in	8	0	0	72	16777215	10
+360	This tells you 1 of 2 things: 1 - You're not kicking and pulling very well, or...	8	0	0	72	16777215	20
+360	2 - your leg is just too tired to continue and it's time to switch	8	0	0	72	16777215	30
+360	But don't just switch legs when the knocks set in, first focus on your kick & pull	8	0	0	72	16777215	40
+360	If that doesn't do the trick, then it's time to change legs	8	0	0	72	16777215	50
+360	Change legs as often as necessary, and slow your pedal stroke if you start to outrun yourself	8	0	0	72	16777215	70
+360	With practice, you can work up to 60-second ILT's performed at 90+ rpm	8	0	0	72	16777215	80
+360	But it takes time, so spin at any cadence that helps you keep tension on the chain	8	0	0	72	16777215	90
+480	2 minutes to go and just a little more effort (bigger gear?) required	8	0	0	72	16777215	-1
+480	The increase in effort may slow your spin a bit, but that's OK	8	0	0	72	16777215	10
+480	Just keep tension on the chain regardless of how quickly you spin...	8	0	0	72	16777215	20
+480	And again, you do this by kicking & pulling - pedaling horizontally	8	0	0	72	16777215	30
+480	Strive for that 90+ rpm spin, but only if you can avoid "the knocks"	8	0	0	72	16777215	40
+480	Once that knocking begins, those audible dead spots mean it's time to switch legs	8	0	0	72	16777215	50
+480	One minute to go - relax your shoulders and soften your elbows	8	0	0	72	16777215	60
+480	And no death-grips on the handlebars	8	0	0	72	16777215	70
+480	Drape your upper body on the bars - be so smooth that it looks as though both feet are clipped in	8	0	0	72	16777215	80
+480	30 seconds to go so your next leg change will be your last	8	0	0	72	16777215	90
+480	Almost time to get both feet back in the pedals so we can begin the spin-ups	8	0	0	72	16777215	100
+480	Both feet in & get your spin back to normal - 90rpm or higher is the goal	8	0	0	72	16777215	110
+600	And here we go...	8	0	0	72	16777215	-1
+600	Use this first minute to find a gear that allows you to spin slightly quicker than your "natural cadence"	8	0	0	72	16777215	10
+600	Spin at a quicker-than-usual rate that feels comfortable and sustainable for a long period of time	8	0	0	72	16777215	30
+600	Get ready to pick things up slightly	8	0	0	72	16777215	50
+660	Spin just a LITTLE bit quicker, use a smaller gear (downshift) if necessary	8	0	0	72	16777215	-1
+660	As long as you aren't bouncing, try to hold this slightly quicker cadence	8	0	0	72	16777215	10
+660	Relax - drop your shoulders, bend your elbows a little, loosen your grip on the bars	8	0	0	72	16777215	30
+720	Spin a LITTLE quicker, but don't overdo it - you still have 5 minutes left	8	0	0	72	16777215	-1
+720	Use a small enough gear that makes it challenging in terms of holding your power	8	0	0	72	16777215	10
+720	Keep your legs quick and draw full, deep breaths	8	0	0	72	16777215	30
+720	Spin quickly but breath slowly	8	0	0	72	16777215	40
+720	Get ready for your quickest minute!	8	0	0	72	16777215	50
+780	Really wind it up, but keep in mind that we're not even halfway there yet	8	0	0	72	16777215	-1
+780	Use a gear that allows you to spin really quickly with noooooo bouncing!	8	0	0	72	16777215	10
+780	The key to quick legs is relaxing your lower legs	8	0	0	72	16777215	20
+780	The tighter your calves, the more you bounce	8	0	0	72	16777215	30
+780	The greater the tension in your ankles and feet, the more you bounce	8	0	0	72	16777215	40
+780	So let everything from your calves down go slack & just pedal with your knees	8	0	0	72	16777215	50
+840	Upshift (higher/harder gear) and slow your spin just a little to reclaim any form that was slipping away	8	0	0	72	16777215	-1
+840	If you're tense, it's impossible to spin quickly without bouncing...	8	0	0	72	16777215	30
+840	So relaaaaaaaaaaaax	8	0	0	72	16777215	40
+840	Relax your face & jaw and drop those shoulders	8	0	0	72	16777215	50
+900	Ease up just a tiny bit more and spin with slightly less speed	8	0	0	72	16777215	-1
+900	Only 90 seconds to go, but don't get complacent - form is STILL everything	8	0	0	72	16777215	30
+960	Final minute...	8	0	0	72	16777215	-1
+960	Ease off the gas a tiny bit more and return to a spin slightly quicker than your natural cadence	8	0	0	72	16777215	10
+960	Slow your breathing but keep those legs quick	8	0	0	72	16777215	20
+960	Final 30. How's your form?	8	0	0	72	16777215	30
+960	Are you relaxed? Is your upper body almost motionless?	8	0	0	72	16777215	40
+1020	Great job! The first one is behind us and it's time to spin comfortably for a few minutes	8	0	0	72	16777215	-1
+1020	No sense in doing anything but recovering during this 3-minute break	8	0	0	72	16777215	10
+1020	So relax, spin easy, and save your effort for when it matters	8	0	0	72	16777215	20
+1020	1 more minute of recovery and then back to our speed-work	8	0	0	72	16777215	120
+1020	Ideally, these intervals won't require much shifting due to the changes in power	8	0	0	72	16777215	130
+1020	When the power drops you spin more quickly, and when the power increases you spin a little less quickly	8	0	0	72	16777215	140
+1020	We'll go again in less than 30 seconds, so settle into your natural cadence	8	0	0	72	16777215	150
+1020	Remember, each minute is faster than the 1 before it so keep your increases manageable	8	0	0	72	16777215	160
+1020	And if you felt under challenged last time, start out slightly quicker this time	8	0	0	72	16777215	170
+1200	And we're off! Spin just a little quicker than usual - quicker still if you can last the entire 7 minutes	8	0	0	72	16777215	-1
+1200	Start relaxed and stay that way	8	0	0	72	16777215	30
+1200	Check your jaw & shoulders - loose expression and low shoulders	8	0	0	72	16777215	40
+1260	Pick it up a little bit & stay smooth and relaxed	8	0	0	72	16777215	-1
+1260	It's worth mentioning that leg speed is only one facet of this workout	8	0	0	72	16777215	10
+1260	We're also working at a fairly high percentage of our thresholds	8	0	0	72	16777215	20
+1260	We're keeping our effort in the Tempo range which is a great place to work on aerobic power/endurance	8	0	0	72	16777215	30
+1260	But it's not so difficult that it prevents us from spinning quickly	8	0	0	72	16777215	40
+1260	If this power range keeps you from holding your speed while working at this effort level...	8	0	0	72	16777215	50
+1320	Then ease up a little and keep your legs quick	8	0	0	72	16777215	-1
+1320	If you didn't speed up yet, go ahead and do it now	8	0	0	72	16777215	10
+1320	Let those low legs go slack & loosen your grip on the bars	8	0	0	72	16777215	30
+1380	OK, a little bit quicker as long as you can keep from bouncing	8	0	0	72	16777215	-1
+1380	Spend a few seconds thinking about your position on the saddle	8	0	0	72	16777215	30
+1380	Do you feel both sit-bones in contact with your saddle the whole time? You should	8	0	0	72	16777215	40
+1380	If you don't, press your hands softly into your bars and anchor your pelvis on the saddle	8	0	0	72	16777215	50
+1440	Time to back off a little, but only as much as you need to in order to keep your form	8	0	0	72	16777215	-1
+1440	Each step up is an opportunity to work on your speed-endurance	8	0	0	72	16777215	10
+1440	So try to minimize your speed reductions & keep as much leg speed as you can control	8	0	0	72	16777215	20
+1500	Same deal, you get to slow down a little but only as much as necessary to hold your form	8	0	0	72	16777215	-1
+1500	Spend 30 seconds watching your knees. THAT'S where your speed comes from	8	0	0	72	16777215	30
+1500	Don't let them wobble at the top of your pedal stroke	8	0	0	72	16777215	40
+1500	We're going way too fast for anything less than piston-like knee patterns	8	0	0	72	16777215	48
+1560	Final reduction in your leg speed...IF you need it	8	0	0	72	16777215	-1
+1560	If your form's still great and you're capable of keeping your speed, hang on to it!	8	0	0	72	16777215	10
+1560	We're cooking our muscles with speed today, not with resistance	8	0	0	72	16777215	20
+1560	Final 30 - stay relaxed and keep that form	8	0	0	72	16777215	30
+1620	Nicely done! Now take it really easy for a few minutes but try to keep pedaling	8	0	0	72	16777215	-1
+1620	In a few seconds we're going to start a mid-workout drill to break things up a bit	8	0	0	72	16777215	150
+1620	We're going to pedal as quickly as we can control for 1 minute	8	0	0	72	16777215	160
+1620	Then we'll hold some of the speed and finish with another quick minute - Find your gear!	8	0	0	72	16777215	170
+1800	Go! Pedal as fast as you can without bouncing or torturing your frame	8	0	0	72	16777215	-1
+1800	Hold that speed and RELAX	8	0	0	72	16777215	30
+1800	10 more seconds...keep it!	8	0	0	72	16777215	50
+1860	OK, now back off as much as you need to but stay above your natural cadence	8	0	0	72	16777215	-1
+1860	Choose a gear that suits your capabilities	8	0	0	72	16777215	10
+1860	If you have tons of leg speed, choose a really small gear	8	0	0	72	16777215	20
+1860	If you're new to speed training & your speed endurance isn't yet top-notch, use the smallest gear you can control	8	0	0	72	16777215	30
+1860	In any case, keep your speed quick & steady	8	0	0	72	16777215	40
+1860	Coming up on another all-out minute, all-out in terms of leg speed only	8	0	0	72	16777215	150
+1860	So start to fish for the gear that will allow you to spin really quickly...	8	0	0	72	16777215	160
+1860	And with perfect, bounceless form...get ready!	8	0	0	72	16777215	170
+2040	Go! Stay relaxed, breathe deeply, pedal really fast	8	0	0	72	16777215	-1
+2040	30 left! If your form's still there, hold your speed - if it's slipping, ease off a little	8	0	0	72	16777215	30
+2040	Final 10! Keep it!	8	0	0	72	16777215	50
+2100	Well done - another 3 really easy minutes await you	8	0	0	72	16777215	-1
+2100	Use a light gear and just lift your knees, let your feet fall	8	0	0	72	16777215	10
+2100	With 2 spin-ups under your belt you probably have a good grasp on the proper gearing, BUT...	8	0	0	72	16777215	120
+2100	These aren't very long breaks and fatigue plays a big role	8	0	0	72	16777215	130
+2100	Consequently, you MAY find it difficult to control the same speeds you've handled so far	8	0	0	72	16777215	140
+2100	But then again, maybe you're just now getting the hang of this	8	0	0	72	16777215	150
+2100	In any case, form is still our primary focus	8	0	0	72	16777215	160
+2100	So don't allow yourself to get sloppy using fatigue as your excuse	8	0	0	72	16777215	170
+2280	Alrighty, let's do this again - find a gear that allows you to spin slightly quicker than you like	8	0	0	72	16777215	-1
+2280	And from the very start, let's do 2 things...	8	0	0	72	16777215	10
+2280	First, get as relaxed as you can, do it while you're eager and fresh	8	0	0	72	16777215	20
+2280	Slack face, loose jaw, low shoulders...	8	0	0	72	16777215	30
+2280	Softened elbows, loose hands, gently rounded spine	8	0	0	72	16777215	40
+2340	Pick it up a bit, shift if you need to	8	0	0	72	16777215	-1
+2340	The second thing we'll do is fix our sit bones to the wings of the saddle	8	0	0	72	16777215	10
+2340	Feel those boney prominences in your butt, your ischial tuberosities, or more commonly, your sit bones	8	0	0	72	16777215	20
+2340	Regardless of how quickly you pedal, or how low you ride, those bones stay glued to the saddle	8	0	0	72	16777215	30
+2340	When they come "un-glued" your base of support weakens	8	0	0	72	16777215	40
+2340	And while power isn't our focus today, good form is...it ALWAYS is	8	0	0	72	16777215	50
+2400	A little quicker, as long as it doesn't cost you even a fit of your form	8	0	0	72	16777215	-1
+2400	Tipping forward or rocking side-to-side aren't effective ways to transfer power	8	0	0	72	16777215	10
+2400	And poor power transfer equates to wasted energy	8	0	0	72	16777215	20
+2400	Wasted energy means we're effectively working against ourselves...	8	0	0	72	16777215	30
+2400	And for what? Saddle sores, raw spots, an endless search for the "right" saddle!?	8	0	0	72	16777215	40
+2400	So keep that pelvis situated, sit bones anchored	8	0	0	72	16777215	50
+2460	Here it is again, your minute to dazzle yourself with your newly found leg speed...go fast!	8	0	0	72	16777215	-1
+2460	Halfway there - don't let up unless you're too tense or coming unglued from your saddle	8	0	0	72	16777215	30
+2460	Or bouncing. NO bouncing!	8	0	0	72	16777215	40
+2520	Excellent. Now ease up only as much as you need to	8	0	0	72	16777215	-1
+2520	Relax and pedal with those knees	8	0	0	72	16777215	30
+2580	Take off a little more speed if you have to, 2 minutes to go	8	0	0	72	16777215	-1
+2580	Sit bones still anchored? Lower legs still loose? Good!	8	0	0	72	16777215	30
+2640	Final minute. Hold as much speed as you can control	8	0	0	72	16777215	-1
+2640	30 seconds! Ride so smoothly it looks easy	8	0	0	72	16777215	30
+2700	Great job. Time to take it easy	8	0	0	72	16777215	-1
+2700	OK, same deal as last time - if you can't control as much speed as earlier, then tone things down a little	8	0	0	72	16777215	150
+2700	There's nothing to be gained by teaching your muscles bad habits	8	0	0	72	16777215	160
+2700	And bad habits are FAR tougher to break than to develop, so pay attention	8	0	0	72	16777215	170
+2880	Last round! Find your gear, pick up that spin	8	0	0	72	16777215	-1
+2880	Relax, anchor those sit bones	8	0	0	72	16777215	30
+2940	Pick it up, shift if you have to, stay in control	8	0	0	72	16777215	-1
+2940	Loose grip on the bars? Quick legs but slow breaths? Goooooood	8	0	0	72	16777215	30
+3000	Let's pick it up again, but leave some room to grow	8	0	0	72	16777215	-1
+3000	How's your neck feel? If the back of your neck is barking at you...	8	0	0	72	16777215	30
+3000	Tip your head down and lift your gaze up - also try lengthening your neck a bit, we're not turtles	8	0	0	72	16777215	40
+3000	Get ready, here comes your last chance to really go for it	8	0	0	72	16777215	50
+3060	Go fast, but do it perfectly!	8	0	0	72	16777215	-1
+3060	Hold that speed, hold that form!	8	0	0	72	16777215	30
+3120	Excellent, now ease up a tiny bit	8	0	0	72	16777215	-1
+3120	Again, check your sit bones, relax	8	0	0	72	16777215	30
+3180	Ease up a little bit more, shift if you need to, maintain that smooth, relaxed form	8	0	0	72	16777215	-1
+3180	We're almost there but don't get distracted - still fast!	8	0	0	72	16777215	30
+3240	Final minute of the workout! Build that speed endurance by not backing off more than necessary to hold your form	8	0	0	72	16777215	-1
+3240	30 seconds of "effortless" spinning - make it look easy	8	0	0	72	16777215	30
+3300	Very well done. Find an easy gear and clear that heaviness	8	0	0	72	16777215	-1
+3300	And even during your warm-down, keep the excellent form you worked so hard to foster	8	0	0	72	16777215	10
+3300	Until next time!	8	0	0	72	16777215	20
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+600	660	Sweet Spot 1
+660	720	Sweet Spot 2
+720	780	Tempo 1
+780	840	Endurance 1
+840	900	Tempo 2
+900	960	Sweet Spot 3
+960	1020	Sweet Spot 4
+1200	1260	Sweet Spot 5
+1260	1320	Tempo 3
+1320	1380	Endurance 2
+1380	1440	Endurance 3
+1440	1500	Endurance 4
+1500	1560	Tempo 4
+1560	1620	Sweet Spot 6
+1800	1860	Endurance 5
+2040	2100	Endurance 6
+2280	2340	Sweet Spot 7
+2340	2400	Tempo 5
+2400	2460	Endurance 7
+2460	2520	Endurance 8
+2520	2580	Endurance 9
+2580	2640	Tempo 6
+2640	2700	Sweet Spot 8
+2880	2940	Sweet Spot 9
+2940	3000	Sweet Spot 10
+3000	3060	Tempo 7
+3060	3120	Endurance 10
+3120	3180	Tempo 8
+3180	3240	Sweet Spot 11
+3240	3300	Sweet Spot 12
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

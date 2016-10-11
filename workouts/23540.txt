@@ -1,0 +1,99 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Mount Bear,70,159. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+10	50
+10	50
+11	70
+11	70
+28	70
+28	70
+29	65
+29	65
+56	65
+56	65
+57	80
+57	80
+72	80
+72	80
+73	65
+73	65
+82	65
+82	65
+83	85
+83	85
+94	85
+94	85
+95	60
+95	60
+121	60
+121	60
+122	85
+122	85
+128	85
+128	85
+129	70
+129	70
+137	70
+137	70
+138	80
+138	80
+145	80
+145	80
+146	65
+146	65
+171	65
+171	65
+172	70
+172	70
+191	70
+191	71
+192	50
+192	50
+195	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+660	Once you're thoroughly warmed up, perform 3-5 Form Sprints over this 17-minute stretch	8	0	0	72	16777215	0
+1740	Spend 5 of these 27 minutes doing some Endurance Spinning	8	0	0	72	16777215	0
+3420	Add 3-5 Form Sprints to this 15-minute stretch	8	0	0	72	16777215	-1
+5700	Add 5 minutes of ILT to this long stretch, 30-60s at a time	8	0	0	72	16777215	0
+7320	How about a 3-minute Endurance Spin during this 6 minutes?	8	0	0	72	16777215	-1
+8760	If you're not totally cooked, add 5 more minute of ILT, 30-60s at a time	8	0	0	72	16777215	0
+10320	Annnnd one more 5-minute Endurance Spin unless you're just too tired	8	0	0	72	16777215	-1
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	11700	Workout
+660	1680	Endurance 1
+1680	1740	Endurance 2
+1740	3360	Endurance 3
+3360	3420	Endurance 4
+3420	4320	Tempo 1
+4320	4380	Endurance 5
+4380	4920	Endurance 6
+4920	4980	Endurance 7
+4980	5640	Sweet Spot 1
+5640	5700	Endurance 8
+5700	7260	Endurance 9
+7260	7320	Endurance 10
+7320	7680	Sweet Spot 2
+7680	7740	Tempo 2
+7740	8220	Endurance 11
+8220	8280	Endurance 12
+8280	8700	Tempo 3
+8700	8760	Endurance 13
+8760	10260	Endurance 14
+10260	10320	Endurance 15
+10320	11460	Endurance 16
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

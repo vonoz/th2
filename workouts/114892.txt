@@ -1,0 +1,274 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Basin 45,93,65. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	65
+4	115
+4.5	115
+4.5	40
+5	40
+5	130
+5.5	130
+5.5	40
+6	40
+6	150
+6.5	150
+6.5	41
+9.5	51
+9.5	85
+10.5	85
+10.5	85
+11.5	95
+11.5	95
+12.5	95
+12.5	95
+13	105
+13	105
+14	105
+14	105
+14.5	130
+14.5	130
+15	130
+15	130
+15.5	150
+15.5	40
+18.5	50
+18.5	85
+19.5	85
+19.5	85
+20.5	95
+20.5	95
+21.5	95
+21.5	95
+22	105
+22	105
+23	105
+23	105
+23.5	130
+23.5	130
+24	130
+24	130
+24.5	150
+24.5	40
+27.5	50
+27.5	85
+28.5	85
+28.5	85
+29.5	95
+29.5	95
+30.5	95
+30.5	95
+31	105
+31	105
+32	105
+32	105
+32.5	130
+32.5	130
+33	130
+33	130
+33.5	150
+33.5	40
+36.5	50
+36.5	85
+37.5	85
+37.5	85
+38.5	95
+38.5	95
+39.5	95
+39.5	95
+40	105
+40	105
+41	105
+41	105
+41.5	130
+41.5	130
+42	130
+42	130
+42.5	150
+42.5	40
+45	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Sitting, standing, sweetspot, FTP, VO2max	8	0	0	72	16777215	1
+0	This workout's got it all	5	0	0	72	16777215	10
+0	And it will definitely make you faster	8	0	0	72	16777215	20
+0	Efforts like these, ones that build towards a high peak power...	8	0	0	72	16777215	30
+0	not only increase your time to exhaustion...	8	0	0	72	16777215	40
+0	but they also build muscular endurance...	8	0	0	72	16777215	50
+0	AND can increase muscular capacity & efficiency	8	0	0	72	16777215	60
+0	So whether you are a TT specialist or casual rider...	8	0	0	72	16777215	70
+0	this will make you faster	5	0	0	72	16777215	80
+0	But for now, just focus on warming up	8	0	0	72	16777215	90
+0	Time to pick things up a bit	5	0	0	72	16777215	230
+240	Quick & light!	5	0	0	72	16777215	0
+270	Drop the power but keep the speed	5	0	0	72	16777215	0
+300	A little stronger now	8	0	0	72	16777215	0
+360	Pick it up! 30 really hard seconds	5	0	0	72	16777215	0
+390	NOW we're ready	5	0	0	72	16777215	0
+390	Focus on recovering while you ramp up your speed	8	0	0	72	16777215	10
+390	Fast cadence, relaxed breathing	5	0	0	72	16777215	20
+390	OK, let's talk about the workout	8	0	0	72	16777215	30
+390	4 sets of increasing intensity intervals	8	0	0	72	16777215	40
+390	Each one starts at 85% FTP...	8	0	0	72	16777215	50
+390	and ends 6 minutes later at 150% FTP	8	0	0	72	16777215	60
+390	But there's a twist...	8	0	0	72	16777215	70
+390	Each build interval is to be done out of the saddle...	8	0	0	72	16777215	80
+390	also known as standing up	5	0	0	72	16777215	90
+390	So each time the interval is increasing instead of steady...	8	0	0	72	16777215	100
+390	get out of the saddle and hammer!	5	0	0	72	16777215	110
+390	Now, technique is absolutely crucial here	8	0	0	72	16777215	120
+390	Chances are, your bike is locked in a static position	8	0	0	72	16777215	130
+390	Due to this, you will not be able to ride like normal	8	0	0	72	16777215	140
+390	Try to avoid putting excess stress on your bars...	8	0	0	72	16777215	150
+390	and don't try to lean your bike with each pedalstroke	8	0	0	72	16777215	160
+390	OK, first interval is here & it's a seated one	8	0	0	72	16777215	170
+570	Turn it up!	5	0	0	72	16777215	0
+570	Now find your rhythm in the saddle for the next minute	8	0	0	72	16777215	10
+570	Standing interval coming up	5	0	0	72	16777215	40
+570	Remember, smooth & calm technique	8	0	0	72	16777215	50
+630	Stand & build!	5	0	0	72	16777215	0
+630	Keep it up! Smooth technique, no wrenching on the bars	8	0	0	72	16777215	30
+690	Good! Now back in the saddle	5	0	0	72	16777215	0
+690	You may notice that you have to shift down when you sit	8	0	0	72	16777215	10
+690	This is good technique, so keep it up	5	0	0	72	16777215	20
+690	30 second standing interval coming up	5	0	0	72	16777215	50
+750	Get up & go!	5	0	0	72	16777215	0
+780	Good! Drop back down to the saddle	5	0	0	72	16777215	0
+780	Big ramp coming up!	5	0	0	72	16777215	40
+840	Grab a gear & stand up!	5	0	0	72	16777215	0
+870	Great job! Time to sit & push	5	0	0	72	16777215	0
+900	Last push! Get up & pummel the pedals!	5	0	0	72	16777215	0
+930	Great job!	5	0	0	72	16777215	0
+930	Take a couple of minutes to recover	5	0	0	72	16777215	10
+930	Ok, let's talk about pedaling technique	8	0	0	72	16777215	20
+930	When you stand, don't push off your bars with your hands	8	0	0	72	16777215	30
+930	Instead, think of it like going up stairs...	8	0	0	72	16777215	40
+930	and push up from your forward leg	5	0	0	72	16777215	50
+930	Standing should be a result of increased pressure on your leg	8	0	0	72	16777215	60
+930	Not from lifting yourself up from the bars	8	0	0	72	16777215	70
+930	Also, when you stand, shift up 1-2 gears	8	0	0	72	16777215	80
+930	This will give you greater stability and...	8	0	0	72	16777215	90
+930	will allow you to take advantage of your increased torque	8	0	0	72	16777215	100
+930	Conversely, when you transition from standing to sitting...	8	0	0	72	16777215	110
+930	shift down 1-2 gears	5	0	0	72	16777215	120
+930	This will allow you to maintain a light cadence	8	0	0	72	16777215	130
+930	So during this set, lift yourself from your legs, not your arms	8	0	0	72	16777215	140
+930	And remember to shift up when you stand...	8	0	0	72	16777215	150
+930	and shift down when you sit	5	0	0	72	16777215	160
+930	Almost time for the next set...	5	0	0	72	16777215	170
+1110	Go!	3	0	0	72	16777215	0
+1110	Standing in 10 seconds, remember your technique	8	0	0	72	16777215	50
+1170	Get up & go!	5	0	0	72	16777215	0
+1230	Good, now keep your cadence up while sitting	8	0	0	72	16777215	0
+1230	Standing in 10 seconds	5	0	0	72	16777215	50
+1290	Shift up, get up!	5	0	0	72	16777215	0
+1320	Great! Stay smooth while in the saddle now	8	0	0	72	16777215	0
+1320	Big grind coming, don't let your cadence drop below 85rpm	8	0	0	72	16777215	50
+1380	Click up & go!	5	0	0	72	16777215	0
+1410	Nice! Only one more ramp	5	0	0	72	16777215	0
+1440	Big power through the legs while standing!	5	0	0	72	16777215	0
+1470	Fantastic job!	5	0	0	72	16777215	0
+1470	Go ahead and spin those legs out to recover a bit	8	0	0	72	16777215	10
+1470	OK, let's talk about what your body does while standing	8	0	0	72	16777215	60
+1470	Many times, it's very tempting to make drastic movements	8	0	0	72	16777215	70
+1470	But you should always keep efficiency in mind	8	0	0	72	16777215	80
+1470	A more calm & stable body is more efficient	8	0	0	72	16777215	90
+1470	Having said that...	8	0	0	72	16777215	100
+1470	leaning your bike from side to side is normal & expected	8	0	0	72	16777215	110
+1470	That leaning motion is the natural result of...	8	0	0	72	16777215	120
+1470	countering the pressure of the pedalstroke	8	0	0	72	16777215	130
+1470	So don't feel like you have to keep your bike completely still	8	0	0	72	16777215	140
+1470	Let the counter weighting happen, but...	8	0	0	72	16777215	150
+1470	leaning too much, especially when you're tired...	8	0	0	72	16777215	160
+1470	is only making your body work harder for the same or less speed	8	0	0	72	16777215	170
+1650	Spin it up!	5	0	0	72	16777215	0
+1650	Good, now get in your groove while in the saddle here	8	0	0	72	16777215	10
+1710	Time to stand!	5	0	0	72	16777215	0
+1770	Alright, strong in the saddle now	5	0	0	72	16777215	0
+1830	Push from the legs & stand!	5	0	0	72	16777215	0
+1860	Great!	3	0	0	72	16777215	0
+1860	Fight the urge to get a sloppy body when things get hard	8	0	0	72	16777215	50
+1920	Get up!	3	0	0	72	16777215	0
+1950	Almost there!	3	0	0	72	16777215	0
+1980	Push!	3	0	0	72	16777215	0
+2010	Now we're talkin'!	5	0	0	72	16777215	0
+2010	Only one set left now	5	0	0	72	16777215	10
+2010	Catch your breath & spin easy	5	0	0	72	16777215	20
+2010	Standing on a trainer may seem weird...	8	0	0	72	16777215	30
+2010	but think about it for a second	5	0	0	72	16777215	40
+2010	Our goal is to make you faster...	8	0	0	72	16777215	50
+2010	and standing in the right situations makes you faster	8	0	0	72	16777215	60
+2010	During short climbs or sprints...	8	0	0	72	16777215	70
+2010	standing allows you to put out massive torque...	8	0	0	72	16777215	80
+2010	and while this might tire you out quickly...	8	0	0	72	16777215	90
+2010	it could give you that advantage you need to break away	8	0	0	72	16777215	100
+2010	Also, during long climbing efforts...	8	0	0	72	16777215	110
+2010	it's easy to exhaust the muscles you use while sitting	8	0	0	72	16777215	120
+2010	When this happens...	8	0	0	72	16777215	130
+2010	standing up can shift the workload...	8	0	0	72	16777215	140
+2010	from a tired muscle group...	8	0	0	72	16777215	150
+2010	to a muscle group that's more fresh...	8	0	0	72	16777215	160
+2010	and this workout focuses on just that	5	0	0	72	16777215	170
+2190	Pick it up!	3	0	0	72	16777215	0
+2190	Good! Now focus on good form throughout this set	8	0	0	72	16777215	10
+2250	Stand & get after it!	5	0	0	72	16777215	0
+2310	Nice! Back in the saddle now	5	0	0	72	16777215	0
+2370	Get up!	3	0	0	72	16777215	0
+2400	Great job!	5	0	0	72	16777215	0
+2460	Big effort out of the saddle!	5	0	0	72	16777215	0
+2490	Awesome! Almost there	5	0	0	72	16777215	0
+2520	Last one! Stand & push!	5	0	0	72	16777215	0
+2550	Sweet! Way to go!	5	0	0	72	16777215	0
+2550	That workout is tough, but now you're even tougher!	8	0	0	72	16777215	10
+2550	Recover well & we'll see ya next time	8	0	0	72	16777215	20
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	2700	Workout
+240	270	VO2 Max 1
+300	330	Sprint 1
+360	390	Sprint 2
+570	630	Sweet Spot 1
+630	690	Sweet Spot 2
+690	750	Sweet Spot 3
+750	780	Threshold 1
+780	840	Threshold 2
+840	870	VO2 Max 2
+870	900	Sprint 3
+900	930	Sprint 4
+1110	1170	Sweet Spot 4
+1170	1230	Sweet Spot 5
+1230	1290	Sweet Spot 6
+1290	1320	Threshold 3
+1320	1380	Threshold 4
+1380	1410	VO2 Max 3
+1410	1440	Sprint 5
+1440	1470	Sprint 6
+1650	1710	Sweet Spot 7
+1710	1770	Sweet Spot 8
+1770	1830	Sweet Spot 9
+1830	1860	Threshold 5
+1860	1920	Threshold 6
+1920	1950	VO2 Max 4
+1950	1980	Sprint 7
+1980	2010	Sprint 8
+2190	2250	Sweet Spot 10
+2250	2310	Sweet Spot 11
+2310	2370	Sweet Spot 12
+2370	2400	Threshold 7
+2400	2460	Threshold 8
+2460	2490	VO2 Max 5
+2490	2520	Sprint 9
+2520	2550	Sprint 10
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

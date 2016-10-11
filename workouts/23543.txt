@@ -1,0 +1,96 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Mount Blackburn,68,184. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+15	64
+15	64
+40	64
+40	64
+41	80
+41	80
+51	80
+51	80
+52	60
+52	60
+81	60
+81	60
+82	85
+82	85
+92	85
+92	85
+93	65
+93	65
+126	65
+126	65
+127	80
+127	80
+137	80
+137	80
+138	60
+138	60
+160	60
+160	60
+161	85
+161	85
+171	85
+171	85
+172	65
+172	65
+200	65
+200	65
+201	80
+201	80
+211	80
+211	80
+212	60
+212	60
+240	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+900	Once you're thoroughly warmed up, perform 3-5 Form Sprints over this 25-minute stretch	8	0	0	72	16777215	-1
+2460	Spend 10 of these minutes alternating your Single Leg Focus	8	0	0	72	16777215	-1
+3120	Spend 5 minutes of this 29 minutes doing some Endurance Spinning	8	0	0	72	16777215	0
+4920	Another 10 minutes of alternating Single Leg Focus	8	0	0	72	16777215	-1
+5580	Spend 3 minutes at a time alternating between Pistons and Kick & Pull	8	0	0	72	16777215	0
+7620	Once more, alternate your Single Leg Focus for 10 minutes total	8	0	0	72	16777215	-1
+8280	Throw in 5 minutes of Endurance Spinning anytime during this stretch	8	0	0	72	16777215	0
+9660	Couple more times, alternate your Single Leg Focus for 10 minutes total	8	0	0	72	16777215	-1
+10320	Focus slipping? Add some Pistons and Kick & Pull drills	8	0	0	72	16777215	0
+12060	Another 10 minutes of alternating Single Leg Focus, almost done!	8	0	0	72	16777215	-1
+12720	How about 1 or 2 more Endurance Spins? 5 minutes each	8	0	0	72	16777215	0
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	14400	Workout
+900	2400	Endurance 1
+2400	2460	Endurance 2
+2460	3060	Tempo 1
+3060	3120	Endurance 3
+3120	4860	Endurance 4
+4860	4920	Endurance 5
+4920	5520	Sweet Spot 1
+5520	5580	Endurance 6
+5580	7560	Endurance 7
+7560	7620	Endurance 8
+7620	8220	Tempo 2
+8220	8280	Endurance 9
+8280	9600	Endurance 10
+9600	9660	Endurance 11
+9660	10260	Sweet Spot 2
+10260	10320	Endurance 12
+10320	12000	Endurance 13
+12000	12060	Endurance 14
+12060	12660	Tempo 3
+12660	12720	Endurance 15
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

@@ -1,0 +1,186 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Charybdis TC,100,50. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+2	60
+2	110
+2.5	110
+2.5	40
+3	40
+3	115
+3.5	115
+3.5	40
+4	40
+4	120
+4.5	120
+4.5	40
+6	40
+6	90
+6.5	120
+6.5	120
+9	120
+9	40
+11	40
+11	90
+11.5	120
+11.5	120
+14	120
+14	40
+16	40
+16	90
+16.5	120
+16.5	120
+19	120
+19	40
+21	40
+21	90
+21.5	120
+21.5	120
+24	120
+24	40
+26	40
+26	90
+26.5	120
+26.5	120
+29	120
+29	40
+30	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Today's workout uses VO2max efforts...	8	0	0	72	16777215	10
+0	to not only raise your high intensity capabilities...	8	0	0	72	16777215	20
+0	but to improve your overall fitness as well	8	0	0	72	16777215	30
+0	When these efforts are precisely calculated and monitored...	8	0	0	72	16777215	40
+0	they can even provide similar benefits to base training	8	0	0	72	16777215	50
+0	while still building endurance at high power outputs	8	0	0	72	16777215	60
+0	Just ahead are three short VO2max repeats that will prime you for the longer efforts ahead	8	0	0	72	16777215	90
+0	Use these as an opportunity to settle on a sustainable cadence...	8	0	0	72	16777215	100
+0	Not so quick you're gasping for air, and not so slow your muscles give out	8	0	0	72	16777215	110
+120	Pick it up!	5	0	0	72	16777215	0
+150	Nice, drop your power but keep most of your leg speed	8	0	0	72	16777215	0
+150	During this recovery make sure your body is relaxed...	8	0	0	72	16777215	10
+150	from your head to your toes	5	0	0	72	16777215	20
+180	Again, nice & quick...but relaxed	5	0	0	72	16777215	0
+210	Nice, ease up but keep most of your leg speed	8	0	0	72	16777215	0
+210	Relax and try to stay that way for the final 1-minute warmup	8	0	0	72	16777215	10
+210	Quick, light spin, one more minute	5	0	0	72	16777215	20
+240	Last one!	3	0	0	72	16777215	0
+270	Just relax & spin lightly, time to talk about the workout	8	0	0	72	16777215	0
+270	Each 3-minute kick will start out at 90% FTP before building to 120% FTP	8	0	0	72	16777215	10
+270	After each interval you'll be able to recover for 2 minutes	8	0	0	72	16777215	20
+270	Not a lot of time, but necessarily short to get 5 of these into a half-hour workout	8	0	0	72	16777215	30
+270	The key to making these short intervals effective is finding a power output that you can repeat...	8	0	0	72	16777215	40
+270	The effort shouldn't be so strong that you can't sustain it...	8	0	0	72	16777215	50
+270	but you should finish each interval with very little left	8	0	0	72	16777215	60
+270	This may take some trial & error, but this is all part of the process	8	0	0	72	16777215	70
+270	Pacing is something that people spend years refining	8	0	0	72	16777215	80
+360	Let's get things rolling, ramp into a quick spin...	8	0	0	72	16777215	0
+360	trying to keep your cadence over 100rpm throughout the interval	8	0	0	72	16777215	10
+390	Good build, now hold it here!	5	0	0	72	16777215	0
+390	First 30 seconds out of the way, keep your legs quick	8	0	0	72	16777215	30
+390	A minute in, keep your power steady & stay relaxed	8	0	0	72	16777215	60
+390	A minute to go, but just focus on this next 30 seconds	8	0	0	72	16777215	90
+390	Final 30! Get through it 10 seconds at a time	5	0	0	72	16777215	120
+390	Another 10 seconds! Limit your focus	5	0	0	72	16777215	130
+390	Final 10 seconds, not a second less!	8	0	0	72	16777215	140
+540	Good job! First one down	5	0	0	72	16777215	0
+540	Catch your breath and loosen up, shake off any unnecessary tension	8	0	0	72	16777215	10
+540	These efforts can be hard to endure, so if you find them too difficult...	8	0	0	72	16777215	60
+540	use the up & down arrows to adjust the Workout Intensity	8	0	0	72	16777215	70
+540	You can alter the power, but stick to the timeline	8	0	0	72	16777215	80
+540	Limiting your recovery time is very important too...	8	0	0	72	16777215	90
+540	because this is what really spurs the growth in fitness	8	0	0	72	16777215	100
+540	10 seconds to the second interval	5	0	0	72	16777215	110
+660	Ramp it up! Quick legs, stable upper body	8	0	0	72	16777215	0
+690	You're there, now hold it!	5	0	0	72	16777215	0
+690	One minute in, make sure you're staying relaxed	8	0	0	72	16777215	30
+690	One minute to go, this is where things get REALLY productive	8	0	0	72	16777215	90
+690	Final 30 seconds, 10 at a time!	5	0	0	72	16777215	120
+690	Another 10, keep that form!	5	0	0	72	16777215	130
+690	Final 10! No slip in form	5	0	0	72	16777215	140
+840	Good work! Back way off and rein in your breathing	5	0	0	72	16777215	0
+840	Make the most of your short but adequate recovery	8	0	0	72	16777215	10
+840	But make sure you don't stop pedaling	8	0	0	72	16777215	20
+840	Active recovery is more effective than sitting & gasping...	8	0	0	72	16777215	30
+840	because with your legs spinning & muscles doing SOME work...	8	0	0	72	16777215	40
+840	you are flushing out byproduct from your muscles	8	0	0	72	16777215	50
+840	And any physical cost by continuing to spin is minimal	8	0	0	72	16777215	60
+840	So let your legs spin, light & easy	5	0	0	72	16777215	70
+840	Middle interval is coming up, get ready	5	0	0	72	16777215	110
+960	Let's speed it up, stay relaxed the whole time	8	0	0	72	16777215	0
+990	Keep it rolling, get through the first minute	8	0	0	72	16777215	0
+990	Good, now get through the next minute	8	0	0	72	16777215	30
+990	Don't think any futher ahead than this single minute	8	0	0	72	16777215	40
+990	Excellent, now make this last minute look downright easy	8	0	0	72	16777215	90
+990	Pedal so smoothly that it's hard to tell how hard you're working	8	0	0	72	16777215	100
+990	Final 30 seconds, not let up!	5	0	0	72	16777215	120
+990	Get through another 10 seconds!	5	0	0	72	16777215	130
+990	Final 10 seconds, no bailing out early!	5	0	0	72	16777215	140
+1140	Awesome! Ease way up	5	0	0	72	16777215	0
+1140	Sit back on the saddle and relax	8	0	0	72	16777215	10
+1140	Keep your cadence up, but make sure you're taking it easy	8	0	0	72	16777215	20
+1140	With two intervals left, it's time to refine your technique	8	0	0	72	16777215	30
+1140	Even though some of the pro riders on TV aren't proper examples...	8	0	0	72	16777215	40
+1140	we can all benefit from a still & relaxed upper body	8	0	0	72	16777215	50
+1140	Every muscle contraction requires energy...	8	0	0	72	16777215	60
+1140	and if you let your torso bob with your pedaling motion...	8	0	0	72	16777215	70
+1140	you are needlessly engaging a lot of extra muscle	8	0	0	72	16777215	80
+1140	So keeping a relaxed but stable upper body...	8	0	0	72	16777215	90
+1140	can save precious energy that you could be using to pedal	8	0	0	72	16777215	100
+1140	Pay attention to that during this next interval	8	0	0	72	16777215	110
+1260	Let's spin it up! Quick but controlled	8	0	0	72	16777215	0
+1290	Nice! Now keep a relaxed & quiet upper body for 30 seconds	8	0	0	72	16777215	0
+1290	Excellent, see if you can stay just as smooth for another minute	8	0	0	72	16777215	30
+1290	The closing minute is the real challenge in many ways...	8	0	0	72	16777215	90
+1290	and remaining smooth & relaxed is certainly one of them	8	0	0	72	16777215	100
+1290	But this is when you need your top form the most	8	0	0	72	16777215	110
+1290	30 seconds, don't waste your energy with useless upper body movement	8	0	0	72	16777215	120
+1290	Make it last another 10 seconds!	5	0	0	72	16777215	130
+1290	Final 10 seconds, you've got this!	5	0	0	72	16777215	140
+1440	Nice work! Recover, recover, recover	5	0	0	72	16777215	0
+1440	During this next interval, focus on the muscle tension in your body	8	0	0	72	16777215	60
+1440	Just like the needless motion of your upper body...	8	0	0	72	16777215	70
+1440	clenching your jaw, making a "pain face", however intense your pain face may be...	8	0	0	72	16777215	80
+1440	does nothing to make you faster, quite the opposite	8	0	0	72	16777215	90
+1440	So just like before, anytime you feel yourself tensing up...	8	0	0	72	16777215	100
+1440	relax and focus on your pedalstroke, your breathing, your power	8	0	0	72	16777215	110
+1560	Last one, bring it up!	5	0	0	72	16777215	0
+1590	There you go! Now stay extra relaxed for this first full-power 30 seconds	8	0	0	72	16777215	0
+1590	Another minute of smooth, relaxed form & full breaths	8	0	0	72	16777215	30
+1590	Final minute of the workout!	5	0	0	72	16777215	90
+1590	30 seconds to keep it all together!	5	0	0	72	16777215	120
+1590	Hang on for another 10 seconds!	5	0	0	72	16777215	130
+1590	Final 10, keep it together!	5	0	0	72	16777215	140
+1740	Very nice work! Short, sweet & intense	8	0	0	72	16777215	0
+1740	You've just tackled nearly 15 minutes well above FTP!	8	0	0	72	16777215	10
+1740	You deserve some recovery: nutrition, hydration, rest	8	0	0	72	16777215	20
+1740	Get to it, and we'll see you next time	8	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	1800	Workout
+120	150	VO2 Max 1
+180	210	VO2 Max 2
+240	270	VO2 Max 3
+360	390	Threshold 1
+390	540	VO2 Max 4
+660	690	Threshold 2
+690	840	VO2 Max 5
+960	990	Threshold 3
+990	1140	VO2 Max 6
+1260	1290	Threshold 4
+1290	1440	VO2 Max 7
+1560	1590	Threshold 5
+1590	1740	VO2 Max 8
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

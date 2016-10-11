@@ -1,0 +1,81 @@
+[COURSE HEADER]
+VERSION = 2
+UNITS = ENGLISH
+DESCRIPTION = Whaleback, 85, 72, 4x5, 20MP
+FILE NAME = 4x5-20MP.ERG
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	55
+5	60
+10	65
+15	65
+15	90
+15.5	90
+15.5	65
+16	65
+16	92
+16.5	92
+16.5	65
+17	65
+17	95
+17.5	95
+17.5	65
+18	65
+18	97
+18.5	97
+18.5	65
+19	65
+19	100
+19.5	100
+19.5	65
+20	70
+25	70
+25	105
+30	105
+30	60
+32	60
+32	105
+37	105
+37	60
+39	60
+39	105
+44	105
+44	60
+46	60
+46	106
+51	106
+51	60
+53	60
+55	55
+60	50
+[END COURSE DATA]
+[COURSE TEXT]
+10	Hi, I am Coach Jorge!	8	0	0	72	0xFFFFFF
+20	Head Coach for E3 Training Solutions	8	0	0	72	0xFFFFFF
+30	This session is geared to improve your 20 min Power	8	0	0	72	0xFFFFFF
+60	It is a broken 20 min interval workout	8	0	0	72	0xFFFFFF
+120	Enjoy the Warm up!	8	0	0	72	0xFFFFFF
+870	On/Off efforts coming up	8	0	0	72	0xFFFFFF
+1433	The main set is coming up, get ready!	8	0	0	72	0xFFFFFF
+1848	1 down, 3 to go	8	0	0	72	0xFFFFFF
+2288	half way done, 2 more to go	8	0	0	72	0xFFFFFF
+2703	Last set coming up, finish strong!	8	0	0	72	0xFFFFFF
+3073	DONE!	8	0	0	72	0xFFFFFF
+3118	That wasn't so hard, right?	8	0	0	72	0xFFFFFF
+3230	Make sure you finish this out and cool down	8	0	0	72	0xFFFFFF
+3380	www.e3ts.com	15	0	0	72	0xFFFFFF
+[END COURSE TEXT]
+[INTERVAL DATA]
+0	3600	Workout
+900	930	Warmup 1
+960	990	Warmup 2
+1020	1050	Warmup 3
+1080	1110	Warmup 4
+1140	1170	Warmup 5
+1500	1800	Interval 1
+1920	2220	Interval 2
+2340	2640	Interval 3
+2760	3060	Interval 4
+[END INTERVAL DATA]

@@ -1,0 +1,173 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Bays +1,75,85. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+15	75
+15	75
+20	75
+20	180
+20.33	180
+20.33	20
+21	75
+21	75
+36	75
+36	180
+36.33	180
+36.33	20
+37	75
+37	75
+52	75
+52	180
+52.33	180
+52.33	11
+53	66
+53	75
+68	75
+68	180
+68.33	180
+68.33	20
+69	75
+69	75
+80	75
+80	75
+90	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	A solid 15 minutes of warmup...	5	0	0	72	16777215	10
+0	with light & quick feet	5	0	0	72	16777215	17
+0	Another slow build toward today's sprints...	8	0	0	72	16777215	30
+0	during an otherwise fairly easy endurance ride	5	0	0	72	16777215	37
+0	You'll face 4 muscle activation drills, or Sprints...	5	0	0	72	16777215	45
+0	so the workout will be a bit more engaging...	5	0	0	72	16777215	52
+0	than simply noodling along for an hour	5	0	0	72	16777215	59
+0	More on that later...	3	0	0	72	16777215	66
+0	just warm steadily and practice pedaling well for now	5	0	0	72	16777215	71
+900	Keep things light & fluid for a few more minutes...	5	0	0	72	16777215	0
+900	as we work toward today's first of 4 high-intensity efforts	5	0	0	72	16777215	7
+900	All with the purpose of improved Muscle Activation...	5	0	0	72	16777215	14
+900	or an increase in the number of muscle fibers you're able to recruit	8	0	0	72	16777215	21
+900	Increasing your capacity for fiber recruitment means higher power potential	8	0	0	72	16777215	31
+900	We know this, but the icing on this cake...	5	0	0	72	16777215	41
+900	is how this increase in muscle activty can extend muscle endurance	8	0	0	72	16777215	48
+900	This higher recruitment capacity...	5	0	0	72	16777215	58
+900	spreads your workload across more muscle fibers	5	0	0	72	16777215	65
+900	By sharing the work...	5	0	0	72	16777215	72
+900	the usually overworked fibers get more rest	5	0	0	72	16777215	79
+900	This Motor Unit Cycling improves with increased muscle activity	8	0	0	72	16777215	86
+900	The cycling from tired fibers to fresh ones helps postpone fatigue	8	0	0	72	16777215	96
+900	But first, you have to be able to recruit more fibers	5	0	0	72	16777215	106
+900	Enter muscle fiber recruitment drills	5	0	0	72	16777215	113
+900	You'll force your legs to activate a lot of muscle...	5	0	0	72	16777215	120
+900	but for only brief periods of time...	5	0	0	72	16777215	127
+900	in order to avoid fatiguing your muscles so much...	5	0	0	72	16777215	134
+900	that subsequent workouts suffer	5	0	0	72	16777215	141
+900	So you'll work really hard for 20 seconds at a time...	5	0	0	72	16777215	150
+900	four times in the case of Bays	5	0	0	72	16777215	157
+900	20 seconds of all-out, seated sprinting...	5	0	0	72	16777215	165
+900	followed by several minutes of easy spinning before you do it again	8	0	0	72	16777215	172
+900	First sprint is 1 minute away	5	0	0	72	16777215	240
+900	Try to keep your spin high, 100rpm or quicker	5	0	0	72	16777215	247
+900	You only have to hold your speed & control for 20 seconds...	5	0	0	72	16777215	254
+900	and then you'll settle right back into your current effort level	5	0	0	72	16777215	261
+900	Lots of leg speed, control & power	5	0	0	72	16777215	283
+900	Get ready...	5	0	0	72	16777215	290
+900	3...	1	0	0	72	16777215	297
+900	2...	1	0	0	72	16777215	298
+900	1...	1	0	0	72	16777215	899
+1200	Go hard!	3	0	0	72	16777215	0
+1200	10 more seconds!	3	0	0	72	16777215	10
+1200	Keep your power high!	3	0	0	72	16777215	15
+1220	Well done	3	0	0	72	16777215	0
+1220	Ease off the gas & slow things down	5	0	0	72	16777215	5
+1260	Settle back into a stretch of light but still challenging spinning...	8	0	0	72	16777215	0
+1260	and regain any form lost to sloppy speed work	5	0	0	72	16777215	10
+1260	1 minute away from your second sprint effort	5	0	0	72	16777215	840
+1260	As aways, if you find early sprint efforts too easy...	8	0	0	72	16777215	847
+1260	feel free to work a little harder each time	5	0	0	72	16777215	855
+1260	And electronic trainer riders...	5	0	0	72	16777215	862
+1260	switch to Slope mode if you like	5	0	0	72	16777215	869
+1260	In either case, go as hard as you can for 20 seconds, seated	8	0	0	72	16777215	876
+1260	Get ready...	5	0	0	72	16777215	890
+1260	3...	1	0	0	72	16777215	897
+1260	2...	1	0	0	72	16777215	898
+1260	1...	1	0	0	72	16777215	899
+2160	Go hard!	3	0	0	72	16777215	0
+2160	10 seconds to go!	3	0	0	72	16777215	10
+2160	Keep it!	3	0	0	72	16777215	15
+2180	Well done	3	0	0	72	16777215	0
+2180	Dial things back & catch your breath	5	0	0	72	16777215	5
+2220	Settle into another stretch of moderate spinning...	5	0	0	72	16777215	0
+2220	and smooth things out if necessary	5	0	0	72	16777215	7
+2220	1 minute away from seated sprint #3	5	0	0	72	16777215	840
+2220	If you're still finding these efforts a little too easy...	5	0	0	72	16777215	847
+2220	feel free to work even harder this time	6	0	0	72	16777215	854
+2220	In the saddle, get ready...	5	0	0	72	16777215	890
+2220	3...	1	0	0	72	16777215	897
+2220	2...	1	0	0	72	16777215	898
+2220	1...	1	0	0	72	16777215	899
+3120	All out!	3	0	0	72	16777215	0
+3120	10 seconds left!	3	0	0	72	16777215	10
+3120	5 seconds! Don't quit	3	0	0	72	16777215	15
+3140	Nice job, settle things down again	5	0	0	72	16777215	0
+3180	Ease into yet another bout of moderate spinning...	5	0	0	72	16777215	0
+3180	and smooth things out if sacrificed any form	5	0	0	72	16777215	7
+3180	1 minute away from your fourth & final sprint effort	5	0	0	72	16777215	840
+3180	Still finding the sprints a bit too easy?	5	0	0	72	16777215	847
+3180	You know what to do ;-)	5	0	0	72	16777215	854
+3180	Electronic trainer riders in Ergo mode...	5	0	0	72	16777215	870
+3180	consider switching to Slope mode at least once	5	0	0	72	16777215	877
+3180	See what it's like to sprint unrestricted	5	0	0	72	16777215	884
+3180	Get ready	5	0	0	72	16777215	890
+3180	3...	1	0	0	72	16777215	897
+3180	2...	1	0	0	72	16777215	898
+3180	1...	1	0	0	72	16777215	899
+4080	All out!	3	0	0	72	16777215	0
+4080	Final 10 seconds!	3	0	0	72	16777215	10
+4080	Hold it!	3	0	0	72	16777215	15
+4100	Nice job	3	0	0	72	16777215	0
+4100	Settle things down one last time	5	0	0	72	16777215	5
+4140	You're done with the hard stuff, time to ride steadily	5	0	0	72	16777215	0
+4140	Again, use the remaining minutes...	5	0	0	72	16777215	60
+4140	to spend time working in your aero position	5	0	0	72	16777215	67
+4140	Become increasingly familar with this low riding position...	5	0	0	72	16777215	74
+4140	especially when the going is relatively easy	5	0	0	72	16777215	81
+4140	And keep experimenting with bike fit tweaks as necessary	5	0	0	72	16777215	90
+4140	Spend 90-120 seconds in your aero position...	5	0	0	72	16777215	97
+4140	even longer if your power or form doesn't suffer	5	0	0	72	16777215	104
+4140	Then ride upright for the same duration, 90-120 seconds	5	0	0	72	16777215	111
+4140	You can even move in & out of the saddle a little bit	5	0	0	72	16777215	118
+4140	When seated though, keep your spin fairly quick	5	0	0	72	16777215	125
+4140	85 rpm is the recommended minimum...	5	0	0	72	16777215	132
+4140	but plenty of the best time trialists ride considerably quicker	5	0	0	72	16777215	139
+4140	Nudge things up as high as 90-100rpm if you're curious	5	0	0	72	16777215	146
+4140	You might find similar power for lower muscle stress...	5	0	0	72	16777215	153
+4140	and consequently, fresher legs for longer durations	5	0	0	72	16777215	160
+4800	Well done	5	0	0	72	16777215	0
+4800	Time to bring things down gradually...	5	0	0	72	16777215	7
+4800	and rest up for whatever lies ahead	5	0	0	72	16777215	14
+4800	We'll see you next time	5	0	0	72	16777215	21
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+900	1200	Endurance 1
+1200	1220	Sprint 1
+1260	2160	Endurance 2
+2160	2180	Sprint 2
+2220	3120	Endurance 3
+3120	3140	Sprint 3
+3180	4080	Endurance 4
+4080	4100	Sprint 4
+4140	4800	Endurance 5
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

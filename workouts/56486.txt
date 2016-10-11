@@ -1,0 +1,207 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = 2014 8DC - Stage 5,88,72. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	65
+3	65
+3.5	78
+3.5	78
+8.75	78
+8.75	78
+9.16	130
+9.16	180
+9.33	180
+9.33	20
+9.91	85
+9.91	85
+17.41	85
+17.41	85
+17.83	130
+17.83	180
+18	180
+18	20
+18.75	81
+18.75	81
+24.78	81
+24.78	81
+25.28	60
+25.28	60
+27.95	60
+27.95	60
+28.45	95
+28.45	95
+31.7	95
+31.7	95
+32.2	90
+32.2	90
+35.2	90
+35.2	90
+35.7	97
+35.7	97
+39.46	100
+39.46	100
+39.8	130
+39.8	135
+40.13	135
+40.13	40
+40.55	88
+40.55	88
+43.01	88
+43.01	88
+43.51	92
+43.51	92
+45.88	92
+45.88	92
+46.38	90
+46.38	90
+48.93	105
+48.93	105
+49.35	130
+49.35	160
+49.51	160
+49.51	20
+49.93	50
+49.93	50
+56	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome back!	8	0	0	72	16777215	1
+0	Stage 5 of 8DC is upon us...	8	0	0	72	16777215	10
+0	and while most likely a non-factor in our fight for the overall...	8	0	0	72	16777215	20
+0	it's still likely to be a hard day with a high potential for action	8	0	0	72	16777215	30
+0	A hard day made harder by the fatigue carried over from yesterday...	8	0	0	72	16777215	40
+0	...and the mounting fatigue from all 4 previous stages	8	0	0	72	16777215	50
+0	But we're not the only ones suffering the effects of fatigue...	8	0	0	72	16777215	60
+0	so be encouraged by the fact that everyone is tired, not just you	8	0	0	72	16777215	70
+0	What remains to be seen is HOW tired you & the rest of the field are	8	0	0	72	16777215	80
+0	We're betting we'll be better served by a day of "easy" riding...	8	0	0	72	16777215	90
+0	than a day of low-yield, aggressive effort	8	0	0	72	16777215	100
+0	So let's plan to tuck in and do as little work as possible...	8	0	0	72	16777215	110
+0	while still retaining our placement in the General Classification	8	0	0	72	16777215	120
+0	Which brings us to some good news!	8	0	0	72	16777215	130
+0	Yesterday's courageous efforts bumped you into the top-10!	8	0	0	72	16777215	140
+0	But no time to rest on such laurels, we'll celebrate later	8	0	0	72	16777215	150
+180	Annnnd there goes the first break of the day	8	0	0	72	16777215	0
+180	Bound to be several until one sticks...	8	0	0	72	16777215	10
+180	but none are our concern today	8	0	0	72	16777215	20
+210	The field is picking up the pace heading toward sprint 1...	8	0	0	72	16777215	0
+210	so just tuck in toward the front & do your best to stay out of the wind	8	0	0	72	16777215	10
+210	Being placed highly in the GC carries a certain level of privilege...	8	0	0	72	16777215	20
+210	one we'll exploit today in an attempt to keep you sheltered	8	0	0	72	16777215	30
+210	Riders are lining up for today's first sprint...	8	0	0	72	16777215	270
+210	we'll follow fairly closely & you can decide whether or not to partake	8	0	0	72	16777215	280
+210	One rationale for sprinting regardless of outcome is training effect	8	0	0	72	16777215	290
+210	By mixing in a handful of brief, all-out surges...	8	0	0	72	16777215	300
+525	you're keeping yourself sharp both mentally & neurologically	8	0	0	72	16777215	0
+525	But if your fatigue is super high, skip the sprints	8	0	0	72	16777215	10
+525	Gonna go in 5...	2	0	0	72	16777215	19
+525	4...	1	0	0	72	16777215	21
+525	3...	1	0	0	72	16777215	22
+525	2...	1	0	0	72	16777215	23
+525	1...	1	0	0	72	16777215	24
+550	Go!	3	0	0	72	16777215	0
+550	5 seconds!	1	0	0	72	16777215	5
+550	3...	1	0	0	72	16777215	7
+550	2...	1	0	0	72	16777215	8
+550	1...	1	0	0	72	16777215	9
+560	Done	3	0	0	72	16777215	0
+560	Settle back into the field & only work as hard as necessary	8	0	0	72	16777215	5
+595	Looks as though the field is already concerned with the early break	8	0	0	72	16777215	0
+595	Can we blame them?	8	0	0	72	16777215	10
+595	We may have inadvertently doomed future breaks with yesterday's success	8	0	0	72	16777215	20
+595	Sorry everyone ;)	8	0	0	72	16777215	30
+595	Even keel, no bold moves, just ride high tempo	8	0	0	72	16777215	40
+595	Sprint 2 on the horizon...	8	0	0	72	16777215	385
+595	stay toward the front, try to find a higher placed rider to follow	8	0	0	72	16777215	395
+595	High-GC riders with big teams will have the best shelter...	8	0	0	72	16777215	405
+595	and often the safest placement, that's where we want to be	8	0	0	72	16777215	415
+595	Again, sprint if you think you'll benefit...	8	0	0	72	16777215	425
+595	skip the sprint if you're sure it will just bury you deeper in fatigue	8	0	0	72	16777215	435
+1045	Wind it up, 25 seconds...	8	0	0	72	16777215	0
+1045	10 seconds...	3	0	0	72	16777215	15
+1045	3...	1	0	0	72	16777215	22
+1045	2...	1	0	0	72	16777215	23
+1045	1...	1	0	0	72	16777215	24
+1070	Go!	3	0	0	72	16777215	0
+1070	3...	1	0	0	72	16777215	7
+1070	2...	1	0	0	72	16777215	8
+1070	1...	1	0	0	72	16777215	9
+1080	Shut it down	3	0	0	72	16777215	0
+1080	Find yourself a "safe" wheel & stay hidden from the wind	8	0	0	72	16777215	5
+1125	The chase is relenting slightly...	8	0	0	72	16777215	0
+1125	but no real concern of ours, not today	8	0	0	72	16777215	10
+1125	Get comfortable & ride steadily	8	0	0	72	16777215	20
+1125	and do your best to stay out of harm's way	8	0	0	72	16777215	30
+1487	Bit of a descent coming up...	8	0	0	72	16777215	0
+1487	just spin quickly & flush out your legs	8	0	0	72	16777215	10
+1517	Still on the descent, stay relaxed & hyper-aware	8	0	0	72	16777215	0
+1677	Heading to the base of today's only categorized climb	8	0	0	72	16777215	0
+1677	Same plan though, minimize your effort...	8	0	0	72	16777215	10
+1677	save it for tomorrow, you'll need it	8	0	0	72	16777215	20
+1707	Fairly hard pace, but nothing you can't handle	8	0	0	72	16777215	0
+1932	Plenty of tired riders coming unhitched, do your best to stay on	8	0	0	72	16777215	0
+2142	Pushing toward the summit, still a manageable pace though	8	0	0	72	16777215	0
+2142	This is bound to ramp up a bit for the KOM/QOM	8	0	0	72	16777215	168
+2142	This one's out of our hands, so just bear down & stay in contact	8	0	0	72	16777215	178
+2368	Bit of a push...	8	0	0	72	16777215	0
+2368	Hang on, summit's super close	8	0	0	72	16777215	10
+2388	Short kick to the line!	8	0	0	72	16777215	0
+2388	Stay on it!	8	0	0	72	16777215	10
+2408	No problem, get a few deep breaths in...	8	0	0	72	16777215	0
+2408	and ease back into the field	8	0	0	72	16777215	10
+2433	Well under 10 minutes to the end of today's stage!	8	0	0	72	16777215	0
+2433	Just keep it together & stay relaxed	8	0	0	72	16777215	10
+2433	Draw big breaths from your belly...	8	0	0	72	16777215	20
+2433	drop your shoulders, relax your neck, soften your elbows	8	0	0	72	16777215	30
+2611	About 6 minutes of steady effort left	8	0	0	72	16777215	0
+2783	Last 3 minutes before the final sprint...	8	0	0	72	16777215	0
+2783	things are bound to ramp up	8	0	0	72	16777215	10
+2783	Stay sheltered but do a bit of work to stay up front	8	0	0	72	16777215	97
+2936	Final sprint's upon us...	8	0	0	72	16777215	0
+2936	stay tucked in toward the front...	5	0	0	72	16777215	10
+2936	and wide awake	3	0	0	72	16777215	17
+2961	Get on it! No time gaps	3	0	0	72	16777215	0
+2961	3...	1	0	0	72	16777215	7
+2961	2...	1	0	0	72	16777215	8
+2961	1...	1	0	0	72	16777215	9
+2971	Perfectly done	3	0	0	72	16777215	0
+2971	Across the line, drama-free	8	0	0	72	16777215	5
+2996	Get rested up, tomorrow's a big day	8	0	0	72	16777215	0
+2996	We'll see you then	5	0	0	72	16777215	10
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3360	Workout
+210	525	Tempo 1
+525	550	Threshold 1
+550	560	Sprint 1
+595	1045	Sweet Spot 1
+1045	1070	VO2 Max 1
+1070	1080	Sprint 2
+1125	1487	Tempo 2
+1707	1902	Sweet Spot 2
+1902	1932	Sweet Spot 3
+1932	2112	Sweet Spot 4
+2112	2142	Sweet Spot 5
+2142	2368	Threshold 2
+2368	2388	VO2 Max 2
+2388	2408	Sprint 3
+2433	2581	Sweet Spot 6
+2581	2611	Sweet Spot 7
+2611	2753	Sweet Spot 8
+2753	2783	Sweet Spot 9
+2783	2936	Threshold 3
+2936	2961	VO2 Max 3
+2961	2971	Sprint 4
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

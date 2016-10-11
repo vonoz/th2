@@ -1,0 +1,51 @@
+[COURSE HEADER]
+VERSION = 2
+UNITS = ENGLISH
+DESCRIPTION = 0, 0, Open workout with no real target
+FILE NAME = free ride180.txt
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	0
+10	0
+20	0
+30	0
+40	0
+50	0
+60	0
+70	0
+80	0
+90	0
+100	0
+110	0
+120	0
+130	0
+140	0
+150	0
+160	0
+170	0
+180	0
+[END COURSE DATA]
+
+[INTERVAL DATA]
+0	10800	Workout
+0	600	Interval 1
+600	1200	Interval 2
+1200	1800	Interval 3
+1800	2400	Interval 4
+2400	3000	Interval 5
+3000	3600	Interval 6
+3600	4200	Interval 7
+4200	4800	Interval 8
+4800	5400	Interval 9
+5400	6000	Interval 10
+6000	6600	Interval 11
+6600	7200	Interval 12
+7200	7800	Interval 13
+7800	8400	Interval 14
+8400	9000	Interval 15
+9000	9600	Interval 16
+9600	10200	Interval 17
+10200	10800	Interval 18
+[END INTERVAL DATA]

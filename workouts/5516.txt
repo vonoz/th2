@@ -1,0 +1,215 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Mono,76,87. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	85
+8	85
+8	50
+10	50
+10	60
+30	60
+30	95
+32	95
+32	105
+33	105
+33	95
+35	95
+35	105
+36	105
+36	50
+41	50
+41	95
+43	95
+43	105
+44	105
+44	95
+46	95
+46	105
+47	105
+47	50
+52	50
+52	95
+54	95
+54	105
+55	105
+55	95
+57	95
+57	105
+58	105
+58	50
+63	50
+63	95
+65	95
+65	105
+66	105
+66	95
+68	95
+68	105
+69	105
+69	60
+90	60
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Mono, a cluster of short & sweet over-under intervals	8	0	0	72	16777215	10
+0	As with most over-under work, the primary aim is improved muscular endurance	8	0	0	72	16777215	20
+0	By bouncing back & forth across your FTP, you alternately load up your muscles...	8	0	0	72	16777215	30
+0	and then gradually clear them off before doing it again	8	0	0	72	16777215	40
+0	At no point during the intervals will your wattage stray far from your FTP	8	0	0	72	16777215	50
+0	You'll either be just below it at 95% FTP or slightly above it at 105% FTP	8	0	0	72	16777215	60
+0	Additionally, you'll face a couple moderate-duration Endurance intervals...	8	0	0	72	16777215	70
+0	before and after the much more demanding over-unders	8	0	0	72	16777215	80
+0	More on this later, just continue warming with a light & comfortably quick spin	8	0	0	72	16777215	90
+300	During this 3-minute warming effort, try to keep your spin above 85rpm...	8	0	0	72	16777215	0
+300	perferably closer to 95rpm as long as you don't bounce in the saddle	8	0	0	72	16777215	10
+480	Ease off the power for a couple minutes but hang on to most of your leg speed	8	0	0	72	16777215	0
+480	Light & quick legs while you draw full breaths then exhale strongly	8	0	0	72	16777215	10
+600	Over the course of this next 20 minutes, keep your spin comfortably quick...	8	0	0	72	16777215	0
+600	and focus on feeling your feet all the way around the pedalstroke	8	0	0	72	16777215	10
+600	Lightly kick your toes forward before lightly pulling your heels backward	8	0	0	72	16777215	20
+600	Actively utilize this kick & pull in order to improve your pedal economy...	8	0	0	72	16777215	30
+600	as well as to remove some of the burden from your over-utilized quads	8	0	0	72	16777215	40
+600	Halfway through this opening stretch of Endurance work, try to stay relaxed	8	0	0	72	16777215	600
+600	Anytime the fatigue starts to creep into the working muscles...	8	0	0	72	16777215	610
+600	most riders unknowingly accumulate tension in many non-working muscles	8	0	0	72	16777215	620
+600	So start by relaxing your face & jaw, make the back of your neck longer	8	0	0	72	16777215	630
+600	Then drop your shoulders away from your ears & lengthen your spine a little	8	0	0	72	16777215	640
+600	Soften your elbows and loosen your grip on the handlebars	8	0	0	72	16777215	650
+600	Finally, keep your hips stable & glued to the saddle	8	0	0	72	16777215	660
+600	Try to feel your sit bones in constant contact with the wide part of your seat	8	0	0	72	16777215	670
+600	First round of over-unders just ahead, keep your spin fairly quick	8	0	0	72	16777215	1170
+600	When the workload jumps upward, try to keep your spin steady...	8	0	0	72	16777215	1180
+600	and your body relaxed	5	0	0	72	16777215	1190
+1800	If you're not there already, try to spin between 85-95rpm...	8	0	0	72	16777215	0
+1800	and adjust to the effort increase for a couple minutes	8	0	0	72	16777215	10
+1800	The first over-segment or "surge" is just ahead	8	0	0	72	16777215	90
+1800	If you want to increase your cadence a bit, start adding 5-10rpm now	8	0	0	72	16777215	100
+1800	Otherwise, just stay steady & get ready to work a little harder	8	0	0	72	16777215	110
+1920	One minute, work just a little bit harder	5	0	0	72	16777215	0
+1980	Good, but now the real work begins - don't back off too much	8	0	0	72	16777215	0
+1980	The burn that accumulates during the surges is actually your friend	8	0	0	72	16777215	10
+1980	So try to get used to this fairly uncomfortable sensation in your legs...	8	0	0	72	16777215	20
+1980	and let the burn dissipate slowly, fading gradually over these 2 minutes	8	0	0	72	16777215	30
+1980	By now, most or all of the burn will have cleared...	8	0	0	72	16777215	90
+1980	but this is a matter of your fitness & will change over time	8	0	0	72	16777215	100
+1980	In any case, get ready to load up your legs with another bit of burn	8	0	0	72	16777215	110
+2100	Keep your cadence or lift it a little	5	0	0	72	16777215	0
+2100	Final 30 seconds, keep your body still & relaxed	8	0	0	72	16777215	30
+2160	Nicely done, try to keep spinning for a couple easy minutes	8	0	0	72	16777215	0
+2160	And try to slow your breathing promptly by strongly clearing your lungs	8	0	0	72	16777215	10
+2160	So there you have it, your first of 4 over-unders in your legs	8	0	0	72	16777215	60
+2160	And as you surely noticed, the hardest part is continuing...	8	0	0	72	16777215	70
+2160	when your legs are flooded, working through the burn	8	0	0	72	16777215	80
+2160	But that's arguably the most productive part of these intervals	8	0	0	72	16777215	90
+2160	By not allowing the temporary discomfort to derail your effort...	8	0	0	72	16777215	100
+2160	you're not only becoming tougher, more resilient...	8	0	0	72	16777215	110
+2160	but with consistency & proper recovery, your body will eventually adapt to this stress	8	0	0	72	16777215	120
+2160	This increase in your fitness allows you to better process the excess lactate	8	0	0	72	16777215	130
+2160	So not only can you clear the burn faster, but you can work harder...	8	0	0	72	16777215	140
+2160	and longer before the burn sets in or becomes overwhelming	8	0	0	72	16777215	150
+2160	So again, the BURN is your FRIEND...	8	0	0	72	16777215	160
+2160	at least within the context of over-under drills	8	0	0	72	16777215	170
+2160	Round 2 just ahead so make sure you're spinning above 85rpm	8	0	0	72	16777215	270
+2160	Anchor your sit bones on the saddle, relax your body...	8	0	0	72	16777215	280
+2160	and try to stay quick & relaxed when the work jumps up	8	0	0	72	16777215	290
+2460	Smoothly pick up the power & keep your pedaling fluid	8	0	0	72	16777215	0
+2460	The first couple minutes after a recovery can be a little challenging...	8	0	0	72	16777215	10
+2460	but the discomfort will pass as you start to settle in...	8	0	0	72	16777215	20
+2460	especially if you emphasize the quality of your breathing	8	0	0	72	16777215	30
+2460	Try to use your breathing muscles more effectively by moving your belly	8	0	0	72	16777215	40
+2460	Let your belly distend as you inhale, really pooch it out...	8	0	0	72	16777215	50
+2460	then draw your abdomen toward your spine as you exhale, get narrow	8	0	0	72	16777215	60
+2580	Either pick up your spin or hold your leg speed steady...	8	0	0	72	16777215	0
+2580	but in either case, get your power on Target right away	8	0	0	72	16777215	10
+2640	Keep your focus & don't ease up too much...	8	0	0	72	16777215	0
+2640	and patiently ride off the burn for a couple minutes	8	0	0	72	16777215	10
+2640	Get ready to do it again, more leg speed or the same spin	8	0	0	72	16777215	100
+2640	In either case, try to hide the increase in your effort	8	0	0	72	16777215	110
+2760	Smoothly push the power up & keep breathing fully	8	0	0	72	16777215	0
+2760	Draw breaths with your belly, clear your lungs with your abs	8	0	0	72	16777215	10
+2820	Nicely done, 2 of 4 efforts out of the way!	8	0	0	72	16777215	0
+2820	Take a few minutes to relax but try to keep your legs pedaling	8	0	0	72	16777215	10
+2820	Still a few minutes of recovery ahead, feel free to stand & stretch...	8	0	0	72	16777215	180
+2820	grab a drink, shake out your legs, whatever helps you get ready to go again	8	0	0	72	16777215	190
+2820	Third round just ahead, make sure your cadence...	8	0	0	72	16777215	270
+2820	is within the 85-95rpm range, relax your body...	8	0	0	72	16777215	280
+2820	and start drawing your full belly-breaths & actively clearing the used air	8	0	0	72	16777215	290
+3120	Settle in and ride smoothly for a couple minutes...	8	0	0	72	16777215	0
+3120	and don't let these first couple minutes after a break worry you	8	0	0	72	16777215	10
+3240	A little more effort but hide the work	5	0	0	72	16777215	0
+3300	One last time, ease up but don't clear the burn too quickly	8	0	0	72	16777215	0
+3300	Breathe completely & do your best to stay relaxed no matter how uncomfortable	8	0	0	72	16777215	10
+3420	Last time, so relaxed it looks easy	5	0	0	72	16777215	0
+3480	Nice job, ease up but keep your legs turning	8	0	0	72	16777215	0
+3480	You're always welcome to backpedal for a 30-40 seconds...	8	0	0	72	16777215	10
+3480	but try to keep spinning forward for the first 1-2 minutes after an interval	8	0	0	72	16777215	20
+3480	If you chose to do a little backpedaling, make sure you're spinning forward again	8	0	0	72	16777215	180
+3480	Final set ahead, settle into that quick but controlled spin	8	0	0	72	16777215	270
+3480	And if you haven't tried it yet, try spinning closer to 95rpm...	8	0	0	72	16777215	280
+3480	during the surges or even over the entire 6-minute interval	8	0	0	72	16777215	290
+3780	Settle in & start drawing full, deep breaths, sit bones anchored	8	0	0	72	16777215	0
+3780	2 surges to go, get ready to smoothly work your power back up	8	0	0	72	16777215	110
+3900	Hide the effort by riding just as smoothly as you were	8	0	0	72	16777215	0
+3900	No swaying side to side when the burn ramps up	8	0	0	72	16777215	10
+3960	One last time, ease up but don't clear the burn too quickly	8	0	0	72	16777215	0
+3960	Breathe completely & do your best to stay relaxed no matter how uncomfortable	8	0	0	72	16777215	10
+4080	Last time, prettiest surge yet!	5	0	0	72	16777215	0
+4140	Excellent, now for some extended & even more gradual recovery	8	0	0	72	16777215	0
+4140	Slightly over 20 minutes of aerobic Endurance riding to further your aerobic capabilities	8	0	0	72	16777215	10
+4140	As you settle in, see if you can bring yourself a little closer to your bike	8	0	0	72	16777215	20
+4140	If you plan to ride a little more aerodynamically outdoors...	8	0	0	72	16777215	30
+4140	maybe in your drops, laid out on the hoods, even in aero bars...	8	0	0	72	16777215	40
+4140	this is an excellent time to practice holding steady effort in your position	8	0	0	72	16777215	50
+4140	Over the course of this Endurance block, move in & out of your aero position...	8	0	0	72	16777215	60
+4140	as frequently or infrequently as necessary depending on your comfort...	8	0	0	72	16777215	70
+4140	your Target Power & the quality of your riding	8	0	0	72	16777215	80
+4140	In other words, if you feel sloppy, sit up for a little while & regain your form	8	0	0	72	16777215	90
+4140	5 minutes in, are your shoulders low? Elbows soft?	8	0	0	72	16777215	300
+4140	How about your sit bones? Still stuck to the wings of your saddle?	8	0	0	72	16777215	310
+4140	Still moving in & out of your aero position while maintaining Target Power?	8	0	0	72	16777215	320
+4140	Over halfway through this second block of Endurance work, try to stay fluid & relaxed	8	0	0	72	16777215	660
+4140	If possible, keep your spin above 90rpm - no bouncing though	8	0	0	72	16777215	670
+4140	If you find yourself bouncing each time you spin quicker than usual...	8	0	0	72	16777215	680
+4140	try to let go of any tension below your knees	8	0	0	72	16777215	690
+4140	Relax your calves, your ankles, even your feet...	8	0	0	72	16777215	700
+4140	and think of pedaling less with your feet, more with your knees	8	0	0	72	16777215	710
+4140	Final 5 minutes, feel free to drop the Workout Intensity 5-10%...	8	0	0	72	16777215	960
+4140	if that will help you warm down; otherwise, just ride this out	8	0	0	72	16777215	970
+4140	As you do so, start to consider your post-workout nutrition & hydration	8	0	0	72	16777215	980
+4140	It's a good idea to stretch afterwards, especially your hips & low back	8	0	0	72	16777215	990
+4140	And we'll see you next time!	8	0	0	72	16777215	1000
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+300	480	Sweet Spot 1
+600	1800	Endurance 1
+1800	1920	Sweet Spot 2
+1920	1980	Threshold 1
+1980	2100	Sweet Spot 3
+2100	2160	Threshold 2
+2460	2580	Sweet Spot 4
+2580	2640	Threshold 3
+2640	2760	Sweet Spot 5
+2760	2820	Threshold 4
+3120	3240	Sweet Spot 6
+3240	3300	Threshold 5
+3300	3420	Sweet Spot 7
+3420	3480	Threshold 6
+3780	3900	Sweet Spot 8
+3900	3960	Threshold 7
+3960	4080	Sweet Spot 9
+4080	4140	Threshold 8
+4140	5400	Endurance 2
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

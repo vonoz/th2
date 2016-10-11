@@ -1,0 +1,213 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = White +2,79,93. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+15	65
+15	65
+15.5	80
+15.5	80
+25	80
+25	80
+25.5	85
+25.5	85
+35	85
+35	85
+35.5	90
+35.5	90
+45	90
+45	90
+45.5	80
+45.5	80
+55	80
+55	80
+55.5	85
+55.5	85
+65	85
+65	85
+65.5	90
+65.5	90
+75	90
+75	60
+90	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Take a few minutes to gradually ease into your warmup	8	0	0	72	16777215	10
+0	Today's workout is Tempo work bookended by some Endurance work	8	0	0	72	16777215	20
+0	Giving you a chance at 90 total minutes of reasonably steady effort	8	0	0	72	16777215	30
+0	Just settle into a comfortably quick cadence above 85rpm...	8	0	0	72	16777215	40
+0	and you'll ramp into your first of 6 segments pretty soon	8	0	0	72	16777215	180
+0	Each is fairly long asking you to hold power for a potentially uninterrupted duration	8	0	0	72	16777215	190
+0	The primary goal is to extend your endurance at moderate work levels	8	0	0	72	16777215	200
+0	and then grow the length of time or even the intensity as time rolls on	8	0	0	72	16777215	210
+0	All part of the progressive process that leads to higher sustainable power outputs	8	0	0	72	16777215	220
+900	Set your spin between 85-95rpm, higher if it suits you & your goals	8	0	0	72	16777215	0
+930	During this first stretch of time, work in & out of your aero position	8	0	0	72	16777215	0
+930	How long you stay low or sit upright...	8	0	0	72	16777215	10
+930	depends on where you are in your training relative to your own goals	8	0	0	72	16777215	20
+930	The objective of these Endurance workouts is to extend your ability to maintain power	8	0	0	72	16777215	30
+930	The first priority is seeing to it that you're able to keep the pedals turning...	8	0	0	72	16777215	40
+930	for an extended period of time without many (or any) breaks	8	0	0	72	16777215	50
+930	Think of this as walking before running - walking without resting, if possible	8	0	0	72	16777215	60
+930	Workouts like this help you explore your current endurance capacity	8	0	0	72	16777215	90
+930	In doing so, you'll be able to see if your endurance is sufficient for your goal event(s)	8	0	0	72	16777215	100
+930	If you happen to take a few breaks, whether backpedals or full stops...	8	0	0	72	16777215	110
+930	that doesn't necessarily mean you're lacking the necessary endurance...	8	0	0	72	16777215	120
+930	because unless you're riding a steady hill, short breaks will always find their way into your outdoor rides	8	0	0	72	16777215	130
+930	But this is the beauty (horror) of trainer rides - unrelenting resistance	8	0	0	72	16777215	140
+930	Because of this, you get far more work done in a set period of time	8	0	0	72	16777215	150
+930	And when you get to a point where you can ride long durations indoors, no breaks...	8	0	0	72	16777215	160
+930	this will translate to substantially longer outdoor rides with intermittent recharges	8	0	0	72	16777215	170
+930	So take breaks if you need them, but keep them under 30 seconds each...	8	0	0	72	16777215	180
+930	just long enough to clear a little bit of fatigue, not long enough to feel like rest	8	0	0	72	16777215	190
+930	But save that for later, you're far too fresh to consider backing off now	8	0	0	72	16777215	200
+930	The workload will bump up by 5% in a couple minutes...	8	0	0	72	16777215	450
+930	keeping you within your Tempo power zone with only a subtle increase in effort	8	0	0	72	16777215	460
+930	And if you aren't familiar with Tempo, it roughly ranges from 75-90% FTP	8	0	0	72	16777215	470
+930	Whether working between 70-80% or 80-90% of FTP...	8	0	0	72	16777215	480
+930	the idea is always to grow your aerobic endurance...	8	0	0	72	16777215	490
+930	and stay safely distanced from more depleting anaerobic workloads	8	0	0	72	16777215	500
+1500	We'll spend some time "trading" aero time with upright time over this next stretch	8	0	0	72	16777215	0
+1500	Let's shoot for durations between 60-90 seconds each time...	8	0	0	72	16777215	10
+1500	and the longer you stay low, the longer you'll get to sit upright --> "trading time"	8	0	0	72	16777215	20
+1530	Without dropping your cadence or power, lower yourself into aero	8	0	0	72	16777215	0
+1530	If you can stay there for 60 seconds, you'll get to ride upright for 60 seconds	8	0	0	72	16777215	10
+1530	Stay low for 90 seconds & you'll get to ride tall for 90 seconds	8	0	0	72	16777215	20
+1530	So there's a mild incentive to stay low for longer stretches of time	8	0	0	72	16777215	30
+1530	You reached the minimum length of time, come on up if you're struggling	8	0	0	72	16777215	60
+1530	Stay aero for another 20 seconds if you're shooting for 90 aero seconds	8	0	0	72	16777215	70
+1530	Cool, come on up if you like - sit tall, breathe fully	8	0	0	72	16777215	90
+1530	This will start to get complicated soon, so it's up to you to match your aero time & upright time	8	0	0	72	16777215	100
+1530	If you can stay aero for longer durations though...	8	0	0	72	16777215	110
+1530	go for it, as long as your power doesn't suffer	8	0	0	72	16777215	120
+1530	In any case, keep yourself thinking more, daydreaming less	8	0	0	72	16777215	130
+1530	Halfway through this segment, keep trading aero time with upright time...	8	0	0	72	16777215	270
+1530	and we can briefly discuss aerobic adaptation & aerobic endurance	8	0	0	72	16777215	280
+1530	When you work at manageable workloads like these, at lower percentages of FTP...	8	0	0	72	16777215	290
+1530	most of your energy comes from "slow" fuel sources, primarily fat	8	0	0	72	16777215	300
+1530	Fat metabolism relies on oxygen - pure, plentiful oxygen	8	0	0	72	16777215	310
+1530	As you work harder, fat metabolism can't shoulder the burden on its own...	8	0	0	72	16777215	320
+1530	and your body starts to utilize more carbohydrate (sugar) for fuel	8	0	0	72	16777215	330
+1530	These workouts strive to keep the workload low enough that fat is a major fuel source	8	0	0	72	16777215	340
+1530	Sure, you'll burn some sugar too, but the more aerobically fit you are...	8	0	0	72	16777215	350
+1530	the less you'll depend on sugar to fuel your muscles, even at higher workloads	8	0	0	72	16777215	360
+1530	Over time, you can improve your aerobic endurance in such a way...	8	0	0	72	16777215	370
+1530	that you preserve your sugar stores for longer & longer periods of time	8	0	0	72	16777215	380
+1530	So rides that used to require a bag of chews, a gel or two, maybe a bottle of sugar water...	8	0	0	72	16777215	390
+1530	are now rides you can knock out on little more than water, maybe with some electrolytes	8	0	0	72	16777215	400
+2100	Time to ramp things up just a little further, still moderate effort though	8	0	0	72	16777215	0
+2100	See to it that your cadence doesn't fall unless on purpose	8	0	0	72	16777215	10
+2100	After all, these 6 segments do lend themselves really well to cadence variations	8	0	0	72	16777215	20
+2130	For example, you may try spinning at 85rpm for a single stretch...	8	0	0	72	16777215	0
+2130	and then pedaling at 95rpm for the next extended segment	8	0	0	72	16777215	10
+2130	This could prove useful both in the sense that it breaks up the workout...	8	0	0	72	16777215	20
+2130	and in the potential difference in perceived effort at different spin rates	8	0	0	72	16777215	30
+2130	Typically, a quicker spin will be more aerobic (oxygen-reliant) than a slower spin	8	0	0	72	16777215	40
+2130	This has to do with shorter, lighter muscle contractions, but that's beside the point	8	0	0	72	16777215	50
+2130	The real point is that lighter, quicker spins can help preserve those sugar stores too!	8	0	0	72	16777215	60
+2130	So by improving your aerobic endurance AND making your spin more aerobic...	8	0	0	72	16777215	70
+2130	you'll watch your peformance capabilities become less dependent on sugar intake	8	0	0	72	16777215	80
+2130	This is of special concern to athletes who are riding for longer than 90 minutes...	8	0	0	72	16777215	90
+2130	since eating & digestion while on the bike can be somewhat challenging	8	0	0	72	16777215	100
+2130	Keep your focus during this higher-intensity segment	8	0	0	72	16777215	270
+2130	Still trading aero time with upright time at this higher output level?	8	0	0	72	16777215	280
+2130	It may be uncomfortable, but this is a very manageable workload...	8	0	0	72	16777215	290
+2130	and should be somewhat tolerable in your aero position, especially for short durations	8	0	0	72	16777215	300
+2130	And if you're a half-distance or even full iron-distance triathlete...	8	0	0	72	16777215	310
+2130	workloads like these are very realistic & practical percentages of bike leg FTP	8	0	0	72	16777215	320
+2700	Time to bring things back down a bit, give you a chance to clear some fatigue	8	0	0	72	16777215	0
+2700	While this is only a subtle drop in power, it should feel noticeably more manageable	8	0	0	72	16777215	10
+2700	As your legs come back around, focus on the quality of your breathing...	8	0	0	72	16777215	20
+2730	especially how well you exhale and clear the "used air"	8	0	0	72	16777215	0
+2730	Over the course of this latter half of the workout...	8	0	0	72	16777215	10
+2730	you may find your focus drifting a bit, perhaps your cadence falling a bit too	8	0	0	72	16777215	20
+2730	If it's just a matter of attention, do your best to remain focused, but...	8	0	0	72	16777215	30
+2730	there's a good chance the fatigue is mounting & a quick break is in order	8	0	0	72	16777215	40
+2730	By stopping or backspinning as briefly as 10 seconds, you might find your interest renewed	8	0	0	72	16777215	50
+2730	Shake out your legs, stretch your back, take your hands off the bars...	8	0	0	72	16777215	60
+2730	but keep it short, no longer than 30 seconds at the very most	8	0	0	72	16777215	70
+2730	And try to limit these breaks to 1 per segment	8	0	0	72	16777215	80
+2730	But even if you were to take a 30-second break at the end of every segment...	8	0	0	72	16777215	90
+2730	that only adds up to 2.5 minutes of down-time out of a relatively long ride	8	0	0	72	16777215	100
+2730	Point is, if short, occasional breaks help you keep your form...	8	0	0	72	16777215	110
+2730	and your cadence and your focus, even keep you from cramping...	8	0	0	72	16777215	120
+2730	and thus keep the quality of this workout very high, it's time well spent	8	0	0	72	16777215	130
+2730	A good ways through this segment, continue moving in & out of your aero tuck	8	0	0	72	16777215	270
+2730	Each time you settle back into your aero position, make sure of 2 things:	8	0	0	72	16777215	280
+2730	First, your sit bones stay in contact with your saddle...	8	0	0	72	16777215	290
+2730	such that you don't rock forward & teeter on your pubic bone	8	0	0	72	16777215	300
+2730	Riding low doesn't have to bring about a change in your pelvic position	8	0	0	72	16777215	310
+2730	With a proper aero fit & good flexibility, your hip position won't change a bit	8	0	0	72	16777215	320
+2730	The second thing to monitor is your hip ANGLE, or how close your body gets to your thighs	8	0	0	72	16777215	330
+2730	Too flat a back and riders have a tendency to almost fold their torsos onto their quads	8	0	0	72	16777215	340
+2730	This creates a very sharp angle at your hips & can restrict blood flow to your legs	8	0	0	72	16777215	350
+2730	But if you can open this angle up even a little, the difference in power can be surprising	8	0	0	72	16777215	360
+2730	One way to reduce this angle is to round your low back a bit more	8	0	0	72	16777215	370
+2730	By almost "carving" out a breathing space for your belly, your hip angle opens a little	8	0	0	72	16777215	380
+2730	not to mention you create more room to breathe with your belly	8	0	0	72	16777215	390
+2730	And keeping your sit bones anchored only enhances this "breathing cavity"	8	0	0	72	16777215	400
+2730	It's a delicate balance - power & aerodynamics - but one well worth continually refining	8	0	0	72	16777215	410
+3300	Keep your spin steady and bring your effort up slightly & gradually	8	0	0	72	16777215	0
+3300	And if you find your form or attention drifting, consider a quick, 10 to 30-second break	8	0	0	72	16777215	10
+3330	Over this stretch, feel free to dedicate some of your attention...	8	0	0	72	16777215	30
+3330	to some cadence modifications: a few minutes at your "natural" cadence...	8	0	0	72	16777215	40
+3330	a few minutes slightly below it, a few minutes slightly above it	8	0	0	72	16777215	50
+3330	So if, for example, you naturally spin at 90rpm, stay there for now	8	0	0	72	16777215	60
+3330	Later you can slow your spin to 85, even 80 rpm for a few minutes...	8	0	0	72	16777215	70
+3330	and then speed things up to 95-100rpm for the final few minutes	8	0	0	72	16777215	80
+3330	Each period should give you enough time to develop a feel for each cadence	8	0	0	72	16777215	90
+3330	Next few minutes, aero or not, slow your spin 5-10rpm & settle in	8	0	0	72	16777215	210
+3330	As you adjust to this slower spin, you'll probably be able to draw longer, deeper breaths	8	0	0	72	16777215	220
+3330	As you do so, get rid of any unnecessary tension in your shoulders & jaw	8	0	0	72	16777215	230
+3330	Let that tension release work down through your body & out through your limbs	8	0	0	72	16777215	240
+3330	Loose hands, toes you can wiggle in your shoes, quiet hips that don't sway side to side	8	0	0	72	16777215	250
+3330	Not the easiest cadence transition, especially if you're on an electronic trainer...	8	0	0	72	16777215	390
+3330	but slowly pick things up until you're 5-10rpm above your natural spin	8	0	0	72	16777215	400
+3330	As you do this, make sure to adjust your breathing accordingly	8	0	0	72	16777215	410
+3330	A quicker, more aerobic spin requires more muscle contractions, more oxygen, more breaths per minute	8	0	0	72	16777215	420
+3330	At no point should you verge on panting, not at this effort level...	8	0	0	72	16777215	430
+3330	but you should start to breath noticeably quicker than the last few minutes	8	0	0	72	16777215	440
+3900	As you bring your effort up slightly, settle back into the cadence that served you best	8	0	0	72	16777215	0
+3900	If one of those 3 different spins made the workload more tolerable than the others...	8	0	0	72	16777215	10
+3900	try to sustain it for most or all of this final segment	8	0	0	72	16777215	20
+3930	And while a reduction in how hard you feel you're working (RPE)...	8	0	0	72	16777215	0
+3930	is desirable & certainly welcome, don't automatically let it redefine your cadence	8	0	0	72	16777215	10
+3930	There are other drawbacks to cadence increases & decreases	8	0	0	72	16777215	20
+3930	Spinning quickly for long periods of time can inspire some vicious leg cramps...	8	0	0	72	16777215	30
+3930	and grinding away slowly can waste your muscles & burn a lot of sugar	8	0	0	72	16777215	40
+3930	So the goal, the challenge, is to find that perfect marriage of quick & light...	8	0	0	72	16777215	50
+3930	with strong & powerful	5	0	0	72	16777215	60
+3930	Several more minutes to employ your ideal cadence & spend some time down low	8	0	0	72	16777215	270
+3930	And it probably doesn't need to be stated, but any cadence changes you pursue...	8	0	0	72	16777215	280
+3930	need to work just as well, if not better, in your aero position	8	0	0	72	16777215	290
+4500	Well done! Over an hour of solid effort & no true recovery	8	0	0	72	16777215	0
+4500	Time to treat those legs to some rest & relaxation...	8	0	0	72	16777215	10
+4500	and some proper post-workout nutrition, all relative to your personal goals	8	0	0	72	16777215	20
+4500	Rest up, eat up & we'll see you next time	8	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+900	930	Endurance 1
+930	1500	Tempo 1
+1500	1530	Tempo 2
+1530	2100	Sweet Spot 1
+2100	2130	Sweet Spot 2
+2130	2700	Sweet Spot 3
+2700	2730	Sweet Spot 4
+2730	3300	Tempo 3
+3300	3330	Tempo 4
+3330	3900	Sweet Spot 5
+3900	3930	Sweet Spot 6
+3930	4500	Sweet Spot 7
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

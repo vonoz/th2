@@ -1,0 +1,72 @@
+[COURSE HEADER]
+VERSION = 2
+UNITS = ENGLISH
+DESCRIPTION = Sphinx, 85, 73, 2x10,20MP
+FILE NAME = 2x10-20MP.ERG
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	55
+5	60
+10	65
+15	65
+15	90
+15.5	90
+15.5	65
+16	65
+16	92
+16.5	92
+16.5	65
+17	65
+17	95
+17.5	95
+17.5	65
+18	65
+18	97
+18.5	97
+18.5	65
+19	65
+19	100
+19.5	100
+19.5	65
+20	70
+25	70
+25	105
+35	105
+35	60
+39	60
+39	105
+46	105
+46	106
+49	106
+49	60
+51	60
+55	65
+60	60
+[END COURSE DATA]
+[COURSE TEXT]
+10	Hi, I am Coach Jorge!	8	0	0	72	0xFFFFFF
+20	Head Coach for E3 Training Solutions	8	0	0	72	0xFFFFFF
+45	This session is geared to improve your 20 min Power	8	0	0	72	0xFFFFFF
+100	Enjoy the Warm up!	8	0	0	72	0xFFFFFF
+864	On/Off efforts coming up	8	0	0	72	0xFFFFFF
+1403	It will be an intense session so get ready!	8	0	0	72	0xFFFFFF
+1806	keep it up!	8	0	0	72	0xFFFFFF
+2234	1 down, 1 to go!	8	0	0	72	0xFFFFFF
+2824	You are almost done, finish strong!	8	0	0	72	0xFFFFFF
+2944	DONE!	8	0	0	72	0xFFFFFF
+2990	Good job!	8	0	0	72	0xFFFFFF
+3015	Make sure you finish this out and cool down	8	0	0	72	0xFFFFFF
+3309	www.e3ts.com	20	0	0	72	0xFFFFFF
+[END COURSE TEXT]
+[INTERVAL DATA]
+0	3600	Workout
+900	930	Warmup 1
+960	990	Warmup 2
+1020	1050	Warmup 3
+1080	1110	Warmup 4
+1140	1170	Warmup 5
+1500	2100	Interval 1
+2340	2940	Interval 2
+[END INTERVAL DATA]

@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<TrainingCenterDatabase xmlns="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2 http://www.garmin.com/xmlschemas/TrainingCenterDatabasev2.xsd http://www.garmin.com/xmlschemas/WorkoutExtension/v1 http://www.garmin.com/xmlschemas/WorkoutExtensionv1.xsd">
+
+<Workouts>
+
+<Biking Name="Bike">
+  <Folder Name="Burak">
+    <Workout>
+      <Name>20 Minute Test_275</Name>
+
+
+      <Step xsi:type="Step_t">
+        <StepId>1</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>600</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+
+      <Step xsi:type="Step_t">
+        <StepId>2</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>60</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+
+      <Step xsi:type="Step_t">
+        <StepId>3</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>60</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+
+      <Step xsi:type="Step_t">
+        <StepId>4</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>60</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+
+      <Step xsi:type="Step_t">
+        <StepId>5</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>60</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+
+      <Step xsi:type="Step_t">
+        <StepId>6</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>60</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+
+      <Step xsi:type="Step_t">
+        <StepId>7</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>300</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+
+      <Step xsi:type="Step_t">
+        <StepId>8</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>300</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+
+      <Step xsi:type="Step_t">
+        <StepId>9</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>300</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+
+      <Step xsi:type="Step_t">
+        <StepId>10</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>1200</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+
+      <Step xsi:type="Step_t">
+        <StepId>11</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>600</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+
+
+      <ScheduledOn>2016-06-21</ScheduledOn>
+
+      <Extensions>
+        <Steps xmlns="http://www.garmin.com/xmlschemas/WorkoutExtension/v1">
+
+
+          <Step>
+            <StepId>1</StepId>
+            <Name>Interval 1</Name>
+            <Duration xsi:type="Time_t">
+              <Seconds>600</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerInWatts_t">
+                  <Value>136</Value>
+                </Low>
+                <High xsi:type="PowerInWatts_t">
+                  <Value>150</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+
+
+
+          <Step>
+            <StepId>2</StepId>
+            <Name>Interval 2</Name>
+            <Duration xsi:type="Time_t">
+              <Seconds>60</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerInWatts_t">
+                  <Value>268</Value>
+                </Low>
+                <High xsi:type="PowerInWatts_t">
+                  <Value>282</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+
+
+
+          <Step>
+            <StepId>3</StepId>
+            <Name>Interval 3</Name>
+            <Duration xsi:type="Time_t">
+              <Seconds>60</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerInWatts_t">
+                  <Value>171</Value>
+                </Low>
+                <High xsi:type="PowerInWatts_t">
+                  <Value>185</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+
+
+
+          <Step>
+            <StepId>4</StepId>
+            <Name>Interval 4</Name>
+            <Duration xsi:type="Time_t">
+              <Seconds>60</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerInWatts_t">
+                  <Value>281</Value>
+                </Low>
+                <High xsi:type="PowerInWatts_t">
+                  <Value>295</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+
+
+
+          <Step>
+            <StepId>5</StepId>
+            <Name>Interval 5</Name>
+            <Duration xsi:type="Time_t">
+              <Seconds>60</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerInWatts_t">
+                  <Value>171</Value>
+                </Low>
+                <High xsi:type="PowerInWatts_t">
+                  <Value>185</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+
+
+
+          <Step>
+            <StepId>6</StepId>
+            <Name>Interval 6</Name>
+            <Duration xsi:type="Time_t">
+              <Seconds>60</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerInWatts_t">
+                  <Value>295</Value>
+                </Low>
+                <High xsi:type="PowerInWatts_t">
+                  <Value>309</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+
+
+
+          <Step>
+            <StepId>7</StepId>
+            <Name>Interval 7</Name>
+            <Duration xsi:type="Time_t">
+              <Seconds>300</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerInWatts_t">
+                  <Value>171</Value>
+                </Low>
+                <High xsi:type="PowerInWatts_t">
+                  <Value>185</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+
+
+
+          <Step>
+            <StepId>8</StepId>
+            <Name>Interval 8</Name>
+            <Duration xsi:type="Time_t">
+              <Seconds>300</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerInWatts_t">
+                  <Value>295</Value>
+                </Low>
+                <High xsi:type="PowerInWatts_t">
+                  <Value>309</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+
+
+
+          <Step>
+            <StepId>9</StepId>
+            <Name>Interval 9</Name>
+            <Duration xsi:type="Time_t">
+              <Seconds>300</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerInWatts_t">
+                  <Value>130</Value>
+                </Low>
+                <High xsi:type="PowerInWatts_t">
+                  <Value>144</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+
+
+
+          <Step>
+            <StepId>10</StepId>
+            <Name>Interval 10</Name>
+            <Duration xsi:type="Time_t">
+              <Seconds>1200</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerInWatts_t">
+                  <Value>273</Value>
+                </Low>
+                <High xsi:type="PowerInWatts_t">
+                  <Value>287</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+
+
+
+          <Step>
+            <StepId>11</StepId>
+            <Name>Interval 11</Name>
+            <Duration xsi:type="Time_t">
+              <Seconds>600</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerInWatts_t">
+                  <Value>89</Value>
+                </Low>
+                <High xsi:type="PowerInWatts_t">
+                  <Value>103</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+
+
+
+
+        </Steps>
+      </Extensions>
+
+    </Workout>
+
+
+
+    <Workout>
+      <Name>Pioneer +1_275</Name>
+
+
+      <Step xsi:type="Step_t">
+        <StepId>1</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>720</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+
+      <Step xsi:type="Step_t">
+        <StepId>2</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>240</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+
+      <Step xsi:type="Step_t">
+        <StepId>3</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>180</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+
+      <Step xsi:type="Step_t">
+        <StepId>4</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>240</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+
+      <Step xsi:type="Step_t">
+        <StepId>5</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>240</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+
+      <Step xsi:type="Step_t">
+        <StepId>6</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>180</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+
+      <Step xsi:type="Step_t">
+        <StepId>7</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>300</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+
+      <Step xsi:type="Step_t">
+        <StepId>8</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>240</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+
+      <Step xsi:type="Step_t">
+        <StepId>9</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>180</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+
+      <Step xsi:type="Step_t">
+        <StepId>10</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>180</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+
+      <Step xsi:type="Step_t">
+        <StepId>11</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>240</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+
+      <Step xsi:type="Step_t">
+        <StepId>12</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>240</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+
+      <Step xsi:type="Step_t">
+        <StepId>13</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>240</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+
+      <Step xsi:type="Step_t">
+        <StepId>14</StepId>
+        <Duration xsi:type="Time_t">
+          <Seconds>180</Seconds>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="None_t"/>
+      </Step>
+
+
+      <ScheduledOn>2016-06-23</ScheduledOn>
+
+      <Extensions>
+        <Steps xmlns="http://www.garmin.com/xmlschemas/WorkoutExtension/v1">
+
+
+          <Step>
+            <StepId>1</StepId>
+            <Name>Interval 1</Name>
+            <Duration xsi:type="Time_t">
+              <Seconds>720</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerInWatts_t">
+                  <Value>188</Value>
+                </Low>
+                <High xsi:type="PowerInWatts_t">
+                  <Value>202</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+
+
+
+          <Step>
+            <StepId>2</StepId>
+            <Name>Interval 2</Name>
+            <Duration xsi:type="Time_t">
+              <Seconds>240</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerInWatts_t">
+                  <Value>232</Value>
+                </Low>
+                <High xsi:type="PowerInWatts_t">
+                  <Value>246</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+
+
+
+          <Step>
+            <StepId>3</StepId>
+            <Name>Interval 3</Name>
+            <Duration xsi:type="Time_t">
+              <Seconds>180</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerInWatts_t">
+                  <Value>237</Value>
+                </Low>
+                <High xsi:type="PowerInWatts_t">
+                  <Value>251</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+
+
+
+          <Step>
+            <StepId>4</StepId>
+            <Name>Interval 4</Name>
+            <Duration xsi:type="Time_t">
+              <Seconds>240</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerInWatts_t">
+                  <Value>229</Value>
+                </Low>
+                <High xsi:type="PowerInWatts_t">
+                  <Value>243</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+
+
+
+          <Step>
+            <StepId>5</StepId>
+            <Name>Interval 5</Name>
+            <Duration xsi:type="Time_t">
+              <Seconds>240</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerInWatts_t">
+                  <Value>240</Value>
+                </Low>
+                <High xsi:type="PowerInWatts_t">
+                  <Value>254</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+
+
+
+          <Step>
+            <StepId>6</StepId>
+            <Name>Interval 6</Name>
+            <Duration xsi:type="Time_t">
+              <Seconds>180</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerInWatts_t">
+                  <Value>226</Value>
+                </Low>
+                <High xsi:type="PowerInWatts_t">
+                  <Value>240</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+
+
+
+          <Step>
+            <StepId>7</StepId>
+            <Name>Interval 7</Name>
+            <Duration xsi:type="Time_t">
+              <Seconds>300</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerInWatts_t">
+                  <Value>232</Value>
+                </Low>
+                <High xsi:type="PowerInWatts_t">
+                  <Value>246</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+
+
+
+          <Step>
+            <StepId>8</StepId>
+            <Name>Interval 8</Name>
+            <Duration xsi:type="Time_t">
+              <Seconds>240</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerInWatts_t">
+                  <Value>235</Value>
+                </Low>
+                <High xsi:type="PowerInWatts_t">
+                  <Value>249</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+
+
+
+          <Step>
+            <StepId>9</StepId>
+            <Name>Interval 9</Name>
+            <Duration xsi:type="Time_t">
+              <Seconds>180</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerInWatts_t">
+                  <Value>226</Value>
+                </Low>
+                <High xsi:type="PowerInWatts_t">
+                  <Value>240</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+
+
+
+          <Step>
+            <StepId>10</StepId>
+            <Name>Interval 10</Name>
+            <Duration xsi:type="Time_t">
+              <Seconds>180</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerInWatts_t">
+                  <Value>235</Value>
+                </Low>
+                <High xsi:type="PowerInWatts_t">
+                  <Value>249</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+
+
+
+          <Step>
+            <StepId>11</StepId>
+            <Name>Interval 11</Name>
+            <Duration xsi:type="Time_t">
+              <Seconds>240</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerInWatts_t">
+                  <Value>229</Value>
+                </Low>
+                <High xsi:type="PowerInWatts_t">
+                  <Value>243</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+
+
+
+          <Step>
+            <StepId>12</StepId>
+            <Name>Interval 12</Name>
+            <Duration xsi:type="Time_t">
+              <Seconds>240</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerInWatts_t">
+                  <Value>235</Value>
+                </Low>
+                <High xsi:type="PowerInWatts_t">
+                  <Value>249</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+
+
+
+          <Step>
+            <StepId>13</StepId>
+            <Name>Interval 13</Name>
+            <Duration xsi:type="Time_t">
+              <Seconds>240</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerInWatts_t">
+                  <Value>229</Value>
+                </Low>
+                <High xsi:type="PowerInWatts_t">
+                  <Value>243</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+
+
+
+          <Step>
+            <StepId>14</StepId>
+            <Name>Interval 14</Name>
+            <Duration xsi:type="Time_t">
+              <Seconds>180</Seconds>
+            </Duration>
+            <Intensity>Active</Intensity>
+            <Target>
+              <PowerZone xsi:type="CustomPowerZone_t">
+                <Low xsi:type="PowerInWatts_t">
+                  <Value>89</Value>
+                </Low>
+                <High xsi:type="PowerInWatts_t">
+                  <Value>103</Value>
+                </High>
+              </PowerZone>
+            </Target>
+          </Step>
+
+
+
+
+        </Steps>
+      </Extensions>
+
+    </Workout>
+
+
+  </Workouts>
+
+  </Folder>
+  </Biking>
+</Workouts>
+
+
+  <Author xsi:type="Application_t">
+    <Name>Training Hills</Name>
+
+  </Author>
+
+</TrainingCenterDatabase>

@@ -1,0 +1,146 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Monitor TC,86,37. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+1.5	60
+1.5	90
+2.5	90
+2.5	40
+3.5	40
+3.5	88
+4.5	90
+4.5	90
+5.5	88
+5.5	88
+6.5	90
+6.5	90
+7.5	88
+7.5	88
+8.5	90
+8.5	90
+9.5	88
+9.5	40
+10	40
+10	92
+12	94
+12	94
+16	90
+16	40
+16.5	40
+16.5	90
+17.5	92
+17.5	92
+18.5	90
+18.5	90
+19.5	92
+19.5	92
+20.5	90
+20.5	90
+21.5	92
+21.5	92
+22.5	90
+22.5	40
+23	40
+23	90
+27	92
+27	92
+29	90
+29	40
+30	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Get your legs moving quickly but comfortably	8	0	0	72	16777215	10
+0	If you're comfortable spinning above 90rpm, perfect...	8	0	0	72	16777215	20
+0	but if you aren't...well, we're going to address that today	8	0	0	72	16777215	30
+0	For now, just keep the work quick & easy	5	0	0	72	16777215	40
+0	Time for a short warming ramp, keep that same quick-ish cadence	8	0	0	72	16777215	72
+0	Relax and stay smooth for a minute	5	0	0	72	16777215	82
+90	Drop your shoulders, bend your elbows, loosen your grip...	8	0	0	72	16777215	0
+90	and keep a light, quick cadence, preferably above 85rpm	8	0	0	72	16777215	10
+150	Good, take it easy for a minute & we'll briefly talk Sweet Spot	8	0	0	72	16777215	0
+150	Sweet Spot intensity is a little tougher than Tempo but not as stressful as Threshold work	8	0	0	72	16777215	10
+150	These workouts can be sprinkled liberally over the course of a week...	8	0	0	72	16777215	20
+150	without a real threat of over-reaching too far	5	0	0	72	16777215	30
+150	And while this is an uncomfortable place to train, it's not too stressful to repeat  fairly often	8	0	0	72	16777215	37
+150	And Sweet Spot efforts do wonders for your aerobic capabilities	8	0	0	72	16777215	47
+210	Keep your cadence steady & natural - neither too quick nor too slow	8	0	0	72	16777215	-1
+210	Whatever that means for you	5	0	0	72	16777215	10
+330	We'll save the cadence drills for later intervals, for now just focus on being smooth	8	0	0	72	16777215	-1
+330	And when possible, spend time riding in different positions on your bars	8	0	0	72	16777215	10
+330	This is especially important if you plan to ride aerodynamically outdoors	8	0	0	72	16777215	20
+330	Start to work on your on-the-bike flexibility now, before we hit the harder workouts	8	0	0	72	16777215	30
+510	1 minute to go - spend it riding in your drops	8	0	0	72	16777215	-1
+510	Don't worry about being low, just try stretching out a bit without dropping your effort	8	0	0	72	16777215	10
+570	These breaks are short by design, just enough time to regain your focus...	8	0	0	72	16777215	0
+570	bring your breathing down a bit & clear some build-up from your muscles	8	0	0	72	16777215	10
+570	Round 2, get ready to do it again	5	0	0	72	16777215	20
+600	Ride this first minute at your natural cadence, natural for the time being	8	0	0	72	16777215	-1
+600	OK, smoothly increase your cadence 3-5rpm	8	0	0	72	16777215	60
+600	If you don't have cadence information, ride just a little quicker than normal	8	0	0	72	16777215	70
+600	Ideally, you should be able to spin at 90rpm quite comfortably	8	0	0	72	16777215	80
+600	If that's not the case, then speed drills should be a regular part of your weekly training	8	0	0	72	16777215	90
+600	Cadences under 90rpm can overstress the muscles, "overcook" them	8	0	0	72	16777215	100
+600	Just 10 more seconds	5	0	0	72	16777215	110
+720	Good, back to your natural cadence for a couple minutes	8	0	0	72	16777215	-1
+720	Try to stay light on your feet & allow your quads a quick break every pedalstroke	8	0	0	72	16777215	10
+720	Get ready for another minute of quicker legs	5	0	0	72	16777215	110
+720	Pick up that spin, not too much, just a little quicker than usual	8	0	0	72	16777215	120
+720	Good, ease up & return to your natural cadence	5	0	0	72	16777215	180
+960	Alright, shut it down & get comfortable again	8	0	0	72	16777215	-1
+960	It's about now when you really start to realize how taxing Sweet Spot can be	8	0	0	72	16777215	10
+960	But don't worry, your body can take it & we're halfway done anyway	8	0	0	72	16777215	20
+990	1 minute to settle in & get used to the effort level again	8	0	0	72	16777215	-1
+1050	This time, only 1 quick minute with a slightly quicker spin	8	0	0	72	16777215	-1
+1110	1 more minute if your form's still intact - relax those calves	8	0	0	72	16777215	-1
+1170	Excellent! Slow it down a bit, maintain your effort though	8	0	0	72	16777215	-1
+1230	One more time with the quick legs	8	0	0	72	16777215	-1
+1290	Another minute if all systems are go	5	0	0	72	16777215	-1
+1290	If you're bouncing - AT ALL - relax your lower legs...	8	0	0	72	16777215	10
+1290	and relax your feet, your hands, your shoulders, even your jaw	8	0	0	72	16777215	20
+1350	Well done, time to take it easy for a few seconds	8	0	0	72	16777215	-1
+1380	Last one! Hold your cadence steady for the first minute	8	0	0	72	16777215	-1
+1380	Once more, and the drills are optional if you're really tired	8	0	0	72	16777215	60
+1380	Otherwise, quick & relaxed - over 100rpm if you can do it	8	0	0	72	16777215	70
+1380	Check your form - no bouncing, no wobbly knees, no jerkiness	8	0	0	72	16777215	120
+1380	If that describes your pedalstroke, keep it quick	8	0	0	72	16777215	130
+1380	Nice, keep your natural cadence for a minute	8	0	0	72	16777215	180
+1380	Get ready for another 2-minute stretch of fast pedaling	8	0	0	72	16777215	230
+1620	Pick it up, stay relaxed	8	0	0	72	16777215	-1
+1620	Last minute of speed work, keep it quick if you're doing it well	8	0	0	72	16777215	60
+1740	Nicely done! Slow things back down, legs and lungs	8	0	0	72	16777215	-1
+1740	Shift your thinking to your recovery, both nutrition & relaxation	8	0	0	72	16777215	10
+1740	Again, nice job today...	5	0	0	72	16777215	20
+1740	See ya next time	5	0	0	72	16777215	27
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	1800	Workout
+90	150	Sweet Spot 1
+210	270	Sweet Spot 2
+270	330	Sweet Spot 3
+330	390	Sweet Spot 4
+390	450	Sweet Spot 5
+450	510	Sweet Spot 6
+510	570	Sweet Spot 7
+600	720	Sweet Spot 8
+720	960	Sweet Spot 9
+990	1050	Sweet Spot 10
+1050	1110	Sweet Spot 11
+1110	1170	Sweet Spot 12
+1170	1230	Sweet Spot 13
+1230	1290	Sweet Spot 14
+1290	1350	Sweet Spot 15
+1380	1620	Sweet Spot 16
+1620	1740	Sweet Spot 17
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

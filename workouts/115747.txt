@@ -1,0 +1,271 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Jepson 45,87,56. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+4	65
+4	90
+5	90
+5	130
+5.08	130
+5.08	93
+6	93
+6	140
+6.08	140
+6.08	95
+7	95
+7	40
+11	40
+11	95
+13	95
+13	150
+13.08	150
+13.08	97
+15	97
+15	150
+15.08	150
+15.08	99
+17	99
+17	150
+17.08	150
+17.08	97
+19	97
+19	40
+23	40
+23	95
+25	95
+25	151
+25.08	151
+25.08	99
+27	99
+27	150
+27.08	150
+27.08	97
+29	97
+29	150
+29.08	150
+29.08	95
+31	95
+31	40
+35	40
+35	95
+37	95
+37	150
+37.08	150
+37.08	97
+39	97
+39	150
+39.08	150
+39.08	95
+41	95
+41	150
+41.08	150
+41.08	99
+43	99
+43	40
+45	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Time for some good, ol' fashioned muscle endurance work	8	0	0	72	16777215	60
+0	And just to keep things interesting & doubly productive...	8	0	0	72	16777215	70
+0	each interval contains some short sprints	8	0	0	72	16777215	80
+0	All of which will be discussed in detail later	8	0	0	72	16777215	90
+0	For now, keep your spin quick & light	8	0	0	72	16777215	100
+0	Clearing effort in about a minute	8	0	0	72	16777215	180
+0	3 minutes of effort in today's intensity ballpark...	8	0	0	72	16777215	190
+0	a couple lower-intensity sprints included as well	8	0	0	72	16777215	200
+0	Shoot for a reasonably quick spin throughout, 85 rpm or higher...	8	0	0	72	16777215	210
+0	and really ramp things up for each sprint, 120+rpm if you can	8	0	0	72	16777215	220
+0	Get ready...	8	0	0	72	16777215	230
+240	Get ready to wind it up...	8	0	0	72	16777215	50
+300	Fast!	5	0	0	72	16777215	0
+305	Settle back into your normal spin	8	0	0	72	16777215	1
+305	Get ready to wind it up again	8	0	0	72	16777215	45
+360	Go fast!	5	0	0	72	16777215	0
+365	Good, settle back in	8	0	0	72	16777215	1
+420	So there you have it, the general format for today's intervals	8	0	0	72	16777215	0
+420	Catch your breath and we'll talk details in a couple minutes	8	0	0	72	16777215	10
+420	So the bulk of each interval today will be spent just below FTP	8	0	0	72	16777215	60
+420	Hence the bulk of the workout addresses muscular endurance...	8	0	0	72	16777215	70
+420	or your ability to push the pedals harder for longer	8	0	0	72	16777215	80
+420	Or more generally, your ability to hold high power for long periods	8	0	0	72	16777215	90
+420	The short, 5-second sprints are another story	8	0	0	72	16777215	100
+420	The sprints target muscle activity instead of muscle fitness	8	0	0	72	16777215	110
+420	That's to say, we're training how quickly & how forcefully we activate them	8	0	0	72	16777215	120
+420	By cranking your power up as fast as possible...	8	0	0	72	16777215	130
+420	and by generating reasonbly high watts...	8	0	0	72	16777215	140
+420	you're conditioning the response within certain types of muscle fibers	8	0	0	72	16777215	150
+420	In particular, your fast-twitch fibers...	8	0	0	72	16777215	160
+420	and to a lesser extent, your intermediate fibers	8	0	0	72	16777215	170
+420	In both cases, these are fibers that can share the workload...	8	0	0	72	16777215	180
+420	and the more sharing that takes place, the less work each fiber has to do	8	0	0	72	16777215	190
+420	So rather than fry your slow-twitch fibers while ignoring others...	8	0	0	72	16777215	200
+420	you're increasing your ability to share the work, ride harder and/or longer	8	0	0	72	16777215	210
+420	Start to settle into a reasonably quick spin...	8	0	0	72	16777215	220
+420	preferably above 85rpm	8	0	0	72	16777215	230
+660	Take a minute to get used to the workload	8	0	0	72	16777215	0
+660	In a minute you'll wind it up just like you did during the warmup	8	0	0	72	16777215	60
+660	For this first one, try to stay in the same gear	8	0	0	72	16777215	70
+660	You may decide you can turn a bigger gear later...	8	0	0	72	16777215	80
+660	but let's wait until...later	8	0	0	72	16777215	90
+660	Also, stay seated for this first one	8	0	0	72	16777215	100
+660	Get ready for a quick burst of speed	8	0	0	72	16777215	110
+780	Go!	5	0	0	72	16777215	0
+785	Restablish your 85+ spin & keep working	8	0	0	72	16777215	1
+785	While you'll get your speed quickly, there's no need to drop it quickly	8	0	0	72	16777215	15
+785	Spend a few seconds gently lowering your spin after each sprint	8	0	0	72	16777215	25
+785	You might even need to coast for 2 or 3 seconds	8	0	0	72	16777215	35
+785	And if you're using an electronic trainer in Erg mode...	8	0	0	72	16777215	45
+785	slightly different rules apply to you	8	0	0	72	16777215	55
+785	First, no shifting is necessary...ever	8	0	0	72	16777215	65
+785	Second, each sprint might take a couple seconds to "kick in"	8	0	0	72	16777215	75
+785	So wait for the rise in resistance then immediatley hammer on the pedals	8	0	0	72	16777215	85
+785	Otherwise, you'll outrun the sprint	8	0	0	72	16777215	95
+785	Get ready to go again...	8	0	0	72	16777215	105
+900	Sprint!	5	0	0	72	16777215	0
+905	And settle back in	8	0	0	72	16777215	1
+905	During subsequent intervals, we'll tweak things a bit...	8	0	0	72	16777215	55
+905	for now though, don't shift & don't stand	8	0	0	72	16777215	65
+905	Only 1 to go, keep it seated & in the same gear	8	0	0	72	16777215	105
+1020	Go!	5	0	0	72	16777215	0
+1025	Slow things down & ride as smoothly as possible	8	0	0	72	16777215	1
+1025	It's tough to come off a sprint & resist the urge to ease up too far...	8	0	0	72	16777215	15
+1025	but that's a huge takeaway from a workout like this one	8	0	0	72	16777215	25
+1025	Learn to work really hard, then hard...	8	0	0	72	16777215	35
+1025	REALLY hard, then hard	8	0	0	72	16777215	45
+1025	1 more minute, keep it together	8	0	0	72	16777215	55
+1140	Nicely done, take a break but keep moving	8	0	0	72	16777215	0
+1140	Spin for at least a minute before deciding to backpedal	8	0	0	72	16777215	10
+1140	Legs still pretty heavy?	8	0	0	72	16777215	60
+1140	Either breathe more fully or backpedal for 20-30 seconds	8	0	0	72	16777215	70
+1140	Next interval in a minute, no dramatic changes	8	0	0	72	16777215	180
+1140	The non-sprint intensity jockeys around a little, but the sprints are all the same	8	0	0	72	16777215	190
+1140	But you're welcome to sprint harder if you'd like...	8	0	0	72	16777215	200
+1140	just do it cautiously, lots of work still to come	8	0	0	72	16777215	210
+1380	Settle into your sustainable cadence	8	0	0	72	16777215	0
+1380	Sprinting in 1 minute, this time with options	8	0	0	72	16777215	60
+1380	First, you're welcome to stand during any/all of the remaining sprints	8	0	0	72	16777215	70
+1380	But only do so if you're GOOD at it	8	0	0	72	16777215	80
+1380	We'll talk more about what "GOOD" is a little later on	8	0	0	72	16777215	90
+1380	Second, you can shift up a gear or two...	8	0	0	72	16777215	100
+1380	as long as you can get your speed QUICKLY...get ready	8	0	0	72	16777215	110
+1500	Sprint!	5	0	0	72	16777215	0
+1505	Settle back in, don't back off too far	8	0	0	72	16777215	1
+1505	Should be getting the hang of this now...	8	0	0	72	16777215	55
+1505	so let's try to improve the quality of your sprints first	8	0	0	72	16777215	65
+1505	The idea is to get your speed fast, leg speed that is	8	0	0	72	16777215	75
+1505	It won't matter indoors what your wheel's speed is...	8	0	0	72	16777215	85
+1505	rather, be more concerned with how quickly you can generate it	8	0	0	72	16777215	95
+1505	Here's an opportunity to try getting  it all at once...	8	0	0	72	16777215	105
+1620	Sprint!	5	0	0	72	16777215	0
+1625	Settle back into your more natural spin	8	0	0	72	16777215	1
+1625	Did you get your leg speed quickly? If not...	8	0	0	72	16777215	15
+1625	you might need a lighter gear next time	8	0	0	72	16777215	25
+1625	Overgeared sprints (e.g. stomps) are very useful in training...	8	0	0	72	16777215	35
+1625	but that's not what we're after today	8	0	0	72	16777215	45
+1625	Today's sprinting focus is the rapid development of leg speed	8	0	0	72	16777215	55
+1625	For example, say you go from 85rpm to 115rpm	8	0	0	72	16777215	65
+1625	Doing it in 5 seconds is one thing, 3 seconds another...	8	0	0	72	16777215	75
+1625	but imagine if you could do it in 1-2 seconds!	8	0	0	72	16777215	85
+1625	You could slingshot away from others or fly up a steep wall...	8	0	0	72	16777215	95
+1625	and you get to practice it right now	8	0	0	72	16777215	105
+1740	Sprint!	5	0	0	72	16777215	0
+1745	Settle back in, try not to ease of the gas too far	8	0	0	72	16777215	1
+1745	Holding near-FTP effort after a sprint is hard...	8	0	0	72	16777215	15
+1745	but far from impossible	8	0	0	72	16777215	25
+1745	And many riders see sprints as an excuse to rest afterward...	8	0	0	72	16777215	35
+1745	so learn to make it your excuse to drill it	8	0	0	72	16777215	45
+1745	You can benefit by carrying your sprint right into a hard effort...	8	0	0	72	16777215	55
+1745	or you can save your sprint until they've finished their sprints	8	0	0	72	16777215	65
+1745	In either case, you'll put yourself up the road...	8	0	0	72	16777215	75
+1745	or up the hill, around the corner...you get the picture ;)	8	0	0	72	16777215	85
+1860	Alrighty, ease up & spin out the heaviness	8	0	0	72	16777215	0
+1860	You've probably got a good handle on your sprints...	8	0	0	72	16777215	120
+1860	enough so you can make the remaining ones worthwhile	8	0	0	72	16777215	130
+1860	So let's talk about the mid-sprint valleys	8	0	0	72	16777215	140
+1860	Each 2-minute segment is a good opportunity to make them specific	8	0	0	72	16777215	150
+1860	Specific to the way you want to ride outdoors	8	0	0	72	16777215	160
+1860	Do you need to be aero? Do you want to adopt a quicker spin?	8	0	0	72	16777215	170
+1860	Use the subthreshold efforts between each sprint to practice	8	0	0	72	16777215	180
+1860	You might take 10-20 seconds to lower your breathing rate a bit...	8	0	0	72	16777215	190
+1860	or you might recognize how you won't have that option outdoors	8	0	0	72	16777215	200
+1860	Either way, try to make these muscle endurance segments realistic	8	0	0	72	16777215	210
+1860	Or at least more in line with your event demands	8	0	0	72	16777215	220
+2100	Settle in, try to stay above 85rpm	8	0	0	72	16777215	0
+2100	Drill are optional and may not suit your goals or limiters...	8	0	0	72	16777215	10
+2100	but follow along if you like	8	0	0	72	16777215	20
+2100	Settle into a more aerodynamic position	8	0	0	72	16777215	30
+2100	Aero bars, drops, softer elbows - anything that makes you smaller in the wind	8	0	0	72	16777215	40
+2100	Try to hold that aero position	8	0	0	72	16777215	60
+2100	Still aero? Hold it if you can	8	0	0	72	16777215	90
+2100	Then try to go directly from aero to sprinting, if possible	8	0	0	72	16777215	100
+2100	Get ready...	8	0	0	72	16777215	110
+2220	Sprint!	5	0	0	72	16777215	0
+2225	Ease off the speed a bit	8	0	0	72	16777215	1
+2225	Crit racers, road racers, even mountain bikers...	8	0	0	72	16777215	15
+2225	need to go from fast to really fast in an instant	8	0	0	72	16777215	25
+2225	Multisport athletes often have more time to change their speed	8	0	0	72	16777215	35
+2225	But in both cases, athletes can benefit from practicing rapid accelerations	8	0	0	72	16777215	45
+2225	Remember, we're "waking up" more muscle mass...	8	0	0	72	16777215	55
+2225	taking muscle that you're already carting around and making it pull its weight	8	0	0	72	16777215	65
+2225	LITERALLY	8	0	0	72	16777215	75
+2225	So even if you don't sprint in competition, practice it here anyway	8	0	0	72	16777215	85
+2225	Get ready to pounce...	8	0	0	72	16777215	105
+2340	Go!	5	0	0	72	16777215	0
+2345	Settle back in	8	0	0	72	16777215	1
+2345	Not to beat a dead horse, but if you're a certain type of rider...	8	0	0	72	16777215	25
+2345	you need to get your speed instantly AND in position	8	0	0	72	16777215	35
+2345	So practice carrying that position into & out of each sprint	8	0	0	72	16777215	45
+2345	If possible, hold that position for an entire interval!	8	0	0	72	16777215	55
+2345	Make your work indoors translate as directly as possible to the outdoors	8	0	0	72	16777215	65
+2345	Get ready to hammer one more time...	8	0	0	72	16777215	105
+2460	Go fast!	5	0	0	72	16777215	0
+2465	Excellent, ease back into your natural spin	8	0	0	72	16777215	1
+2465	And get aero as soon as possible	8	0	0	72	16777215	15
+2465	1 more minute, see if you can stay aero the whole time	8	0	0	72	16777215	55
+2580	Great job! Spin away the burn	8	0	0	72	16777215	0
+2580	Get some oxygen back to your brain...	8	0	0	72	16777215	10
+2580	and start planning your post-workout nutrition	8	0	0	72	16777215	20
+2580	We'll see you next time	5	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	2700	Workout
+0	240	Endurance 1
+240	300	Sweet Spot 1
+300	305	Sprint 1
+305	360	Sweet Spot 2
+360	365	Sprint 2
+365	420	Sweet Spot 3
+660	780	Sweet Spot 4
+780	785	Sprint 3
+785	900	Threshold 1
+900	905	Sprint 4
+905	1020	Threshold 2
+1020	1025	Sprint 5
+1025	1140	Threshold 3
+1380	1500	Sweet Spot 5
+1500	1505	Sprint 6
+1505	1620	Threshold 4
+1620	1625	Sprint 7
+1625	1740	Threshold 5
+1740	1745	Sprint 8
+1745	1860	Sweet Spot 6
+2100	2220	Sweet Spot 7
+2220	2225	Sprint 9
+2225	2340	Threshold 6
+2340	2345	Sprint 10
+2345	2460	Sweet Spot 8
+2460	2465	Sprint 11
+2465	2580	Threshold 7
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

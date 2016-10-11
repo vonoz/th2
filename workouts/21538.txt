@@ -1,0 +1,103 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Excelsior,64,174. Created by 54951.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+10	50
+10	50
+11	60
+11	60
+43	60
+43	60
+44	70
+44	70
+64	70
+64	70
+65	65
+65	65
+93	65
+93	65
+94	70
+94	70
+104	70
+104	70
+105	60
+105	60
+138	60
+138	60
+139	70
+139	70
+149	70
+149	70
+150	65
+150	65
+177	65
+177	65
+178	70
+178	70
+188	70
+188	70
+189	60
+189	60
+222	60
+222	60
+223	70
+223	70
+233	70
+233	70
+234	65
+234	65
+251	65
+251	65
+252	50
+252	50
+255	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+660	Once you're thoroughly warmed up, perform 3-5 Form Sprints over this 32-minute stretch	8	0	0	72	16777215	-1
+2640	Spend 10 of these minutes alternating your Single Leg Focus	8	0	0	72	16777215	-1
+3900	Spend 5 minutes of this 28 minutes doing some Endurance Spinning	8	0	0	72	16777215	0
+5640	Another 10 minutes of alternating Single Leg Focus	8	0	0	72	16777215	-1
+6300	Spend a couple 5-minute segments doing some Endurance Spinning	8	0	0	72	16777215	0
+8340	Once more, alternate your Single Leg Focus for 10 minutes total	8	0	0	72	16777215	-1
+9000	Bit bored? Try another 5 minutes of Endurance Spinning	8	0	0	72	16777215	0
+10680	Couple more times, alternate your Single Leg Focus for 10 minutes total	8	0	0	72	16777215	-1
+11340	1 or 2 more bouts of Endurance Spinning, 5 minutes each	8	0	0	72	16777215	0
+13380	One last 10 minutes of alternating Single Leg Focus, almost done!	8	0	0	72	16777215	-1
+14040	Focus slipping? Add some Pistons and Kick & Pull drills	8	0	0	72	16777215	0
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	15300	Workout
+660	2580	Endurance 1
+2580	2640	Endurance 2
+2640	3840	Endurance 3
+3840	3900	Endurance 4
+3900	5580	Endurance 5
+5580	5640	Endurance 6
+5640	6240	Endurance 7
+6240	6300	Endurance 8
+6300	8280	Endurance 9
+8280	8340	Endurance 10
+8340	8940	Endurance 11
+8940	9000	Endurance 12
+9000	10620	Endurance 13
+10620	10680	Endurance 14
+10680	11280	Endurance 15
+11280	11340	Endurance 16
+11340	13320	Endurance 17
+13320	13380	Endurance 18
+13380	13980	Endurance 19
+13980	14040	Endurance 20
+14040	15060	Endurance 21
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

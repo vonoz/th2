@@ -1,0 +1,276 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Diamond 45,94,66. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	65
+3	90
+4.5	90
+4.5	120
+5	120
+5	40
+8	40
+8	90
+9.5	90
+9.5	115
+10.5	115
+10.5	95
+12	95
+12	120
+13	120
+13	100
+15	100
+15	70
+18	70
+18	90
+20.5	90
+20.5	130
+21	130
+21	92
+22.5	92
+22.5	130
+23	130
+23	95
+24	95
+24	135
+24.5	135
+24.5	100
+26	100
+26	60
+28	60
+28	95
+29.5	95
+29.5	105
+31	105
+31	90
+32.5	90
+32.5	110
+34	110
+34	100
+35	100
+35	50
+36	50
+36	90
+38	90
+38	125
+38.75	125
+38.75	90
+40.75	90
+40.75	130
+41.5	130
+41.5	100
+43	100
+43	40
+45	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Riding inside is great for many reasons...	5	0	0	72	16777215	10
+0	but one of the best benefits?	5	0	0	72	16777215	16
+0	No wind!	3	0	0	72	16777215	23
+0	But when outside, you'll always face the wind...	5	0	0	72	16777215	28
+0	so we might as well train for it, right?	5	0	0	72	16777215	35
+0	Today's workout will focus on that very thing...	5	0	0	72	16777215	42
+0	so warm up & get ready!	5	0	0	72	16777215	49
+180	Spin above 85rpm for these 90 seconds	5	0	0	72	16777215	0
+270	Spin above 100rpm for 30 seconds	5	0	0	72	16777215	0
+300	Nice job	3	0	0	72	16777215	12
+300	Now that you're warmed up...	3	0	0	72	16777215	17
+300	let's talk wind resistance	3	0	0	72	16777215	21
+300	Wind resistance is influenced by many factors:	5	0	0	72	16777215	26
+300	One is wind itself...	3	0	0	72	16777215	33
+300	and another is your speed	3	0	0	72	16777215	37
+300	And that's all we'll focus on today	5	0	0	72	16777215	41
+300	Sure, resistance stems from your speed relative to air speed	5	0	0	72	16777215	48
+300	but regardless, you almost always fight wind	5	0	0	72	16777215	54
+300	But increased aerodynamic efficiency...	5	0	0	72	16777215	61
+300	can reduce wind's influence a bit	3	0	0	72	16777215	67
+300	sometimes a lot	3	0	0	72	16777215	71
+300	But learning to manage your effort...	5	0	0	72	16777215	76
+300	in spite of all forms of resistance is key	5	0	0	72	16777215	82
+300	A power meter makes this easier, but regardless...	5	0	0	72	16777215	89
+300	learning to resist frustration is hugely important	5	0	0	72	16777215	96
+300	So during each of these sets of intervals...	5	0	0	72	16777215	103
+300	when you face the VO2 Max & Anaerobic work...	5	0	0	72	16777215	109
+300	imagine you're bridging a gap or breaking away...	5	0	0	72	16777215	115
+300	while fighting through the wind	3	0	0	72	16777215	121
+300	Wanna make it extra realistic?	3	0	0	72	16777215	126
+300	Move your fan closer to your face ;-)	5	0	0	72	16777215	130
+300	Almost time to get your first one started...	5	0	0	72	16777215	150
+300	so settle into a quick, relaxed spin...	5	0	0	72	16777215	156
+300	anchor your sit bones to the wings...	5	0	0	72	16777215	162
+300	and start your belly-breathing	3	0	0	72	16777215	168
+480	Let's roll!	3	0	0	72	16777215	0
+480	Find that quick & comfortable cadence...	5	0	0	72	16777215	5
+480	and settle into your rhythm	3	0	0	72	16777215	11
+480	Imagine you're setting pace at the front of the pack	5	0	0	72	16777215	16
+480	Ignore the wind in your face...	3	0	0	72	16777215	23
+480	and focus on your Target Power	3	0	0	72	16777215	27
+480	A surge in pace coming up	3	0	0	72	16777215	85
+570	Pick it up but make it smooth	5	0	0	72	16777215	0
+630	Ease up, and though you're back in the wind...	5	0	0	72	16777215	2
+630	it's  nothing you can't handle - totally doable	5	0	0	72	16777215	8
+630	Remember to tune out the noise...	3	0	0	72	16777215	60
+630	and stay focused on the task at hand:	4	0	0	72	16777215	64
+630	Keeping your power on Target	3	0	0	72	16777215	69
+720	Another bump in pace, make it smooth	5	0	0	72	16777215	0
+780	Ease up only slightly, down to FTP	5	0	0	72	16777215	2
+780	Back to pulling at the front	4	0	0	72	16777215	9
+780	Keep your cadence light...	3	0	0	72	16777215	15
+780	and try to save your legs a bit...	3	0	0	72	16777215	19
+780	so the gusts won't hurt so badly	3	0	0	72	16777215	24
+780	30 seconds left!	3	0	0	72	16777215	90
+900	Great job!	3	0	0	72	16777215	2
+900	Slow down but not quite into recovery wattage	5	0	0	72	16777215	7
+900	Make an effort to recover while you work	5	0	0	72	16777215	14
+900	OK, this time we'll shift our focus a bit	5	0	0	72	16777215	60
+900	Let's narrow in on aerodynamics	5	0	0	72	16777215	67
+900	When out of the draft & in the wind...	4	0	0	72	16777215	74
+900	aerodynamic positioning should be of paramount concern	5	0	0	72	16777215	79
+900	The more aerodynamically positioned you can become...	5	0	0	72	16777215	86
+900	the more you can "cheat" the wind...	3	0	0	72	16777215	103
+900	and in turn, save more energy	4	0	0	72	16777215	107
+900	In the midst of the harder or milder work...	5	0	0	72	16777215	114
+900	take inventory of a few things	3	0	0	72	16777215	121
+900	Whether you're on the tops, hoods or drops...	5	0	0	72	16777215	125
+900	make sure your head is low but your eyes are up...	5	0	0	72	16777215	132
+900	and your elbows are tucked in	3	0	0	72	16777215	139
+900	Check that your knees aren't flaring outwards...	5	0	0	72	16777215	144
+900	and are tracking like pistons	3	0	0	72	16777215	151
+900	Straight up, straight down	3	0	0	72	16777215	156
+900	Check these things over...	3	0	0	72	16777215	161
+900	make necessary adjustments...	3	0	0	72	16777215	165
+900	and get aero!	3	0	0	72	16777215	169
+900	Time to go again!	3	0	0	72	16777215	175
+1080	Smoothly pick it up...	3	0	0	72	16777215	0
+1080	and find a quick but smooth cadence	5	0	0	72	16777215	4
+1080	If possible, get into your drops	3	0	0	72	16777215	11
+1080	If you're already there...	3	0	0	72	16777215	16
+1080	bend your elbows a little more	3	0	0	72	16777215	20
+1080	Time to pick it up, couple deep breaths	5	0	0	72	16777215	142
+1230	Only break your aero position if necessary	5	0	0	72	16777215	0
+1260	Excellent, time for head & shoulders	3	0	0	72	16777215	2
+1260	Try lowering your head a bit...	3	0	0	72	16777215	7
+1260	and relaxing your shoulders	3	0	0	72	16777215	11
+1260	Hold that position if you can, no slip in power	5	0	0	72	16777215	16
+1260	Surge coming up!	3	0	0	72	16777215	85
+1350	Drill it! 30 seconds to cover an attack	5	0	0	72	16777215	0
+1380	Good, now focus on keeping your elbows in	5	0	0	72	16777215	2
+1440	And pick it up once more!	3	0	0	72	16777215	0
+1470	Awesome! You made the move	3	0	0	72	16777215	2
+1470	Now focus on your knees...	3	0	0	72	16777215	10
+1470	by not letting them flair out...	3	0	0	72	16777215	14
+1470	while keeping your pedalstroke smooth, fluid	5	0	0	72	16777215	18
+1470	10 more seconds!	3	0	0	72	16777215	80
+1560	Recovery time...	3	0	0	72	16777215	2
+1560	keep your spin light & catch your breath	5	0	0	72	16777215	7
+1560	Time to put in a solid effort while aero	5	0	0	72	16777215	30
+1560	Putting out sustained power from an aero position...	5	0	0	72	16777215	42
+1560	can be hard, impossible at times	5	0	0	72	16777215	49
+1560	Especially if you close off your breathing	5	0	0	72	16777215	56
+1560	Narrowing your shoulders & lowering your torso...	5	0	0	72	16777215	63
+1560	effectively shrinks your breathing cavity	4	0	0	72	16777215	69
+1560	And your body probably isn't used to this position...	5	0	0	72	16777215	75
+1560	so sustaining your normal power...	5	0	0	72	16777215	81
+1560	can become substantially more difficult	5	0	0	72	16777215	87
+1560	So focus on breathing especially well this time...	5	0	0	72	16777215	94
+1560	and establishing a sustainable rhythm ASAP	5	0	0	72	16777215	100
+1560	Start to ease into your aero position...	5	0	0	72	16777215	107
+1560	while the output is relatively low	3	0	0	72	16777215	113
+1680	Start relaxed, stay relaxed	5	0	0	72	16777215	0
+1680	Hold onto your aero position as long as you can...	5	0	0	72	16777215	7
+1680	and breathe fully as you try to relax	5	0	0	72	16777215	14
+1680	If you feel the need...	3	0	0	72	16777215	60
+1680	reposition yourself on the saddle	4	0	0	72	16777215	65
+1680	Try scooting forward an inch...	3	0	0	72	16777215	71
+1680	and see if it allows you to put out more power	5	0	0	72	16777215	75
+1770	Up the pace a bit here...	3	0	0	72	16777215	0
+1770	but keep your position	3	0	0	72	16777215	4
+1860	Good, keep your cadence high...	4	0	0	72	16777215	2
+1860	and try to relax your shoulders & arms	4	0	0	72	16777215	7
+1950	Pick the pace up but do it smoothly...	4	0	0	72	16777215	0
+1950	and don't show the work	3	0	0	72	16777215	5
+1950	Try to stop your body...	3	0	0	72	16777215	10
+1950	from swaying during hard efforts	3	0	0	72	16777215	14
+1950	Just keep your cadence high, body relaxed	5	0	0	72	16777215	19
+2040	1 more minute in aero if you can!	3	0	0	72	16777215	2
+2100	Challenging stuff, right?	3	0	0	72	16777215	2
+2100	Here's a bit of actual recovery wattage...	5	0	0	72	16777215	7
+2100	to spin away some of the discomfort...	3	0	0	72	16777215	11
+2100	as well as to  regain your focus...	3	0	0	72	16777215	15
+2100	for the last set of bridging efforts	3	0	0	72	16777215	19
+2160	Time to do some more work!	5	0	0	72	16777215	0
+2160	Settle in and decide...	3	0	0	72	16777215	7
+2160	if you can handle some standing efforts	5	0	0	72	16777215	11
+2160	Both upcoming surges are 45 seconds long...	5	0	0	72	16777215	18
+2160	and you can spend that entire duration	4	0	0	72	16777215	25
+2160	out-of-the-saddle (standing)...	3	0	0	72	16777215	30
+2160	or just a portion of it standing	4	0	0	72	16777215	34
+2160	Or you can power through the whole thing seated	5	0	0	72	16777215	40
+2160	Your call	3	0	0	72	16777215	47
+2160	Slow your spin if you plan to stand	5	0	0	72	16777215	112
+2280	45 seconds, come up if you can	5	0	0	72	16777215	0
+2280	If you rise...	3	0	0	72	16777215	10
+2280	keep most of your weight on the pedals	5	0	0	72	16777215	14
+2280	And have a seat at any point...	4	0	0	72	16777215	21
+2280	especially if you feel sloppy	4	0	0	72	16777215	26
+2325	Settle back in for a couple minutes...	5	0	0	72	16777215	0
+2325	and try to clear the burn	3	0	0	72	16777215	6
+2445	If you can...	3	0	0	72	16777215	0
+2445	come on up & pedal fluidly while standing	5	0	0	72	16777215	4
+2445	Stand for the entire surge...	3	0	0	72	16777215	15
+2445	or sit if you feel too tired or sloppy	5	0	0	72	16777215	19
+2490	Excellent! Final 90 seconds of the workout	5	0	0	72	16777215	2
+2490	Right at FTP for this closing segment...	5	0	0	72	16777215	9
+2490	so it's gonna hurt	3	0	0	72	16777215	15
+2490	But it's gonna be over soon!	3	0	0	72	16777215	20
+2490	So be tough	3	0	0	72	16777215	25
+2490	Final 30 seconds!	3	0	0	72	16777215	60
+2490	Do your best to make them pretty...	4	0	0	72	16777215	65
+2490	by hiding just how much you're hurting	5	0	0	72	16777215	70
+2580	Great job today!	5	0	0	72	16777215	2
+2580	Keep spinning & clear your legs	3	0	0	72	16777215	9
+2580	As far as recovery nutrition...	5	0	0	72	16777215	14
+2580	start thinking about it...	3	0	0	72	16777215	20
+2580	or actually taking it on	3	0	0	72	16777215	24
+2580	And we'll see you next time	5	0	0	72	16777215	29
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	2700	Workout
+180	270	Sweet Spot 1
+270	300	VO2 Max 1
+480	570	Sweet Spot 2
+570	630	VO2 Max 2
+630	720	Sweet Spot 3
+720	780	VO2 Max 3
+780	900	Threshold 1
+900	1080	Endurance 1
+1080	1230	Sweet Spot 4
+1230	1260	Sprint 1
+1260	1350	Sweet Spot 5
+1350	1380	Sprint 2
+1380	1440	Sweet Spot 6
+1440	1470	Sprint 3
+1470	1560	Threshold 2
+1560	1680	Endurance 2
+1680	1770	Sweet Spot 7
+1770	1860	Threshold 3
+1860	1950	Sweet Spot 8
+1950	2040	VO2 Max 4
+2040	2100	Threshold 4
+2160	2280	Sweet Spot 9
+2280	2325	Anaerobic Capacity 1
+2325	2445	Sweet Spot 10
+2445	2490	Anaerobic Capacity 2
+2490	2580	Threshold 5
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

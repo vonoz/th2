@@ -1,0 +1,126 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Wheeler,101,71. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5	50
+5	150
+5.5	150
+5.5	40
+6	40
+6	135
+7	135
+7	40
+8	40
+8	133
+9.5	133
+9.5	40
+13.5	40
+13.5	150
+14.25	150
+14.25	110
+17.5	110
+17.5	70
+19.5	70
+19.5	130
+20.5	130
+20.5	110
+23.5	110
+23.5	70
+25.5	70
+25.5	120
+26.75	120
+26.75	110
+29.5	110
+29.5	70
+31.5	70
+31.5	150
+32	150
+32	110
+35.5	110
+35.5	70
+37.5	70
+37.5	40
+42	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Wheeler!	10	0	0	72	16777215	-1
+0	This workout has a short warmup and then a race simulation	8	0	0	72	16777215	10
+0	The idea is that you are in a pack of riders in a criterium	8	0	0	72	16777215	18
+0	You are feeling aggressive and want to break away from the group	8	0	0	72	16777215	26
+0	The first time you jump, you ride hard for 1 minute to establish a gap	8	0	0	72	16777215	34
+0	Then hold a strong effort for 3 more minutes to hold off the peloton	8	0	0	72	16777215	42
+0	But you get caught :(	8	0	0	72	16777215	50
+0	So you sit in the group for another few minutes to catch your breath	8	0	0	72	16777215	58
+0	And then try again	8	0	0	72	16777215	66
+0	For a total of four attacks	8	0	0	72	16777215	74
+0	Each with varying time for the initial break away from the pack	8	0	0	72	16777215	82
+570	Get ready for your first break away from the pack	8	0	0	72	16777215	232
+810	GO!!!	8	0	0	72	16777215	-1
+810	Hold an intense effort for 45 seconds. Don't look back!	8	0	0	72	16777215	8
+810	Just put your head down and pedal	8	0	0	72	16777215	16
+855	OK. you're away from the group.	8	0	0	72	16777215	-1
+855	Settle into a strong pace you can hold to keep your lead	8	0	0	72	16777215	8
+1050	And you've been caught by the pack	8	0	0	72	16777215	-1
+1050	Your in the group so you don't need to work quite as hard for the next 2 minutes	8	0	0	72	16777215	8
+1050	Now's your chance	8	0	0	72	16777215	112
+1170	Go again!	8	0	0	72	16777215	-1
+1170	Try for a minute this time	8	0	0	72	16777215	8
+1230	You're away again. Back off into a more sustainable effort	8	0	0	72	16777215	-1
+1230	Here comes the pack again.	8	0	0	72	16777215	172
+1410	You got swallowed up	8	0	0	72	16777215	-1
+1410	2 minutes to sit in and plan your next move	8	0	0	72	16777215	8
+1410	The pace has slowed and nobody is looking	8	0	0	72	16777215	112
+1530	Make your move!	8	0	0	72	16777215	-1
+1530	1 minute didn't work so go another 15 seconds	8	0	0	72	16777215	8
+1605	You look back and don't see anyone	8	0	0	72	16777215	2
+1605	Stay strong. Work hard to keep the pack from catching you	8	0	0	72	16777215	10
+1770	Shucks! The group caught you again.	8	0	0	72	16777215	-1
+1770	Time for a new plan	8	0	0	72	16777215	8
+1770	The race is almost over and you know you need to get away from this pack	8	0	0	72	16777215	16
+1770	So you find two buddies who agree to break away with you	8	0	0	72	16777215	24
+1770	Your buddies give you the signal	8	0	0	72	16777215	112
+1890	It's GO time!	8	0	0	72	16777215	-1
+1890	This time there are 3 of you so you work together as hard as possible to get away	8	0	0	72	16777215	8
+1890	and make sure no one follows	8	0	0	72	16777215	16
+1920	Now that you're away from the pack just hold a steady pace	8	0	0	72	16777215	-1
+1920	You and your buddies take turns pulling at the front for about 15 seconds each	8	0	0	72	16777215	8
+1920	Now is your turn	8	0	0	72	16777215	16
+1920	You're at the front again. Time to work	8	0	0	72	16777215	60
+1920	Rotate out	8	0	0	72	16777215	75
+1920	Your turn again	8	0	0	72	16777215	105
+1920	You're in front again	8	0	0	72	16777215	150
+1920	Do you have enough to break away from your buddies?	8	0	0	72	16777215	158
+1920	If you do, go for it.	8	0	0	72	16777215	166
+1920	Otherwise just finish strong	8	0	0	72	16777215	174
+1920	and settle for 3rd	8	0	0	72	16777215	182
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	2520	Workout
+300	330	Sprint 1
+360	420	Anaerobic Capacity 1
+480	570	Anaerobic Capacity 2
+810	855	Anaerobic Capacity 3
+855	1050	VO2 Max 1
+1050	1170	Endurance 1
+1170	1230	Anaerobic Capacity 4
+1230	1410	VO2 Max 2
+1410	1530	Endurance 2
+1530	1605	VO2 Max 3
+1605	1770	VO2 Max 4
+1770	1890	Endurance 3
+1890	1920	Sprint 2
+1920	2130	VO2 Max 5
+2130	2250	Endurance 4
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

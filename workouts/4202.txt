@@ -1,0 +1,140 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Palmer,86,73. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	55
+5	60
+5	60
+10	65
+10	65
+15	65
+15	90
+15.5	90
+15.5	65
+16	65
+16	92
+16.5	92
+16.5	65
+17	65
+17	95
+17.5	95
+17.5	65
+18	65
+18	97
+18.5	97
+18.5	65
+19	65
+19	100
+19.5	100
+19.5	65
+20	70
+20	70
+22.5	75
+22.5	75
+25	75
+25	105
+27	105
+27	60
+28	60
+28	105
+30	105
+30	60
+31	60
+31	105
+33	105
+33	60
+34	60
+34	105
+36	105
+36	60
+37	60
+37	105
+39	105
+39	60
+40	60
+40	105
+42	105
+42	60
+43	60
+43	105
+45	105
+45	60
+46	60
+46	105
+48	105
+48	60
+49	60
+49	105
+51	105
+51	60
+52	60
+52	105
+54	105
+54	60
+57	55
+57	55
+59	50
+59	50
+60	50
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Hi, I am Coach Jorge!	8	0	0	72	16777215	10
+0	Head Coach for E3 Training Solutions	8	0	0	72	16777215	20
+0	This session is geared to improve your 20 min Power	8	0	0	72	16777215	30
+0	It is a broken 20 min interval workout	8	0	0	72	16777215	60
+0	Enjoy the Warm up!	8	0	0	72	16777215	80
+600	On/Off efforts coming up	8	0	0	72	16777215	272
+1350	The main set is coming up, get ready!	8	0	0	72	16777215	90
+2340	Half way, keep it up!	8	0	0	72	16777215	18
+3240	Great Job! make sure to cool down	8	0	0	72	16777215	20
+3240	www.e3ts.com	15	0	0	72	16777215	123
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	3600	Workout
+0	300	Endurance 1
+300	600	Endurance 2
+600	900	Endurance 3
+900	930	Sweet Spot 1
+930	960	Endurance 4
+960	990	Sweet Spot 2
+990	1020	Endurance 5
+1020	1050	Sweet Spot 3
+1050	1080	Endurance 6
+1080	1110	Threshold 1
+1110	1140	Endurance 7
+1140	1170	Threshold 2
+1170	1200	Endurance 8
+1200	1350	Endurance 9
+1350	1500	Endurance 10
+1500	1620	Threshold 3
+1620	1680	Endurance 11
+1680	1800	Threshold 4
+1800	1860	Endurance 12
+1860	1980	Threshold 5
+1980	2040	Endurance 13
+2040	2160	Threshold 6
+2160	2220	Endurance 14
+2220	2340	Threshold 7
+2340	2400	Endurance 15
+2400	2520	Threshold 8
+2520	2580	Endurance 16
+2580	2700	Threshold 9
+2700	2760	Endurance 17
+2760	2880	Threshold 10
+2880	2940	Endurance 18
+2940	3060	Threshold 11
+3060	3120	Endurance 19
+3120	3240	Threshold 12
+3240	3420	Endurance 20
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

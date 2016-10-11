@@ -1,0 +1,352 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Red Slate 45,93,64. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+3	65
+3	90
+4.5	90
+4.5	100
+6	100
+6	40
+9.5	40
+9.5	40
+10	95
+10	95
+10.75	95
+10.75	110
+11	110
+11	95
+11.75	95
+11.75	110
+12	110
+12	95
+12.75	95
+12.75	110
+13	110
+13	100
+13.75	100
+13.75	120
+14	120
+14	100
+14.75	100
+14.75	120
+15	120
+15	100
+15.75	100
+15.75	120
+16	120
+16	105
+16.75	105
+16.75	130
+17	130
+17	105
+17.75	105
+17.75	130
+18	130
+18	43
+21.5	43
+21.5	40
+22	95
+22	95
+22.75	95
+22.75	115
+23	115
+23	95
+23.75	95
+23.75	115
+24	115
+24	95
+24.75	95
+24.75	115
+25	115
+25	100
+25.75	100
+25.75	125
+26	125
+26	100
+26.75	100
+26.75	125
+27	125
+27	100
+27.75	100
+27.75	125
+28	125
+28	105
+28.75	105
+28.75	135
+29	135
+29	105
+29.75	105
+29.75	135
+30	135
+30	40
+33.5	40
+33.5	40
+34	95
+34	95
+34.75	95
+34.75	120
+35	120
+35	95
+35.75	95
+35.75	120
+36	120
+36	95
+36.75	95
+36.75	120
+37	120
+37	100
+37.75	100
+37.75	130
+38	130
+38	100
+38.75	100
+38.75	130
+39	130
+39	100
+39.75	100
+39.75	130
+40	130
+40	105
+40.75	105
+40.75	140
+41	140
+41	105
+41.75	105
+41.75	140
+42	140
+42	40
+45	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	If you've ever ridden in a paceline or team time trial...	8	0	0	72	16777215	10
+0	a profile like the one in front of you should look familiar	8	0	0	72	16777215	20
+0	When on the road...	8	0	0	72	16777215	30
+0	drafting with others requires a strong effort...	8	0	0	72	16777215	40
+0	with periodic surges	5	0	0	72	16777215	50
+0	Since we have 3 sets of these intervals...	8	0	0	72	16777215	60
+0	we'll look at 3 different scenarios with efforts like these	8	0	0	72	16777215	70
+0	But first, let's get warmed up	8	0	0	72	16777215	80
+180	Spend this segment at 90rpm or higher	8	0	0	72	16777215	0
+270	95rpm or higher as long as you don't bounce around	8	0	0	72	16777215	0
+360	Ease off the gas but keep your legs turning	8	0	0	72	16777215	0
+360	Now that you're somewhat warmed up, let's look at the first set	8	0	0	72	16777215	10
+360	Each set lasts 8 minutes and has 1 surge per minute	8	0	0	72	16777215	20
+360	The intensity will increase as the interval progresses...	8	0	0	72	16777215	30
+360	just like when you near the end of a race or group ride	8	0	0	72	16777215	40
+360	During this first set, let's adopt the scenario of a paceline	8	0	0	72	16777215	60
+360	We'll talk about how a paceline works most effectively...	8	0	0	72	16777215	70
+360	and what you can do to be the most effective in a paceline	8	0	0	72	16777215	80
+360	Pacelines are a windy day's antidote...	8	0	0	72	16777215	90
+360	and riders in an effective paceline...	8	0	0	72	16777215	100
+360	form a line shielding themselves from the wind	8	0	0	72	16777215	110
+360	Ideally, each person takes a short turn at the front...	8	0	0	72	16777215	120
+360	before pulling to the side and falling to the back of the line	8	0	0	72	16777215	130
+360	This process repeats for as long as possible...	8	0	0	72	16777215	140
+360	and the group maintains a steady, strong pace	8	0	0	72	16777215	150
+360	By allowing the rider to rest as he drifts to the back of the line...	8	0	0	72	16777215	160
+360	each rider gets a chance to recover briefly...	8	0	0	72	16777215	170
+360	before reaching the back of the group & falling back in line	8	0	0	72	16777215	180
+360	So let's work on your paceline skills!	5	0	0	72	16777215	190
+360	Bring your spin up to at least 85rpm	8	0	0	72	16777215	200
+570	Build into this one slowly & breathe fully as you ramp up	8	0	0	72	16777215	0
+600	Alright, you're at the back of the paceline now	8	0	0	72	16777215	0
+600	Just hold the wheel that's in front of you	5	0	0	72	16777215	10
+600	As you get to the front, don't speed up, just maintain pace	8	0	0	72	16777215	20
+600	It'll be harder because you won't have a draft, but maintain cadence	8	0	0	72	16777215	30
+645	You're turn at the front! Pick a bigger gear, stay smooth	8	0	0	72	16777215	0
+660	Good! Now fall back into line	5	0	0	72	16777215	0
+660	It's tough to match the pack's pace if you haven't recovered...	8	0	0	72	16777215	10
+660	but suffer through any pain necessary to catch the draft	8	0	0	72	16777215	20
+705	On the front again! Same spin, bigger gear, more power	8	0	0	72	16777215	0
+720	You know the drill ;-)	8	0	0	72	16777215	0
+780	Looks like the pack has picked up the pace...	8	0	0	72	16777215	0
+780	go a little harder now	5	0	0	72	16777215	10
+825	Good strong pace at the front!	5	0	0	72	16777215	0
+840	When the pace picks up like this...	8	0	0	72	16777215	0
+840	make sure you're pedaling technique isn't suffering	8	0	0	72	16777215	10
+840	This will make things sketchy for everybody else in the paceline	8	0	0	72	16777215	20
+885	At the front now, hold a steady speed/cadence	8	0	0	72	16777215	0
+900	To smooth your pedalstroke when pushing hard...	8	0	0	72	16777215	0
+900	relax your upper body & pedal smooth circles	8	0	0	72	16777215	10
+900	No mashing a big gear, no tension in the arms - just smooth	8	0	0	72	16777215	20
+945	Your turn, make it seamless	5	0	0	72	16777215	0
+960	Almost there, pace is even harder now	8	0	0	72	16777215	0
+960	Remember to keep a steady pace while in line, don't disrupt the flow	8	0	0	72	16777215	10
+1005	You're up! Smooth & powerful	5	0	0	72	16777215	0
+1020	Keep it up & don't back off too far	5	0	0	72	16777215	0
+1065	Last one! Smooooooth power	5	0	0	72	16777215	0
+1080	Very nicely done!	5	0	0	72	16777215	0
+1080	Get to recovering and if you need to, take a second to backpedal	8	0	0	72	16777215	10
+1080	Let's look at what efforts like this do for your fitness	8	0	0	72	16777215	20
+1080	These over-under intervals train you to handle changes in pace...	8	0	0	72	16777215	30
+1080	even when that pace is at or above your FTP	8	0	0	72	16777215	40
+1080	In the process, these efforts flood your muscles...	8	0	0	72	16777215	50
+1080	with metabolic byproduct	5	0	0	72	16777215	60
+1080	Just think of metabolic byproduct as the exhaust from your muscles	8	0	0	72	16777215	70
+1080	Along with them comes the desire to ease up...	8	0	0	72	16777215	80
+1080	but you have to fight that urge & power through	8	0	0	72	16777215	90
+1080	Push through the burn!	5	0	0	72	16777215	100
+1080	This will train your muscles to better process lactate...	8	0	0	72	16777215	110
+1080	while still working at a high level	5	0	0	72	16777215	120
+1080	This can not only raise your FTP...	8	0	0	72	16777215	130
+1080	but extend how long you are able to work above it	8	0	0	72	16777215	140
+1080	This time we will simulate a team time trial	8	0	0	72	16777215	180
+1080	Similar to a paceline but different at the same time	8	0	0	72	16777215	190
+1080	10 more seconds until you roll off the start ramp!	8	0	0	72	16777215	200
+1290	Off you go! Steadily ramp up your power & cadence	8	0	0	72	16777215	0
+1320	Alright, you're starting at the back of the line...	8	0	0	72	16777215	0
+1320	so hold this pace until your turn at the front is done	8	0	0	72	16777215	10
+1365	On the front, fight the wind & hold pace!	8	0	0	72	16777215	0
+1380	Now fall back to the end of the line	8	0	0	72	16777215	0
+1380	After your next turn at the front we'll talk about some TTT tactics	8	0	0	72	16777215	10
+1425	Your turn, face full of wind	5	0	0	72	16777215	0
+1440	TTTs are all about smoothness & consistency...	8	0	0	72	16777215	0
+1440	so avoid any surges in pace, sudden moves or too-long pulls	8	0	0	72	16777215	10
+1440	The team's goal should be unity above all else	8	0	0	72	16777215	20
+1485	Time to forge the draft for your team	8	0	0	72	16777215	0
+1500	Pace is coming up a bit, anchor your sit bones & hang in there	8	0	0	72	16777215	0
+1500	When TTT's hit a climb, remember unity	8	0	0	72	16777215	10
+1500	If one rider is a great climber, it doesn't matter	8	0	0	72	16777215	20
+1500	Think of the TEAM'S climbing speed, not your own	8	0	0	72	16777215	30
+1545	At the front again, smooth & powerful	8	0	0	72	16777215	0
+1560	When climbs like this are on the course...	8	0	0	72	16777215	0
+1560	make sure you've communicated with your team...	8	0	0	72	16777215	10
+1560	when to put in standing efforts and when to stay seated	8	0	0	72	16777215	20
+1560	This will smooth things out & make them safer	8	0	0	72	16777215	30
+1605	Your turn, push through the wind!	5	0	0	72	16777215	0
+1620	Good, now the climb is just finishing but don't ease up	8	0	0	72	16777215	0
+1620	The top of a climb and a less intense descent are great opportunities...	8	0	0	72	16777215	10
+1620	to gain an advantage over less vigilant or cohesive teams	8	0	0	72	16777215	20
+1620	Ignore the speed increase and just focus on maintaining power	8	0	0	72	16777215	30
+1665	Ignore the wind and hit your Target Power!	5	0	0	72	16777215	0
+1680	Good, now we are getting close to the finish...	8	0	0	72	16777215	0
+1680	which means increased pace & maybe the loss of a teammate or two	8	0	0	72	16777215	10
+1680	Make sure you know how many riders need to finish together...	8	0	0	72	16777215	20
+1680	in order to avoid disqualification but maximize speed	8	0	0	72	16777215	30
+1725	Spite the wind, strong pull!	5	0	0	72	16777215	0
+1740	Good, now treat this like a sprint train	8	0	0	72	16777215	0
+1740	Get your big engines in line and work together	8	0	0	72	16777215	10
+1740	Continue to stay smooth and avoid sudden movements!	8	0	0	72	16777215	20
+1785	Almost there, everybody sprints!	5	0	0	72	16777215	0
+1800	Well done! Keep spinning, forward or backward	8	0	0	72	16777215	0
+1800	Take the next couple of minutes to flush your muscles out	8	0	0	72	16777215	10
+1800	All better? Good!	5	0	0	72	16777215	60
+1800	Now let's focus on the always popular "breakaway"	8	0	0	72	16777215	70
+1800	Establishing a breakaway is hard, but we won't get into that here	8	0	0	72	16777215	80
+1800	Instead, we'll focus on maintaining a breakaway after it's established	8	0	0	72	16777215	90
+1800	While it does heavily depend on fitness...	8	0	0	72	16777215	100
+1800	it's extremely important to not ignore the mental aspect	8	0	0	72	16777215	110
+1800	So that's what we'll work on	5	0	0	72	16777215	120
+1800	When in the middle of this set...	8	0	0	72	16777215	130
+1800	don't you dare think about how much it hurts...	8	0	0	72	16777215	140
+1800	or how hard it is or that you can't make it	8	0	0	72	16777215	150
+1800	For a breakaway to succeed...	8	0	0	72	16777215	160
+1800	there's no point in looking back or questioning yourself	8	0	0	72	16777215	170
+1800	Just GO!	5	0	0	72	16777215	180
+1800	So imagine you've established a gap & now you have to maintain or grow it	8	0	0	72	16777215	190
+2010	Build into this one, cadence & power	8	0	0	72	16777215	0
+2040	Good! Now you're in the break with three other riders	8	0	0	72	16777215	0
+2085	Just like in a paceline, it's your turn!	5	0	0	72	16777215	0
+2100	The only difference is that now you are racing to get away	8	0	0	72	16777215	0
+2100	So the "rest" is hard and the pulls are harder	8	0	0	72	16777215	10
+2100	But the biggest difference is in your head	8	0	0	72	16777215	20
+2100	You have a chance at winning, so don't sell yourself short!	8	0	0	72	16777215	30
+2145	See if you can stretch the gap a bit	8	0	0	72	16777215	0
+2160	Getting closer to the end now, you can smell the victory!	8	0	0	72	16777215	0
+2205	Put in a hard one but be smooth	5	0	0	72	16777215	0
+2220	Looks like your breakmates are inspired, they picked it up!	8	0	0	72	16777215	0
+2220	This is hard but nothing you can't handle	8	0	0	72	16777215	10
+2220	You've pushed harder...	8	0	0	72	16777215	20
+2220	and now there's the potential prestige of a victory	8	0	0	72	16777215	30
+2265	Strong pull but don't disrupt your break	8	0	0	72	16777215	0
+2280	While you recover...	8	0	0	72	16777215	0
+2280	don't be afraid to encourage or advise your breakmates	8	0	0	72	16777215	10
+2280	Working well together usually requires a fair amount of communication	8	0	0	72	16777215	20
+2325	Build your lead, strong but smooth pull	8	0	0	72	16777215	0
+2340	This pace is starting to take its toll on your breakmates...	8	0	0	72	16777215	0
+2340	so don't be surprised if they skip a pull or drop off	8	0	0	72	16777215	10
+2385	Go hard but stay relaxed	5	0	0	72	16777215	0
+2400	That pull spit off one of your breakmates, but that's OK	8	0	0	72	16777215	0
+2400	As the finish approaches you have to thin the herd	8	0	0	72	16777215	10
+2400	Continue working together so you don't get caught...	8	0	0	72	16777215	20
+2400	but don't put yourself in a bad position at the finish	8	0	0	72	16777215	30
+2445	Test out your breakmate's legs with a hard pull of your own	8	0	0	72	16777215	0
+2460	Now turn the tables by pulling quickly to the side...	8	0	0	72	16777215	0
+2460	and grabbing your opponent's wheel	5	0	0	72	16777215	10
+2460	Don't let the yelling, heckling or tactics pressure you	8	0	0	72	16777215	20
+2460	Stick in that draft until the very end & then make your move!	8	0	0	72	16777215	30
+2505	100 meters to go, HAMMER!	5	0	0	72	16777215	0
+2520	Very nicely done!	3	0	0	72	16777215	2
+2520	Spin lightly & bring your breathing & HR back down	6	0	0	72	16777215	6
+2520	Take what we've talked about today...	5	0	0	72	16777215	14
+2520	and apply during your next race or group ride	5	0	0	72	16777215	20
+2520	It's not enough to be strong, you have to be smart too	5	0	0	72	16777215	27
+2520	Practice both the next time you have an opportunity...	6	0	0	72	16777215	34
+2520	and we'll see you next time!	5	0	0	72	16777215	41
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	2700	Workout
+180	270	Sweet Spot 1
+270	360	Threshold 1
+600	645	Sweet Spot 2
+645	660	VO2 Max 1
+660	705	Sweet Spot 3
+705	720	VO2 Max 2
+720	765	Sweet Spot 4
+765	780	VO2 Max 3
+780	825	Threshold 2
+825	840	VO2 Max 4
+840	885	Threshold 3
+885	900	VO2 Max 5
+900	945	Threshold 4
+945	960	VO2 Max 6
+960	1005	Threshold 5
+1005	1020	Sprint 1
+1020	1065	Threshold 6
+1065	1080	Sprint 2
+1320	1365	Sweet Spot 5
+1365	1380	VO2 Max 7
+1380	1425	Sweet Spot 6
+1425	1440	VO2 Max 8
+1440	1485	Sweet Spot 7
+1485	1500	VO2 Max 9
+1500	1545	Threshold 7
+1545	1560	Sprint 3
+1560	1605	Threshold 8
+1605	1620	Sprint 4
+1620	1665	Threshold 9
+1665	1680	Sprint 5
+1680	1725	Threshold 10
+1725	1740	Sprint 6
+1740	1785	Threshold 11
+1785	1800	Sprint 7
+2040	2085	Sweet Spot 8
+2085	2100	VO2 Max 10
+2100	2145	Sweet Spot 9
+2145	2160	VO2 Max 11
+2160	2205	Sweet Spot 10
+2205	2220	VO2 Max 12
+2220	2265	Threshold 12
+2265	2280	Sprint 8
+2280	2325	Threshold 13
+2325	2340	Sprint 9
+2340	2385	Threshold 14
+2385	2400	Sprint 10
+2400	2445	Threshold 15
+2445	2460	Sprint 11
+2460	2505	Threshold 16
+2505	2520	Sprint 12
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

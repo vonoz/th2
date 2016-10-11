@@ -1,0 +1,390 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = Wilhelm,88,116. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+6	50
+6	72
+12	72
+12	96
+15	96
+15	10
+16	10
+16	50
+24.83	65
+24.83	70
+25	108
+25	108
+30	108
+30	40
+32.83	40
+32.83	70
+33	108
+33	108
+38	108
+38	40
+40.83	40
+40.83	70
+41	108
+41	108
+46	108
+46	40
+48.83	40
+48.83	70
+49	108
+49	108
+54	108
+54	40
+56.83	40
+56.83	71
+57	109
+57	109
+62	109
+62	41
+64.83	41
+64.83	70
+65	108
+65	109
+70	109
+70	40
+72.83	40
+72.83	70
+73	108
+73	108
+78	108
+78	40
+90	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Wilhelm!	3	0	0	72	16777215	10
+0	You've got a full 20 minutes of warmup...	4	0	0	72	16777215	15
+0	to kick things off	3	0	0	72	16777215	20
+0	Keep your cadence light &  quick...	3	0	0	72	16777215	25
+0	and feel free to trim the duration...	3	0	0	72	16777215	29
+0	of this warmup if pressed for time	3	0	0	72	16777215	33
+0	Start this warmup...	3	0	0	72	16777215	38
+0	anywhere you like  based on your time constraints	5	0	0	72	16777215	42
+360	Time to further your warmup a bit...	5	0	0	72	16777215	0
+360	by spinning slightly quicker	3	0	0	72	16777215	6
+360	nothing excessive though, just 3-5rpm	5	0	0	72	16777215	11
+360	And try exhaling a bit more forcefully	5	0	0	72	16777215	18
+360	Actively clear the "used" air...	3	0	0	72	16777215	25
+360	and stay in front of the accumulation...	3	0	0	72	16777215	29
+360	that can slow you down	3	0	0	72	16777215	33
+720	One last bump in workload...	3	0	0	72	16777215	0
+720	putting you just below FTP for 3 minutes	5	0	0	72	16777215	4
+720	Make note of your breathing & HR...	3	0	0	72	16777215	11
+720	if you're comparing warmups	3	0	0	72	16777215	15
+720	Some days, a few minutes at 96% FTP...	4	0	0	72	16777215	20
+720	will be a breeze, others days...	3	0	0	72	16777215	26
+720	not so much	2	0	0	72	16777215	30
+720	Over time...	2	0	0	72	16777215	50
+720	you can correlate this freshness or lack thereof...	5	0	0	72	16777215	53
+720	with other factors like last night's sleep...	5	0	0	72	16777215	60
+720	how well you recovered from your last workout...	5	0	0	72	16777215	67
+720	hydration, impending illness...	3	0	0	72	16777215	74
+720	effects of non-bike stress, etc.	3	0	0	72	16777215	78
+720	All to further your understanding...	3	0	0	72	16777215	83
+720	of your workout preparedness...	3	0	0	72	16777215	87
+720	and your personal recovery patterns	5	0	0	72	16777215	91
+720	At least as important...	3	0	0	72	16777215	100
+720	you can improve your understanding...	3	0	0	72	16777215	104
+720	of YOUR personal rate of recovery	5	0	0	72	16777215	108
+720	This can vary widely from rider to rider...	3	0	0	72	16777215	115
+720	workout to workout...	3	0	0	72	16777215	119
+720	training phase to training phase	3	0	0	72	16777215	123
+720	So see these standardized warmups...	5	0	0	72	16777215	140
+720	as opportunities to build your...	3	0	0	72	16777215	146
+720	"self-knowledge base"	3	0	0	72	16777215	150
+900	If you're comparing warmups...	3	0	0	72	16777215	2
+900	perhaps using the LSCT protocol...	3	0	0	72	16777215	6
+900	stop pedaling & sit upright	5	0	0	72	16777215	10
+900	This is your opportunity to evaluate...	5	0	0	72	16777215	17
+900	your Heart Rate Recovery (HRR)	3	0	0	72	16777215	23
+900	Otherwise...	2	0	0	72	16777215	28
+900	just spin lightly for 30 more seconds	5	0	0	72	16777215	31
+960	Settle into a quick but comfortable spin...	5	0	0	72	16777215	0
+960	and we'll discuss what you're up against	5	0	0	72	16777215	6
+960	It's likely this workout was preceded...	5	0	0	72	16777215	13
+960	by some higher-intensity speed work	4	0	0	72	16777215	19
+960	or a shorter version of this workout	4	0	0	72	16777215	24
+960	In either case, welcome to the next step	4	0	0	72	16777215	30
+960	This intensity is noticeably above FTP...	5	0	0	72	16777215	36
+960	and the intervals are long enough to make this painfully apparent	5	0	0	72	16777215	42
+960	The goal is to improve your power duration...	5	0	0	72	16777215	49
+960	or the length of time you can hold...	4	0	0	72	16777215	55
+960	outputs above your current sustainable power	5	0	0	72	16777215	60
+960	Accordingly, you'll work above FTP...	4	0	0	72	16777215	67
+960	but not TOO far	3	0	0	72	16777215	72
+960	But make no mistake, these will hurt...	5	0	0	72	16777215	77
+960	but only for a few minutes at a time	3	0	0	72	16777215	83
+960	Over the course of these supra-Threshold repeats...	5	0	0	72	16777215	100
+960	your mind will become acquainted...	3	0	0	72	16777215	106
+960	with a higher level of sustained discomfort...	4	0	0	72	16777215	110
+960	which effectively increases your pain tolerance	5	0	0	72	16777215	115
+960	At the same time...	3	0	0	72	16777215	122
+960	your body will learn to hold this effort level...	5	0	0	72	16777215	126
+960	for longer & longer durations as time goes on	5	0	0	72	16777215	132
+960	A properly progressed training block...	4	0	0	72	16777215	139
+960	will grow these durations incrementally...	4	0	0	72	16777215	144
+960	and surprisingly manageably	3	0	0	72	16777215	149
+960	What may seem impossible right now...	4	0	0	72	16777215	154
+960	won't seem so in a few weeks	4	0	0	72	16777215	159
+960	Almost time to do some WORK!	4	0	0	72	16777215	270
+960	Keep spinning quicky & lightly...	4	0	0	72	16777215	276
+960	and ditch any unnecessary tension	3	0	0	72	16777215	281
+960	Anchor your sit bones...	3	0	0	72	16777215	286
+960	breathe from your belly...	3	0	0	72	16777215	291
+960	and stay relaxed	3	0	0	72	16777215	295
+1490	As you ramp up...	3	0	0	72	16777215	0
+1490	establish a suitable cadence	3	0	0	72	16777215	4
+1500	90+ rpm is recommended...	3	0	0	72	16777215	0
+1500	but choose an appropriate spin...	3	0	0	72	16777215	4
+1500	based on your performance goals...	3	0	0	72	16777215	8
+1500	and your event requirements	3	0	0	72	16777215	12
+1500	And maybe even your personal physiology	4	0	0	72	16777215	16
+1500	Once you've adjusted to the workload...	5	0	0	72	16777215	60
+1500	make a decision	3	0	0	72	16777215	66
+1500	Will you work on time trial positioning today?	5	0	0	72	16777215	70
+1500	You may have enough on your plate...	5	0	0	72	16777215	77
+1500	just working at this power output...	3	0	0	72	16777215	83
+1500	and getting low could cost you...	3	0	0	72	16777215	87
+1500	some, even a lot of your Target power	5	0	0	72	16777215	91
+1500	Consequently, you could miss...	3	0	0	72	16777215	98
+1500	sought after training adaptation	3	0	0	72	16777215	102
+1500	If, however, you feel...	3	0	0	72	16777215	108
+1500	that you can get low AND keep your power...	5	0	0	72	16777215	112
+1500	then move in & out of your aero position	5	0	0	72	16777215	118
+1500	You don't have to spend entire intervals...	5	0	0	72	16777215	125
+1500	in your aerodynamic position	3	0	0	72	16777215	131
+1500	But spend as much time down low...	3	0	0	72	16777215	136
+1500	as you can without sacrificing power or form	5	0	0	72	16777215	140
+1500	One more minute	3	0	0	72	16777215	180
+1500	Keep your power on Target...	3	0	0	72	16777215	185
+1500	and eliminate as much upper body movement as possible	5	0	0	72	16777215	189
+1500	Swaying subtly is one thing...	3	0	0	72	16777215	196
+1500	wavering wildly is another	3	0	0	72	16777215	212
+1500	It's downright unnecessary...	3	0	0	72	16777215	217
+1500	and costly in terms of energy	3	0	0	72	16777215	221
+1500	Be smoooooth	3	0	0	72	16777215	226
+1800	Well done	3	0	0	72	16777215	2
+1800	Take a few minutes to rest up	3	0	0	72	16777215	7
+1800	These breaks are short...	3	0	0	72	16777215	12
+1800	but they're long enough...	3	0	0	72	16777215	16
+1800	to keep each subsequent interval productive	5	0	0	72	16777215	20
+1800	But if you find your power fading...	4	0	0	72	16777215	27
+1800	early on in your intervals...	3	0	0	72	16777215	32
+1800	you can always pause the workout...	3	0	0	72	16777215	36
+1800	for an extra minute or two of easy spinning	5	0	0	72	16777215	40
+1970	Time to get back at it	3	0	0	72	16777215	0
+1970	Spin comfortably quickly	3	0	0	72	16777215	5
+1980	Settle into your target cadence...	4	0	0	72	16777215	0
+1980	and relax	3	0	0	72	16777215	5
+1980	Clearly, relaxing is a relative process	5	0	0	72	16777215	10
+1980	In this case...	3	0	0	72	16777215	17
+1980	it starts with eliminating needless muscle tension	5	0	0	72	16777215	21
+1980	Unclench your jaw, then drop your shoulders	5	0	0	72	16777215	28
+1980	Then loosen your grip on the bars	4	0	0	72	16777215	35
+1980	And soften your elbows	3	0	0	72	16777215	35
+1980	Basically use them as shock absorbers	4	0	0	72	16777215	39
+1980	It only needs to be firm enough...	3	0	0	72	16777215	45
+1980	to retain control of the bike	3	0	0	72	16777215	49
+1980	This comes especially easy indoors ;-)	3	0	0	72	16777215	54
+1980	When you're in your aero position...	4	0	0	72	16777215	120
+1980	you can be even more relaxed	3	0	0	72	16777215	125
+1980	Let your arms go almost entirely limp	4	0	0	72	16777215	130
+1980	There's nothing to be gained...	3	0	0	72	16777215	136
+1980	by bunching up your shoulder blades...	3	0	0	72	16777215	140
+1980	or strangling your shift levers	3	0	0	72	16777215	144
+1980	Put your your effort into the pedals instead	5	0	0	72	16777215	149
+1980	One minute left...	2	0	0	72	16777215	240
+1980	don't let your form deteriorate	3	0	0	72	16777215	243
+1980	As the interval wanes, increase your focus	5	0	0	72	16777215	248
+1980	Too often, riders get complacent...	4	0	0	72	16777215	255
+1980	and allow bad habits to take root	4	0	0	72	16777215	260
+1980	Don't be one of those riders	3	0	0	72	16777215	270
+1980	Instead, stay focused & controlled...	4	0	0	72	16777215	275
+1980	always reinforcing good habits...	3	0	0	72	16777215	280
+1980	and graceful movement patterns	3	0	0	72	16777215	284
+2280	Excellent! Spin out the heaviness	5	0	0	72	16777215	2
+2280	And if you aren't spending any of your intervals...	5	0	0	72	16777215	10
+2280	in your aero position...	3	0	0	72	16777215	17
+2280	try to spend some...	3	0	0	72	16777215	21
+2280	or even all of the recoveries there	5	0	0	72	16777215	25
+2450	Annnnd again, ramp it up!	3	0	0	72	16777215	0
+2460	By now, you know what to expect	5	0	0	72	16777215	0
+2460	What might suprise you...	3	0	0	72	16777215	7
+2460	is how you respond to later intervals	4	0	0	72	16777215	11
+2460	While some riders will start to fade...	4	0	0	72	16777215	16
+2460	others might just now start performing	4	0	0	72	16777215	21
+2460	Many riders take a while to adjust to intensity...	5	0	0	72	16777215	27
+2460	or to thoroughly warm up	3	0	0	72	16777215	33
+2460	So don't assume...	2	0	0	72	16777215	38
+2460	that each interval will be rougher than the last	5	0	0	72	16777215	41
+2460	It might be just the opposite	3	0	0	72	16777215	48
+2460	It's also common for motivation to rise...	4	0	0	72	16777215	53
+2460	as the workout winds down	3	0	0	72	16777215	58
+2460	Seeing the light at the end of the tunnel...	4	0	0	72	16777215	63
+2460	can be tremendously inspiring	3	0	0	72	16777215	68
+2460	Keep it together...	3	0	0	72	16777215	150
+2460	you're halfway through this one!	3	0	0	72	16777215	154
+2460	If possible, try to smooth out your pedalstroke...	5	0	0	72	16777215	160
+2460	especially if you're only feeling your quads	5	0	0	72	16777215	166
+2460	Unload them ever so slightly...	3	0	0	72	16777215	173
+2460	by lightly kicking forward...	3	0	0	72	16777215	177
+2460	and lightly pulling backward	3	0	0	72	16777215	181
+2460	Regardless of improved form...	3	0	0	72	16777215	186
+2460	potential economy improvements...	3	0	0	72	16777215	190
+2460	or unlikely gains in power...	3	0	0	72	16777215	194
+2460	try to spare your quads...	3	0	0	72	16777215	198
+2460	your primary pedaling muscles...	3	0	0	72	16777215	202
+2460	by learning to shut them off...	3	0	0	72	16777215	206
+2460	for even a millisecond longer	3	0	0	72	16777215	210
+2460	Even that can add up to seconds...	3	0	0	72	16777215	215
+2460	even minutes of recovery...	3	0	0	72	16777215	219
+2460	over a long ride	3	0	0	72	16777215	223
+2760	Nicley done!	3	0	0	72	16777215	2
+2760	Yet another one in the bag	3	0	0	72	16777215	7
+2760	Whether you've been riding aero or not...	5	0	0	72	16777215	12
+2760	spend some of this recovery valley...	3	0	0	72	16777215	18
+2760	down low, pedaling lightly	3	0	0	72	16777215	22
+2930	Once more, ramp it up	3	0	0	72	16777215	0
+2940	Time to show these intervals who's boss ;-)	5	0	0	72	16777215	0
+2940	As corny as that sounds...	3	0	0	72	16777215	7
+2940	your attitude can have a TREMENDOUS impact...	4	0	0	72	16777215	11
+2940	on your performance & subsequently your improvement	5	0	0	72	16777215	16
+2940	So why make things harder on yourself...	5	0	0	72	16777215	23
+2940	by feeling obligated or discouraged?	3	0	0	72	16777215	29
+2940	Why not see each interval less as another bout of suffering...	5	0	0	72	16777215	40
+2940	and more as another opportunity to get stronger	5	0	0	72	16777215	60
+2940	Practice making the pain something you seek out...	4	0	0	72	16777215	67
+2940	rather than something you simply get through	4	0	0	72	16777215	72
+2940	OWN the discomfort	3	0	0	72	16777215	78
+2940	Practice this approach...	3	0	0	72	16777215	90
+2940	EVERY time you saddle up for a tough workout	5	0	0	72	16777215	94
+2940	3 more minutes to distance your fitness...	5	0	0	72	16777215	120
+2940	from that of your competitors...	3	0	0	72	16777215	126
+2940	and move toward some new PR's	3	0	0	72	16777215	130
+2940	2 more minutes...	3	0	0	72	16777215	180
+2940	to practice embracing the pain	3	0	0	72	16777215	184
+2940	Before you know it, this will come naturally...	5	0	0	72	16777215	189
+2940	and you'll develop a reputation...	3	0	0	72	16777215	196
+2940	for knowing how to suffer	3	0	0	72	16777215	200
+2940	Couple that with some savvy tactics...	4	0	0	72	16777215	205
+2940	and you'll not only be feared...	3	0	0	72	16777215	210
+2940	but you'll be respected	3	0	0	72	16777215	214
+2940	Perhaps even to the point...	3	0	0	72	16777215	219
+2940	where other strong riders will work with you	5	0	0	72	16777215	223
+2940	Assuming you're a mass-start racer	3	0	0	72	16777215	230
+2940	Final minute...	3	0	0	72	16777215	240
+2940	make it look effortless!	3	0	0	72	16777215	244
+3240	Well done, 4 intervals covered	10	0	0	72	16777215	0
+3240	Spin lightly and let the heaviness clear	10	0	0	72	16777215	10
+3410	Time to ramp into yet another...	3	0	0	72	16777215	0
+3410	with a smooth, fluid pedalstroke	4	0	0	72	16777215	4
+3420	Start relaxed, stay relaxed...	3	0	0	72	16777215	0
+3420	and make sure your cadence is on target...	4	0	0	72	16777215	4
+3420	right from the start	3	0	0	72	16777215	9
+3420	One minute into this late effort...	4	0	0	72	16777215	60
+3420	and if you're still intent on riding in your aero position...	5	0	0	72	16777215	65
+3420	be sure that it's still productive	3	0	0	72	16777215	71
+3420	As your fatigue builds over the course of the workout...	4	0	0	72	16777215	76
+3420	take occasional breaks from riding aero	4	0	0	72	16777215	81
+3420	Anytime your form is a little sloppy...	4	0	0	72	16777215	100
+3420	or you see your power jumping around...	3	0	0	72	16777215	105
+3420	or you can't get on top of your breathing...	3	0	0	72	16777215	109
+3420	sit up & draw some big belly-breaths...	5	0	0	72	16777215	113
+3420	and get things in order	4	0	0	72	16777215	119
+3420	Hang in there for 2 more minutes...	3	0	0	72	16777215	180
+3420	and stay encouraged & stay focused	5	0	0	72	16777215	184
+3420	Final minute! Make this look easy	3	0	0	72	16777215	240
+3720	Well done...	3	0	0	72	16777215	2
+3720	Yet another in the bag!	3	0	0	72	16777215	6
+3720	Soft pressure on the legs...	3	0	0	72	16777215	11
+3720	while you help that heaviness clear	5	0	0	72	16777215	15
+3890	Time to ramp into another repeat...	3	0	0	72	16777215	0
+3890	with some smooth, balanced pedaling	4	0	0	72	16777215	4
+3900	Again, start relaxed & stay that way...	3	0	0	72	16777215	0
+3900	and keep your cadence quick & light	4	0	0	72	16777215	4
+3900	One minute into this penultimate push...	4	0	0	72	16777215	60
+3900	so if you're committed to riding in your aero position...	5	0	0	72	16777215	65
+3900	decide if it's still productive	3	0	0	72	16777215	71
+3900	Again, as your fatigue ratchets up...	4	0	0	72	16777215	76
+3900	you might need a break from riding aero	4	0	0	72	16777215	81
+3900	If you feel your form is a little sloppy...	4	0	0	72	16777215	100
+3900	or you see your power jumping around...	3	0	0	72	16777215	105
+3900	more than usual anyway...	3	0	0	72	16777215	109
+3900	sit up & draw some full, belly-driven breaths...	5	0	0	72	16777215	113
+3900	and get your power back on Target	4	0	0	72	16777215	119
+3900	Only 2 minutes to go...	3	0	0	72	16777215	180
+3900	so be positive & stay focused	5	0	0	72	16777215	184
+3900	Final minute! Fluid & relaxed	3	0	0	72	16777215	240
+4200	Well done...	3	0	0	72	16777215	2
+4200	Only one to go!	3	0	0	72	16777215	6
+4200	Spin lightly...	3	0	0	72	16777215	11
+4200	and let that heaviness clear	3	0	0	72	16777215	15
+4370	Stay relaxed...	3	0	0	72	16777215	0
+4370	as you ramp into your final interval	4	0	0	72	16777215	4
+4380	Last time...	2	0	0	72	16777215	0
+4380	start relaxed, stay relaxed	3	0	0	72	16777215	3
+4380	One minute into this last push	4	0	0	72	16777215	60
+4380	If you're still looking to say aero...	5	0	0	72	16777215	66
+4380	decide once more if it's still productive	3	0	0	72	16777215	80
+4380	As your fatigue climbs further...	3	0	0	72	16777215	85
+4380	take a few short breaks from riding aero	5	0	0	72	16777215	89
+4380	You'll know if you need to sit upright...	4	0	0	72	16777215	96
+4380	if your power starts straying	3	0	0	72	16777215	101
+4380	5 watts up or down, no problem...	4	0	0	72	16777215	105
+4380	but 10 watts up or down...	3	0	0	72	16777215	120
+4380	focus on smoothing things out	3	0	0	72	16777215	124
+4380	Any more than that...	3	0	0	72	16777215	129
+4380	and it's time to sit tall...	3	0	0	72	16777215	133
+4380	and be as smooth as possible	3	0	0	72	16777215	137
+4380	Over time, your "aero endurance" will improve...	5	0	0	72	16777215	142
+4380	just like anything else you practice	3	0	0	72	16777215	148
+4380	But just like everything else...	3	0	0	72	16777215	153
+4380	it's a process & will take some time	4	0	0	72	16777215	157
+4380	Only 2 minutes to go, stay focused!	5	0	0	72	16777215	180
+4380	Make these final 2 minutes...	3	0	0	72	16777215	187
+4380	as controlled as the first 2 minutes of the workout	5	0	0	72	16777215	191
+4380	Put another way...	3	0	0	72	16777215	198
+4380	make it pretty	3	0	0	72	16777215	202
+4380	Final minute!	2	0	0	72	16777215	240
+4380	Keep things pretty	3	0	0	72	16777215	243
+4680	Really well done, SEVEN total intervals!	5	0	0	72	16777215	2
+4680	Wind things down & clear those muscles	5	0	0	72	16777215	10
+4680	And as usual...	3	0	0	72	16777215	17
+4680	start planning or executing...	3	0	0	72	16777215	21
+4680	your post-workout nutrition	3	0	0	72	16777215	25
+4680	We'll see you next time	5	0	0	72	16777215	30
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	5400	Workout
+360	720	Endurance 1
+720	900	Threshold 1
+1490	1500	Sweet Spot 1
+1500	1800	VO2 Max 1
+1970	1980	Sweet Spot 2
+1980	2280	VO2 Max 2
+2450	2460	Sweet Spot 3
+2460	2760	VO2 Max 3
+2930	2940	Sweet Spot 4
+2940	3240	VO2 Max 4
+3410	3420	Sweet Spot 5
+3420	3720	VO2 Max 5
+3890	3900	Sweet Spot 6
+3900	4200	VO2 Max 6
+4370	4380	Sweet Spot 7
+4380	4680	VO2 Max 7
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

@@ -1,0 +1,369 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = 2014 8DC - Stage 4,92,99. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	50
+5.56	65
+5.56	65
+6.15	95
+6.15	95
+8.9	98
+8.9	40
+9.9	40
+9.9	40
+10.4	70
+10.4	70
+12.9	95
+12.9	95
+13.4	80
+13.4	80
+16.4	76
+16.4	76
+18.4	88
+18.4	102
+20.9	106
+20.9	40
+22.31	65
+22.31	65
+25.01	75
+25.01	75
+25.43	130
+25.43	150
+25.6	150
+25.6	20
+26.01	75
+26.01	75
+29.61	85
+29.61	85
+30.36	97
+30.36	97
+30.86	130
+30.86	145
+31.36	145
+31.36	40
+31.78	70
+31.78	70
+34.35	75
+34.35	130
+34.76	150
+34.76	90
+35.51	95
+35.51	110
+35.76	110
+35.76	93
+36.43	93
+36.43	111
+36.68	111
+36.68	96
+37.18	96
+37.18	108
+37.43	108
+37.43	96
+38.18	96
+38.18	115
+38.43	115
+38.43	98
+39.01	98
+39.01	111
+39.26	111
+39.26	93
+39.93	93
+39.93	111
+40.18	111
+40.18	96
+40.68	96
+40.68	108
+40.93	108
+40.93	96
+41.68	96
+41.68	115
+41.93	115
+41.93	98
+42.51	98
+42.51	111
+42.76	111
+42.76	93
+43.43	93
+43.43	111
+43.68	111
+43.68	96
+44.18	96
+44.18	108
+44.43	108
+44.43	96
+45.18	96
+45.18	115
+45.43	115
+45.43	98
+46.01	98
+46.01	111
+46.26	111
+46.26	93
+46.93	93
+46.93	111
+47.18	111
+47.18	96
+47.68	96
+47.68	108
+47.93	108
+47.93	96
+48.68	96
+48.68	115
+48.93	115
+48.93	98
+49.51	98
+49.51	111
+49.76	111
+49.76	94
+51.1	97
+51.1	97
+51.6	130
+51.6	145
+52.1	145
+52.1	40
+52.85	70
+52.85	70
+55.43	75
+55.43	75
+56.6	97
+56.6	97
+57.1	130
+57.1	155
+57.6	155
+57.6	40
+58.68	95
+58.68	95
+65	102
+65	40
+70	30
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome back to stage 4 of 8DC	8	0	0	72	16777215	1
+0	Today promises to be exciting	8	0	0	72	16777215	10
+0	Our strategy is simple...	8	0	0	72	16777215	20
+0	Gamble	5	0	0	72	16777215	30
+0	After suffering a substantial time loss to a number of GC contenders...	8	0	0	72	16777215	37
+0	we can shift our focus & simply hunt stage wins	8	0	0	72	16777215	47
+0	Or we can make a bold all-or-nothing play	8	0	0	72	16777215	57
+0	And based on your performance yesterday...	8	0	0	72	16777215	67
+0	team management has a lot of faith in your capabilities	8	0	0	72	16777215	77
+0	Singlehandedly, you managed to mitigate our losses...	8	0	0	72	16777215	87
+0	and keep us in the hunt for a day or two longer	8	0	0	72	16777215	97
+0	But if we don't deliver something memorable today...	8	0	0	72	16777215	107
+0	well, let's just plan for success & evaluate our options afterward	8	0	0	72	16777215	117
+0	So what, pray tell, is our strategy today?	8	0	0	72	16777215	150
+0	Get a rider into a meaningful breakaway	8	0	0	72	16777215	160
+0	And since today is a largely flat stage with only punchy climbs...	8	0	0	72	16777215	170
+0	it's highly likely the break will get caught	8	0	0	72	16777215	180
+0	If it happens early enough, you'll counter it	8	0	0	72	16777215	190
+0	If it happens too late, we'll work for our sprinter...	8	0	0	72	16777215	200
+0	and hope we get another crack at the overall tomorrow	8	0	0	72	16777215	210
+0	But we have a bit of a wildcard in you	8	0	0	72	16777215	220
+0	both your exceptional ability & relatively low GC placing...	8	0	0	72	16777215	230
+0	make you dangerous but not the highest of threats	8	0	0	72	16777215	240
+0	So stay toward the front, follow today's sprints & KOM's...	8	0	0	72	16777215	250
+0	and wait for your opportunity	8	0	0	72	16777215	260
+334	There are several of these short climbs today...	8	0	0	72	16777215	0
+334	so do your best to stay positioned well...	8	0	0	72	16777215	10
+334	and we'll watch for the early breaks	8	0	0	72	16777215	20
+369	Already pushing pretty hard early on...	8	0	0	72	16777215	0
+369	and there goes a break!	8	0	0	72	16777215	10
+369	Stay calm, we have a rider in it!	8	0	0	72	16777215	20
+369	Just remain steady & relaxed	8	0	0	72	16777215	30
+369	That break didn't stick but there goes a counterattack...	8	0	0	72	16777215	111
+369	and we're not in this one!	8	0	0	72	16777215	121
+369	Too late, you're too far back	8	0	0	72	16777215	131
+369	This isn't where we wanted to be, but let's not worry yet	8	0	0	72	16777215	141
+534	The field is letting them go...	8	0	0	72	16777215	0
+534	REALLY not what we want to happen	8	0	0	72	16777215	10
+534	Move toward the front, we're going to help initiate the chase	8	0	0	72	16777215	40
+594	Bring things up gradually & see if we can get some help	8	0	0	72	16777215	0
+594	A few of the bigger teams aren't represented in the break...	8	0	0	72	16777215	10
+594	so at some point, they'll start to chase...	8	0	0	72	16777215	20
+624	but they're probably looking for a sprint victory...	8	0	0	72	16777215	0
+624	which means they'll leave the chase until the last possible minute	8	0	0	72	16777215	10
+624	This is less than ideal for us, so let's do a bit of work	8	0	0	72	16777215	20
+624	No one seems interested in working with us	8	0	0	72	16777215	126
+624	Might be time to shut this down for a little while	8	0	0	72	16777215	136
+804	It's clear we aren't going to get any help right now...	8	0	0	72	16777215	0
+804	and we're too small a team to bury ourselves on a flat stage	8	0	0	72	16777215	10
+804	Especially with 4 more days of racing after today	8	0	0	72	16777215	20
+804	Just settle in, stay toward the front & remain alert	8	0	0	72	16777215	30
+984	This is just too slow, let's try to drag the pace up a bit	8	0	0	72	16777215	0
+984	Keep lifting it, we're seeing some reaction	8	0	0	72	16777215	70
+984	Watch that group of danger riders...	8	0	0	72	16777215	100
+984	something's shaping up	8	0	0	72	16777215	110
+1104	They're just stretching their legs, nothing more	8	0	0	72	16777215	0
+1104	Just stay with it & make your presence known	8	0	0	72	16777215	10
+1104	Excellent, smooth & relaxed	8	0	0	72	16777215	96
+1254	Quick descent to flush some of the heaviness	8	0	0	72	16777215	0
+1254	Spin quickly, shake out some tension	8	0	0	72	16777215	10
+1339	We're only a little ways out from the sprint	8	0	0	72	16777215	0
+1339	Our sprinter is nowhere to be seen, so for now...	8	0	0	72	16777215	10
+1339	it's up to you to patrol the front & follow the sprint	8	0	0	72	16777215	20
+1339	Don't contend it, but keep everyone within reach	8	0	0	72	16777215	30
+1339	I don't like the composition at the front of the field...	8	0	0	72	16777215	101
+1339	lots of GC contenders	8	0	0	72	16777215	111
+1339	They're probably just trying to stay safe & upright...	8	0	0	72	16777215	121
+1339	but there's a KOM soon after the sprint, so stay awake	8	0	0	72	16777215	131
+1501	Follow this!	8	0	0	72	16777215	0
+1526	Go! Just keep them in sight!	8	0	0	72	16777215	0
+1536	Good, nothing to worry about here	8	0	0	72	16777215	0
+1561	This upcoming summit could see some action	8	0	0	72	16777215	0
+1561	Stay steady, stay vigilant	8	0	0	72	16777215	10
+1777	It's picking up, get toward the front	8	0	0	72	16777215	0
+1822	Hang with these guys, a minute at the most to the summit!	8	0	0	72	16777215	0
+1852	Drill it! Don't lose touch	8	0	0	72	16777215	0
+1882	Perfectly done, spin off the fatigue	8	0	0	72	16777215	0
+1907	The pace is slow, too slow...	8	0	0	72	16777215	0
+1907	stay right up front, even if you get stuck in the wind	8	0	0	72	16777215	10
+1907	Something has to happen soon...	8	0	0	72	16777215	20
+1907	because the breakaway's lead has gotten too high	8	0	0	72	16777215	30
+1907	We've got some new firepower moving up along the sides...	8	0	0	72	16777215	134
+1907	watch for a move	8	0	0	72	16777215	144
+2061	Cover that! Go! Go! Go!	8	0	0	72	16777215	0
+2061	Don't look back, just hammer!	8	0	0	72	16777215	10
+2086	You've got a gap, tuck in for a few seconds	8	0	0	72	16777215	0
+2086	You guys have been given a leash, time to work together	8	0	0	72	16777215	10
+2086	It's just 4 of you, but 2 of your breakmates are fully capable breakaway artists	8	0	0	72	16777215	20
+2086	Keep your pulls short but STRONG	8	0	0	72	16777215	30
+2131	Your turn, steady in the wind	8	0	0	72	16777215	0
+2146	Tuck back in but don't let up very much	8	0	0	72	16777215	0
+2146	This is your life now...	8	0	0	72	16777215	10
+2146	or potentially the rest of the stage	8	0	0	72	16777215	20
+2146	Make every single pull count	8	0	0	72	16777215	30
+2246	Good, you guys are growing your gap	8	0	0	72	16777215	0
+2306	Nicely done, but don't get carried away	8	0	0	72	16777215	0
+2306	Some riders are slacking & leaving too much work to you	8	0	0	72	16777215	10
+2306	Pull just a little softer this time	8	0	0	72	16777215	20
+2356	Perfect, keep your pulls just like that one	8	0	0	72	16777215	0
+2356	A lot of racing left today	8	0	0	72	16777215	10
+2456	Tuck if for a minute, you're doing more than your fair share	8	0	0	72	16777215	0
+2456	It's a tough spot...	8	0	0	72	16777215	10
+2456	you have to work hard enough to avoid being caught...	8	0	0	72	16777215	20
+2456	but not so hard you spend too much of yourself	8	0	0	72	16777215	30
+2566	Time to recuperate a bit, your gap has grown sizably	8	0	0	72	16777215	0
+2566	For whatever reason, the peloton has called off the dogs	8	0	0	72	16777215	10
+2566	This is good! Keep trading strong pulls	8	0	0	72	16777215	20
+2776	Settle in again, you guys are approaching KOM 2	8	0	0	72	16777215	0
+2776	How are you feeling?	8	0	0	72	16777215	10
+2776	If you think you've got the legs...	8	0	0	72	16777215	20
+2776	I want you to hurt these guys near the summit	8	0	0	72	16777215	30
+2876	A couple more turns at the front...	8	0	0	72	16777215	0
+2876	then you need to skip a turn	8	0	0	72	16777215	10
+2986	Good, now swing off & tailgun for 5 or six turns	8	0	0	72	16777215	0
+2986	Ignore your breakmates, pretend you're hurting	8	0	0	72	16777215	44
+2986	Let them think they're about to drop you...	8	0	0	72	16777215	54
+2986	but stay glued to a wheel	8	0	0	72	16777215	64
+3066	OK, time to shed some passengers	8	0	0	72	16777215	0
+3066	Lift it & keep lifting it	8	0	0	72	16777215	10
+3066	Nice! You're down to just two of you!	8	0	0	72	16777215	20
+3096	Stay with it, you're gonna crack your last threat!	8	0	0	72	16777215	0
+3096	The wheels are coming off the wagon behind you!	8	0	0	72	16777215	10
+3096	Hold on, 10 seconds to the summit!	8	0	0	72	16777215	20
+3126	You're alone, get a few breaths & get back to work!	8	0	0	72	16777215	0
+3171	The day's break is just up the road...	8	0	0	72	16777215	0
+3171	so stay steady & work across to them	8	0	0	72	16777215	10
+3326	Time to reel them in	8	0	0	72	16777215	0
+3326	They've been out there a long time while you were tucked in	8	0	0	72	16777215	10
+3326	Nothing for you to worry about	8	0	0	72	16777215	20
+3326	Your biggest threat is the hard-charging field...	8	0	0	72	16777215	30
+3326	who are all looking to set up their sprinters	8	0	0	72	16777215	40
+3396	One by one, pluck off those break riders...	8	0	0	72	16777215	0
+3396	on your way to your very own KOM!	8	0	0	72	16777215	10
+3426	Good! Sail by this last rider with authority!	8	0	0	72	16777215	0
+3426	Show them all that there's no point in trying to catch you	8	0	0	72	16777215	10
+3426	10 more seconds to the summit!	8	0	0	72	16777215	20
+3456	All alone! Get a few deep breaths...	8	0	0	72	16777215	0
+3456	and slowly get your power back up	8	0	0	72	16777215	10
+3456	It's ALL you now!	8	0	0	72	16777215	20
+3521	This is gonna hurt, but it's gonna be worth it	8	0	0	72	16777215	0
+3521	If you can gut yourself for about 6 minutes...	8	0	0	72	16777215	10
+3521	you stand an excellent chance of moving into the top-10!	8	0	0	72	16777215	20
+3521	Let's focus on only the next 2 minutes	8	0	0	72	16777215	30
+3521	Smooth, powerful, fast	8	0	0	72	16777215	40
+3521	Smooth, powerful, fast	8	0	0	72	16777215	70
+3521	Keep it goin...smooth, powerful, fast	8	0	0	72	16777215	100
+3521	Next 2 minutes! Don't let up!	8	0	0	72	16777215	139
+3521	In fact, see if you can continue to lift the pace...	8	0	0	72	16777215	149
+3521	graaaaadually	8	0	0	72	16777215	159
+3521	3 minutes! You can do this	8	0	0	72	16777215	199
+3521	2 minutes! Do NOT let up!	8	0	0	72	16777215	259
+3521	Final minute, everything you have left!	8	0	0	72	16777215	319
+3521	30 seconds, make every one of them matter!	8	0	0	72	16777215	349
+3900	Stage victory!	8	0	0	72	16777215	0
+3900	WELL DONE!	8	0	0	72	16777215	10
+3900	We won't know the effect on the General Classification for a little while yet,	8	0	0	72	16777215	20
+3900	but you just pulled off something extraordinary	8	0	0	72	16777215	30
+3900	Congratulations!	8	0	0	72	16777215	40
+3900	Rest up, eat up & ride this wave of emotion	8	0	0	72	16777215	50
+3900	You earned it & the confidence that comes with it	8	0	0	72	16777215	60
+3900	See you tomorrow, champ!	8	0	0	72	16777215	70
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	4200	Workout
+369	534	Threshold 1
+774	804	Sweet Spot 1
+804	984	Tempo 1
+984	1104	Tempo 2
+1104	1254	Threshold 2
+1501	1526	Threshold 3
+1526	1536	Sprint 1
+1561	1777	Tempo 3
+1777	1822	Sweet Spot 2
+1822	1852	VO2 Max 1
+1852	1882	Sprint 2
+2061	2086	Sprint 3
+2086	2131	Sweet Spot 3
+2131	2146	VO2 Max 2
+2146	2186	Sweet Spot 4
+2186	2201	VO2 Max 3
+2201	2231	Threshold 4
+2231	2246	VO2 Max 4
+2246	2291	Threshold 5
+2291	2306	VO2 Max 5
+2306	2341	Threshold 6
+2341	2356	VO2 Max 6
+2356	2396	Sweet Spot 5
+2396	2411	VO2 Max 7
+2411	2441	Threshold 7
+2441	2456	VO2 Max 8
+2456	2501	Threshold 8
+2501	2516	VO2 Max 9
+2516	2551	Threshold 9
+2551	2566	VO2 Max 10
+2566	2606	Sweet Spot 6
+2606	2621	VO2 Max 11
+2621	2651	Threshold 10
+2651	2666	VO2 Max 12
+2666	2711	Threshold 11
+2711	2726	VO2 Max 13
+2726	2761	Threshold 12
+2761	2776	VO2 Max 14
+2776	2816	Sweet Spot 7
+2816	2831	VO2 Max 15
+2831	2861	Threshold 13
+2861	2876	VO2 Max 16
+2876	2921	Threshold 14
+2921	2936	VO2 Max 17
+2936	2971	Threshold 15
+2971	2986	VO2 Max 18
+2986	3066	Sweet Spot 8
+3066	3096	VO2 Max 19
+3096	3126	Sprint 4
+3326	3396	Sweet Spot 9
+3396	3426	VO2 Max 20
+3426	3456	Sprint 5
+3521	3900	Threshold 16
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+

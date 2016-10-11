@@ -1,0 +1,459 @@
+[COURSE HEADER]
+VERSION = 0
+UNITS = ENGLISH
+DESCRIPTION = 8DC - Stage 1,91,109. Created by 1273.
+FILE NAME = none
+MINUTES	FTP
+[END COURSE HEADER]
+
+[COURSE DATA]
+0	55
+8.5	60
+8.5	60
+9.16	90
+9.16	90
+9.91	90
+9.91	101
+10.23	101
+10.23	92
+10.98	92
+10.98	105
+11.23	105
+11.23	90
+11.98	90
+11.98	103
+12.31	103
+12.31	85
+13.06	85
+13.06	105
+13.31	105
+13.31	88
+14.06	88
+14.06	106
+14.31	106
+14.31	90
+15.06	90
+15.06	106
+15.4	106
+15.4	95
+16.15	95
+16.15	106
+16.4	106
+16.4	90
+17.15	90
+17.15	106
+17.48	106
+17.48	90
+18.23	90
+18.23	106
+18.48	106
+18.48	90
+19.23	90
+19.23	107
+19.6	107
+19.6	86
+20.35	86
+20.35	103
+20.6	103
+20.6	90
+21.35	90
+21.35	103
+21.73	103
+21.73	90
+22.48	90
+22.48	102
+22.8	102
+22.8	87
+24.18	90
+24.18	106
+24.58	106
+24.58	90
+25.33	90
+25.33	106
+25.58	106
+25.58	92
+26.33	92
+26.33	106
+26.58	106
+26.58	91
+27.33	91
+27.33	105
+27.76	105
+27.76	93
+28.51	93
+28.51	106
+28.76	106
+28.76	95
+29.51	95
+29.51	105
+30.01	105
+30.01	97
+30.76	97
+30.76	110
+31.51	110
+31.51	68
+35.36	70
+35.36	75
+35.78	130
+35.78	180
+35.95	180
+35.95	20
+36.36	65
+36.36	65
+38.38	68
+38.38	97
+39.88	101
+39.88	115
+40.15	115
+40.15	95
+42.4	98
+42.4	115
+42.6	115
+42.6	102
+45.38	105
+45.38	115
+45.58	115
+45.58	97
+47.88	101
+47.88	115
+48.08	115
+48.08	99
+50.21	101
+50.21	115
+50.45	115
+50.45	98
+52.33	104
+52.33	115
+52.58	115
+52.58	76
+55.33	79
+55.33	83
+56.91	81
+56.91	81
+60.5	85
+60.5	85
+61.28	72
+61.28	72
+62.41	72
+62.41	85
+62.83	85
+62.83	72
+64.15	72
+64.15	85
+64.51	85
+64.51	72
+65.83	72
+65.83	85
+66.2	85
+66.2	72
+67.28	72
+67.28	85
+67.75	85
+67.75	72
+68.75	72
+68.75	85
+69.33	85
+69.33	72
+70.5	72
+70.5	72
+73	99
+73	106
+75.18	122
+75.18	122
+75.6	130
+75.6	200
+75.76	200
+75.76	50
+78.93	40
+[END COURSE DATA]
+
+[COURSE TEXT]
+0	Welcome to Trainer Road's inaugural '8 Days of California'!	8	0	0	72	16777215	30
+0	Spend a few minutes warming up while we cover today's stage and strategy	8	0	0	72	16777215	45
+0	And please feel encouraged to spin for an easy 10-15 minutes prior to the start of each stage	8	0	0	72	16777215	60
+0	8DC kicks into high gear on the opening day with a long, sustained climb loaded with switchbacks...	8	0	0	72	16777215	120
+0	...and favors a field sprint due to a flat, fast run-in to the finish	8	0	0	72	16777215	130
+0	Our objective is to deliver our climber safely to the base of the climb...	8	0	0	72	16777215	140
+0	...and have you pace him up the climb for as long as you can last	8	0	0	72	16777215	150
+0	While it's unlikely our small team can compete for the General Classification (GC) podium...	8	0	0	72	16777215	160
+0	...we'll do our best to secure sprint points, KOM (King of the Mountains) points...	8	0	0	72	16777215	170
+0	...and stage victories!	8	0	0	72	16777215	180
+0	A surprise to no one, an early breakaway has managed to put time on the field...	8	0	0	72	16777215	480
+0	...and we didn't get a rider in the break!	8	0	0	72	16777215	490
+510	So it's time to head to the front of the race and help reel in the break	8	0	0	72	16777215	0
+510	Let's start to put our noses in the wind and keep the pace high	8	0	0	72	16777215	10
+510	We don't have to do all the work since a few other teams aren't represented in the break...	8	0	0	72	16777215	20
+510	But we'll have to take our turns at the front every minute or so	8	0	0	72	16777215	30
+510	Try to keep the pace high & we'll drag this breakaway back in about 20 minutes	8	0	0	72	16777215	40
+550	Almost your turn at the front, get ready to work a bit harder	8	0	0	72	16777215	35
+595	Let's keep these pulls short & strong	8	0	0	72	16777215	0
+595	Nice. Keep it steady for a few more seconds...	8	0	0	72	16777215	10
+614	Now ease up a bit, but try to fold back into this lead group of chasers	8	0	0	72	16777215	1
+614	That means the effort is going to stay high even when you're 'resting'	8	0	0	72	16777215	11
+614	That's basically how things are going to work for awhile...	8	0	0	72	16777215	26
+614	We pull hard, keep it smooth & steady, and then fold back in	8	0	0	72	16777215	36
+659	Another short, hard pull at the front	8	0	0	72	16777215	1
+659	A few more seconds...	4	0	0	72	16777215	11
+674	Good, now don't back off very far...	5	0	0	72	16777215	1
+674	...and get back in there	8	0	0	72	16777215	8
+719	Your turn again, stay relaxed but push a bit harder	8	0	0	72	16777215	0
+719	You can pull a little longer if you feel strong, but be sensible	8	0	0	72	16777215	11
+739	Back off and settle back in	8	0	0	72	16777215	1
+784	How long you pull, how hard you pull can change over the course of the chase...	8	0	0	72	16777215	0
+784	...but seldom will those changes be severe	8	0	0	72	16777215	8
+799	Settle back in, don't get dropped...	8	0	0	72	16777215	1
+799	...you're a crucial component of this chase!	8	0	0	72	16777215	11
+844	Your turn at the front again, short & strong	8	0	0	72	16777215	0
+844	Few more seconds...	4	0	0	72	16777215	11
+859	Settle back in, keep the pace high	8	0	0	72	16777215	1
+904	The rider in back of you keeps pulling through too hard...	8	0	0	72	16777215	0
+904	...which means you have to work really hard not to get dropped	8	0	0	72	16777215	10
+924	Hang in there & offer some friendly advice when the hero slides back past you	8	0	0	72	16777215	0
+924	A hero pace can be disruptive to the point it affects our chase...	8	0	0	72	16777215	11
+924	...and our chances of reeling in this break can suffer	8	0	0	72	16777215	21
+924	So SOMEONE needs to speak up or the chase speed will fail	8	0	0	72	16777215	31
+969	Message conveyed, back to work	8	0	0	72	16777215	0
+984	Perfect! Slide back in there and catch your breath	8	0	0	72	16777215	0
+1029	Short & strong, the break is coming back!	8	0	0	72	16777215	0
+1049	Back off, but not very much	8	0	0	72	16777215	0
+1094	Short & strong, big deep breaths	8	0	0	72	16777215	0
+1109	Calm your breathing & try not to waste energy on a tight upper body...	8	0	0	72	16777215	0
+1109	...drop your shoulders, soften your elbows, make this look easy	8	0	0	72	16777215	11
+1154	Longer pull this time, you're stronger than the rest of these guys	8	0	0	72	16777215	0
+1154	This is uncomfortable business, but we HAVE to bring back this break	8	0	0	72	16777215	11
+1176	Ease up a little	8	0	0	72	16777215	0
+1221	Every pull you take brings our climber closer to that climb...	8	0	0	72	16777215	0
+1236	...and brings our team closer to a potential stage victory	8	0	0	72	16777215	0
+1281	Slightly longer pull this time, the break's coming back!	8	0	0	72	16777215	0
+1304	Ease up & breathe DEEEEEEPLY	8	0	0	72	16777215	0
+1349	Again, short & strong	8	0	0	72	16777215	0
+1349	Hang in there!	8	0	0	72	16777215	11
+1368	Looks like you pushed that last one a little too hard...	8	0	0	72	16777215	0
+1368	...and the rider who was behind you is having a hard time keeping up the speed at the front	8	0	0	72	16777215	10
+1368	Good, the speed is coming back up just in time for your turn at the front	8	0	0	72	16777215	22
+1451	Go a little longer this time, let the guy behind you rest a bit more	8	0	0	72	16777215	0
+1475	Well done, ease to the back of the chase leaders	8	0	0	72	16777215	0
+1475	Everyone's good, the bigger teams sent up some fresh riders	8	0	0	72	16777215	35
+1520	Some fresh legs mean you're back to strong & short pulls	8	0	0	72	16777215	0
+1640	A little longer on this one, the catch is close!	8	0	0	72	16777215	0
+1711	Short & strong, they're just up the road	8	0	0	72	16777215	0
+1771	Dig deep this time, the catch is imminent	8	0	0	72	16777215	0
+1801	It hurts, but we're SO close!	8	0	0	72	16777215	0
+1846	It's all you! Don't let up until you get the break's wheel!	8	0	0	72	16777215	0
+1846	30 seconds, you can do this!	8	0	0	72	16777215	14
+1846	Ignore your legs, focus on the nearest back wheel!	8	0	0	72	16777215	24
+1846	Last push!	8	0	0	72	16777215	34
+1891	Really well done! You made that catch happen!	8	0	0	72	16777215	0
+1891	Relax for a few and decide whether or not you're chasing sprint points today	8	0	0	72	16777215	19
+1891	If you're going for the sprint, it's time to start focusing	8	0	0	72	16777215	149
+1891	Every sprint over the course of this tour is going to be similar...	8	0	0	72	16777215	159
+1891	REALLY similar if you catch my drift ;-)	8	0	0	72	16777215	169
+1891	25 seconds will bring you up to 130% FTP...	5	0	0	72	16777215	179
+1891	...then it's All-Out for 10 seconds	8	0	0	72	16777215	185
+1891	Whether you sprint at 150%, 200%...250% FTP is up to your legs...	8	0	0	72	16777215	199
+1891	...your strategy, and your willingness to suffer	8	0	0	72	16777215	209
+1891	So go hard, go all-out, or skip the sprints entirely...	8	0	0	72	16777215	217
+1891	Get ready!	2	0	0	72	16777215	229
+2122	Start building power...	5	0	0	72	16777215	0
+2122	Keep building power!	5	0	0	72	16777215	10
+2122	Keep building!	5	0	0	72	16777215	18
+2122	3	1	0	0	72	16777215	23
+2122	2	1	0	0	72	16777215	24
+2122	1	1	0	0	72	16777215	25
+2147	GO!!!	3	0	0	72	16777215	0
+2157	Shut it down	5	0	0	72	16777215	0
+2182	OK, time to get back in there...	8	0	0	72	16777215	0
+2182	...and time to decide just how badly you want to play with the sprinters ;-)	8	0	0	72	16777215	10
+2182	Coming up to the foot of the mountain	8	0	0	72	16777215	38
+2182	So get your game face on and stay toward the front	8	0	0	72	16777215	48
+2182	Our climber will stick on your wheel as though our chance of victory depends on it...	8	0	0	72	16777215	56
+2182	...because it does	8	0	0	72	16777215	66
+2182	Once we start the climb, expect attacks	8	0	0	72	16777215	83
+2182	They may not come today, but be ready for them just the same	8	0	0	72	16777215	93
+2182	Here comes the climb!	8	0	0	72	16777215	103
+2182	Let's play it conservatively...	5	0	0	72	16777215	115
+2303	...by holding the wheel of the climber in front of you	8	0	0	72	16777215	0
+2303	Today being the first stage might keep things cautious	8	0	0	72	16777215	12
+2303	So just mark the danger riders & make sure our climber sticks to your wheel	8	0	0	72	16777215	20
+2303	Here comes the first steep switchback...	8	0	0	72	16777215	87
+2393	Short hard push, standing or seated	8	0	0	72	16777215	0
+2409	Settle back in and spin off any heaviness as best you can	8	0	0	72	16777215	0
+2409	Your goal is simple: protect our climber	8	0	0	72	16777215	21
+2409	That means holding the wheel of the climbers in front...	8	0	0	72	16777215	31
+2409	...and making sure our climber is with you at all times	8	0	0	72	16777215	41
+2409	If we're lucky, you'll last to the top...	8	0	0	72	16777215	51
+2409	...but if you start to fade, our climber will have to make the call to leave you	8	0	0	72	16777215	61
+2409	Until then, be steady and don't get dropped on those nasty switchbacks	8	0	0	72	16777215	71
+2409	Next one comin' up...	8	0	0	72	16777215	121
+2544	These are short but STEEP	8	0	0	72	16777215	0
+2556	Perfectly done, both still together and near the front	8	0	0	72	16777215	0
+2556	This is the make-or-break stretch...	8	0	0	72	16777215	84
+2556	...where the stronger climbers are going to test the weaker ones	8	0	0	72	16777215	94
+2556	So keep your focus and try not to let up	8	0	0	72	16777215	104
+2556	Here comes another switchback...	8	0	0	72	16777215	154
+2723	Kick, but not too strongly	8	0	0	72	16777215	0
+2735	Ahhhhh, the pace dropped a little!	8	0	0	72	16777215	3
+2735	Be encouraged knowing everyone else was falling apart too	8	0	0	72	16777215	15
+2735	Maybe...15 more minutes?	8	0	0	72	16777215	85
+2735	Just hang on as long as you can...	8	0	0	72	16777215	95
+2735	...our climber will know when it's time to leave you	8	0	0	72	16777215	103
+2873	It hurts but you're almost halfway up the climb!	8	0	0	72	16777215	0
+2885	It's hard not to back off but our climber - the entire team - is counting on you!	8	0	0	72	16777215	0
+2885	Just one switchback at a time	8	0	0	72	16777215	119
+3013	Dig! Don't get dropped on these little kicks!	8	0	0	72	16777215	0
+3027	Big, strong exhales, breathe off some of that fatigue	8	0	0	72	16777215	0
+3027	Getting close to that point where our climber flies solo...	8	0	0	72	16777215	33
+3027	...just a couple more switchbacks	8	0	0	72	16777215	43
+3027	Get around another steep corner!	8	0	0	72	16777215	103
+3140	Push! It's only a few seconds!	8	0	0	72	16777215	0
+3155	KABOOM!	5	0	0	72	16777215	0
+3155	The wheels came off your wagon just as one of the top climbers attacked...	8	0	0	72	16777215	7
+3155	...which means your work here is done...for now ;-)	8	0	0	72	16777215	17
+3155	Hobble to the top of this climb as best you can...	8	0	0	72	16777215	27
+3155	...and try not to lose contact with the rest of the remaining climbers	8	0	0	72	16777215	37
+3155	Shift into a lighter gear & keep your spin up...	8	0	0	72	16777215	47
+3155	...if possible, spin no lower than 90rpm	8	0	0	72	16777215	57
+3320	If your cadence fell, get it back up above 90rpm	8	0	0	72	16777215	0
+3320	Keep the force low and the pedal-speed fairly high, let your muscles recuperate	8	0	0	72	16777215	10
+3415	OK, time to pick it up a little bit and get over the summit	8	0	0	72	16777215	0
+3415	Nearly at the top, almost time for a somewhat restful descent	8	0	0	72	16777215	65
+3630	Ahhhhhhh, the summit!	5	0	0	72	16777215	0
+3630	Shift into your big ring and spin lightly	8	0	0	72	16777215	5
+3630	What?? You're stuck in the small ring!?	8	0	0	72	16777215	15
+3630	Looks like you're gonna have to make it work since the team car is shadowing our climber	8	0	0	72	16777215	25
+3677	Lucky for you, this is a descent and you'll probably be able to hold another rider's draft	8	0	0	72	16777215	0
+3677	But don't come unhitched or you'll be alone in the wind when the road levels out	8	0	0	72	16777215	13
+3745	I said DON'T come unhitched, pick up your cadence!	8	0	0	72	16777215	0
+3745	120rpm or higher is the only thing getting you back onto the wheel in front of you	8	0	0	72	16777215	10
+3770	Phew! You're back on	8	0	0	72	16777215	0
+3849	You're losing contact, get that cadence up...110rpm at least	8	0	0	72	16777215	0
+3849	Keep that pedal-speed...	8	0	0	72	16777215	11
+3871	Back on!	5	0	0	72	16777215	0
+3950	Those corners were faster than they looked. Spin faster!	8	0	0	72	16777215	0
+3950	At least 110rpm, faster if you can control it	8	0	0	72	16777215	10
+3972	On!	5	0	0	72	16777215	0
+4037	Getting toward the bottom, don't get dropped now...	8	0	0	72	16777215	0
+4037	110rpm or higher!	8	0	0	72	16777215	8
+4065	Nicely done, nearing the end of the descent	8	0	0	72	16777215	0
+4125	So close, get back on!	8	0	0	72	16777215	0
+4125	Pedal faster! Don't bounce around though	8	0	0	72	16777215	10
+4160	Contact and flat roads, well done!	8	0	0	72	16777215	0
+4160	Catch your breath quickly & signal for the team car	8	0	0	72	16777215	10
+4160	Hurry, things are about to ramp up for the final run-in	8	0	0	72	16777215	20
+4160	Our climber is away with a good chance at a win...	8	0	0	72	16777215	30
+4160	...and the rest of the field is ramping up for the sprint	8	0	0	72	16777215	40
+4160	Our sprinter might be untested at this level, but who knows?	8	0	0	72	16777215	50
+4160	OK, front derailleur repaired!	8	0	0	72	16777215	60
+4230	Time to organize, not get dropped, and protect our sprinter	8	0	0	72	16777215	30
+4230	This is fast and only going to get faster, so hang on	8	0	0	72	16777215	40
+4230	The big teams are going to keep the pace so high...	8	0	0	72	16777215	100
+4230	...so fast that no one stands a chance of getting away	8	0	0	72	16777215	110
+4230	They don't want anyone spoiling their chances of delivering their sprinter to the final 200m	8	0	0	72	16777215	120
+4230	So fast will become faster...	5	0	0	72	16777215	127
+4230	...and faster still...	5	0	0	72	16777215	134
+4230	...until the final sprint	5	0	0	72	16777215	141
+4380	Just got word...we won the stage!	8	0	0	72	16777215	0
+4380	Our climber snagged the bunch sprint!	8	0	0	72	16777215	10
+4380	Now let's see if we can get a Top-10 in the field sprint!	8	0	0	72	16777215	20
+4380	Run-in's hurt, lead outs HURT...	8	0	0	72	16777215	30
+4380	But the pain is over before you know it so GUT IT OUT!	8	0	0	72	16777215	40
+4380	Hang in there, we're about a minute from the finish!	8	0	0	72	16777215	50
+4380	Push for another 30 seconds!	8	0	0	72	16777215	100
+4380	OK, the final stretch is just around the corner....	8	0	0	72	16777215	120
+4511	Start to ramp it up...	5	0	0	72	16777215	0
+4511	Stay seated and keep building that power!	5	0	0	72	16777215	10
+4511	Almost...	3	0	0	72	16777215	14
+4511	Alllllmost!	3	0	0	72	16777215	19
+4511	3	1	0	0	72	16777215	22
+4511	2	1	0	0	72	16777215	23
+4511	1	1	0	0	72	16777215	24
+4536	GO!!!	3	0	0	72	16777215	0
+4546	7th place!!!	5	0	0	72	16777215	0
+4546	That means 1st & 11th on the day	8	0	0	72	16777215	7
+4546	Not bad for the new kids on the block!	8	0	0	72	16777215	17
+4546	Cool down and bask in the glory of a stage win & a top-10 finish in the field sprint	8	0	0	72	16777215	35
+4546	And try not to dwell on the work that lies ahead defending the leader's jersey ;-)	8	0	0	72	16777215	45
+4546	Great job, Team	5	0	0	72	16777215	55
+4546	See you all tomorrow!	5	0	0	72	16777215	62
+[END COURSE TEXT]
+
+[INTERVAL DATA]
+0	4736	Workout
+550	595	Sweet Spot 1
+595	614	Threshold 1
+614	659	Sweet Spot 2
+659	674	Threshold 2
+674	719	Sweet Spot 3
+719	739	Threshold 3
+739	784	Sweet Spot 4
+784	799	Threshold 4
+799	844	Sweet Spot 5
+844	859	VO2 Max 1
+859	904	Sweet Spot 6
+904	924	VO2 Max 2
+924	969	Sweet Spot 7
+969	984	VO2 Max 3
+984	1029	Sweet Spot 8
+1029	1049	VO2 Max 4
+1049	1094	Sweet Spot 9
+1094	1109	VO2 Max 5
+1109	1154	Sweet Spot 10
+1154	1176	VO2 Max 6
+1176	1221	Sweet Spot 11
+1221	1236	Threshold 5
+1236	1281	Sweet Spot 12
+1281	1304	Threshold 6
+1304	1349	Sweet Spot 13
+1349	1368	Threshold 7
+1368	1451	Sweet Spot 14
+1451	1475	VO2 Max 7
+1475	1520	Sweet Spot 15
+1520	1535	VO2 Max 8
+1535	1580	Sweet Spot 16
+1580	1595	VO2 Max 9
+1595	1640	Sweet Spot 17
+1640	1666	Threshold 8
+1666	1711	Sweet Spot 18
+1711	1726	VO2 Max 10
+1726	1771	Sweet Spot 19
+1771	1801	Threshold 9
+1801	1846	Threshold 10
+1846	1891	VO2 Max 11
+2122	2147	Threshold 11
+2147	2157	Sprint 1
+2303	2393	Threshold 12
+2393	2409	VO2 Max 12
+2409	2544	Threshold 13
+2544	2556	VO2 Max 13
+2556	2723	Threshold 14
+2723	2735	VO2 Max 14
+2735	2873	Threshold 15
+2873	2885	VO2 Max 15
+2885	3013	Threshold 16
+3013	3027	VO2 Max 16
+3027	3140	Threshold 17
+3140	3155	VO2 Max 17
+3155	3320	Tempo 1
+3320	3415	Tempo 2
+3415	3630	Tempo 3
+3630	3677	Tempo 4
+3677	3745	Endurance 1
+3745	3770	Sweet Spot 20
+3770	3849	Endurance 2
+3849	3871	Sweet Spot 21
+3871	3950	Endurance 3
+3950	3972	Sweet Spot 22
+3972	4037	Endurance 4
+4037	4065	Sweet Spot 23
+4065	4125	Endurance 5
+4125	4160	Sweet Spot 24
+4160	4230	Endurance 6
+4230	4380	Sweet Spot 25
+4380	4511	VO2 Max 18
+4511	4536	Sprint 2
+4536	4546	Sprint 3
+[END INTERVAL DATA]
+
+[MODE DATA]
+[END MODE DATA]
+
